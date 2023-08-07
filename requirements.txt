@@ -1,4 +1,1 @@
 acdh-baserow-pyutils>=0.5,<3
-acdh-geonames-utils==0.5.0
-acdh-id-reconciler
-acdh-arche-assets>=3.6,<4
