@@ -1,4 +1,4 @@
-# Foo Bar Entities
+# Nestroy Entities
 
 Automagically export data from [Baserow](https://baserow.io/) 
 
