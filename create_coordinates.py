@@ -22,11 +22,10 @@ def get_update_for_item(item:dict):
     update_data["long"] = gn_object["longitude"]
     return update_data
 
-items_to_update = get_items_to_update()
-for item in tqdm(items_to_update):
-    update_data = get_update_for_item(item)
+
+def update_item_online(item:dict, update_data:dict):
     update_target_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{item['id']}/?user_field_names=true"
-    r = requests.patch(
+    result = requests.patch(
         update_target_url,
         headers={
             "Authorization": f"Token {br_client.br_token}",
@@ -34,3 +33,9 @@ for item in tqdm(items_to_update):
         },
         json=update_data,
     )
+    return result
+
+items_to_update = get_items_to_update()
+for item in tqdm(items_to_update):
+    update_data = get_update_for_item(item)
+    update_item_online(item, update_data)
