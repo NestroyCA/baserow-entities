@@ -17,7 +17,7 @@ def get_items_to_update(filters:str=filters) -> list:
 
 def get_update_for_item(item:dict):
     update_data = {}
-    gn_object = gn_as_object(x["geonames"])
+    gn_object = gn_as_object(item["geonames"])
     update_data["lat"] = gn_object["latitude"]
     update_data["long"] = gn_object["longitude"]
     return update_data
