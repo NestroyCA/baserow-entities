@@ -1,5 +1,4 @@
-name: Dump Entities from Baserow
-
+name: enrich places-basrow with coordinates
 on:
   workflow_dispatch:
 
