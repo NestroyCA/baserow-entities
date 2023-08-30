@@ -7,7 +7,7 @@ from acdh_geonames_utils.gn_client import gn_as_object
 place_table_id = br_client.get_table_by_name(BASEROW_DB_ID, "places")
 geoname_field_id = "field_23572"
 lat_field_id = "field_23583"
-filters = {f"filter__{geoname_field_id}__contains": "https", f"filter__{lat_field_id}__empty": True}
+filters = {f"filter__{geoname_field_id}__contains": "www.geonames", f"filter__{lat_field_id}__empty": True}
 
 def get_items_to_update(filters:str=filters) -> list:
     table_items = []
