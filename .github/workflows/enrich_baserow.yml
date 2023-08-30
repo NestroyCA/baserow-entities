@@ -1,7 +1,7 @@
 name: enrich places-basrow with coordinates
 on:
-  schedule:
-    - cron: "33 8 * * *"
+  # schedule:
+  #   - cron: "33 8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,18 +12,36 @@ jobs:
       BASEROW_TOKEN: ${{ secrets.BASEROW_TOKEN }}
       BASEROW_USER: ${{ secrets.BASEROW_USER }}
       BASEROW_PW: ${{ secrets.BASEROW_PW }}
+      # this var is part of a very fun solution for the,
+      # problem that a python script can’t properly 
+      # communicate with the process it spawned from
+      BASEROW_STATUS_FILENAME: "baserow_data_updated"
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v3
       - name: Install Python Packages
         run: pip install -r requirements.txt
       - name: dump the data
+        # this is a cheap way to make a backup before
+        # the scripts breaks the db
         run: |
           python dump_data.py
+      - name: Commit unmodified data
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Data updated from Baserow before manipulation 
       - name: enrich with coordinates
+        # update the data in baserow
         run: |
-          python create_coordinates.py
+          python enrich_baserow_data.py
+      - name: pull data again if something was enriched
+        run: |
+          if [ -f "$BASEROW_STATUS_FILENAME" ]
+          then
+            python dump_data.py
+          fi
       - name: Commit data
+        if: [ -f "$BASEROW_STATUS_FILENAME" ]
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Data updated from Baserow & added coordinates to baserow
