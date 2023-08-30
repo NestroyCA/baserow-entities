@@ -20,7 +20,7 @@ jobs:
           python dump_data.py
       - name: enrich with coordinates
         run: |
-          python create_koordinates.py
+          python create_coordinates.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
