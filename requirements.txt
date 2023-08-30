@@ -1,1 +1,4 @@
-acdh-baserow-pyutils>=0.5,<3
+acdh_baserow_pyutils==0.5
+acdh_geonames_utils==0.5.0
+requests==2.25.1
+tqdm==4.64.1
