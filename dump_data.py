@@ -28,7 +28,7 @@ def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
         json_data[entity_id] = entity
     # dump data
     with open(json_file_path, "w") as outfile:
-        json.dump(json_data, outfile)
+        json.dump(json_data, outfile, indent=2)
 
 
 json_file_paths = br_client.dump_tables_as_json(BASEROW_DB_ID, folder_name="json_dumps", indent=2)
