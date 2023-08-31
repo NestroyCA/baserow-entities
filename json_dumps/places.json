@@ -5,8 +5,8 @@
     "name": "Adelaide",
     "geonames": "https://sws.geonames.org/2078025/",
     "nestroy_id": "nestroy_place_id__3",
-    "lat": null,
-    "long": null
+    "lat": "-34.92866",
+    "long": "138.59863"
   },
   "4": {
     "id": 4,
@@ -14,8 +14,8 @@
     "name": "Edirne",
     "geonames": "https://sws.geonames.org/747712/",
     "nestroy_id": "nestroy_place_id__4",
-    "lat": null,
-    "long": null
+    "lat": "41.67719",
+    "long": "26.55597"
   },
   "5": {
     "id": 5,

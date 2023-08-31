@@ -31,19 +31,70 @@ def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
         json.dump(json_data, outfile, indent=2)
 
 
-json_file_paths = br_client.dump_tables_as_json(BASEROW_DB_ID, folder_name="json_dumps", indent=2)
-places_filepath = "json_dumps/places.json"
-if os.path.isfile(places_filepath):
-    fieldnames_to_manipulations = {
-        "geonames" : get_normalized_uri,
+def make_geoname_point(long_lat: tuple, properties: dict):
+    return {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": list(long_lat)
+        },
+        "properties": properties
     }
-    modify_dump(
-        places_filepath,
-        fieldnames_to_manipulations
-    )
-else:
-    print(f"Missing '{places_filepath}'; was something renamed?")
-    raise FileNotFoundError
 
-for path in json_file_paths:
-    print(path)
+def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
+    print(f"creating geojson from {json_dump_filepath}")
+    features = []
+    json_dump = None
+    if json_dump_filepath is not None:
+        with open(json_dump_filepath, "r") as json_dump_file:
+            json_dump = json.load(json_dump_file)
+    elif json_dump_input is not None:
+        json_dump = json_dump_input
+    else:
+        print("no valid arg for accessing json-data")
+        raise ValueError
+    for json_entity in json_dump.values():
+        lat = json_entity.pop("lat")
+        long = json_entity.pop("long")
+        if lat and long:
+            # # remove useless data
+            _ = json_entity.pop("id")
+            _ = json_entity.pop("order")
+            long_lat = (long, lat)
+            geoname_point = make_geoname_point(
+                long_lat = long_lat,
+                properties=json_entity
+            )
+            features.append(geoname_point)
+    
+    dump_data = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+    new_filepath = json_dump_filepath.replace(".json", "_geodata.json")
+    with open(new_filepath, "w") as geo_data_dumpfile:
+        json.dump(
+            dump_data,
+            fp=geo_data_dumpfile,
+            indent=2
+        )
+    return new_filepath
+
+if __name__ == "__main__":
+    json_file_paths = br_client.dump_tables_as_json(BASEROW_DB_ID, folder_name="json_dumps", indent=2)
+    places_filepath = "json_dumps/places.json"
+    if os.path.isfile(places_filepath):
+        fieldnames_to_manipulations = {
+            "geonames" : get_normalized_uri,
+        }
+        modify_dump(
+            places_filepath,
+            fieldnames_to_manipulations
+        )
+    else:
+        print(f"Missing '{places_filepath}'; was something renamed?")
+        raise FileNotFoundError
+    for path in json_file_paths:
+        print(path)
+    geo_json_filepath = create_geo_json(places_filepath)
+    print(f"wrote geojson to {geo_json_filepath}")
