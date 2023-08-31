@@ -26,7 +26,10 @@ def get_items_to_update(request_filters) -> list:
 
 
 def update_lat_and_long(item: dict, update_data: dict):
-    if not item["lat"].strip() or not item["long"].strip():
+    geonames_uri_exists = "http" in item['geonames'] if item["geonames"] is not None else False
+    item_lat_exists = bool(item["lat"].strip()) if item["lat"] is not None else False
+    item_long_exsits = bool(item["long"].strip()) if item["long"] is not None else False
+    if geonames_uri_exists and (not item_lat_exists or not item_long_exsits):
         gn_object = gn_as_object(item["geonames"])
         update_data["lat"] = gn_object["latitude"]
         update_data["long"] = gn_object["longitude"]
@@ -66,18 +69,20 @@ def update_coordinates_and_geoname_uris_online():
     # I can't use them to check if the geonames uri is canonical
     # see https://github.com/acdh-oeaw/arche-assets#python
     # better trigger this manually
-    for item in br_client.yield_rows(place_table_id):
-        update_data = get_update_for_item(item)
+    print(f"updating uris online for {place_table_id}\n\n")
+    for table_row_item in br_client.yield_rows(place_table_id):
+        update_data = get_update_for_item(table_row_item)
         if update_data:
-            update_item_online(item, update_data)
+            print(update_item_online(table_row_item, update_data))
 
 
 if __name__ == "__main__":
     lat_long_filter = get_coordinates_filters_for_request()
     items_to_update = get_items_to_update(lat_long_filter)
-    for item in items_to_update:
-        item_update = get_update_for_item(item)
+    for item_to_update in items_to_update:
+        item_update = get_update_for_item(item_to_update)
         result = update_item_online(
-            item=item,
+            item=item_to_update,
             update_data=item_update
         )
+        print(result)
