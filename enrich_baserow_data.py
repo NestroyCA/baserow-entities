@@ -1,6 +1,4 @@
 import requests
-import subprocess
-import os
 from config import br_client, BASEROW_DB_ID
 from acdh_geonames_utils.gn_client import gn_as_object
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
@@ -67,6 +65,7 @@ def update_coordinates_and_geoname_uris_online():
     # I dont use filter in the request, because 
     # I can't use them to check if the geonames uri is canonical
     # see https://github.com/acdh-oeaw/arche-assets#python
+    # better trigger this manually
     for item in br_client.yield_rows(place_table_id):
         update_data = get_update_for_item(item)
         if update_data:
