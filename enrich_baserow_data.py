@@ -7,9 +7,9 @@ from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 
 
 place_table_id = br_client.get_table_by_name(BASEROW_DB_ID, "places")
-something_was_updated = False
 
-def get_filters_for_request():
+def get_coordinates_filters_for_request():
+    """filter to request items missing the coordinates"""
     geoname_field_id = "field_23572"
     lat_field_id = "field_23583"
     return {
@@ -18,10 +18,10 @@ def get_filters_for_request():
         f"filter__{lat_field_id}__empty": True
     }
 
-
-def get_items_to_update() -> list:
+def get_items_to_update(request_filters) -> list:
+    """get items from baserow according
+    to filer, returns list"""
     table_items = []
-    request_filters = get_filters_for_request()
     for item in br_client.yield_rows(place_table_id, filters=request_filters):
         table_items.append(item)
     return table_items
@@ -51,9 +51,6 @@ def get_update_for_item(item:dict):
 
 
 def update_item_online(item:dict, update_data:dict):
-    global something_was_updated
-    if something_was_updated is False:
-        something_was_updated = True
     update_target_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{item['id']}/?user_field_names=true"
     result = requests.patch(
         update_target_url,
@@ -66,16 +63,22 @@ def update_item_online(item:dict, update_data:dict):
     return result
 
 
-def update_coordinates_and_geoname_uris():
+def update_coordinates_and_geoname_uris_online():
     # I dont use filter in the request, because 
     # I can't use them to check if the geonames uri is canonical
-    # see https://github.com/acdh-oeaw/arche-assets#python 
+    # see https://github.com/acdh-oeaw/arche-assets#python
     for item in br_client.yield_rows(place_table_id):
         update_data = get_update_for_item(item)
         if update_data:
             update_item_online(item, update_data)
 
+
 if __name__ == "__main__":
-    update_coordinates_and_geoname_uris()
-    if something_was_updated:
-        subprocess.run(["touch", f"{os.environ['BASEROW_STATUS_FILENAME']}"])
+    lat_long_filter = get_coordinates_filters_for_request()
+    items_to_update = get_items_to_update(lat_long_filter)
+    for item in items_to_update:
+        item_update = get_update_for_item(item)
+        result = update_item_online(
+            item=item,
+            update_data=item_update
+        )
