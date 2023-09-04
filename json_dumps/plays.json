@@ -1,0 +1,749 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "play_id": "play_1",
+    "philological_number": "1",
+    "title": "Der Zettelträger Papp",
+    "not_before": "1827",
+    "not_after": "1827"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "play_id": "play_2",
+    "philological_number": "2",
+    "title": "Sieben / Zwölf Mädchen in Uniform",
+    "not_before": "1827",
+    "not_after": "1827"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "play_id": "play_3",
+    "philological_number": "3",
+    "title": "Dreyssig Jahre aus dem Leben eines Lumpen / Die Verbannung aus dem Zauberreiche",
+    "not_before": "1829",
+    "not_after": "1829"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "play_id": "play_4",
+    "philological_number": "4",
+    "title": "Der Einsilbige oder Ein dummer Diener seines Herrn",
+    "not_before": "1829",
+    "not_after": "1829"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "play_id": "play_5",
+    "philological_number": "5",
+    "title": "Der Tod am Hochzeitstage oder Mann, Frau, Kind",
+    "not_before": "1829",
+    "not_after": "1829"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "play_id": "play_6",
+    "philological_number": "6",
+    "title": "Der unzusammenhängende Zusammenhang",
+    "not_before": "1830",
+    "not_after": "1830"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "play_id": "play_7",
+    "philological_number": "7",
+    "title": "Magische Eilwagenreise durch die Komödienwelt",
+    "not_before": "1830",
+    "not_after": "1830"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "play_id": "play_8",
+    "philological_number": "8",
+    "title": "Prinz Friedrich",
+    "not_before": "1822",
+    "not_after": "1827"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "play_id": "play_9",
+    "philological_number": "9",
+    "title": "Zwei Schüsseln voll Faschingskrapfen",
+    "not_before": "1831",
+    "not_after": "1831"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "play_id": "play_10",
+    "philological_number": "10",
+    "title": "Der gefühlvolle Kerckermeister oder Adelheid die verfolgte Wittib",
+    "not_before": "1832",
+    "not_after": "1832"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "play_id": "play_11",
+    "philological_number": "11",
+    "title": "Nagerl und Handschuh oder Die Schicksale der Familie Maxenpfutsch",
+    "not_before": "1832",
+    "not_after": "1832"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "play_id": "play_12",
+    "philological_number": "12",
+    "title": "Humoristische Eilwagenreise durch die Theaterwelt",
+    "not_before": "1832",
+    "not_after": "1832"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "play_id": "play_13",
+    "philological_number": "13",
+    "title": "Zampa der Tagdieb oder die Braut von Gips",
+    "not_before": "1832",
+    "not_after": "1832"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "play_id": "play_14",
+    "philological_number": "14",
+    "title": "Der confuse Zauberer oder Treue und Flatterhaftigkeit",
+    "not_before": "1832",
+    "not_after": "1832"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "play_id": "play_15",
+    "philological_number": "15",
+    "title": "Die Zauberreise in die Ritterzeit oder Die Übermüthigen",
+    "not_before": "1832",
+    "not_after": "1832"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "play_id": "play_16",
+    "philological_number": "16",
+    "title": "Genius, Schuster und Marqueur oder Die Pyramieden der Verzauberung",
+    "not_before": "1832",
+    "not_after": "1832"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "play_id": "play_17",
+    "philological_number": "17",
+    "title": "Der Feenball oder Tischler, Schneider und Schlosser",
+    "not_before": null,
+    "not_after": null
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "play_id": "play_18",
+    "philological_number": "18",
+    "title": "Der böse Geist Lumpacivagabundus oder Das liederliche Kleeblatt",
+    "not_before": "1833",
+    "not_after": "1833"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "play_id": "play_19",
+    "philological_number": "19",
+    "title": "Der Zauberer Sulphurelectrimagnetikophosphoratus und die Fee Walpurgiblocksbergiseptemtrionalis oder Die Abenteuer in der Sclaverey oder Asiatische Strafe für europäische Vergehen oder Des ungeratenen Herrn Sohnes Leben, Taten und Meinungen, wie auch dessen Bestrafung in der Sklaverei und was sich all dort Ferneres mit ihm begab",
+    "not_before": "1834",
+    "not_after": "1834"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "play_id": "play_20",
+    "philological_number": "20",
+    "title": "Robert der Teuxel",
+    "not_before": "1833",
+    "not_after": "1833"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "play_id": "play_21",
+    "philological_number": "21",
+    "title": "Der Tritschtratsch",
+    "not_before": "1833",
+    "not_after": "1833"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "play_id": "play_22",
+    "philological_number": "22",
+    "title": "Müller, Kohlenbrenner und Sesseltrager oder Die Träume von Schale und Kern",
+    "not_before": "1834",
+    "not_after": "1834"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "play_id": "play_23",
+    "philological_number": "23",
+    "title": "Das Verlobungsfest im Feenreiche oder Die Gleichheit der Jahre",
+    "not_before": "1834",
+    "not_after": "1834"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "play_id": "play_24",
+    "philological_number": "24",
+    "title": "Die Gleichheit der Jahre",
+    "not_before": "1834",
+    "not_after": "1834"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "play_id": "play_25",
+    "philological_number": "25",
+    "title": "Die Fahrt mit dem Dampfwagen",
+    "not_before": "1834",
+    "not_after": "1834"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "play_id": "play_26",
+    "philological_number": "26",
+    "title": "Die Familien Zwirn, Knieriem und Leim oder Der Welt-Untergangs-Tag",
+    "not_before": "1834",
+    "not_after": "1834"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "play_id": "play_27",
+    "philological_number": "27",
+    "title": "Weder Lorbeerbaum noch Bettelstab",
+    "not_before": "1835",
+    "not_after": "1835"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "play_id": "play_28",
+    "philological_number": "28",
+    "title": "Eulenspiegel oder Schabernack über Schabernack",
+    "not_before": "1835",
+    "not_after": "1835"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "play_id": "play_29",
+    "philological_number": "29",
+    "title": "Zu ebener Erde und erster Stock oder Die Launen des Glückes",
+    "not_before": "1835",
+    "not_after": "1835"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "play_id": "play_30",
+    "philological_number": "30",
+    "title": "Der Treulose oder Saat und Ernte",
+    "not_before": "1836",
+    "not_after": "1836"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "play_id": "play_31",
+    "philological_number": "31",
+    "title": "Die beiden Nachtwandler oder Das Notwendige und das Überflüssige",
+    "not_before": "1836",
+    "not_after": "1836"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "play_id": "play_32",
+    "philological_number": "32",
+    "title": "Der Affe und der Bräutigam",
+    "not_before": "1836",
+    "not_after": "1836"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "play_id": "play_33",
+    "philological_number": "33",
+    "title": "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+    "not_before": "1837",
+    "not_after": "1837"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "play_id": "play_34",
+    "philological_number": "34",
+    "title": "Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko",
+    "not_before": "1837",
+    "not_after": "1837"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "play_id": "play_35",
+    "philological_number": "35",
+    "title": "Das Haus der Temperamente",
+    "not_before": "1837",
+    "not_after": "1837"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "play_id": "play_36",
+    "philological_number": "36",
+    "title": "Glück, Mißbrauch und Rückkehr oder Das Geheimnis des grauen Hauses",
+    "not_before": "1838",
+    "not_after": "1838"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "play_id": "play_37",
+    "philological_number": "37",
+    "title": "Der Kobold oder Staberl im Feendienst",
+    "not_before": "1838",
+    "not_after": "1838"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "play_id": "play_38",
+    "philological_number": "38",
+    "title": "Gegen Thorheit giebt es kein Mittel",
+    "not_before": "1838",
+    "not_after": "1838"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "play_id": "play_39",
+    "philological_number": "39",
+    "title": "Die verhängnisvolle Faschingsnacht",
+    "not_before": "1839",
+    "not_after": "1839"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "play_id": "play_40",
+    "philological_number": "40",
+    "title": "Der Färber und sein Zwillingsbruder",
+    "not_before": "1840",
+    "not_after": "1840"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "play_id": "play_41",
+    "philological_number": "41",
+    "title": "Der Erbschleicher",
+    "not_before": "1840",
+    "not_after": "1840"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "play_id": "play_42",
+    "philological_number": "42",
+    "title": "Der Talisman",
+    "not_before": "1840",
+    "not_after": "1840"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "play_id": "play_43",
+    "philological_number": "43",
+    "title": "Das Mädl aus der Vorstadt oder Ehrlich währt am längsten",
+    "not_before": "1841",
+    "not_after": "1841"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "play_id": "play_44",
+    "philological_number": "44",
+    "title": "Einen Jux will er sich machen",
+    "not_before": "1842",
+    "not_after": "1842"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "play_id": "play_45",
+    "philological_number": "45",
+    "title": "Die Ereignisse im Gasthofe",
+    "not_before": "1842",
+    "not_after": "1842"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "play_id": "play_46",
+    "philological_number": "46",
+    "title": "Die Papiere des Teufels oder Der Zufall",
+    "not_before": "1842",
+    "not_after": "1842"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "play_id": "play_47",
+    "philological_number": "47",
+    "title": "Liebesgeschichten und Heurathssachen",
+    "not_before": "1843",
+    "not_after": "1843"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "play_id": "play_48",
+    "philological_number": "48",
+    "title": "Das Quodlibet verschiedener Jahrhunderte",
+    "not_before": "1843",
+    "not_after": "1843"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "play_id": "play_49",
+    "philological_number": "49",
+    "title": "Nur Ruhe!",
+    "not_before": "1843",
+    "not_after": "1843"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "play_id": "play_50",
+    "philological_number": "50",
+    "title": "Eisenbahnheiraten oder Wien, Neustadt, Brünn",
+    "not_before": "1844",
+    "not_after": "1844"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "play_id": "play_51",
+    "philological_number": "51",
+    "title": "Hinüber – Herüber – Hinüber – Herüber",
+    "not_before": "1844",
+    "not_after": "1844"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "play_id": "play_52",
+    "philological_number": "52",
+    "title": "Der Zerrissene",
+    "not_before": "1844",
+    "not_after": "1844"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "play_id": "play_53",
+    "philological_number": "53",
+    "title": "Die beiden Herrn Söhne",
+    "not_before": "1845",
+    "not_after": "1845"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "play_id": "play_54",
+    "philological_number": "54",
+    "title": "Das Gewürzkrämerkleeblatt oder Die unschuldig Schuldigen",
+    "not_before": "1845",
+    "not_after": "1845"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "play_id": "play_55",
+    "philological_number": "55",
+    "title": "Unverhofft",
+    "not_before": "1845",
+    "not_after": "1845"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "play_id": "play_56",
+    "philological_number": "56",
+    "title": "Der Unbedeutende",
+    "not_before": "1846",
+    "not_after": "1846"
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "play_id": "play_57",
+    "philological_number": "57",
+    "title": "Zwey ewige Juden und Keiner",
+    "not_before": "1846",
+    "not_after": "1846"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "play_id": "play_58",
+    "philological_number": "58",
+    "title": "Der Schützling",
+    "not_before": "1847",
+    "not_after": "1847"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "play_id": "play_59",
+    "philological_number": "59",
+    "title": "Die schlimmen Buben in der Schule",
+    "not_before": "1847",
+    "not_after": "1847"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "play_id": "play_60",
+    "philological_number": "60",
+    "title": "Martha oder Die Mischmonder Markt-Mägde-Mietung",
+    "not_before": "1848",
+    "not_after": "1848"
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "play_id": "play_61",
+    "philological_number": "61",
+    "title": "Die lieben Anverwandten",
+    "not_before": "1848",
+    "not_after": "1848"
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "play_id": "play_62",
+    "philological_number": "62",
+    "title": "Freiheit in Krähwinkel",
+    "not_before": "1848",
+    "not_after": "1848"
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "play_id": "play_63",
+    "philological_number": "63",
+    "title": "Lady und Schneider",
+    "not_before": "1849",
+    "not_after": "1849"
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "play_id": "play_64",
+    "philological_number": "64",
+    "title": "Judith und Holofernes",
+    "not_before": "1849",
+    "not_after": "1849"
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "play_id": "play_65",
+    "philological_number": "65",
+    "title": "Der alte Mann mit der jungen Frau",
+    "not_before": "1849",
+    "not_after": "1849"
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "play_id": "play_66",
+    "philological_number": "66",
+    "title": "Höllenangst",
+    "not_before": "1849",
+    "not_after": "1849"
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "play_id": "play_67",
+    "philological_number": "67",
+    "title": "„Sie sollen ihn nicht haben!“ oder Der holländische Bauer",
+    "not_before": "1850",
+    "not_after": "1850"
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "play_id": "play_68",
+    "philological_number": "68",
+    "title": "Karikaturen-Charivari mit Heurathszweck",
+    "not_before": "1850",
+    "not_after": "1850"
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "play_id": "play_69",
+    "philological_number": "69",
+    "title": "Alles will den Prophet’n seh’n",
+    "not_before": "1850",
+    "not_after": "1850"
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "play_id": "play_70",
+    "philological_number": "70",
+    "title": "Verwickelte Geschichte!",
+    "not_before": "1850",
+    "not_after": "1850"
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "play_id": "play_71",
+    "philological_number": "71",
+    "title": "Mein Freund",
+    "not_before": "1851",
+    "not_after": "1851"
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "play_id": "play_72",
+    "philological_number": "72",
+    "title": "Der gemüthliche Teufel oder Die Geschichte vom Bauer und von der Bäuerinn",
+    "not_before": "1851",
+    "not_after": "1851"
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "play_id": "play_73",
+    "philological_number": "73",
+    "title": "Kampl",
+    "not_before": "1852",
+    "not_after": "1852"
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "play_id": "play_74",
+    "philological_number": "74",
+    "title": "Heimliches Geld, heimliche Liebe",
+    "not_before": "1853",
+    "not_after": "1853"
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "play_id": "play_75",
+    "philological_number": "75",
+    "title": "Theaterg’schichten durch Liebe, Intrige, Geld und Dummheit",
+    "not_before": "1854",
+    "not_after": "1854"
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "play_id": "play_76",
+    "philological_number": "76",
+    "title": "Nur keck!",
+    "not_before": "1856",
+    "not_after": "1856"
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "play_id": "play_77",
+    "philological_number": "77",
+    "title": "Umsonst",
+    "not_before": "1857",
+    "not_after": "1857"
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "play_id": "play_78",
+    "philological_number": "78",
+    "title": "Tannhäuser",
+    "not_before": "1857",
+    "not_after": "1857"
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "play_id": "play_79",
+    "philological_number": "79",
+    "title": "Ein gebildeter Hausknecht",
+    "not_before": null,
+    "not_after": null
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "play_id": "play_80",
+    "philological_number": "80",
+    "title": "Zeitvertreib",
+    "not_before": "1858",
+    "not_after": "1858"
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "play_id": "play_81",
+    "philological_number": "81",
+    "title": "Lohengrin",
+    "not_before": "1859",
+    "not_after": "1859"
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "play_id": "play_82",
+    "philological_number": "82",
+    "title": "Frühere Verhältnisse",
+    "not_before": "1862",
+    "not_after": "1862"
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "play_id": "play_83",
+    "philological_number": "83",
+    "title": "Häuptling Abendwind oder Das gräuliche Festmahl",
+    "not_before": "1862",
+    "not_after": "1862"
+  }
+}
