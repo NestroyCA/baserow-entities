@@ -3,8 +3,6 @@ import json
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 
-os.makedirs(JSON_FOLDER, exist_ok=True)
-
 def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
     """
     Loads json file from json_file_path and performs a set of manipulations.
@@ -81,7 +79,12 @@ def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
     return new_filepath
 
 if __name__ == "__main__":
-    json_file_paths = br_client.dump_tables_as_json(BASEROW_DB_ID, folder_name="json_dumps", indent=2)
+    os.makedirs(JSON_FOLDER, exist_ok=True)
+    json_file_paths = br_client.dump_tables_as_json(
+        BASEROW_DB_ID,
+        folder_name="json_dumps", 
+        indent=2
+    )
     places_filepath = "json_dumps/places.json"
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {

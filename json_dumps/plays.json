@@ -6,7 +6,17 @@
     "philological_number": "1",
     "title": "Der Zettelträger Papp",
     "not_before": "1827",
-    "not_after": "1827"
+    "not_after": "1827",
+    "places": [
+      {
+        "id": 108,
+        "value": "Orleans"
+      },
+      {
+        "id": 153,
+        "value": "Weinsberg"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -15,7 +25,8 @@
     "philological_number": "2",
     "title": "Sieben / Zwölf Mädchen in Uniform",
     "not_before": "1827",
-    "not_after": "1827"
+    "not_after": "1827",
+    "places": []
   },
   "3": {
     "id": 3,
@@ -24,7 +35,21 @@
     "philological_number": "3",
     "title": "Dreyssig Jahre aus dem Leben eines Lumpen / Die Verbannung aus dem Zauberreiche",
     "not_before": "1829",
-    "not_after": "1829"
+    "not_after": "1829",
+    "places": [
+      {
+        "id": 62,
+        "value": "Hamburg  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 150,
+        "value": "Waidhofen/Ybbs"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -33,7 +58,8 @@
     "philological_number": "4",
     "title": "Der Einsilbige oder Ein dummer Diener seines Herrn",
     "not_before": "1829",
-    "not_after": "1829"
+    "not_after": "1829",
+    "places": []
   },
   "5": {
     "id": 5,
@@ -42,7 +68,13 @@
     "philological_number": "5",
     "title": "Der Tod am Hochzeitstage oder Mann, Frau, Kind",
     "not_before": "1829",
-    "not_after": "1829"
+    "not_after": "1829",
+    "places": [
+      {
+        "id": 90,
+        "value": "London "
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -51,7 +83,8 @@
     "philological_number": "6",
     "title": "Der unzusammenhängende Zusammenhang",
     "not_before": "1830",
-    "not_after": "1830"
+    "not_after": "1830",
+    "places": []
   },
   "7": {
     "id": 7,
@@ -60,7 +93,8 @@
     "philological_number": "7",
     "title": "Magische Eilwagenreise durch die Komödienwelt",
     "not_before": "1830",
-    "not_after": "1830"
+    "not_after": "1830",
+    "places": []
   },
   "8": {
     "id": 8,
@@ -69,7 +103,57 @@
     "philological_number": "8",
     "title": "Prinz Friedrich",
     "not_before": "1822",
-    "not_after": "1827"
+    "not_after": "1827",
+    "places": [
+      {
+        "id": 5,
+        "value": "Aleria "
+      },
+      {
+        "id": 7,
+        "value": "Amsterdam"
+      },
+      {
+        "id": 50,
+        "value": "Florenz"
+      },
+      {
+        "id": 54,
+        "value": "Genua "
+      },
+      {
+        "id": 78,
+        "value": "Köln"
+      },
+      {
+        "id": 89,
+        "value": "Livorno "
+      },
+      {
+        "id": 93,
+        "value": "Mailand  "
+      },
+      {
+        "id": 102,
+        "value": "Neapel  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 129,
+        "value": "San Pellegrino "
+      },
+      {
+        "id": 131,
+        "value": "Sartena "
+      },
+      {
+        "id": 147,
+        "value": "Tunis "
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -78,7 +162,8 @@
     "philological_number": "9",
     "title": "Zwei Schüsseln voll Faschingskrapfen",
     "not_before": "1831",
-    "not_after": "1831"
+    "not_after": "1831",
+    "places": []
   },
   "10": {
     "id": 10,
@@ -87,7 +172,8 @@
     "philological_number": "10",
     "title": "Der gefühlvolle Kerckermeister oder Adelheid die verfolgte Wittib",
     "not_before": "1832",
-    "not_after": "1832"
+    "not_after": "1832",
+    "places": []
   },
   "11": {
     "id": 11,
@@ -96,7 +182,8 @@
     "philological_number": "11",
     "title": "Nagerl und Handschuh oder Die Schicksale der Familie Maxenpfutsch",
     "not_before": "1832",
-    "not_after": "1832"
+    "not_after": "1832",
+    "places": []
   },
   "12": {
     "id": 12,
@@ -105,7 +192,8 @@
     "philological_number": "12",
     "title": "Humoristische Eilwagenreise durch die Theaterwelt",
     "not_before": "1832",
-    "not_after": "1832"
+    "not_after": "1832",
+    "places": []
   },
   "13": {
     "id": 13,
@@ -114,7 +202,13 @@
     "philological_number": "13",
     "title": "Zampa der Tagdieb oder die Braut von Gips",
     "not_before": "1832",
-    "not_after": "1832"
+    "not_after": "1832",
+    "places": [
+      {
+        "id": 160,
+        "value": "Ybbs"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -123,7 +217,17 @@
     "philological_number": "14",
     "title": "Der confuse Zauberer oder Treue und Flatterhaftigkeit",
     "not_before": "1832",
-    "not_after": "1832"
+    "not_after": "1832",
+    "places": [
+      {
+        "id": 76,
+        "value": "Kiel"
+      },
+      {
+        "id": 103,
+        "value": "New York  "
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -132,7 +236,17 @@
     "philological_number": "15",
     "title": "Die Zauberreise in die Ritterzeit oder Die Übermüthigen",
     "not_before": "1832",
-    "not_after": "1832"
+    "not_after": "1832",
+    "places": [
+      {
+        "id": 135,
+        "value": "Speyer"
+      },
+      {
+        "id": 159,
+        "value": "Worms"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -141,7 +255,8 @@
     "philological_number": "16",
     "title": "Genius, Schuster und Marqueur oder Die Pyramieden der Verzauberung",
     "not_before": "1832",
-    "not_after": "1832"
+    "not_after": "1832",
+    "places": []
   },
   "17": {
     "id": 17,
@@ -150,7 +265,37 @@
     "philological_number": "17",
     "title": "Der Feenball oder Tischler, Schneider und Schlosser",
     "not_before": null,
-    "not_after": null
+    "not_after": null,
+    "places": [
+      {
+        "id": 35,
+        "value": "Ceske Budejovice"
+      },
+      {
+        "id": 102,
+        "value": "Neapel  "
+      },
+      {
+        "id": 105,
+        "value": "Nürnberg  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 114,
+        "value": "Parma  "
+      },
+      {
+        "id": 119,
+        "value": "Pompeji  "
+      },
+      {
+        "id": 128,
+        "value": "Salzburg"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -159,7 +304,33 @@
     "philological_number": "18",
     "title": "Der böse Geist Lumpacivagabundus oder Das liederliche Kleeblatt",
     "not_before": "1833",
-    "not_after": "1833"
+    "not_after": "1833",
+    "places": [
+      {
+        "id": 35,
+        "value": "Ceske Budejovice"
+      },
+      {
+        "id": 105,
+        "value": "Nürnberg  "
+      },
+      {
+        "id": 122,
+        "value": "Praha"
+      },
+      {
+        "id": 145,
+        "value": "Trieste"
+      },
+      {
+        "id": 148,
+        "value": "Ulm"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -168,7 +339,17 @@
     "philological_number": "19",
     "title": "Der Zauberer Sulphurelectrimagnetikophosphoratus und die Fee Walpurgiblocksbergiseptemtrionalis oder Die Abenteuer in der Sclaverey oder Asiatische Strafe für europäische Vergehen oder Des ungeratenen Herrn Sohnes Leben, Taten und Meinungen, wie auch dessen Bestrafung in der Sklaverei und was sich all dort Ferneres mit ihm begab",
     "not_before": "1834",
-    "not_after": "1834"
+    "not_after": "1834",
+    "places": [
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -177,7 +358,37 @@
     "philological_number": "20",
     "title": "Robert der Teuxel",
     "not_before": "1833",
-    "not_after": "1833"
+    "not_after": "1833",
+    "places": [
+      {
+        "id": 8,
+        "value": "Arad "
+      },
+      {
+        "id": 20,
+        "value": "Baden"
+      },
+      {
+        "id": 46,
+        "value": "Enzersdorf an der Fischa"
+      },
+      {
+        "id": 61,
+        "value": "Gumpoldskirchen"
+      },
+      {
+        "id": 83,
+        "value": "Laxenburg "
+      },
+      {
+        "id": 98,
+        "value": "Mödling  "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -186,7 +397,21 @@
     "philological_number": "21",
     "title": "Der Tritschtratsch",
     "not_before": "1833",
-    "not_after": "1833"
+    "not_after": "1833",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 72,
+        "value": "Karlsbad  "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -195,7 +420,8 @@
     "philological_number": "22",
     "title": "Müller, Kohlenbrenner und Sesseltrager oder Die Träume von Schale und Kern",
     "not_before": "1834",
-    "not_after": "1834"
+    "not_after": "1834",
+    "places": []
   },
   "23": {
     "id": 23,
@@ -204,7 +430,13 @@
     "philological_number": "23",
     "title": "Das Verlobungsfest im Feenreiche oder Die Gleichheit der Jahre",
     "not_before": "1834",
-    "not_after": "1834"
+    "not_after": "1834",
+    "places": [
+      {
+        "id": 120,
+        "value": "Porto Vecchio "
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -213,7 +445,8 @@
     "philological_number": "24",
     "title": "Die Gleichheit der Jahre",
     "not_before": "1834",
-    "not_after": "1834"
+    "not_after": "1834",
+    "places": []
   },
   "25": {
     "id": 25,
@@ -222,7 +455,13 @@
     "philological_number": "25",
     "title": "Die Fahrt mit dem Dampfwagen",
     "not_before": "1834",
-    "not_after": "1834"
+    "not_after": "1834",
+    "places": [
+      {
+        "id": 108,
+        "value": "Orleans"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -231,7 +470,17 @@
     "philological_number": "26",
     "title": "Die Familien Zwirn, Knieriem und Leim oder Der Welt-Untergangs-Tag",
     "not_before": "1834",
-    "not_after": "1834"
+    "not_after": "1834",
+    "places": [
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -240,7 +489,37 @@
     "philological_number": "27",
     "title": "Weder Lorbeerbaum noch Bettelstab",
     "not_before": "1835",
-    "not_after": "1835"
+    "not_after": "1835",
+    "places": [
+      {
+        "id": 49,
+        "value": "Fischamend"
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 98,
+        "value": "Mödling  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 116,
+        "value": "Petersburg  "
+      },
+      {
+        "id": 133,
+        "value": "Schwechat"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -249,7 +528,37 @@
     "philological_number": "28",
     "title": "Eulenspiegel oder Schabernack über Schabernack",
     "not_before": "1835",
-    "not_after": "1835"
+    "not_after": "1835",
+    "places": [
+      {
+        "id": 4,
+        "value": "Edirne"
+      },
+      {
+        "id": 18,
+        "value": "Frankfurt am Main "
+      },
+      {
+        "id": 79,
+        "value": "Istanbul"
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 102,
+        "value": "Neapel  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 140,
+        "value": "Stockerau "
+      }
+    ]
   },
   "29": {
     "id": 29,
@@ -258,7 +567,21 @@
     "philological_number": "29",
     "title": "Zu ebener Erde und erster Stock oder Die Launen des Glückes",
     "not_before": "1835",
-    "not_after": "1835"
+    "not_after": "1835",
+    "places": [
+      {
+        "id": 62,
+        "value": "Hamburg  "
+      },
+      {
+        "id": 94,
+        "value": "Malaga  "
+      },
+      {
+        "id": 96,
+        "value": "Marseille  "
+      }
+    ]
   },
   "30": {
     "id": 30,
@@ -267,7 +590,21 @@
     "philological_number": "30",
     "title": "Der Treulose oder Saat und Ernte",
     "not_before": "1836",
-    "not_after": "1836"
+    "not_after": "1836",
+    "places": [
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 117,
+        "value": "Philadelphia "
+      },
+      {
+        "id": 142,
+        "value": "Stuttgart"
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -276,7 +613,17 @@
     "philological_number": "31",
     "title": "Die beiden Nachtwandler oder Das Notwendige und das Überflüssige",
     "not_before": "1836",
-    "not_after": "1836"
+    "not_after": "1836",
+    "places": [
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 97,
+        "value": "Messina  "
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -285,7 +632,8 @@
     "philological_number": "32",
     "title": "Der Affe und der Bräutigam",
     "not_before": "1836",
-    "not_after": "1836"
+    "not_after": "1836",
+    "places": []
   },
   "33": {
     "id": 33,
@@ -294,7 +642,17 @@
     "philological_number": "33",
     "title": "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
     "not_before": "1837",
-    "not_after": "1837"
+    "not_after": "1837",
+    "places": [
+      {
+        "id": 94,
+        "value": "Malaga  "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -303,7 +661,37 @@
     "philological_number": "34",
     "title": "Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko",
     "not_before": "1837",
-    "not_after": "1837"
+    "not_after": "1837",
+    "places": [
+      {
+        "id": 58,
+        "value": "Graz"
+      },
+      {
+        "id": 89,
+        "value": "Livorno "
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 144,
+        "value": "Traiskirchen"
+      },
+      {
+        "id": 149,
+        "value": "Venezia"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -312,7 +700,13 @@
     "philological_number": "35",
     "title": "Das Haus der Temperamente",
     "not_before": "1837",
-    "not_after": "1837"
+    "not_after": "1837",
+    "places": [
+      {
+        "id": 122,
+        "value": "Praha"
+      }
+    ]
   },
   "36": {
     "id": 36,
@@ -321,7 +715,13 @@
     "philological_number": "36",
     "title": "Glück, Mißbrauch und Rückkehr oder Das Geheimnis des grauen Hauses",
     "not_before": "1838",
-    "not_after": "1838"
+    "not_after": "1838",
+    "places": [
+      {
+        "id": 94,
+        "value": "Malaga  "
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -330,7 +730,8 @@
     "philological_number": "37",
     "title": "Der Kobold oder Staberl im Feendienst",
     "not_before": "1838",
-    "not_after": "1838"
+    "not_after": "1838",
+    "places": []
   },
   "38": {
     "id": 38,
@@ -339,7 +740,17 @@
     "philological_number": "38",
     "title": "Gegen Thorheit giebt es kein Mittel",
     "not_before": "1838",
-    "not_after": "1838"
+    "not_after": "1838",
+    "places": [
+      {
+        "id": 51,
+        "value": "Formentera"
+      },
+      {
+        "id": 84,
+        "value": "Leitomischl "
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -348,7 +759,33 @@
     "philological_number": "39",
     "title": "Die verhängnisvolle Faschingsnacht",
     "not_before": "1839",
-    "not_after": "1839"
+    "not_after": "1839",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 27,
+        "value": "Braunschweig "
+      },
+      {
+        "id": 28,
+        "value": "Bremen"
+      },
+      {
+        "id": 62,
+        "value": "Hamburg  "
+      },
+      {
+        "id": 63,
+        "value": "Hannover "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -357,7 +794,8 @@
     "philological_number": "40",
     "title": "Der Färber und sein Zwillingsbruder",
     "not_before": "1840",
-    "not_after": "1840"
+    "not_after": "1840",
+    "places": []
   },
   "41": {
     "id": 41,
@@ -366,7 +804,29 @@
     "philological_number": "41",
     "title": "Der Erbschleicher",
     "not_before": "1840",
-    "not_after": "1840"
+    "not_after": "1840",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 30,
+        "value": "Brody "
+      },
+      {
+        "id": 62,
+        "value": "Hamburg  "
+      },
+      {
+        "id": 112,
+        "value": "Pantschowa  "
+      },
+      {
+        "id": 145,
+        "value": "Trieste"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -375,7 +835,13 @@
     "philological_number": "42",
     "title": "Der Talisman",
     "not_before": "1840",
-    "not_after": "1840"
+    "not_after": "1840",
+    "places": [
+      {
+        "id": 102,
+        "value": "Neapel  "
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -384,7 +850,17 @@
     "philological_number": "43",
     "title": "Das Mädl aus der Vorstadt oder Ehrlich währt am längsten",
     "not_before": "1841",
-    "not_after": "1841"
+    "not_after": "1841",
+    "places": [
+      {
+        "id": 57,
+        "value": "Gräfenberg"
+      },
+      {
+        "id": 108,
+        "value": "Orleans"
+      }
+    ]
   },
   "44": {
     "id": 44,
@@ -393,7 +869,13 @@
     "philological_number": "44",
     "title": "Einen Jux will er sich machen",
     "not_before": "1842",
-    "not_after": "1842"
+    "not_after": "1842",
+    "places": [
+      {
+        "id": 33,
+        "value": "Brüssel"
+      }
+    ]
   },
   "45": {
     "id": 45,
@@ -402,7 +884,8 @@
     "philological_number": "45",
     "title": "Die Ereignisse im Gasthofe",
     "not_before": "1842",
-    "not_after": "1842"
+    "not_after": "1842",
+    "places": []
   },
   "46": {
     "id": 46,
@@ -411,7 +894,8 @@
     "philological_number": "46",
     "title": "Die Papiere des Teufels oder Der Zufall",
     "not_before": "1842",
-    "not_after": "1842"
+    "not_after": "1842",
+    "places": []
   },
   "47": {
     "id": 47,
@@ -420,7 +904,29 @@
     "philological_number": "47",
     "title": "Liebesgeschichten und Heurathssachen",
     "not_before": "1843",
-    "not_after": "1843"
+    "not_after": "1843",
+    "places": [
+      {
+        "id": 43,
+        "value": "Dresden "
+      },
+      {
+        "id": 105,
+        "value": "Nürnberg  "
+      },
+      {
+        "id": 145,
+        "value": "Trieste"
+      },
+      {
+        "id": 149,
+        "value": "Venezia"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "48": {
     "id": 48,
@@ -429,7 +935,25 @@
     "philological_number": "48",
     "title": "Das Quodlibet verschiedener Jahrhunderte",
     "not_before": "1843",
-    "not_after": "1843"
+    "not_after": "1843",
+    "places": [
+      {
+        "id": 92,
+        "value": "Madrid "
+      },
+      {
+        "id": 108,
+        "value": "Orleans"
+      },
+      {
+        "id": 115,
+        "value": "Peking "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -438,7 +962,17 @@
     "philological_number": "49",
     "title": "Nur Ruhe!",
     "not_before": "1843",
-    "not_after": "1843"
+    "not_after": "1843",
+    "places": [
+      {
+        "id": 81,
+        "value": "Kremsmünster"
+      },
+      {
+        "id": 119,
+        "value": "Pompeji  "
+      }
+    ]
   },
   "50": {
     "id": 50,
@@ -447,7 +981,97 @@
     "philological_number": "50",
     "title": "Eisenbahnheiraten oder Wien, Neustadt, Brünn",
     "not_before": "1844",
-    "not_after": "1844"
+    "not_after": "1844",
+    "places": [
+      {
+        "id": 24,
+        "value": "Branowitz"
+      },
+      {
+        "id": 25,
+        "value": "Bratislava"
+      },
+      {
+        "id": 32,
+        "value": "Brno"
+      },
+      {
+        "id": 38,
+        "value": "Cremona "
+      },
+      {
+        "id": 42,
+        "value": "Deutsch-Wagram "
+      },
+      {
+        "id": 44,
+        "value": "Dürnkrut"
+      },
+      {
+        "id": 53,
+        "value": "Gänserndorf "
+      },
+      {
+        "id": 58,
+        "value": "Graz"
+      },
+      {
+        "id": 61,
+        "value": "Gumpoldskirchen"
+      },
+      {
+        "id": 82,
+        "value": "Kumrowitz "
+      },
+      {
+        "id": 91,
+        "value": "Lundenburg"
+      },
+      {
+        "id": 102,
+        "value": "Neapel  "
+      },
+      {
+        "id": 107,
+        "value": "Olomouc"
+      },
+      {
+        "id": 108,
+        "value": "Orleans"
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 123,
+        "value": "Purkersdorf  "
+      },
+      {
+        "id": 124,
+        "value": "Raigern "
+      },
+      {
+        "id": 127,
+        "value": "Rouen "
+      },
+      {
+        "id": 130,
+        "value": "Saragossa"
+      },
+      {
+        "id": 136,
+        "value": "Spielberg"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      },
+      {
+        "id": 156,
+        "value": "Wiener Neustadt"
+      }
+    ]
   },
   "51": {
     "id": 51,
@@ -456,7 +1080,8 @@
     "philological_number": "51",
     "title": "Hinüber – Herüber – Hinüber – Herüber",
     "not_before": "1844",
-    "not_after": "1844"
+    "not_after": "1844",
+    "places": []
   },
   "52": {
     "id": 52,
@@ -465,7 +1090,13 @@
     "philological_number": "52",
     "title": "Der Zerrissene",
     "not_before": "1844",
-    "not_after": "1844"
+    "not_after": "1844",
+    "places": [
+      {
+        "id": 90,
+        "value": "London "
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -474,7 +1105,25 @@
     "philological_number": "53",
     "title": "Die beiden Herrn Söhne",
     "not_before": "1845",
-    "not_after": "1845"
+    "not_after": "1845",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -483,7 +1132,17 @@
     "philological_number": "54",
     "title": "Das Gewürzkrämerkleeblatt oder Die unschuldig Schuldigen",
     "not_before": "1845",
-    "not_after": "1845"
+    "not_after": "1845",
+    "places": [
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -492,7 +1151,41 @@
     "philological_number": "55",
     "title": "Unverhofft",
     "not_before": "1845",
-    "not_after": "1845"
+    "not_after": "1845",
+    "places": [
+      {
+        "id": 14,
+        "value": "Bamberg"
+      },
+      {
+        "id": 66,
+        "value": "Iaşi (Jassy)  "
+      },
+      {
+        "id": 69,
+        "value": "Izmir"
+      },
+      {
+        "id": 79,
+        "value": "Istanbul"
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 94,
+        "value": "Malaga  "
+      },
+      {
+        "id": 99,
+        "value": "Moskau "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -501,7 +1194,17 @@
     "philological_number": "56",
     "title": "Der Unbedeutende",
     "not_before": "1846",
-    "not_after": "1846"
+    "not_after": "1846",
+    "places": [
+      {
+        "id": 19,
+        "value": "Babylon"
+      },
+      {
+        "id": 104,
+        "value": "Ninive  "
+      }
+    ]
   },
   "57": {
     "id": 57,
@@ -510,7 +1213,45 @@
     "philological_number": "57",
     "title": "Zwey ewige Juden und Keiner",
     "not_before": "1846",
-    "not_after": "1846"
+    "not_after": "1846",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 23,
+        "value": "Boston"
+      },
+      {
+        "id": 56,
+        "value": "Görz"
+      },
+      {
+        "id": 63,
+        "value": "Hannover "
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 95,
+        "value": "Marienbad  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 117,
+        "value": "Philadelphia "
+      },
+      {
+        "id": 120,
+        "value": "Porto Vecchio "
+      }
+    ]
   },
   "58": {
     "id": 58,
@@ -519,7 +1260,13 @@
     "philological_number": "58",
     "title": "Der Schützling",
     "not_before": "1847",
-    "not_after": "1847"
+    "not_after": "1847",
+    "places": [
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -528,7 +1275,37 @@
     "philological_number": "59",
     "title": "Die schlimmen Buben in der Schule",
     "not_before": "1847",
-    "not_after": "1847"
+    "not_after": "1847",
+    "places": [
+      {
+        "id": 35,
+        "value": "Ceske Budejovice"
+      },
+      {
+        "id": 36,
+        "value": "Bunzlau"
+      },
+      {
+        "id": 37,
+        "value": "Chrudim"
+      },
+      {
+        "id": 39,
+        "value": "Czaslau "
+      },
+      {
+        "id": 56,
+        "value": "Görz"
+      },
+      {
+        "id": 128,
+        "value": "Salzburg"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "60": {
     "id": 60,
@@ -537,7 +1314,13 @@
     "philological_number": "60",
     "title": "Martha oder Die Mischmonder Markt-Mägde-Mietung",
     "not_before": "1848",
-    "not_after": "1848"
+    "not_after": "1848",
+    "places": [
+      {
+        "id": 18,
+        "value": "Frankfurt am Main "
+      }
+    ]
   },
   "61": {
     "id": 61,
@@ -546,7 +1329,25 @@
     "philological_number": "61",
     "title": "Die lieben Anverwandten",
     "not_before": "1848",
-    "not_after": "1848"
+    "not_after": "1848",
+    "places": [
+      {
+        "id": 9,
+        "value": "Aranjuez"
+      },
+      {
+        "id": 18,
+        "value": "Frankfurt am Main "
+      },
+      {
+        "id": 40,
+        "value": "Darmstadt "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -555,7 +1356,45 @@
     "philological_number": "62",
     "title": "Freiheit in Krähwinkel",
     "not_before": "1848",
-    "not_after": "1848"
+    "not_after": "1848",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 68,
+        "value": "Ischl"
+      },
+      {
+        "id": 84,
+        "value": "Leitomischl "
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 102,
+        "value": "Neapel  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 116,
+        "value": "Petersburg  "
+      },
+      {
+        "id": 136,
+        "value": "Spielberg"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -564,7 +1403,25 @@
     "philological_number": "63",
     "title": "Lady und Schneider",
     "not_before": "1849",
-    "not_after": "1849"
+    "not_after": "1849",
+    "places": [
+      {
+        "id": 12,
+        "value": "Baden-Baden "
+      },
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 18,
+        "value": "Frankfurt am Main "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -573,7 +1430,21 @@
     "philological_number": "64",
     "title": "Judith und Holofernes",
     "not_before": "1849",
-    "not_after": "1849"
+    "not_after": "1849",
+    "places": [
+      {
+        "id": 19,
+        "value": "Babylon"
+      },
+      {
+        "id": 70,
+        "value": "Jericho  "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "65": {
     "id": 65,
@@ -582,7 +1453,21 @@
     "philological_number": "65",
     "title": "Der alte Mann mit der jungen Frau",
     "not_before": "1849",
-    "not_after": "1849"
+    "not_after": "1849",
+    "places": [
+      {
+        "id": 3,
+        "value": "Adelaide"
+      },
+      {
+        "id": 104,
+        "value": "Ninive  "
+      },
+      {
+        "id": 140,
+        "value": "Stockerau "
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -591,7 +1476,29 @@
     "philological_number": "66",
     "title": "Höllenangst",
     "not_before": "1849",
-    "not_after": "1849"
+    "not_after": "1849",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 102,
+        "value": "Neapel  "
+      },
+      {
+        "id": 126,
+        "value": "Rom"
+      },
+      {
+        "id": 136,
+        "value": "Spielberg"
+      }
+    ]
   },
   "67": {
     "id": 67,
@@ -600,7 +1507,21 @@
     "philological_number": "67",
     "title": "„Sie sollen ihn nicht haben!“ oder Der holländische Bauer",
     "not_before": "1850",
-    "not_after": "1850"
+    "not_after": "1850",
+    "places": [
+      {
+        "id": 7,
+        "value": "Amsterdam"
+      },
+      {
+        "id": 139,
+        "value": "Stixneusiedl  "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -609,7 +1530,13 @@
     "philological_number": "68",
     "title": "Karikaturen-Charivari mit Heurathszweck",
     "not_before": "1850",
-    "not_after": "1850"
+    "not_after": "1850",
+    "places": [
+      {
+        "id": 113,
+        "value": "Paris "
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -618,7 +1545,29 @@
     "philological_number": "69",
     "title": "Alles will den Prophet’n seh’n",
     "not_before": "1850",
-    "not_after": "1850"
+    "not_after": "1850",
+    "places": [
+      {
+        "id": 7,
+        "value": "Amsterdam"
+      },
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 62,
+        "value": "Hamburg  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -627,7 +1576,25 @@
     "philological_number": "70",
     "title": "Verwickelte Geschichte!",
     "not_before": "1850",
-    "not_after": "1850"
+    "not_after": "1850",
+    "places": [
+      {
+        "id": 48,
+        "value": "Ferrara"
+      },
+      {
+        "id": 60,
+        "value": "Guastalla"
+      },
+      {
+        "id": 118,
+        "value": "Piacenza  "
+      },
+      {
+        "id": 126,
+        "value": "Rom"
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -636,7 +1603,17 @@
     "philological_number": "71",
     "title": "Mein Freund",
     "not_before": "1851",
-    "not_after": "1851"
+    "not_after": "1851",
+    "places": [
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 120,
+        "value": "Porto Vecchio "
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -645,7 +1622,8 @@
     "philological_number": "72",
     "title": "Der gemüthliche Teufel oder Die Geschichte vom Bauer und von der Bäuerinn",
     "not_before": "1851",
-    "not_after": "1851"
+    "not_after": "1851",
+    "places": []
   },
   "73": {
     "id": 73,
@@ -654,7 +1632,37 @@
     "philological_number": "73",
     "title": "Kampl",
     "not_before": "1852",
-    "not_after": "1852"
+    "not_after": "1852",
+    "places": [
+      {
+        "id": 16,
+        "value": "Berlin "
+      },
+      {
+        "id": 35,
+        "value": "Ceske Budejovice"
+      },
+      {
+        "id": 47,
+        "value": "Feistritz"
+      },
+      {
+        "id": 50,
+        "value": "Florenz"
+      },
+      {
+        "id": 73,
+        "value": "Karthago  "
+      },
+      {
+        "id": 110,
+        "value": "Ostende  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      }
+    ]
   },
   "74": {
     "id": 74,
@@ -663,7 +1671,17 @@
     "philological_number": "74",
     "title": "Heimliches Geld, heimliche Liebe",
     "not_before": "1853",
-    "not_after": "1853"
+    "not_after": "1853",
+    "places": [
+      {
+        "id": 35,
+        "value": "Ceske Budejovice"
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -672,7 +1690,25 @@
     "philological_number": "75",
     "title": "Theaterg’schichten durch Liebe, Intrige, Geld und Dummheit",
     "not_before": "1854",
-    "not_after": "1854"
+    "not_after": "1854",
+    "places": [
+      {
+        "id": 35,
+        "value": "Ceske Budejovice"
+      },
+      {
+        "id": 90,
+        "value": "London "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 149,
+        "value": "Venezia"
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -681,7 +1717,17 @@
     "philological_number": "76",
     "title": "Nur keck!",
     "not_before": "1856",
-    "not_after": "1856"
+    "not_after": "1856",
+    "places": [
+      {
+        "id": 13,
+        "value": "Bad Kissingen "
+      },
+      {
+        "id": 137,
+        "value": "Steinbrunn"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -690,7 +1736,61 @@
     "philological_number": "77",
     "title": "Umsonst",
     "not_before": "1857",
-    "not_after": "1857"
+    "not_after": "1857",
+    "places": [
+      {
+        "id": 26,
+        "value": "Braunau"
+      },
+      {
+        "id": 35,
+        "value": "Ceske Budejovice"
+      },
+      {
+        "id": 59,
+        "value": "Gretna Green "
+      },
+      {
+        "id": 67,
+        "value": "Innsbruck  "
+      },
+      {
+        "id": 79,
+        "value": "Istanbul"
+      },
+      {
+        "id": 88,
+        "value": "Linz"
+      },
+      {
+        "id": 96,
+        "value": "Marseille  "
+      },
+      {
+        "id": 111,
+        "value": "Padua  "
+      },
+      {
+        "id": 113,
+        "value": "Paris "
+      },
+      {
+        "id": 125,
+        "value": "Regensburg "
+      },
+      {
+        "id": 138,
+        "value": "Steyr"
+      },
+      {
+        "id": 152,
+        "value": "Weimar"
+      },
+      {
+        "id": 155,
+        "value": "Wien"
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -699,7 +1799,8 @@
     "philological_number": "78",
     "title": "Tannhäuser",
     "not_before": "1857",
-    "not_after": "1857"
+    "not_after": "1857",
+    "places": []
   },
   "79": {
     "id": 79,
@@ -708,7 +1809,8 @@
     "philological_number": "79",
     "title": "Ein gebildeter Hausknecht",
     "not_before": null,
-    "not_after": null
+    "not_after": null,
+    "places": []
   },
   "80": {
     "id": 80,
@@ -717,7 +1819,8 @@
     "philological_number": "80",
     "title": "Zeitvertreib",
     "not_before": "1858",
-    "not_after": "1858"
+    "not_after": "1858",
+    "places": []
   },
   "81": {
     "id": 81,
@@ -726,7 +1829,8 @@
     "philological_number": "81",
     "title": "Lohengrin",
     "not_before": "1859",
-    "not_after": "1859"
+    "not_after": "1859",
+    "places": []
   },
   "82": {
     "id": 82,
@@ -735,7 +1839,13 @@
     "philological_number": "82",
     "title": "Frühere Verhältnisse",
     "not_before": "1862",
-    "not_after": "1862"
+    "not_after": "1862",
+    "places": [
+      {
+        "id": 108,
+        "value": "Orleans"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -744,6 +1854,7 @@
     "philological_number": "83",
     "title": "Häuptling Abendwind oder Das gräuliche Festmahl",
     "not_before": "1862",
-    "not_after": "1862"
+    "not_after": "1862",
+    "places": []
   }
 }

@@ -6,7 +6,15 @@
     "geonames": "https://sws.geonames.org/2078025/",
     "nestroy_id": "nestroy_place_id__3",
     "lat": "-34.92866",
-    "long": "138.59863"
+    "long": "138.59863",
+    "mentioned_in": [
+      {
+        "id": 65,
+        "value": "play_65"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "4": {
     "id": 4,
@@ -15,7 +23,15 @@
     "geonames": "https://sws.geonames.org/747712/",
     "nestroy_id": "nestroy_place_id__4",
     "lat": "41.67719",
-    "long": "26.55597"
+    "long": "26.55597",
+    "mentioned_in": [
+      {
+        "id": 28,
+        "value": "play_28"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": "Adrianopel"
   },
   "5": {
     "id": 5,
@@ -24,7 +40,15 @@
     "geonames": "https://sws.geonames.org/3038225/",
     "nestroy_id": "nestroy_place_id__5",
     "lat": "42.10431",
-    "long": "9.51265"
+    "long": "9.51265",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "6": {
     "id": 6,
@@ -33,7 +57,10 @@
     "geonames": "https://sws.geonames.org/2507480/",
     "nestroy_id": "nestroy_place_id__6",
     "lat": "36.73225",
-    "long": "3.08746"
+    "long": "3.08746",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "7": {
     "id": 7,
@@ -42,7 +69,23 @@
     "geonames": "https://sws.geonames.org/2759794/",
     "nestroy_id": "nestroy_place_id__7",
     "lat": "52.37403",
-    "long": "4.88969"
+    "long": "4.88969",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 67,
+        "value": "play_67"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "8": {
     "id": 8,
@@ -51,7 +94,15 @@
     "geonames": "https://sws.geonames.org/686254/",
     "nestroy_id": "nestroy_place_id__8",
     "lat": "46.18333",
-    "long": "21.31667"
+    "long": "21.31667",
+    "mentioned_in": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "9": {
     "id": 9,
@@ -60,7 +111,15 @@
     "geonames": "https://sws.geonames.org/3129857/",
     "nestroy_id": "nestroy_place_id__9",
     "lat": "40.03108",
-    "long": "-3.60246"
+    "long": "-3.60246",
+    "mentioned_in": [
+      {
+        "id": 61,
+        "value": "play_61"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "10": {
     "id": 10,
@@ -69,7 +128,10 @@
     "geonames": "https://sws.geonames.org/264371/",
     "nestroy_id": "nestroy_place_id__10",
     "lat": "37.98376",
-    "long": "23.72784"
+    "long": "23.72784",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "11": {
     "id": 11,
@@ -78,7 +140,10 @@
     "geonames": "https://sws.geonames.org/2954172/",
     "nestroy_id": "nestroy_place_id__11",
     "lat": "48.37154",
-    "long": "10.89851"
+    "long": "10.89851",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "12": {
     "id": 12,
@@ -87,7 +152,15 @@
     "geonames": "https://sws.geonames.org/2953504/",
     "nestroy_id": "nestroy_place_id__12",
     "lat": "48.76060",
-    "long": "8.23975"
+    "long": "8.23975",
+    "mentioned_in": [
+      {
+        "id": 63,
+        "value": "play_63"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "13": {
     "id": 13,
@@ -96,7 +169,15 @@
     "geonames": "https://sws.geonames.org/2953424/",
     "nestroy_id": "nestroy_place_id__13",
     "lat": "50.20228",
-    "long": "10.07784"
+    "long": "10.07784",
+    "mentioned_in": [
+      {
+        "id": 76,
+        "value": "play_76"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "14": {
     "id": 14,
@@ -105,7 +186,15 @@
     "geonames": "https://sws.geonames.org/2952984/",
     "nestroy_id": "nestroy_place_id__14",
     "lat": "49.89873",
-    "long": "10.90067"
+    "long": "10.90067",
+    "mentioned_in": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "15": {
     "id": 15,
@@ -114,7 +203,10 @@
     "geonames": "https://sws.geonames.org/2950881/",
     "nestroy_id": "nestroy_place_id__15",
     "lat": "47.63236",
-    "long": "13.00187"
+    "long": "13.00187",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "16": {
     "id": 16,
@@ -123,7 +215,51 @@
     "geonames": "https://sws.geonames.org/2950159/",
     "nestroy_id": "nestroy_place_id__16",
     "lat": "52.52437",
-    "long": "13.41053"
+    "long": "13.41053",
+    "mentioned_in": [
+      {
+        "id": 21,
+        "value": "play_21"
+      },
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 41,
+        "value": "play_41"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 63,
+        "value": "play_63"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "17": {
     "id": 17,
@@ -132,7 +268,10 @@
     "geonames": "https://sws.geonames.org/2934246/",
     "nestroy_id": "nestroy_place_id__17",
     "lat": "51.22172",
-    "long": "6.77616"
+    "long": "6.77616",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "18": {
     "id": 18,
@@ -141,7 +280,27 @@
     "geonames": "https://sws.geonames.org/2925533/",
     "nestroy_id": "nestroy_place_id__18",
     "lat": "50.11552",
-    "long": "8.68417"
+    "long": "8.68417",
+    "mentioned_in": [
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 60,
+        "value": "play_60"
+      },
+      {
+        "id": 61,
+        "value": "play_61"
+      },
+      {
+        "id": 63,
+        "value": "play_63"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "19": {
     "id": 19,
@@ -150,7 +309,19 @@
     "geonames": "https://sws.geonames.org/98228/",
     "nestroy_id": "nestroy_place_id__19",
     "lat": "32.54083",
-    "long": "44.42417"
+    "long": "44.42417",
+    "mentioned_in": [
+      {
+        "id": 56,
+        "value": "play_56"
+      },
+      {
+        "id": 64,
+        "value": "play_64"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "20": {
     "id": 20,
@@ -159,7 +330,15 @@
     "geonames": "https://sws.geonames.org/2782067/",
     "nestroy_id": "nestroy_place_id__20",
     "lat": "48.00543",
-    "long": "16.23264"
+    "long": "16.23264",
+    "mentioned_in": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": "Baaden"
   },
   "21": {
     "id": 21,
@@ -168,7 +347,10 @@
     "geonames": "https://sws.geonames.org/98182/",
     "nestroy_id": "nestroy_place_id__21",
     "lat": "33.34058",
-    "long": "44.40088"
+    "long": "44.40088",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "22": {
     "id": 22,
@@ -177,7 +359,10 @@
     "geonames": "https://sws.geonames.org/3034640/",
     "nestroy_id": "nestroy_place_id__22",
     "lat": "42.70219",
-    "long": "9.45123"
+    "long": "9.45123",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "23": {
     "id": 23,
@@ -186,7 +371,15 @@
     "geonames": "https://sws.geonames.org/4930956/",
     "nestroy_id": "nestroy_place_id__23",
     "lat": "42.35843",
-    "long": "-71.05977"
+    "long": "-71.05977",
+    "mentioned_in": [
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "24": {
     "id": 24,
@@ -195,16 +388,32 @@
     "geonames": "https://sws.geonames.org/791091/",
     "nestroy_id": "nestroy_place_id__24",
     "lat": "42.98373",
-    "long": "20.55111"
+    "long": "20.55111",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "name": "Bratislava ",
+    "name": "Bratislava",
     "geonames": "https://sws.geonames.org/3060972/",
     "nestroy_id": "nestroy_place_id__25",
     "lat": "48.14816",
-    "long": "17.10674"
+    "long": "17.10674",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": "Pressburg"
   },
   "26": {
     "id": 26,
@@ -213,7 +422,15 @@
     "geonames": "https://sws.geonames.org/8533690/",
     "nestroy_id": "nestroy_place_id__26",
     "lat": "47.50107",
-    "long": "9.06959"
+    "long": "9.06959",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "27": {
     "id": 27,
@@ -222,7 +439,15 @@
     "geonames": "https://sws.geonames.org/2945024/",
     "nestroy_id": "nestroy_place_id__27",
     "lat": "52.26594",
-    "long": "10.52673"
+    "long": "10.52673",
+    "mentioned_in": [
+      {
+        "id": 39,
+        "value": "play_39"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "28": {
     "id": 28,
@@ -231,16 +456,27 @@
     "geonames": "https://sws.geonames.org/2944388/",
     "nestroy_id": "nestroy_place_id__28",
     "lat": "53.07582",
-    "long": "8.80717"
+    "long": "8.80717",
+    "mentioned_in": [
+      {
+        "id": 39,
+        "value": "play_39"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "Breslau (Wrodaw) ",
+    "name": "Breslau (Wroclaw)",
     "geonames": "https://sws.geonames.org/3081368/",
     "nestroy_id": "nestroy_place_id__29",
     "lat": "51.10000",
-    "long": "17.03333"
+    "long": "17.03333",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "30": {
     "id": 30,
@@ -249,7 +485,15 @@
     "geonames": "https://sws.geonames.org/711416/",
     "nestroy_id": "nestroy_place_id__30",
     "lat": "50.08791",
-    "long": "25.15027"
+    "long": "25.15027",
+    "mentioned_in": [
+      {
+        "id": 41,
+        "value": "play_41"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "31": {
     "id": 31,
@@ -258,16 +502,27 @@
     "geonames": "https://sws.geonames.org/2943560/",
     "nestroy_id": "nestroy_place_id__31",
     "lat": "49.12426",
-    "long": "8.59804"
+    "long": "8.59804",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "name": "Br\u00fcnn (Brno) ",
+    "name": "Brno",
     "geonames": "https://sws.geonames.org/3078610/",
     "nestroy_id": "nestroy_place_id__32",
     "lat": "49.19522",
-    "long": "16.60796"
+    "long": "16.60796",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": "Br\u00fcnn",
+    "legacy": null
   },
   "33": {
     "id": 33,
@@ -276,7 +531,15 @@
     "geonames": "https://sws.geonames.org/2800866/",
     "nestroy_id": "nestroy_place_id__33",
     "lat": "50.85045",
-    "long": "4.34878"
+    "long": "4.34878",
+    "mentioned_in": [
+      {
+        "id": 44,
+        "value": "play_44"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "34": {
     "id": 34,
@@ -285,16 +548,51 @@
     "geonames": "https://sws.geonames.org/3054643/",
     "nestroy_id": "nestroy_place_id__34",
     "lat": "47.49835",
-    "long": "19.04045"
+    "long": "19.04045",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "Budweis (Ceske Budejovice) ",
+    "name": "Ceske Budejovice",
     "geonames": "https://sws.geonames.org/3077916/",
     "nestroy_id": "nestroy_place_id__35",
     "lat": "48.97447",
-    "long": "14.47434"
+    "long": "14.47434",
+    "mentioned_in": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      },
+      {
+        "id": 74,
+        "value": "play_74"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": "Budweis",
+    "legacy": null
   },
   "36": {
     "id": 36,
@@ -303,7 +601,15 @@
     "geonames": "https://sws.geonames.org/3102987/",
     "nestroy_id": "nestroy_place_id__36",
     "lat": "51.26418",
-    "long": "15.56970"
+    "long": "15.56970",
+    "mentioned_in": [
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "37": {
     "id": 37,
@@ -312,7 +618,15 @@
     "geonames": "https://sws.geonames.org/3077539/",
     "nestroy_id": "nestroy_place_id__37",
     "lat": "49.95109",
-    "long": "15.79558"
+    "long": "15.79558",
+    "mentioned_in": [
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "38": {
     "id": 38,
@@ -321,7 +635,15 @@
     "geonames": "https://sws.geonames.org/3177838/",
     "nestroy_id": "nestroy_place_id__38",
     "lat": "45.13325",
-    "long": "10.02129"
+    "long": "10.02129",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "39": {
     "id": 39,
@@ -330,7 +652,15 @@
     "geonames": "https://sws.geonames.org/3078234/",
     "nestroy_id": "nestroy_place_id__39",
     "lat": "49.91099",
-    "long": "15.38972"
+    "long": "15.38972",
+    "mentioned_in": [
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "40": {
     "id": 40,
@@ -339,7 +669,15 @@
     "geonames": "https://sws.geonames.org/2938913/",
     "nestroy_id": "nestroy_place_id__40",
     "lat": "49.87167",
-    "long": "8.65027"
+    "long": "8.65027",
+    "mentioned_in": [
+      {
+        "id": 61,
+        "value": "play_61"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "41": {
     "id": 41,
@@ -348,7 +686,10 @@
     "geonames": "https://sws.geonames.org/2747373/",
     "nestroy_id": "nestroy_place_id__41",
     "lat": "52.07667",
-    "long": "4.29861"
+    "long": "4.29861",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "42": {
     "id": 42,
@@ -357,7 +698,15 @@
     "geonames": "https://sws.geonames.org/2781017/",
     "nestroy_id": "nestroy_place_id__42",
     "lat": "48.29972",
-    "long": "16.56667"
+    "long": "16.56667",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "43": {
     "id": 43,
@@ -366,7 +715,15 @@
     "geonames": "https://sws.geonames.org/2935022/",
     "nestroy_id": "nestroy_place_id__43",
     "lat": "51.05089",
-    "long": "13.73832"
+    "long": "13.73832",
+    "mentioned_in": [
+      {
+        "id": 47,
+        "value": "play_47"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "44": {
     "id": 44,
@@ -375,7 +732,15 @@
     "geonames": "https://sws.geonames.org/7871730/",
     "nestroy_id": "nestroy_place_id__44",
     "lat": "48.48441",
-    "long": "16.83364"
+    "long": "16.83364",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "45": {
     "id": 45,
@@ -384,7 +749,10 @@
     "geonames": "https://sws.geonames.org/3072232/",
     "nestroy_id": "nestroy_place_id__45",
     "lat": "48.79992",
-    "long": "16.80339"
+    "long": "16.80339",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "46": {
     "id": 46,
@@ -393,7 +761,15 @@
     "geonames": "https://sws.geonames.org/2780017/",
     "nestroy_id": "nestroy_place_id__46",
     "lat": "48.08502",
-    "long": "16.60832"
+    "long": "16.60832",
+    "mentioned_in": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "47": {
     "id": 47,
@@ -402,7 +778,15 @@
     "geonames": "https://sws.geonames.org/2779704/",
     "nestroy_id": "nestroy_place_id__47",
     "lat": "46.51667",
-    "long": "14.16667"
+    "long": "14.16667",
+    "mentioned_in": [
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "48": {
     "id": 48,
@@ -411,7 +795,15 @@
     "geonames": "https://sws.geonames.org/3177090/",
     "nestroy_id": "nestroy_place_id__48",
     "lat": "44.83804",
-    "long": "11.62057"
+    "long": "11.62057",
+    "mentioned_in": [
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "49": {
     "id": 49,
@@ -420,7 +812,15 @@
     "geonames": "https://sws.geonames.org/7871945/",
     "nestroy_id": "nestroy_place_id__49",
     "lat": "48.11573",
-    "long": "16.61395"
+    "long": "16.61395",
+    "mentioned_in": [
+      {
+        "id": 27,
+        "value": "play_27"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "50": {
     "id": 50,
@@ -429,7 +829,19 @@
     "geonames": "https://sws.geonames.org/3176959/",
     "nestroy_id": "nestroy_place_id__50",
     "lat": "43.77925",
-    "long": "11.24626"
+    "long": "11.24626",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "51": {
     "id": 51,
@@ -438,7 +850,15 @@
     "geonames": "https://sws.geonames.org/2517690/",
     "nestroy_id": "nestroy_place_id__51",
     "lat": "38.69467",
-    "long": "1.46919"
+    "long": "1.46919",
+    "mentioned_in": [
+      {
+        "id": 38,
+        "value": "play_38"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "52": {
     "id": 52,
@@ -447,7 +867,10 @@
     "geonames": "https://sws.geonames.org/2925535/",
     "nestroy_id": "nestroy_place_id__52",
     "lat": "52.34714",
-    "long": "14.55062"
+    "long": "14.55062",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "53": {
     "id": 53,
@@ -456,7 +879,15 @@
     "geonames": "https://sws.geonames.org/2778877/",
     "nestroy_id": "nestroy_place_id__53",
     "lat": "48.33925",
-    "long": "16.72016"
+    "long": "16.72016",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "54": {
     "id": 54,
@@ -465,7 +896,15 @@
     "geonames": "https://sws.geonames.org/3176219/",
     "nestroy_id": "nestroy_place_id__54",
     "lat": "44.40478",
-    "long": "8.94439"
+    "long": "8.94439",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "55": {
     "id": 55,
@@ -474,7 +913,10 @@
     "geonames": "https://sws.geonames.org/2778455/",
     "nestroy_id": "nestroy_place_id__55",
     "lat": "47.67487",
-    "long": "15.93893"
+    "long": "15.93893",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "56": {
     "id": 56,
@@ -483,7 +925,19 @@
     "geonames": "https://sws.geonames.org/3175986/",
     "nestroy_id": "nestroy_place_id__56",
     "lat": "45.94088",
-    "long": "13.62167"
+    "long": "13.62167",
+    "mentioned_in": [
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "57": {
     "id": 57,
@@ -492,7 +946,15 @@
     "geonames": "https://sws.geonames.org/2918350/",
     "nestroy_id": "nestroy_place_id__57",
     "lat": "49.64426",
-    "long": "11.24971"
+    "long": "11.24971",
+    "mentioned_in": [
+      {
+        "id": 43,
+        "value": "play_43"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "58": {
     "id": 58,
@@ -501,7 +963,19 @@
     "geonames": "https://sws.geonames.org/2778067/",
     "nestroy_id": "nestroy_place_id__58",
     "lat": "47.06667",
-    "long": "15.45000"
+    "long": "15.45000",
+    "mentioned_in": [
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "59": {
     "id": 59,
@@ -510,7 +984,15 @@
     "geonames": "https://sws.geonames.org/2647909/",
     "nestroy_id": "nestroy_place_id__59",
     "lat": "55.00279",
-    "long": "-3.06618"
+    "long": "-3.06618",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "60": {
     "id": 60,
@@ -519,7 +1001,15 @@
     "geonames": "https://sws.geonames.org/3175693/",
     "nestroy_id": "nestroy_place_id__60",
     "lat": "44.91172",
-    "long": "10.66186"
+    "long": "10.66186",
+    "mentioned_in": [
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_tokens": "Quastalla",
+    "legacy": null
   },
   "61": {
     "id": 61,
@@ -528,7 +1018,19 @@
     "geonames": "https://sws.geonames.org/2777279/",
     "nestroy_id": "nestroy_place_id__61",
     "lat": "48.04538",
-    "long": "16.27710"
+    "long": "16.27710",
+    "mentioned_in": [
+      {
+        "id": 20,
+        "value": "play_20"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "62": {
     "id": 62,
@@ -537,7 +1039,31 @@
     "geonames": "https://sws.geonames.org/2911298/",
     "nestroy_id": "nestroy_place_id__62",
     "lat": "53.55073",
-    "long": "9.99302"
+    "long": "9.99302",
+    "mentioned_in": [
+      {
+        "id": 3,
+        "value": "play_3"
+      },
+      {
+        "id": 29,
+        "value": "play_29"
+      },
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 41,
+        "value": "play_41"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "63": {
     "id": 63,
@@ -546,7 +1072,19 @@
     "geonames": "https://sws.geonames.org/2910831/",
     "nestroy_id": "nestroy_place_id__63",
     "lat": "52.37052",
-    "long": "9.73322"
+    "long": "9.73322",
+    "mentioned_in": [
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "64": {
     "id": 64,
@@ -555,7 +1093,10 @@
     "geonames": "https://sws.geonames.org/2906947/",
     "nestroy_id": "nestroy_place_id__64",
     "lat": "54.18213",
-    "long": "7.88458"
+    "long": "7.88458",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "65": {
     "id": 65,
@@ -564,7 +1105,10 @@
     "geonames": "https://sws.geonames.org/667268/",
     "nestroy_id": "nestroy_place_id__65",
     "lat": "45.80000",
-    "long": "24.15000"
+    "long": "24.15000",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "66": {
     "id": 66,
@@ -573,7 +1117,15 @@
     "geonames": "https://sws.geonames.org/675810/",
     "nestroy_id": "nestroy_place_id__66",
     "lat": "47.16667",
-    "long": "27.60000"
+    "long": "27.60000",
+    "mentioned_in": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "67": {
     "id": 67,
@@ -582,7 +1134,15 @@
     "geonames": "https://sws.geonames.org/2775220/",
     "nestroy_id": "nestroy_place_id__67",
     "lat": "47.26266",
-    "long": "11.39454"
+    "long": "11.39454",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "68": {
     "id": 68,
@@ -591,16 +1151,32 @@
     "geonames": "https://sws.geonames.org/2782052/",
     "nestroy_id": "nestroy_place_id__68",
     "lat": "47.71109",
-    "long": "13.61893"
+    "long": "13.61893",
+    "mentioned_in": [
+      {
+        "id": 62,
+        "value": "play_62"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "69": {
     "id": 69,
     "order": "69.00000000000000000000",
-    "name": "Izmir (Smyrna)",
+    "name": "Izmir",
     "geonames": "https://sws.geonames.org/311046/",
     "nestroy_id": "nestroy_place_id__69",
     "lat": "38.41273",
-    "long": "27.13838"
+    "long": "27.13838",
+    "mentioned_in": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": "Smyrna"
   },
   "70": {
     "id": 70,
@@ -609,7 +1185,15 @@
     "geonames": "https://sws.geonames.org/284899/",
     "nestroy_id": "nestroy_place_id__70",
     "lat": "31.86667",
-    "long": "35.45000"
+    "long": "35.45000",
+    "mentioned_in": [
+      {
+        "id": 64,
+        "value": "play_64"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "71": {
     "id": 71,
@@ -618,7 +1202,10 @@
     "geonames": "https://sws.geonames.org/1275004/",
     "nestroy_id": "nestroy_place_id__71",
     "lat": "22.56263",
-    "long": "88.36304"
+    "long": "88.36304",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "72": {
     "id": 72,
@@ -627,7 +1214,15 @@
     "geonames": "https://sws.geonames.org/3073803/",
     "nestroy_id": "nestroy_place_id__72",
     "lat": "50.23271",
-    "long": "12.87117"
+    "long": "12.87117",
+    "mentioned_in": [
+      {
+        "id": 21,
+        "value": "play_21"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "73": {
     "id": 73,
@@ -636,7 +1231,15 @@
     "geonames": "https://sws.geonames.org/2468244/",
     "nestroy_id": "nestroy_place_id__73",
     "lat": "36.86667",
-    "long": "10.33333"
+    "long": "10.33333",
+    "mentioned_in": [
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "74": {
     "id": 74,
@@ -645,7 +1248,10 @@
     "geonames": "https://sws.geonames.org/3073084/",
     "nestroy_id": "nestroy_place_id__74",
     "lat": "50.00306",
-    "long": "14.97703"
+    "long": "14.97703",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "75": {
     "id": 75,
@@ -654,7 +1260,10 @@
     "geonames": "https://sws.geonames.org/6558243/",
     "nestroy_id": "nestroy_place_id__75",
     "lat": "48.90897",
-    "long": "11.87587"
+    "long": "11.87587",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "76": {
     "id": 76,
@@ -663,16 +1272,15 @@
     "geonames": "https://sws.geonames.org/2891122/",
     "nestroy_id": "nestroy_place_id__76",
     "lat": "54.32133",
-    "long": "10.13489"
-  },
-  "77": {
-    "id": 77,
-    "order": "77.00000000000000000000",
-    "name": "Bad Kissingen ",
-    "geonames": "https://sws.geonames.org/2953424/",
-    "nestroy_id": "nestroy_place_id__77",
-    "lat": "50.20228",
-    "long": "10.07784"
+    "long": "10.13489",
+    "mentioned_in": [
+      {
+        "id": 14,
+        "value": "play_14"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "78": {
     "id": 78,
@@ -681,25 +1289,52 @@
     "geonames": "https://sws.geonames.org/2886242/",
     "nestroy_id": "nestroy_place_id__78",
     "lat": "50.93333",
-    "long": "6.95000"
+    "long": "6.95000",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": "C\u00f6ln"
   },
   "79": {
     "id": 79,
     "order": "79.00000000000000000000",
-    "name": "Konstantinopel (Istanbul) ",
+    "name": "Istanbul",
     "geonames": "https://sws.geonames.org/745044/",
     "nestroy_id": "nestroy_place_id__79",
     "lat": "41.01384",
-    "long": "28.94966"
+    "long": "28.94966",
+    "mentioned_in": [
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": "",
+    "legacy": "Constantinopel\nKonstantinopel"
   },
   "80": {
     "id": 80,
     "order": "80.00000000000000000000",
-    "name": "Krakauer (Krakow) ",
+    "name": "Krakow",
     "geonames": "https://sws.geonames.org/3094802/",
     "nestroy_id": "nestroy_place_id__80",
     "lat": "50.06143",
-    "long": "19.93658"
+    "long": "19.93658",
+    "mentioned_in": [],
+    "alt_tokens": "Krakau",
+    "legacy": null
   },
   "81": {
     "id": 81,
@@ -708,7 +1343,15 @@
     "geonames": "https://sws.geonames.org/2773538/",
     "nestroy_id": "nestroy_place_id__81",
     "lat": "48.05290",
-    "long": "14.12919"
+    "long": "14.12919",
+    "mentioned_in": [
+      {
+        "id": 49,
+        "value": "play_49"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "82": {
     "id": 82,
@@ -717,7 +1360,15 @@
     "geonames": "https://sws.geonames.org/3073337/",
     "nestroy_id": "nestroy_place_id__82",
     "lat": "49.17884",
-    "long": "16.62532"
+    "long": "16.62532",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "83": {
     "id": 83,
@@ -726,7 +1377,15 @@
     "geonames": "https://sws.geonames.org/2772810/",
     "nestroy_id": "nestroy_place_id__83",
     "lat": "48.06833",
-    "long": "16.35607"
+    "long": "16.35607",
+    "mentioned_in": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "84": {
     "id": 84,
@@ -735,16 +1394,31 @@
     "geonames": "https://sws.geonames.org/3071675/",
     "nestroy_id": "nestroy_place_id__84",
     "lat": "49.86809",
-    "long": "16.31298"
+    "long": "16.31298",
+    "mentioned_in": [
+      {
+        "id": 38,
+        "value": "play_38"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "85": {
     "id": 85,
     "order": "85.00000000000000000000",
-    "name": "Lemberg (Lwiw)  ",
+    "name": "Lwiw",
     "geonames": "https://sws.geonames.org/702550/",
     "nestroy_id": "nestroy_place_id__85",
     "lat": "49.83826",
-    "long": "24.02324"
+    "long": "24.02324",
+    "mentioned_in": [],
+    "alt_tokens": "Lemberg",
+    "legacy": null
   },
   "86": {
     "id": 86,
@@ -753,7 +1427,10 @@
     "geonames": "https://sws.geonames.org/2772649/",
     "nestroy_id": "nestroy_place_id__86",
     "lat": "47.37650",
-    "long": "15.09144"
+    "long": "15.09144",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "87": {
     "id": 87,
@@ -762,7 +1439,10 @@
     "geonames": "https://sws.geonames.org/2792348/",
     "nestroy_id": "nestroy_place_id__87",
     "lat": "50.61222",
-    "long": "5.94120"
+    "long": "5.94120",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "88": {
     "id": 88,
@@ -771,7 +1451,15 @@
     "geonames": "https://sws.geonames.org/2772400/",
     "nestroy_id": "nestroy_place_id__88",
     "lat": "48.30639",
-    "long": "14.28611"
+    "long": "14.28611",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "89": {
     "id": 89,
@@ -780,7 +1468,19 @@
     "geonames": "https://sws.geonames.org/2772400/",
     "nestroy_id": "nestroy_place_id__89",
     "lat": "48.30639",
-    "long": "14.28611"
+    "long": "14.28611",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "90": {
     "id": 90,
@@ -789,7 +1489,63 @@
     "geonames": "https://sws.geonames.org/2643743/",
     "nestroy_id": "nestroy_place_id__90",
     "lat": "51.50853",
-    "long": "-0.12574"
+    "long": "-0.12574",
+    "mentioned_in": [
+      {
+        "id": 5,
+        "value": "play_5"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 31,
+        "value": "play_31"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 52,
+        "value": "play_52"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 54,
+        "value": "play_54"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "91": {
     "id": 91,
@@ -798,7 +1554,15 @@
     "geonames": "https://sws.geonames.org/3078773/",
     "nestroy_id": "nestroy_place_id__91",
     "lat": "48.75897",
-    "long": "16.88203"
+    "long": "16.88203",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "92": {
     "id": 92,
@@ -807,7 +1571,15 @@
     "geonames": "https://sws.geonames.org/3117735/",
     "nestroy_id": "nestroy_place_id__92",
     "lat": "40.41650",
-    "long": "-3.70256"
+    "long": "-3.70256",
+    "mentioned_in": [
+      {
+        "id": 48,
+        "value": "play_48"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "93": {
     "id": 93,
@@ -816,7 +1588,15 @@
     "geonames": "https://sws.geonames.org/3173435/",
     "nestroy_id": "nestroy_place_id__93",
     "lat": "45.46427",
-    "long": "9.18951"
+    "long": "9.18951",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "94": {
     "id": 94,
@@ -825,7 +1605,27 @@
     "geonames": "https://sws.geonames.org/2514256/",
     "nestroy_id": "nestroy_place_id__94",
     "lat": "36.72016",
-    "long": "-4.42034"
+    "long": "-4.42034",
+    "mentioned_in": [
+      {
+        "id": 29,
+        "value": "play_29"
+      },
+      {
+        "id": 33,
+        "value": "play_33"
+      },
+      {
+        "id": 36,
+        "value": "play_36"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "95": {
     "id": 95,
@@ -834,7 +1634,15 @@
     "geonames": "https://sws.geonames.org/3071024/",
     "nestroy_id": "nestroy_place_id__95",
     "lat": "49.96459",
-    "long": "12.70118"
+    "long": "12.70118",
+    "mentioned_in": [
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "96": {
     "id": 96,
@@ -843,7 +1651,19 @@
     "geonames": "https://sws.geonames.org/2995469/",
     "nestroy_id": "nestroy_place_id__96",
     "lat": "43.29695",
-    "long": "5.38107"
+    "long": "5.38107",
+    "mentioned_in": [
+      {
+        "id": 29,
+        "value": "play_29"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "97": {
     "id": 97,
@@ -852,7 +1672,15 @@
     "geonames": "https://sws.geonames.org/2524170/",
     "nestroy_id": "nestroy_place_id__97",
     "lat": "38.19394",
-    "long": "15.55256"
+    "long": "15.55256",
+    "mentioned_in": [
+      {
+        "id": 31,
+        "value": "play_31"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "98": {
     "id": 98,
@@ -861,7 +1689,19 @@
     "geonames": "https://sws.geonames.org/2771335/",
     "nestroy_id": "nestroy_place_id__98",
     "lat": "48.08605",
-    "long": "16.28921"
+    "long": "16.28921",
+    "mentioned_in": [
+      {
+        "id": 20,
+        "value": "play_20"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "99": {
     "id": 99,
@@ -870,7 +1710,15 @@
     "geonames": "https://sws.geonames.org/524901/",
     "nestroy_id": "nestroy_place_id__99",
     "lat": "55.75222",
-    "long": "37.61556"
+    "long": "37.61556",
+    "mentioned_in": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "100": {
     "id": 100,
@@ -879,7 +1727,10 @@
     "geonames": "https://sws.geonames.org/700646/",
     "nestroy_id": "nestroy_place_id__100",
     "lat": "48.44248",
-    "long": "22.71800"
+    "long": "22.71800",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "101": {
     "id": 101,
@@ -888,7 +1739,10 @@
     "geonames": "https://sws.geonames.org/2867543/",
     "nestroy_id": "nestroy_place_id__101",
     "lat": "51.96236",
-    "long": "7.62571"
+    "long": "7.62571",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "102": {
     "id": 102,
@@ -897,7 +1751,39 @@
     "geonames": "https://sws.geonames.org/3172394/",
     "nestroy_id": "nestroy_place_id__102",
     "lat": "40.85216",
-    "long": "14.26811"
+    "long": "14.26811",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 42,
+        "value": "play_42"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "103": {
     "id": 103,
@@ -906,7 +1792,15 @@
     "geonames": "https://sws.geonames.org/5128581/",
     "nestroy_id": "nestroy_place_id__103",
     "lat": "40.71427",
-    "long": "-74.00597"
+    "long": "-74.00597",
+    "mentioned_in": [
+      {
+        "id": 14,
+        "value": "play_14"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "104": {
     "id": 104,
@@ -915,7 +1809,19 @@
     "geonames": "https://sws.geonames.org/92878/",
     "nestroy_id": "nestroy_place_id__104",
     "lat": "36.36768",
-    "long": "43.15667"
+    "long": "43.15667",
+    "mentioned_in": [
+      {
+        "id": 56,
+        "value": "play_56"
+      },
+      {
+        "id": 65,
+        "value": "play_65"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "105": {
     "id": 105,
@@ -924,7 +1830,23 @@
     "geonames": "https://sws.geonames.org/2861650/",
     "nestroy_id": "nestroy_place_id__105",
     "lat": "49.45421",
-    "long": "11.07752"
+    "long": "11.07752",
+    "mentioned_in": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "106": {
     "id": 106,
@@ -933,25 +1855,64 @@
     "geonames": "https://sws.geonames.org/2857807/",
     "nestroy_id": "nestroy_place_id__106",
     "lat": "50.10061",
-    "long": "8.76647"
+    "long": "8.76647",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "107": {
     "id": 107,
     "order": "107.00000000000000000000",
-    "name": "Olm\u00fctz (Olomouc)  ",
+    "name": "Olomouc",
     "geonames": "https://sws.geonames.org/3069011/",
     "nestroy_id": "nestroy_place_id__107",
     "lat": "49.59552",
-    "long": "17.25175"
+    "long": "17.25175",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": "Olm\u00fctz",
+    "legacy": null
   },
   "108": {
     "id": 108,
     "order": "108.00000000000000000000",
-    "name": "Orleans (Jungfrau von)",
+    "name": "Orleans",
     "geonames": "https://sws.geonames.org/2989317/",
     "nestroy_id": "nestroy_place_id__108",
     "lat": "47.90289",
-    "long": "1.90389"
+    "long": "1.90389",
+    "mentioned_in": [
+      {
+        "id": 1,
+        "value": "play_1"
+      },
+      {
+        "id": 25,
+        "value": "play_25"
+      },
+      {
+        "id": 43,
+        "value": "play_43"
+      },
+      {
+        "id": 48,
+        "value": "play_48"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 82,
+        "value": "play_82"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "109": {
     "id": 109,
@@ -960,7 +1921,10 @@
     "geonames": "https://sws.geonames.org/671681/",
     "nestroy_id": "nestroy_place_id__109",
     "lat": "44.72299",
-    "long": "22.39619"
+    "long": "22.39619",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "110": {
     "id": 110,
@@ -969,7 +1933,15 @@
     "geonames": "https://sws.geonames.org/2789786/",
     "nestroy_id": "nestroy_place_id__110",
     "lat": "51.21551",
-    "long": "2.92700"
+    "long": "2.92700",
+    "mentioned_in": [
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "111": {
     "id": 111,
@@ -978,7 +1950,15 @@
     "geonames": "https://sws.geonames.org/3171728/",
     "nestroy_id": "nestroy_place_id__111",
     "lat": "45.40797",
-    "long": "11.88586"
+    "long": "11.88586",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "112": {
     "id": 112,
@@ -987,7 +1967,15 @@
     "geonames": "https://sws.geonames.org/787237/",
     "nestroy_id": "nestroy_place_id__112",
     "lat": "44.87177",
-    "long": "20.64167"
+    "long": "20.64167",
+    "mentioned_in": [
+      {
+        "id": 41,
+        "value": "play_41"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "113": {
     "id": 113,
@@ -996,7 +1984,103 @@
     "geonames": "https://sws.geonames.org/2988507/",
     "nestroy_id": "nestroy_place_id__113",
     "lat": "48.85341",
-    "long": "2.34880"
+    "long": "2.34880",
+    "mentioned_in": [
+      {
+        "id": 3,
+        "value": "play_3"
+      },
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 19,
+        "value": "play_19"
+      },
+      {
+        "id": 26,
+        "value": "play_26"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 30,
+        "value": "play_30"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 54,
+        "value": "play_54"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 61,
+        "value": "play_61"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 68,
+        "value": "play_68"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      },
+      {
+        "id": 71,
+        "value": "play_71"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      },
+      {
+        "id": 74,
+        "value": "play_74"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "114": {
     "id": 114,
@@ -1005,7 +2089,15 @@
     "geonames": "https://sws.geonames.org/3171457/",
     "nestroy_id": "nestroy_place_id__114",
     "lat": "44.79935",
-    "long": "10.32618"
+    "long": "10.32618",
+    "mentioned_in": [
+      {
+        "id": 17,
+        "value": "play_17"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "115": {
     "id": 115,
@@ -1014,7 +2106,15 @@
     "geonames": "https://sws.geonames.org/1816670/",
     "nestroy_id": "nestroy_place_id__115",
     "lat": "39.90750",
-    "long": "116.39723"
+    "long": "116.39723",
+    "mentioned_in": [
+      {
+        "id": 48,
+        "value": "play_48"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "116": {
     "id": 116,
@@ -1023,7 +2123,19 @@
     "geonames": "https://sws.geonames.org/498817/",
     "nestroy_id": "nestroy_place_id__116",
     "lat": "59.93863",
-    "long": "30.31413"
+    "long": "30.31413",
+    "mentioned_in": [
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "117": {
     "id": 117,
@@ -1032,7 +2144,19 @@
     "geonames": "https://sws.geonames.org/4560349/",
     "nestroy_id": "nestroy_place_id__117",
     "lat": "39.95238",
-    "long": "-75.16362"
+    "long": "-75.16362",
+    "mentioned_in": [
+      {
+        "id": 30,
+        "value": "play_30"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "118": {
     "id": 118,
@@ -1041,7 +2165,15 @@
     "geonames": "https://sws.geonames.org/3171058/",
     "nestroy_id": "nestroy_place_id__118",
     "lat": "45.05242",
-    "long": "9.69342"
+    "long": "9.69342",
+    "mentioned_in": [
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "119": {
     "id": 119,
@@ -1050,7 +2182,19 @@
     "geonames": "https://sws.geonames.org/3170336/",
     "nestroy_id": "nestroy_place_id__119",
     "lat": "40.75000",
-    "long": "14.48333"
+    "long": "14.48333",
+    "mentioned_in": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 49,
+        "value": "play_49"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "120": {
     "id": 120,
@@ -1059,7 +2203,23 @@
     "geonames": "https://sws.geonames.org/2985947/",
     "nestroy_id": "nestroy_place_id__120",
     "lat": "41.59101",
-    "long": "9.27947"
+    "long": "9.27947",
+    "mentioned_in": [
+      {
+        "id": 23,
+        "value": "play_23"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 71,
+        "value": "play_71"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "121": {
     "id": 121,
@@ -1068,16 +2228,31 @@
     "geonames": "https://sws.geonames.org/2852458/",
     "nestroy_id": "nestroy_place_id__121",
     "lat": "52.39886",
-    "long": "13.06566"
+    "long": "13.06566",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "122": {
     "id": 122,
     "order": "122.00000000000000000000",
-    "name": "Prag (Praha)  ",
+    "name": "Praha",
     "geonames": "https://sws.geonames.org/3067696/",
     "nestroy_id": "nestroy_place_id__122",
     "lat": "50.08804",
-    "long": "14.42076"
+    "long": "14.42076",
+    "mentioned_in": [
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 35,
+        "value": "play_35"
+      }
+    ],
+    "alt_tokens": "Prag",
+    "legacy": null
   },
   "123": {
     "id": 123,
@@ -1086,7 +2261,15 @@
     "geonames": "https://sws.geonames.org/2768232/",
     "nestroy_id": "nestroy_place_id__123",
     "lat": "48.20769",
-    "long": "16.17539"
+    "long": "16.17539",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "124": {
     "id": 124,
@@ -1095,7 +2278,15 @@
     "geonames": "https://sws.geonames.org/3067078/",
     "nestroy_id": "nestroy_place_id__124",
     "lat": "49.09021",
-    "long": "16.60388"
+    "long": "16.60388",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "125": {
     "id": 125,
@@ -1104,7 +2295,15 @@
     "geonames": "https://sws.geonames.org/2849483/",
     "nestroy_id": "nestroy_place_id__125",
     "lat": "49.01513",
-    "long": "12.10161"
+    "long": "12.10161",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "126": {
     "id": 126,
@@ -1113,7 +2312,19 @@
     "geonames": "https://sws.geonames.org/3169070/",
     "nestroy_id": "nestroy_place_id__126",
     "lat": "41.89193",
-    "long": "12.51133"
+    "long": "12.51133",
+    "mentioned_in": [
+      {
+        "id": 66,
+        "value": "play_66"
+      },
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "127": {
     "id": 127,
@@ -1122,7 +2333,15 @@
     "geonames": "https://sws.geonames.org/2982652/",
     "nestroy_id": "nestroy_place_id__127",
     "lat": "49.44313",
-    "long": "1.09932"
+    "long": "1.09932",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "128": {
     "id": 128,
@@ -1131,7 +2350,19 @@
     "geonames": "https://sws.geonames.org/2766824/",
     "nestroy_id": "nestroy_place_id__128",
     "lat": "47.79941",
-    "long": "13.04399"
+    "long": "13.04399",
+    "mentioned_in": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "129": {
     "id": 129,
@@ -1140,7 +2371,15 @@
     "geonames": "https://sws.geonames.org/3167875/",
     "nestroy_id": "nestroy_place_id__129",
     "lat": "45.83443",
-    "long": "9.66753"
+    "long": "9.66753",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "130": {
     "id": 130,
@@ -1149,7 +2388,15 @@
     "geonames": "https://sws.geonames.org/3104324/",
     "nestroy_id": "nestroy_place_id__130",
     "lat": "41.65606",
-    "long": "-0.87734"
+    "long": "-0.87734",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "131": {
     "id": 131,
@@ -1158,7 +2405,15 @@
     "geonames": "https://sws.geonames.org/2975931/",
     "nestroy_id": "nestroy_place_id__131",
     "lat": "41.61667",
-    "long": "8.98333"
+    "long": "8.98333",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "132": {
     "id": 132,
@@ -1167,7 +2422,10 @@
     "geonames": "https://sws.geonames.org/6550335/",
     "nestroy_id": "nestroy_place_id__132",
     "lat": "50.63330",
-    "long": "11.20000"
+    "long": "11.20000",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "133": {
     "id": 133,
@@ -1176,7 +2434,15 @@
     "geonames": "https://sws.geonames.org/2765388/",
     "nestroy_id": "nestroy_place_id__133",
     "lat": "48.13333",
-    "long": "16.46667"
+    "long": "16.46667",
+    "mentioned_in": [
+      {
+        "id": 27,
+        "value": "play_27"
+      }
+    ],
+    "alt_tokens": "Schw\u00f6chat",
+    "legacy": null
   },
   "134": {
     "id": 134,
@@ -1185,7 +2451,10 @@
     "geonames": "https://sws.geonames.org/2974547/",
     "nestroy_id": "nestroy_place_id__134",
     "lat": "49.19822",
-    "long": "4.13244"
+    "long": "4.13244",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "135": {
     "id": 135,
@@ -1194,7 +2463,15 @@
     "geonames": "https://sws.geonames.org/2830582/",
     "nestroy_id": "nestroy_place_id__135",
     "lat": "49.32083",
-    "long": "8.43111"
+    "long": "8.43111",
+    "mentioned_in": [
+      {
+        "id": 15,
+        "value": "play_15"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "136": {
     "id": 136,
@@ -1203,7 +2480,23 @@
     "geonames": "https://sws.geonames.org/2764812/",
     "nestroy_id": "nestroy_place_id__136",
     "lat": "47.21667",
-    "long": "14.78333"
+    "long": "14.78333",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "137": {
     "id": 137,
@@ -1212,7 +2505,15 @@
     "geonames": "https://sws.geonames.org/2764296/",
     "nestroy_id": "nestroy_place_id__137",
     "lat": "47.83333",
-    "long": "16.41667"
+    "long": "16.41667",
+    "mentioned_in": [
+      {
+        "id": 76,
+        "value": "play_76"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "138": {
     "id": 138,
@@ -1221,7 +2522,15 @@
     "geonames": "https://sws.geonames.org/2764359/",
     "nestroy_id": "nestroy_place_id__138",
     "lat": "48.04274",
-    "long": "14.42127"
+    "long": "14.42127",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "139": {
     "id": 139,
@@ -1230,7 +2539,15 @@
     "geonames": "https://sws.geonames.org/2764288/",
     "nestroy_id": "nestroy_place_id__139",
     "lat": "48.04509",
-    "long": "16.67581"
+    "long": "16.67581",
+    "mentioned_in": [
+      {
+        "id": 67,
+        "value": "play_67"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "140": {
     "id": 140,
@@ -1239,7 +2556,19 @@
     "geonames": "https://sws.geonames.org/2764279/",
     "nestroy_id": "nestroy_place_id__140",
     "lat": "48.38333",
-    "long": "16.21667"
+    "long": "16.21667",
+    "mentioned_in": [
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 65,
+        "value": "play_65"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "141": {
     "id": 141,
@@ -1248,7 +2577,10 @@
     "geonames": "https://sws.geonames.org/3044774/",
     "nestroy_id": "nestroy_place_id__141",
     "lat": "47.18995",
-    "long": "18.41034"
+    "long": "18.41034",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "142": {
     "id": 142,
@@ -1257,7 +2589,15 @@
     "geonames": "https://sws.geonames.org/2825297/",
     "nestroy_id": "nestroy_place_id__142",
     "lat": "48.78232",
-    "long": "9.17702"
+    "long": "9.17702",
+    "mentioned_in": [
+      {
+        "id": 30,
+        "value": "play_30"
+      }
+    ],
+    "alt_tokens": "Stuttgard",
+    "legacy": null
   },
   "143": {
     "id": 143,
@@ -1266,7 +2606,10 @@
     "geonames": "https://sws.geonames.org/3064464/",
     "nestroy_id": "nestroy_place_id__143",
     "lat": "49.82059",
-    "long": "18.20214"
+    "long": "18.20214",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "144": {
     "id": 144,
@@ -1275,16 +2618,40 @@
     "geonames": "https://sws.geonames.org/7871715/",
     "nestroy_id": "nestroy_place_id__144",
     "lat": "48.00964",
-    "long": "16.30118"
+    "long": "16.30118",
+    "mentioned_in": [
+      {
+        "id": 34,
+        "value": "play_34"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "145": {
     "id": 145,
     "order": "145.00000000000000000000",
-    "name": "Triest (Trieste) ",
+    "name": "Trieste",
     "geonames": "https://sws.geonames.org/3165185/",
     "nestroy_id": "nestroy_place_id__145",
     "lat": "45.64953",
-    "long": "13.77678"
+    "long": "13.77678",
+    "mentioned_in": [
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 41,
+        "value": "play_41"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      }
+    ],
+    "alt_tokens": "Triest",
+    "legacy": null
   },
   "146": {
     "id": 146,
@@ -1293,7 +2660,10 @@
     "geonames": "https://sws.geonames.org/298885/",
     "nestroy_id": "nestroy_place_id__146",
     "lat": "39.95732",
-    "long": "26.23909"
+    "long": "26.23909",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "147": {
     "id": 147,
@@ -1302,7 +2672,15 @@
     "geonames": "https://sws.geonames.org/2464470/",
     "nestroy_id": "nestroy_place_id__147",
     "lat": "36.81897",
-    "long": "10.16579"
+    "long": "10.16579",
+    "mentioned_in": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "148": {
     "id": 148,
@@ -1311,16 +2689,40 @@
     "geonames": "https://sws.geonames.org/2820256/",
     "nestroy_id": "nestroy_place_id__148",
     "lat": "48.39841",
-    "long": "9.99155"
+    "long": "9.99155",
+    "mentioned_in": [
+      {
+        "id": 18,
+        "value": "play_18"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "149": {
     "id": 149,
     "order": "149.00000000000000000000",
-    "name": "Venedig (Venezia)",
+    "name": "Venezia",
     "geonames": "https://sws.geonames.org/3164603/",
     "nestroy_id": "nestroy_place_id__149",
     "lat": "45.43713",
-    "long": "12.33265"
+    "long": "12.33265",
+    "mentioned_in": [
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      }
+    ],
+    "alt_tokens": "Venedig",
+    "legacy": null
   },
   "150": {
     "id": 150,
@@ -1329,7 +2731,15 @@
     "geonames": "https://sws.geonames.org/2762077/",
     "nestroy_id": "nestroy_place_id__150",
     "lat": "47.96004",
-    "long": "14.77361"
+    "long": "14.77361",
+    "mentioned_in": [
+      {
+        "id": 3,
+        "value": "play_3"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "151": {
     "id": 151,
@@ -1338,7 +2748,10 @@
     "geonames": "https://sws.geonames.org/2761771/",
     "nestroy_id": "nestroy_place_id__151",
     "lat": "47.66667",
-    "long": "15.16667"
+    "long": "15.16667",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "152": {
     "id": 152,
@@ -1347,7 +2760,15 @@
     "geonames": "https://sws.geonames.org/2812482/",
     "nestroy_id": "nestroy_place_id__152",
     "lat": "50.98030",
-    "long": "11.32903"
+    "long": "11.32903",
+    "mentioned_in": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "153": {
     "id": 153,
@@ -1356,7 +2777,15 @@
     "geonames": "https://sws.geonames.org/2812158/",
     "nestroy_id": "nestroy_place_id__153",
     "lat": "49.15127",
-    "long": "9.28762"
+    "long": "9.28762",
+    "mentioned_in": [
+      {
+        "id": 1,
+        "value": "play_1"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "154": {
     "id": 154,
@@ -1365,7 +2794,10 @@
     "geonames": "https://sws.geonames.org/725905/",
     "nestroy_id": "nestroy_place_id__154",
     "lat": "43.99159",
-    "long": "22.88236"
+    "long": "22.88236",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "155": {
     "id": 155,
@@ -1374,7 +2806,95 @@
     "geonames": "https://sws.geonames.org/2761369/",
     "nestroy_id": "nestroy_place_id__155",
     "lat": "48.20849",
-    "long": "16.37208"
+    "long": "16.37208",
+    "mentioned_in": [
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 19,
+        "value": "play_19"
+      },
+      {
+        "id": 20,
+        "value": "play_20"
+      },
+      {
+        "id": 21,
+        "value": "play_21"
+      },
+      {
+        "id": 26,
+        "value": "play_26"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 33,
+        "value": "play_33"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      },
+      {
+        "id": 48,
+        "value": "play_48"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 58,
+        "value": "play_58"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 63,
+        "value": "play_63"
+      },
+      {
+        "id": 64,
+        "value": "play_64"
+      },
+      {
+        "id": 67,
+        "value": "play_67"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "156": {
     "id": 156,
@@ -1383,7 +2903,15 @@
     "geonames": "https://sws.geonames.org/2761353/",
     "nestroy_id": "nestroy_place_id__156",
     "lat": "47.80485",
-    "long": "16.23196"
+    "long": "16.23196",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_tokens": "Neustadt",
+    "legacy": null
   },
   "157": {
     "id": 157,
@@ -1392,7 +2920,10 @@
     "geonames": "https://sws.geonames.org/2809346/",
     "nestroy_id": "nestroy_place_id__157",
     "lat": "50.08258",
-    "long": "8.24932"
+    "long": "8.24932",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "158": {
     "id": 158,
@@ -1401,7 +2932,10 @@
     "geonames": "https://sws.geonames.org/2761314/",
     "nestroy_id": "nestroy_place_id__158",
     "lat": "48.13333",
-    "long": "15.13333"
+    "long": "15.13333",
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   },
   "159": {
     "id": 159,
@@ -1410,7 +2944,15 @@
     "geonames": "https://sws.geonames.org/2806142/",
     "nestroy_id": "nestroy_place_id__159",
     "lat": "49.63278",
-    "long": "8.35916"
+    "long": "8.35916",
+    "mentioned_in": [
+      {
+        "id": 15,
+        "value": "play_15"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": null
   },
   "160": {
     "id": 160,
@@ -1419,7 +2961,15 @@
     "geonames": "https://sws.geonames.org/2760772/",
     "nestroy_id": "nestroy_place_id__160",
     "lat": "48.16667",
-    "long": "15.08333"
+    "long": "15.08333",
+    "mentioned_in": [
+      {
+        "id": 13,
+        "value": "play_13"
+      }
+    ],
+    "alt_tokens": null,
+    "legacy": "Yps"
   },
   "161": {
     "id": 161,
@@ -1428,6 +2978,9 @@
     "geonames": "",
     "nestroy_id": "nestroy_place_id__161",
     "lat": null,
-    "long": null
+    "long": null,
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null
   }
 }
