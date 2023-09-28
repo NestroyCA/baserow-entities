@@ -82,10 +82,10 @@ if __name__ == "__main__":
     os.makedirs(JSON_FOLDER, exist_ok=True)
     json_file_paths = br_client.dump_tables_as_json(
         BASEROW_DB_ID,
-        folder_name="json_dumps", 
+        folder_name=JSON_FOLDER, 
         indent=2
     )
-    places_filepath = "json_dumps/places.json"
+    places_filepath = f"{JSON_FOLDER}/places.json"
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {
             "geonames" : get_normalized_uri,
