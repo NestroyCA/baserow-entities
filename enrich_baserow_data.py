@@ -51,8 +51,8 @@ def get_update_for_item(item:dict):
     return update_data
 
 
-def update_item_online(item:dict, update_data:dict):
-    update_target_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{item['id']}/?user_field_names=true"
+def update_item_online(item_id: str, update_data:dict):
+    update_target_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{item_id}/?user_field_names=true"
     result = requests.patch(
         update_target_url,
         headers={
@@ -80,9 +80,10 @@ if __name__ == "__main__":
     lat_long_filter = get_coordinates_filters_for_request()
     items_to_update = get_items_to_update(lat_long_filter)
     for item_to_update in items_to_update:
+        item_to_update_id = item_to_update["id"]
         item_update = get_update_for_item(item_to_update)
         result = update_item_online(
-            item=item_to_update,
-            update_data=item_update
+            item_id = item_to_update_id,
+            update_data = item_update
         )
         print(result)

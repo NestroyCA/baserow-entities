@@ -21,9 +21,8 @@ jobs:
         run: |
           python dump_data.py
       - name: enrich with coordinates
-        # updates the data in baserow
         run: |
-          python enrich_baserow_data.py
+          python ./pyscripts/enrich_baserow.py
       - name: Commit new data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
