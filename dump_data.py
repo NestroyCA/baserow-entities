@@ -3,6 +3,17 @@ import json
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 
+play_id_2_play_name = None
+
+def lookup_play(play_index):
+    global play_id_2_play_name
+    if play_id_2_play_name is None:
+        plays_filepath = f"{JSON_FOLDER}/plays.json"
+        with open(plays_filepath, "r") as place_file:
+            play_id_2_play_name = json.load(place_file)
+    return play_id_2_play_name[play_index]
+
+
 def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
     """
     Loads json file from json_file_path and performs a set of manipulations.
@@ -20,7 +31,7 @@ def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
         entity = json_data[entity_id]
         for fieldname in fieldnames_to_manipulations:
             manipulation_function = fieldnames_to_manipulations[fieldname]
-            current_field_value = entity[fieldname]
+            current_field_value = entity[fieldname] if fieldname in entity else None
             new_field_value = manipulation_function(current_field_value)
             entity[fieldname] = new_field_value
         json_data[entity_id] = entity
@@ -30,6 +41,11 @@ def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
 
 
 def make_geoname_point(long_lat: tuple, properties: dict):
+    properties["names_of_plays"] = []
+    for play_index, play_id in properties["mentioned_in"]:
+        properties["names_of_plays"].append(
+            lookup_play(play_index)
+        )
     return {
         "type": "Feature",
         "geometry": {
@@ -88,7 +104,7 @@ if __name__ == "__main__":
     places_filepath = f"{JSON_FOLDER}/places.json"
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {
-            "geonames" : get_normalized_uri,
+            "geonames" : get_normalized_uri
         }
         modify_dump(
             places_filepath,
