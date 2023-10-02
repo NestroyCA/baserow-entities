@@ -6,11 +6,13 @@ from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 play_id_2_play_name = None
 
 def lookup_play(play_index):
+    if not isinstance(play_index, str):
+        play_index = str(play_index)
     global play_id_2_play_name
     if play_id_2_play_name is None:
         plays_filepath = f"{JSON_FOLDER}/plays.json"
-        with open(plays_filepath, "r") as place_file:
-            play_id_2_play_name = json.load(place_file)
+        with open(plays_filepath, "r") as plays_file:
+            play_id_2_play_name = json.load(plays_file)
     return play_id_2_play_name[play_index]
 
 
@@ -41,11 +43,13 @@ def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
 
 
 def make_geoname_point(long_lat: tuple, properties: dict):
-    properties["names_of_plays"] = []
-    for play_index, play_id in properties["mentioned_in"]:
-        properties["names_of_plays"].append(
-            lookup_play(play_index)
-        )
+    mentions = properties["mentioned_in"]
+    properties["mentioned_in"] = []
+    for mention in mentions:
+        play_index = mention["id"]
+        play_name = lookup_play(play_index)
+        mention["name"] = play_name
+        properties["mentioned_in"].append(mention)
     return {
         "type": "Feature",
         "geometry": {
