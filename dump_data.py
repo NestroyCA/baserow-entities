@@ -43,6 +43,8 @@ def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
 
 
 def make_geoname_point(long_lat: tuple, properties: dict):
+    if len(properties["mentioned_in"]) == 0:
+        return None
     mentions = properties["mentioned_in"]
     properties["mentioned_in"] = []
     for mention in mentions:
@@ -84,7 +86,8 @@ def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
                 long_lat = long_lat,
                 properties=json_entity
             )
-            features.append(geoname_point)
+            if geoname_point is not None:
+                features.append(geoname_point)
     
     dump_data = {
         "type": "FeatureCollection",
