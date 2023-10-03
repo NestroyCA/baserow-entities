@@ -81,25 +81,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "3.08746",
-          "36.73225"
-        ]
-      },
-      "properties": {
-        "name": "Algier ",
-        "geonames": "https://sws.geonames.org/2507480/",
-        "nestroy_id": "nestroy_place_id__6",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "4.88969",
           "52.37403"
         ]
@@ -185,44 +166,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "23.72784",
-          "37.98376"
-        ]
-      },
-      "properties": {
-        "name": "Athen",
-        "geonames": "https://sws.geonames.org/264371/",
-        "nestroy_id": "nestroy_place_id__10",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "10.89851",
-          "48.37154"
-        ]
-      },
-      "properties": {
-        "name": "Augsburg ",
-        "geonames": "https://sws.geonames.org/2954172/",
-        "nestroy_id": "nestroy_place_id__11",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "8.23975",
           "48.76060"
         ]
@@ -298,25 +241,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.00187",
-          "47.63236"
-        ]
-      },
-      "properties": {
-        "name": "Berchtesgaden",
-        "geonames": "https://sws.geonames.org/2950881/",
-        "nestroy_id": "nestroy_place_id__15",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.41053",
           "52.52437"
         ]
@@ -377,25 +301,6 @@
             "title": "Kampl"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "6.77616",
-          "51.22172"
-        ]
-      },
-      "properties": {
-        "name": "D\u00fcsseldorf ",
-        "geonames": "https://sws.geonames.org/2934246/",
-        "nestroy_id": "nestroy_place_id__17",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -493,44 +398,6 @@
         ],
         "alt_tokens": null,
         "legacy": "Baaden",
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "44.40088",
-          "33.34058"
-        ]
-      },
-      "properties": {
-        "name": "Bagdad ",
-        "geonames": "https://sws.geonames.org/98182/",
-        "nestroy_id": "nestroy_place_id__21",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "9.45123",
-          "42.70219"
-        ]
-      },
-      "properties": {
-        "name": "Bastia ",
-        "geonames": "https://sws.geonames.org/3034640/",
-        "nestroy_id": "nestroy_place_id__22",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
         "total_occurences": "0"
       }
     },
@@ -689,25 +556,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "17.03333",
-          "51.10000"
-        ]
-      },
-      "properties": {
-        "name": "Breslau (Wroclaw)",
-        "geonames": "https://sws.geonames.org/3081368/",
-        "nestroy_id": "nestroy_place_id__29",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "25.15027",
           "50.08791"
         ]
@@ -723,25 +571,6 @@
             "title": "Der Erbschleicher"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "8.59804",
-          "49.12426"
-        ]
-      },
-      "properties": {
-        "name": "Bruchsal",
-        "geonames": "https://sws.geonames.org/2943560/",
-        "nestroy_id": "nestroy_place_id__31",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -792,25 +621,6 @@
             "title": "Einen Jux will er sich machen"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "19.04045",
-          "47.49835"
-        ]
-      },
-      "properties": {
-        "name": "Budapest ",
-        "geonames": "https://sws.geonames.org/3054643/",
-        "nestroy_id": "nestroy_place_id__34",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -1001,25 +811,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "4.29861",
-          "52.07667"
-        ]
-      },
-      "properties": {
-        "name": "Den Haag",
-        "geonames": "https://sws.geonames.org/2747373/",
-        "nestroy_id": "nestroy_place_id__41",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "16.56667",
           "48.29972"
         ]
@@ -1085,25 +876,6 @@
             "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "16.80339",
-          "48.79992"
-        ]
-      },
-      "properties": {
-        "name": "Eisgrub ",
-        "geonames": "https://sws.geonames.org/3072232/",
-        "nestroy_id": "nestroy_place_id__45",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -1269,25 +1041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.55062",
-          "52.34714"
-        ]
-      },
-      "properties": {
-        "name": "Frankfurt a. d. Oder",
-        "geonames": "https://sws.geonames.org/2925535/",
-        "nestroy_id": "nestroy_place_id__52",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "16.72016",
           "48.33925"
         ]
@@ -1328,25 +1081,6 @@
             "title": "Prinz Friedrich"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "15.93893",
-          "47.67487"
-        ]
-      },
-      "properties": {
-        "name": "Gloggnitz ",
-        "geonames": "https://sws.geonames.org/2778455/",
-        "nestroy_id": "nestroy_place_id__55",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -1597,44 +1331,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "7.88458",
-          "54.18213"
-        ]
-      },
-      "properties": {
-        "name": "Helgoland  ",
-        "geonames": "https://sws.geonames.org/2906947/",
-        "nestroy_id": "nestroy_place_id__64",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "24.15000",
-          "45.80000"
-        ]
-      },
-      "properties": {
-        "name": "Hermannstadt  ",
-        "geonames": "https://sws.geonames.org/667268/",
-        "nestroy_id": "nestroy_place_id__65",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "27.60000",
           "47.16667"
         ]
@@ -1760,25 +1456,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "88.36304",
-          "22.56263"
-        ]
-      },
-      "properties": {
-        "name": "Kalkutta ",
-        "geonames": "https://sws.geonames.org/1275004/",
-        "nestroy_id": "nestroy_place_id__71",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "12.87117",
           "50.23271"
         ]
@@ -1819,44 +1496,6 @@
             "title": "Kampl"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.97703",
-          "50.00306"
-        ]
-      },
-      "properties": {
-        "name": "Kau\u0159im  ",
-        "geonames": "https://sws.geonames.org/3073084/",
-        "nestroy_id": "nestroy_place_id__74",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "11.87587",
-          "48.90897"
-        ]
-      },
-      "properties": {
-        "name": "Kehlheim  ",
-        "geonames": "https://sws.geonames.org/6558243/",
-        "nestroy_id": "nestroy_place_id__75",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -1944,25 +1583,6 @@
         ],
         "alt_tokens": "",
         "legacy": "Constantinopel\nKonstantinopel",
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "19.93658",
-          "50.06143"
-        ]
-      },
-      "properties": {
-        "name": "Krakow",
-        "geonames": "https://sws.geonames.org/3094802/",
-        "nestroy_id": "nestroy_place_id__80",
-        "mentioned_in": [],
-        "alt_tokens": "Krakau",
-        "legacy": null,
         "total_occurences": "0"
       }
     },
@@ -2066,63 +1686,6 @@
             "title": "Freiheit in Kr\u00e4hwinkel"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "24.02324",
-          "49.83826"
-        ]
-      },
-      "properties": {
-        "name": "Lwiw",
-        "geonames": "https://sws.geonames.org/702550/",
-        "nestroy_id": "nestroy_place_id__85",
-        "mentioned_in": [],
-        "alt_tokens": "Lemberg",
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "15.09144",
-          "47.37650"
-        ]
-      },
-      "properties": {
-        "name": "Leoben",
-        "geonames": "https://sws.geonames.org/2772649/",
-        "nestroy_id": "nestroy_place_id__86",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "5.94120",
-          "50.61222"
-        ]
-      },
-      "properties": {
-        "name": "Limbourg ",
-        "geonames": "https://sws.geonames.org/2792348/",
-        "nestroy_id": "nestroy_place_id__87",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -2523,44 +2086,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "22.71800",
-          "48.44248"
-        ]
-      },
-      "properties": {
-        "name": "Munk\u00e4cs  ",
-        "geonames": "https://sws.geonames.org/700646/",
-        "nestroy_id": "nestroy_place_id__100",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "7.62571",
-          "51.96236"
-        ]
-      },
-      "properties": {
-        "name": "M\u00fcnster ",
-        "geonames": "https://sws.geonames.org/2867543/",
-        "nestroy_id": "nestroy_place_id__101",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.26811",
           "40.85216"
         ]
@@ -2706,25 +2231,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "8.76647",
-          "50.10061"
-        ]
-      },
-      "properties": {
-        "name": "Offenbach  ",
-        "geonames": "https://sws.geonames.org/2857807/",
-        "nestroy_id": "nestroy_place_id__106",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "17.25175",
           "49.59552"
         ]
@@ -2790,25 +2296,6 @@
             "title": "Fr\u00fchere Verh\u00e4ltnisse"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "22.39619",
-          "44.72299"
-        ]
-      },
-      "properties": {
-        "name": "Orsowa  ",
-        "geonames": "https://sws.geonames.org/671681/",
-        "nestroy_id": "nestroy_place_id__109",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -3229,25 +2716,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.06566",
-          "52.39886"
-        ]
-      },
-      "properties": {
-        "name": "Potsdam  ",
-        "geonames": "https://sws.geonames.org/2852458/",
-        "nestroy_id": "nestroy_place_id__121",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.42076",
           "50.08804"
         ]
@@ -3513,25 +2981,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "11.20000",
-          "50.63330"
-        ]
-      },
-      "properties": {
-        "name": "Schwarzburg-Rudolstadt",
-        "geonames": "https://sws.geonames.org/6550335/",
-        "nestroy_id": "nestroy_place_id__132",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "16.46667",
           "48.13333"
         ]
@@ -3548,25 +2997,6 @@
           }
         ],
         "alt_tokens": "Schw\u00f6chat",
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "4.13244",
-          "49.19822"
-        ]
-      },
-      "properties": {
-        "name": "Sillery",
-        "geonames": "https://sws.geonames.org/2974547/",
-        "nestroy_id": "nestroy_place_id__134",
-        "mentioned_in": [],
-        "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
       }
@@ -3741,25 +3171,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "18.41034",
-          "47.18995"
-        ]
-      },
-      "properties": {
-        "name": "Stuhlwei\u00dfenburg",
-        "geonames": "https://sws.geonames.org/3044774/",
-        "nestroy_id": "nestroy_place_id__141",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "9.17702",
           "48.78232"
         ]
@@ -3776,25 +3187,6 @@
           }
         ],
         "alt_tokens": "Stuttgard",
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "18.20214",
-          "49.82059"
-        ]
-      },
-      "properties": {
-        "name": "Svinov siehe Sch\u00f6nbrunn",
-        "geonames": "https://sws.geonames.org/3064464/",
-        "nestroy_id": "nestroy_place_id__143",
-        "mentioned_in": [],
-        "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
       }
@@ -3855,25 +3247,6 @@
           }
         ],
         "alt_tokens": "Triest",
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "26.23909",
-          "39.95732"
-        ]
-      },
-      "properties": {
-        "name": "Troja",
-        "geonames": "https://sws.geonames.org/298885/",
-        "nestroy_id": "nestroy_place_id__146",
-        "mentioned_in": [],
-        "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
       }
@@ -3993,25 +3366,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "15.16667",
-          "47.66667"
-        ]
-      },
-      "properties": {
-        "name": "Weichselboden Weichselberg",
-        "geonames": "https://sws.geonames.org/2761771/",
-        "nestroy_id": "nestroy_place_id__151",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "11.32903",
           "50.98030"
         ]
@@ -4052,25 +3406,6 @@
             "title": "Der Zetteltr\u00e4ger Papp"
           }
         ],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "22.88236",
-          "43.99159"
-        ]
-      },
-      "properties": {
-        "name": "Widin ",
-        "geonames": "https://sws.geonames.org/725905/",
-        "nestroy_id": "nestroy_place_id__154",
-        "mentioned_in": [],
         "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
@@ -4222,44 +3557,6 @@
           }
         ],
         "alt_tokens": "Neustadt",
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "8.24932",
-          "50.08258"
-        ]
-      },
-      "properties": {
-        "name": "Wiesbaden",
-        "geonames": "https://sws.geonames.org/2809346/",
-        "nestroy_id": "nestroy_place_id__157",
-        "mentioned_in": [],
-        "alt_tokens": null,
-        "legacy": null,
-        "total_occurences": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "15.13333",
-          "48.13333"
-        ]
-      },
-      "properties": {
-        "name": "Wieselburg Wieselbach",
-        "geonames": "https://sws.geonames.org/2761314/",
-        "nestroy_id": "nestroy_place_id__158",
-        "mentioned_in": [],
-        "alt_tokens": null,
         "legacy": null,
         "total_occurences": "0"
       }

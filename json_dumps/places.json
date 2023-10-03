@@ -2888,19 +2888,6 @@
     "legacy": null,
     "total_occurences": "0"
   },
-  "151": {
-    "id": 151,
-    "order": "151.00000000000000000000",
-    "name": "Weichselboden Weichselberg",
-    "geonames": "https://sws.geonames.org/2761771/",
-    "nestroy_id": "nestroy_place_id__151",
-    "lat": "47.66667",
-    "long": "15.16667",
-    "mentioned_in": [],
-    "alt_tokens": null,
-    "legacy": null,
-    "total_occurences": "0"
-  },
   "152": {
     "id": 152,
     "order": "152.00000000000000000000",
@@ -3136,6 +3123,19 @@
     "nestroy_id": "nestroy_place_id__161",
     "lat": null,
     "long": null,
+    "mentioned_in": [],
+    "alt_tokens": null,
+    "legacy": null,
+    "total_occurences": "0"
+  },
+  "151": {
+    "id": 151,
+    "order": "164.00000000000000000000",
+    "name": "Weichselboden Weichselberg",
+    "geonames": "https://sws.geonames.org/2761771/",
+    "nestroy_id": "nestroy_place_id__151",
+    "lat": "47.66667",
+    "long": "15.16667",
     "mentioned_in": [],
     "alt_tokens": null,
     "legacy": null,
