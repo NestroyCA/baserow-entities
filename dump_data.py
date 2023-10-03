@@ -47,8 +47,8 @@ def make_geoname_point(long_lat: tuple, properties: dict):
     properties["mentioned_in"] = []
     for mention in mentions:
         play_index = mention["id"]
-        play_name = lookup_play(play_index)
-        mention["name"] = play_name
+        play_data = lookup_play(play_index)
+        mention["name"] = play_data["title"]
         properties["mentioned_in"].append(mention)
     return {
         "type": "Feature",
@@ -58,6 +58,7 @@ def make_geoname_point(long_lat: tuple, properties: dict):
         },
         "properties": properties
     }
+
 
 def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
     print(f"creating geojson from {json_dump_filepath}")
@@ -97,6 +98,7 @@ def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
             indent=2
         )
     return new_filepath
+
 
 if __name__ == "__main__":
     os.makedirs(JSON_FOLDER, exist_ok=True)
