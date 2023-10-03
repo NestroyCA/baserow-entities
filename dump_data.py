@@ -48,7 +48,7 @@ def make_geoname_point(long_lat: tuple, properties: dict):
     for mention in mentions:
         play_index = mention["id"]
         play_data = lookup_play(play_index)
-        mention["name"] = play_data["title"]
+        mention["title"] = play_data["title"]
         properties["mentioned_in"].append(mention)
     return {
         "type": "Feature",
