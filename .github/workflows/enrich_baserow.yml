@@ -22,7 +22,7 @@ jobs:
           python dump_data.py
       - name: enrich with coordinates
         run: |
-          python enrich_baserow.py
+          python enrich_baserow_data.py
       - name: Commit new data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
