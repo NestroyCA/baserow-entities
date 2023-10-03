@@ -1,7 +1,8 @@
 name: enrich places-basrow with coordinates
 on:
-  # schedule:
-  #   - cron: "33 8 * * *"
+  push:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
