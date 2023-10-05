@@ -2,49 +2,43 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "lover_of",
-    "Anmerkungen": "Lover of",
-    "Aktiv": false,
+    "name": "lover_of",
+    "definition": "Lover of",
     "pers_relations": []
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "related_with",
-    "Anmerkungen": "Other family relations (e.g. uncles)",
-    "Aktiv": false,
+    "name": "related_with",
+    "definition": "Other family relations (e.g. uncles)",
     "pers_relations": []
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "Name": "associated_with",
-    "Anmerkungen": "For clearly associated characters (e.g., butlers)",
-    "Aktiv": false,
+    "name": "associated_with",
+    "definition": "For clearly associated characters (e.g., butlers)",
     "pers_relations": []
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "Name": "siblings",
-    "Anmerkungen": "Characters that have at least one parent in common",
-    "Aktiv": false,
+    "name": "siblings",
+    "definition": "Characters that have at least one parent in common",
     "pers_relations": []
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "Name": "spouses",
-    "Anmerkungen": "Characters in marriage (or engaged)",
-    "Aktiv": false,
+    "name": "spouses",
+    "definition": "Characters in marriage (or engaged)",
     "pers_relations": []
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "Name": "friends",
-    "Anmerkungen": "Characters marked as being friends",
-    "Aktiv": false,
+    "name": "friends",
+    "definition": "Characters marked as being friends",
     "pers_relations": []
   }
 }
