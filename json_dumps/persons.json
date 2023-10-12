@@ -1,0 +1,20 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "",
+    "nestroy_person_id": "nestroy_person_id__1",
+    "pmb_url": "",
+    "wiki_data_url": "",
+    "wien_geschichtewiki_url": ""
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "",
+    "nestroy_person_id": "nestroy_person_id__2",
+    "pmb_url": "",
+    "wiki_data_url": "",
+    "wien_geschichtewiki_url": ""
+  }
+}
