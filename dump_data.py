@@ -1,3 +1,4 @@
+from copy import deepcopy
 import os
 import json
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
@@ -122,7 +123,7 @@ def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
         "type": "FeatureCollection",
         "features": features
     }
-    print(f"prepared data for tabulator in {create_tabulator_data(features)}")
+    print(f"prepared data for tabulator in {create_tabulator_data(deepcopy(features))}")
     new_filepath = json_dump_filepath.replace(".json", "_geodata.json")
     with open(new_filepath, "w") as geo_data_dumpfile:
         json.dump(
