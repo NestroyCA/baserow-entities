@@ -1,9 +1,9 @@
 [
   {
-    "alt_names": "",
     "name": "Adelaide",
-    "geonames": "https://sws.geonames.org/2078025/",
+    "key": "<a href='https://sws.geonames.org/2078025/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__3",
+    "mentions": "<ul><li><a href='play_65'>$Der alte Mann mit der jungen Frau</a></li></ul>",
     "mentioned_in": [
       {
         "id": 65,
@@ -11,13 +11,16 @@
         "title": "Der alte Mann mit der jungen Frau"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Adrianopel",
     "name": "Edirne",
-    "geonames": "https://sws.geonames.org/747712/",
+    "key": "<a href='https://sws.geonames.org/747712/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__4",
+    "mentions": "<ul><li><a href='play_28'>$Eulenspiegel oder Schabernack \u00fcber Schabernack</a></li></ul>",
     "mentioned_in": [
       {
         "id": 28,
@@ -25,13 +28,16 @@
         "title": "Eulenspiegel oder Schabernack \u00fcber Schabernack"
       }
     ],
+    "alt_names": "Adrianopel",
+    "alt_tokens": null,
+    "legacy": "Adrianopel",
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Aleria ",
-    "geonames": "https://sws.geonames.org/3038225/",
+    "key": "<a href='https://sws.geonames.org/3038225/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__5",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -39,13 +45,16 @@
         "title": "Prinz Friedrich"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Amsterdam",
-    "geonames": "https://sws.geonames.org/2759794/",
+    "key": "<a href='https://sws.geonames.org/2759794/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__7",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li><li><a href='play_67'>$\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer</a></li><li><a href='play_69'>$Alles will den Prophet\u2019n seh\u2019n</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -63,13 +72,16 @@
         "title": "Alles will den Prophet\u2019n seh\u2019n"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Arad ",
-    "geonames": "https://sws.geonames.org/686254/",
+    "key": "<a href='https://sws.geonames.org/686254/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__8",
+    "mentions": "<ul><li><a href='play_20'>$Robert der Teuxel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 20,
@@ -77,13 +89,16 @@
         "title": "Robert der Teuxel"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Aranjuez",
-    "geonames": "https://sws.geonames.org/3129857/",
+    "key": "<a href='https://sws.geonames.org/3129857/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__9",
+    "mentions": "<ul><li><a href='play_61'>$Die lieben Anverwandten</a></li></ul>",
     "mentioned_in": [
       {
         "id": 61,
@@ -91,13 +106,16 @@
         "title": "Die lieben Anverwandten"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Baden-Baden ",
-    "geonames": "https://sws.geonames.org/2953504/",
+    "key": "<a href='https://sws.geonames.org/2953504/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__12",
+    "mentions": "<ul><li><a href='play_63'>$Lady und Schneider</a></li></ul>",
     "mentioned_in": [
       {
         "id": 63,
@@ -105,13 +123,16 @@
         "title": "Lady und Schneider"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Bad Kissingen ",
-    "geonames": "https://sws.geonames.org/2953424/",
+    "key": "<a href='https://sws.geonames.org/2953424/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__13",
+    "mentions": "<ul><li><a href='play_76'>$Nur keck!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 76,
@@ -119,13 +140,16 @@
         "title": "Nur keck!"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Bamberg",
-    "geonames": "https://sws.geonames.org/2952984/",
+    "key": "<a href='https://sws.geonames.org/2952984/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__14",
+    "mentions": "<ul><li><a href='play_55'>$Unverhofft</a></li></ul>",
     "mentioned_in": [
       {
         "id": 55,
@@ -133,13 +157,16 @@
         "title": "Unverhofft"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Berlin ",
-    "geonames": "https://sws.geonames.org/2950159/",
+    "key": "<a href='https://sws.geonames.org/2950159/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__16",
+    "mentions": "<ul><li><a href='play_21'>$Der Tritschtratsch</a></li><li><a href='play_39'>$Die verh\u00e4ngnisvolle Faschingsnacht</a></li><li><a href='play_41'>$Der Erbschleicher</a></li><li><a href='play_53'>$Die beiden Herrn S\u00f6hne</a></li><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li><li><a href='play_63'>$Lady und Schneider</a></li><li><a href='play_66'>$H\u00f6llenangst</a></li><li><a href='play_69'>$Alles will den Prophet\u2019n seh\u2019n</a></li><li><a href='play_73'>$Kampl</a></li></ul>",
     "mentioned_in": [
       {
         "id": 21,
@@ -192,13 +219,16 @@
         "title": "Kampl"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Frankfurt am Main ",
-    "geonames": "https://sws.geonames.org/2925533/",
+    "key": "<a href='https://sws.geonames.org/2925533/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__18",
+    "mentions": "<ul><li><a href='play_28'>$Eulenspiegel oder Schabernack \u00fcber Schabernack</a></li><li><a href='play_60'>$Martha oder Die Mischmonder Markt-M\u00e4gde-Mietung</a></li><li><a href='play_61'>$Die lieben Anverwandten</a></li><li><a href='play_63'>$Lady und Schneider</a></li></ul>",
     "mentioned_in": [
       {
         "id": 28,
@@ -221,13 +251,16 @@
         "title": "Lady und Schneider"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Babylon",
-    "geonames": "https://sws.geonames.org/98228/",
+    "key": "<a href='https://sws.geonames.org/98228/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__19",
+    "mentions": "<ul><li><a href='play_56'>$Der Unbedeutende</a></li><li><a href='play_64'>$Judith und Holofernes</a></li></ul>",
     "mentioned_in": [
       {
         "id": 56,
@@ -240,13 +273,16 @@
         "title": "Judith und Holofernes"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Baaden",
     "name": "Baden",
-    "geonames": "https://sws.geonames.org/2782067/",
+    "key": "<a href='https://sws.geonames.org/2782067/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__20",
+    "mentions": "<ul><li><a href='play_20'>$Robert der Teuxel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 20,
@@ -254,13 +290,16 @@
         "title": "Robert der Teuxel"
       }
     ],
+    "alt_names": "Baaden",
+    "alt_tokens": null,
+    "legacy": "Baaden",
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Boston",
-    "geonames": "https://sws.geonames.org/4930956/",
+    "key": "<a href='https://sws.geonames.org/4930956/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__23",
+    "mentions": "<ul><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li></ul>",
     "mentioned_in": [
       {
         "id": 57,
@@ -268,13 +307,16 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Branowitz",
-    "geonames": "https://sws.geonames.org/791091/",
+    "key": "<a href='https://sws.geonames.org/791091/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__24",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -282,27 +324,33 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "total_occurences": "0"
-  },
-  {
-    "alt_names": "Pressburg",
-    "name": "Bratislava",
-    "geonames": "https://sws.geonames.org/3060972/",
-    "nestroy_id": "nestroy_place_id__25",
-    "mentioned_in": [
-      {
-        "id": 50,
-        "value": "play_50",
-        "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
-      }
-    ],
-    "total_occurences": "0"
-  },
-  {
     "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
+    "total_occurences": "0"
+  },
+  {
+    "name": "Bratislava",
+    "key": "<a href='https://sws.geonames.org/3060972/'>geonames</a>",
+    "nestroy_id": "nestroy_place_id__25",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
+    "mentioned_in": [
+      {
+        "id": 50,
+        "value": "play_50",
+        "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
+      }
+    ],
+    "alt_names": "Pressburg",
+    "alt_tokens": null,
+    "legacy": "Pressburg",
+    "total_occurences": "0"
+  },
+  {
     "name": "Braunau",
-    "geonames": "https://sws.geonames.org/8533690/",
+    "key": "<a href='https://sws.geonames.org/8533690/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__26",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -310,13 +358,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Braunschweig ",
-    "geonames": "https://sws.geonames.org/2945024/",
+    "key": "<a href='https://sws.geonames.org/2945024/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__27",
+    "mentions": "<ul><li><a href='play_39'>$Die verh\u00e4ngnisvolle Faschingsnacht</a></li></ul>",
     "mentioned_in": [
       {
         "id": 39,
@@ -324,13 +375,16 @@
         "title": "Die verh\u00e4ngnisvolle Faschingsnacht"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Bremen",
-    "geonames": "https://sws.geonames.org/2944388/",
+    "key": "<a href='https://sws.geonames.org/2944388/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__28",
+    "mentions": "<ul><li><a href='play_39'>$Die verh\u00e4ngnisvolle Faschingsnacht</a></li></ul>",
     "mentioned_in": [
       {
         "id": 39,
@@ -338,13 +392,16 @@
         "title": "Die verh\u00e4ngnisvolle Faschingsnacht"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Brody ",
-    "geonames": "https://sws.geonames.org/711416/",
+    "key": "<a href='https://sws.geonames.org/711416/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__30",
+    "mentions": "<ul><li><a href='play_41'>$Der Erbschleicher</a></li></ul>",
     "mentioned_in": [
       {
         "id": 41,
@@ -352,13 +409,16 @@
         "title": "Der Erbschleicher"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Br\u00fcnn",
     "name": "Brno",
-    "geonames": "https://sws.geonames.org/3078610/",
+    "key": "<a href='https://sws.geonames.org/3078610/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__32",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -366,13 +426,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "Br\u00fcnn",
+    "alt_tokens": "Br\u00fcnn",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Br\u00fcssel",
-    "geonames": "https://sws.geonames.org/2800866/",
+    "key": "<a href='https://sws.geonames.org/2800866/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__33",
+    "mentions": "<ul><li><a href='play_44'>$Einen Jux will er sich machen</a></li></ul>",
     "mentioned_in": [
       {
         "id": 44,
@@ -380,13 +443,16 @@
         "title": "Einen Jux will er sich machen"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Budweis",
     "name": "Ceske Budejovice",
-    "geonames": "https://sws.geonames.org/3077916/",
+    "key": "<a href='https://sws.geonames.org/3077916/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__35",
+    "mentions": "<ul><li><a href='play_17'>$Der Feenball oder Tischler, Schneider und Schlosser</a></li><li><a href='play_18'>$Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt</a></li><li><a href='play_59'>$Die schlimmen Buben in der Schule</a></li><li><a href='play_73'>$Kampl</a></li><li><a href='play_74'>$Heimliches Geld, heimliche Liebe</a></li><li><a href='play_75'>$Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit</a></li><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 17,
@@ -424,13 +490,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "Budweis",
+    "alt_tokens": "Budweis",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Bunzlau",
-    "geonames": "https://sws.geonames.org/3102987/",
+    "key": "<a href='https://sws.geonames.org/3102987/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__36",
+    "mentions": "<ul><li><a href='play_59'>$Die schlimmen Buben in der Schule</a></li></ul>",
     "mentioned_in": [
       {
         "id": 59,
@@ -438,13 +507,16 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Chrudim",
-    "geonames": "https://sws.geonames.org/3077539/",
+    "key": "<a href='https://sws.geonames.org/3077539/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__37",
+    "mentions": "<ul><li><a href='play_59'>$Die schlimmen Buben in der Schule</a></li></ul>",
     "mentioned_in": [
       {
         "id": 59,
@@ -452,13 +524,16 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Cremona ",
-    "geonames": "https://sws.geonames.org/3177838/",
+    "key": "<a href='https://sws.geonames.org/3177838/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__38",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -466,13 +541,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Czaslau ",
-    "geonames": "https://sws.geonames.org/3078234/",
+    "key": "<a href='https://sws.geonames.org/3078234/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__39",
+    "mentions": "<ul><li><a href='play_59'>$Die schlimmen Buben in der Schule</a></li></ul>",
     "mentioned_in": [
       {
         "id": 59,
@@ -480,13 +558,16 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Darmstadt ",
-    "geonames": "https://sws.geonames.org/2938913/",
+    "key": "<a href='https://sws.geonames.org/2938913/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__40",
+    "mentions": "<ul><li><a href='play_61'>$Die lieben Anverwandten</a></li></ul>",
     "mentioned_in": [
       {
         "id": 61,
@@ -494,13 +575,16 @@
         "title": "Die lieben Anverwandten"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Deutsch-Wagram ",
-    "geonames": "https://sws.geonames.org/2781017/",
+    "key": "<a href='https://sws.geonames.org/2781017/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__42",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -508,13 +592,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Dresden ",
-    "geonames": "https://sws.geonames.org/2935022/",
+    "key": "<a href='https://sws.geonames.org/2935022/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__43",
+    "mentions": "<ul><li><a href='play_47'>$Liebesgeschichten und Heurathssachen</a></li></ul>",
     "mentioned_in": [
       {
         "id": 47,
@@ -522,13 +609,16 @@
         "title": "Liebesgeschichten und Heurathssachen"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "D\u00fcrnkrut",
-    "geonames": "https://sws.geonames.org/7871730/",
+    "key": "<a href='https://sws.geonames.org/7871730/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__44",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -536,13 +626,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Enzersdorf an der Fischa",
-    "geonames": "https://sws.geonames.org/2780017/",
+    "key": "<a href='https://sws.geonames.org/2780017/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__46",
+    "mentions": "<ul><li><a href='play_20'>$Robert der Teuxel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 20,
@@ -550,13 +643,16 @@
         "title": "Robert der Teuxel"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Feistritz",
-    "geonames": "https://sws.geonames.org/2779704/",
+    "key": "<a href='https://sws.geonames.org/2779704/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__47",
+    "mentions": "<ul><li><a href='play_73'>$Kampl</a></li></ul>",
     "mentioned_in": [
       {
         "id": 73,
@@ -564,13 +660,16 @@
         "title": "Kampl"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Ferrara",
-    "geonames": "https://sws.geonames.org/3177090/",
+    "key": "<a href='https://sws.geonames.org/3177090/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__48",
+    "mentions": "<ul><li><a href='play_70'>$Verwickelte Geschichte!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 70,
@@ -578,13 +677,16 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Fischamend",
-    "geonames": "https://sws.geonames.org/7871945/",
+    "key": "<a href='https://sws.geonames.org/7871945/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__49",
+    "mentions": "<ul><li><a href='play_27'>$Weder Lorbeerbaum noch Bettelstab</a></li></ul>",
     "mentioned_in": [
       {
         "id": 27,
@@ -592,13 +694,16 @@
         "title": "Weder Lorbeerbaum noch Bettelstab"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Florenz",
-    "geonames": "https://sws.geonames.org/3176959/",
+    "key": "<a href='https://sws.geonames.org/3176959/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__50",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li><li><a href='play_73'>$Kampl</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -611,13 +716,16 @@
         "title": "Kampl"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Formentera",
-    "geonames": "https://sws.geonames.org/2517690/",
+    "key": "<a href='https://sws.geonames.org/2517690/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__51",
+    "mentions": "<ul><li><a href='play_38'>$Gegen Thorheit giebt es kein Mittel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 38,
@@ -625,13 +733,16 @@
         "title": "Gegen Thorheit giebt es kein Mittel"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "G\u00e4nserndorf ",
-    "geonames": "https://sws.geonames.org/2778877/",
+    "key": "<a href='https://sws.geonames.org/2778877/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__53",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -639,13 +750,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Genua ",
-    "geonames": "https://sws.geonames.org/3176219/",
+    "key": "<a href='https://sws.geonames.org/3176219/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__54",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -653,13 +767,16 @@
         "title": "Prinz Friedrich"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "G\u00f6rz",
-    "geonames": "https://sws.geonames.org/3175986/",
+    "key": "<a href='https://sws.geonames.org/3175986/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__56",
+    "mentions": "<ul><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li><li><a href='play_59'>$Die schlimmen Buben in der Schule</a></li></ul>",
     "mentioned_in": [
       {
         "id": 57,
@@ -672,13 +789,16 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Gr\u00e4fenberg",
-    "geonames": "https://sws.geonames.org/2918350/",
+    "key": "<a href='https://sws.geonames.org/2918350/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__57",
+    "mentions": "<ul><li><a href='play_43'>$Das M\u00e4dl aus der Vorstadt oder Ehrlich w\u00e4hrt am l\u00e4ngsten</a></li></ul>",
     "mentioned_in": [
       {
         "id": 43,
@@ -686,13 +806,16 @@
         "title": "Das M\u00e4dl aus der Vorstadt oder Ehrlich w\u00e4hrt am l\u00e4ngsten"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Graz",
-    "geonames": "https://sws.geonames.org/2778067/",
+    "key": "<a href='https://sws.geonames.org/2778067/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__58",
+    "mentions": "<ul><li><a href='play_34'>$Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko</a></li><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 34,
@@ -705,13 +828,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Gretna Green ",
-    "geonames": "https://sws.geonames.org/2647909/",
+    "key": "<a href='https://sws.geonames.org/2647909/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__59",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -719,13 +845,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Quastalla",
     "name": "Guastalla",
-    "geonames": "https://sws.geonames.org/3175693/",
+    "key": "<a href='https://sws.geonames.org/3175693/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__60",
+    "mentions": "<ul><li><a href='play_70'>$Verwickelte Geschichte!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 70,
@@ -733,13 +862,16 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
+    "alt_names": "Quastalla",
+    "alt_tokens": "Quastalla",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Gumpoldskirchen",
-    "geonames": "https://sws.geonames.org/2777279/",
+    "key": "<a href='https://sws.geonames.org/2777279/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__61",
+    "mentions": "<ul><li><a href='play_20'>$Robert der Teuxel</a></li><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 20,
@@ -752,13 +884,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Hamburg  ",
-    "geonames": "https://sws.geonames.org/2911298/",
+    "key": "<a href='https://sws.geonames.org/2911298/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__62",
+    "mentions": "<ul><li><a href='play_3'>$Dreyssig Jahre aus dem Leben eines Lumpen / Die Verbannung aus dem Zauberreiche</a></li><li><a href='play_29'>$Zu ebener Erde und erster Stock oder Die Launen des Gl\u00fcckes</a></li><li><a href='play_39'>$Die verh\u00e4ngnisvolle Faschingsnacht</a></li><li><a href='play_41'>$Der Erbschleicher</a></li><li><a href='play_69'>$Alles will den Prophet\u2019n seh\u2019n</a></li></ul>",
     "mentioned_in": [
       {
         "id": 3,
@@ -786,13 +921,16 @@
         "title": "Alles will den Prophet\u2019n seh\u2019n"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Hannover ",
-    "geonames": "https://sws.geonames.org/2910831/",
+    "key": "<a href='https://sws.geonames.org/2910831/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__63",
+    "mentions": "<ul><li><a href='play_39'>$Die verh\u00e4ngnisvolle Faschingsnacht</a></li><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li></ul>",
     "mentioned_in": [
       {
         "id": 39,
@@ -805,13 +943,16 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Ia\u015fi (Jassy)  ",
-    "geonames": "https://sws.geonames.org/675810/",
+    "key": "<a href='https://sws.geonames.org/675810/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__66",
+    "mentions": "<ul><li><a href='play_55'>$Unverhofft</a></li></ul>",
     "mentioned_in": [
       {
         "id": 55,
@@ -819,13 +960,16 @@
         "title": "Unverhofft"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Innsbruck  ",
-    "geonames": "https://sws.geonames.org/2775220/",
+    "key": "<a href='https://sws.geonames.org/2775220/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__67",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -833,13 +977,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Ischl",
-    "geonames": "https://sws.geonames.org/2782052/",
+    "key": "<a href='https://sws.geonames.org/2782052/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__68",
+    "mentions": "<ul><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 62,
@@ -847,13 +994,16 @@
         "title": "Freiheit in Kr\u00e4hwinkel"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Smyrna",
     "name": "Izmir",
-    "geonames": "https://sws.geonames.org/311046/",
+    "key": "<a href='https://sws.geonames.org/311046/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__69",
+    "mentions": "<ul><li><a href='play_55'>$Unverhofft</a></li></ul>",
     "mentioned_in": [
       {
         "id": 55,
@@ -861,13 +1011,16 @@
         "title": "Unverhofft"
       }
     ],
+    "alt_names": "Smyrna",
+    "alt_tokens": null,
+    "legacy": "Smyrna",
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Jericho  ",
-    "geonames": "https://sws.geonames.org/284899/",
+    "key": "<a href='https://sws.geonames.org/284899/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__70",
+    "mentions": "<ul><li><a href='play_64'>$Judith und Holofernes</a></li></ul>",
     "mentioned_in": [
       {
         "id": 64,
@@ -875,13 +1028,16 @@
         "title": "Judith und Holofernes"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Karlsbad  ",
-    "geonames": "https://sws.geonames.org/3073803/",
+    "key": "<a href='https://sws.geonames.org/3073803/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__72",
+    "mentions": "<ul><li><a href='play_21'>$Der Tritschtratsch</a></li></ul>",
     "mentioned_in": [
       {
         "id": 21,
@@ -889,13 +1045,16 @@
         "title": "Der Tritschtratsch"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Karthago  ",
-    "geonames": "https://sws.geonames.org/2468244/",
+    "key": "<a href='https://sws.geonames.org/2468244/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__73",
+    "mentions": "<ul><li><a href='play_73'>$Kampl</a></li></ul>",
     "mentioned_in": [
       {
         "id": 73,
@@ -903,13 +1062,16 @@
         "title": "Kampl"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Kiel",
-    "geonames": "https://sws.geonames.org/2891122/",
+    "key": "<a href='https://sws.geonames.org/2891122/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__76",
+    "mentions": "<ul><li><a href='play_14'>$Der confuse Zauberer oder Treue und Flatterhaftigkeit</a></li></ul>",
     "mentioned_in": [
       {
         "id": 14,
@@ -917,13 +1079,16 @@
         "title": "Der confuse Zauberer oder Treue und Flatterhaftigkeit"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "C\u00f6ln",
     "name": "K\u00f6ln",
-    "geonames": "https://sws.geonames.org/2886242/",
+    "key": "<a href='https://sws.geonames.org/2886242/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__78",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -931,13 +1096,16 @@
         "title": "Prinz Friedrich"
       }
     ],
+    "alt_names": "C\u00f6ln",
+    "alt_tokens": null,
+    "legacy": "C\u00f6ln",
     "total_occurences": "0"
   },
   {
-    "alt_names": "Constantinopel\nKonstantinopel",
     "name": "Istanbul",
-    "geonames": "https://sws.geonames.org/745044/",
+    "key": "<a href='https://sws.geonames.org/745044/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__79",
+    "mentions": "<ul><li><a href='play_28'>$Eulenspiegel oder Schabernack \u00fcber Schabernack</a></li><li><a href='play_55'>$Unverhofft</a></li><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 28,
@@ -955,13 +1123,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "Constantinopel\nKonstantinopel",
+    "alt_tokens": "",
+    "legacy": "Constantinopel\nKonstantinopel",
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Kremsm\u00fcnster",
-    "geonames": "https://sws.geonames.org/2773538/",
+    "key": "<a href='https://sws.geonames.org/2773538/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__81",
+    "mentions": "<ul><li><a href='play_49'>$Nur Ruhe!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 49,
@@ -969,13 +1140,16 @@
         "title": "Nur Ruhe!"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Kumrowitz ",
-    "geonames": "https://sws.geonames.org/3073337/",
+    "key": "<a href='https://sws.geonames.org/3073337/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__82",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -983,13 +1157,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Laxenburg ",
-    "geonames": "https://sws.geonames.org/2772810/",
+    "key": "<a href='https://sws.geonames.org/2772810/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__83",
+    "mentions": "<ul><li><a href='play_20'>$Robert der Teuxel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 20,
@@ -997,13 +1174,16 @@
         "title": "Robert der Teuxel"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Leitomischl ",
-    "geonames": "https://sws.geonames.org/3071675/",
+    "key": "<a href='https://sws.geonames.org/3071675/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__84",
+    "mentions": "<ul><li><a href='play_38'>$Gegen Thorheit giebt es kein Mittel</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 38,
@@ -1016,13 +1196,16 @@
         "title": "Freiheit in Kr\u00e4hwinkel"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Linz",
-    "geonames": "https://sws.geonames.org/2772400/",
+    "key": "<a href='https://sws.geonames.org/2772400/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__88",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -1030,13 +1213,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Livorno ",
-    "geonames": "https://sws.geonames.org/2772400/",
+    "key": "<a href='https://sws.geonames.org/2772400/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__89",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li><li><a href='play_34'>$Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -1049,13 +1235,16 @@
         "title": "Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "London ",
-    "geonames": "https://sws.geonames.org/2643743/",
+    "key": "<a href='https://sws.geonames.org/2643743/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__90",
+    "mentions": "<ul><li><a href='play_5'>$Der Tod am Hochzeitstage oder Mann, Frau, Kind</a></li><li><a href='play_27'>$Weder Lorbeerbaum noch Bettelstab</a></li><li><a href='play_28'>$Eulenspiegel oder Schabernack \u00fcber Schabernack</a></li><li><a href='play_31'>$Die beiden Nachtwandler oder Das Notwendige und das \u00dcberfl\u00fcssige</a></li><li><a href='play_34'>$Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko</a></li><li><a href='play_52'>$Der Zerrissene</a></li><li><a href='play_53'>$Die beiden Herrn S\u00f6hne</a></li><li><a href='play_54'>$Das Gew\u00fcrzkr\u00e4merkleeblatt oder Die unschuldig Schuldigen</a></li><li><a href='play_55'>$Unverhofft</a></li><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li><li><a href='play_66'>$H\u00f6llenangst</a></li><li><a href='play_75'>$Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit</a></li></ul>",
     "mentioned_in": [
       {
         "id": 5,
@@ -1123,13 +1312,16 @@
         "title": "Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Lundenburg",
-    "geonames": "https://sws.geonames.org/3078773/",
+    "key": "<a href='https://sws.geonames.org/3078773/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__91",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -1137,13 +1329,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Madrid ",
-    "geonames": "https://sws.geonames.org/3117735/",
+    "key": "<a href='https://sws.geonames.org/3117735/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__92",
+    "mentions": "<ul><li><a href='play_48'>$Das Quodlibet verschiedener Jahrhunderte</a></li></ul>",
     "mentioned_in": [
       {
         "id": 48,
@@ -1151,13 +1346,16 @@
         "title": "Das Quodlibet verschiedener Jahrhunderte"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Mailand  ",
-    "geonames": "https://sws.geonames.org/3173435/",
+    "key": "<a href='https://sws.geonames.org/3173435/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__93",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -1165,13 +1363,16 @@
         "title": "Prinz Friedrich"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Malaga  ",
-    "geonames": "https://sws.geonames.org/2514256/",
+    "key": "<a href='https://sws.geonames.org/2514256/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__94",
+    "mentions": "<ul><li><a href='play_29'>$Zu ebener Erde und erster Stock oder Die Launen des Gl\u00fcckes</a></li><li><a href='play_33'>$Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing</a></li><li><a href='play_36'>$Gl\u00fcck, Mi\u00dfbrauch und R\u00fcckkehr oder Das Geheimnis des grauen Hauses</a></li><li><a href='play_55'>$Unverhofft</a></li></ul>",
     "mentioned_in": [
       {
         "id": 29,
@@ -1194,13 +1395,16 @@
         "title": "Unverhofft"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Marienbad  ",
-    "geonames": "https://sws.geonames.org/3071024/",
+    "key": "<a href='https://sws.geonames.org/3071024/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__95",
+    "mentions": "<ul><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li></ul>",
     "mentioned_in": [
       {
         "id": 57,
@@ -1208,13 +1412,16 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Marseille  ",
-    "geonames": "https://sws.geonames.org/2995469/",
+    "key": "<a href='https://sws.geonames.org/2995469/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__96",
+    "mentions": "<ul><li><a href='play_29'>$Zu ebener Erde und erster Stock oder Die Launen des Gl\u00fcckes</a></li><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 29,
@@ -1227,13 +1434,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Messina  ",
-    "geonames": "https://sws.geonames.org/2524170/",
+    "key": "<a href='https://sws.geonames.org/2524170/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__97",
+    "mentions": "<ul><li><a href='play_31'>$Die beiden Nachtwandler oder Das Notwendige und das \u00dcberfl\u00fcssige</a></li></ul>",
     "mentioned_in": [
       {
         "id": 31,
@@ -1241,13 +1451,16 @@
         "title": "Die beiden Nachtwandler oder Das Notwendige und das \u00dcberfl\u00fcssige"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "M\u00f6dling  ",
-    "geonames": "https://sws.geonames.org/2771335/",
+    "key": "<a href='https://sws.geonames.org/2771335/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__98",
+    "mentions": "<ul><li><a href='play_20'>$Robert der Teuxel</a></li><li><a href='play_27'>$Weder Lorbeerbaum noch Bettelstab</a></li></ul>",
     "mentioned_in": [
       {
         "id": 20,
@@ -1260,13 +1473,16 @@
         "title": "Weder Lorbeerbaum noch Bettelstab"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Moskau ",
-    "geonames": "https://sws.geonames.org/524901/",
+    "key": "<a href='https://sws.geonames.org/524901/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__99",
+    "mentions": "<ul><li><a href='play_55'>$Unverhofft</a></li></ul>",
     "mentioned_in": [
       {
         "id": 55,
@@ -1274,13 +1490,16 @@
         "title": "Unverhofft"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Neapel  ",
-    "geonames": "https://sws.geonames.org/3172394/",
+    "key": "<a href='https://sws.geonames.org/3172394/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__102",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li><li><a href='play_17'>$Der Feenball oder Tischler, Schneider und Schlosser</a></li><li><a href='play_28'>$Eulenspiegel oder Schabernack \u00fcber Schabernack</a></li><li><a href='play_42'>$Der Talisman</a></li><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li><li><a href='play_66'>$H\u00f6llenangst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -1318,13 +1537,16 @@
         "title": "H\u00f6llenangst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "New York  ",
-    "geonames": "https://sws.geonames.org/5128581/",
+    "key": "<a href='https://sws.geonames.org/5128581/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__103",
+    "mentions": "<ul><li><a href='play_14'>$Der confuse Zauberer oder Treue und Flatterhaftigkeit</a></li></ul>",
     "mentioned_in": [
       {
         "id": 14,
@@ -1332,13 +1554,16 @@
         "title": "Der confuse Zauberer oder Treue und Flatterhaftigkeit"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Ninive  ",
-    "geonames": "https://sws.geonames.org/92878/",
+    "key": "<a href='https://sws.geonames.org/92878/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__104",
+    "mentions": "<ul><li><a href='play_56'>$Der Unbedeutende</a></li><li><a href='play_65'>$Der alte Mann mit der jungen Frau</a></li></ul>",
     "mentioned_in": [
       {
         "id": 56,
@@ -1351,13 +1576,16 @@
         "title": "Der alte Mann mit der jungen Frau"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "N\u00fcrnberg  ",
-    "geonames": "https://sws.geonames.org/2861650/",
+    "key": "<a href='https://sws.geonames.org/2861650/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__105",
+    "mentions": "<ul><li><a href='play_17'>$Der Feenball oder Tischler, Schneider und Schlosser</a></li><li><a href='play_18'>$Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt</a></li><li><a href='play_47'>$Liebesgeschichten und Heurathssachen</a></li></ul>",
     "mentioned_in": [
       {
         "id": 17,
@@ -1375,13 +1603,16 @@
         "title": "Liebesgeschichten und Heurathssachen"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Olm\u00fctz",
     "name": "Olomouc",
-    "geonames": "https://sws.geonames.org/3069011/",
+    "key": "<a href='https://sws.geonames.org/3069011/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__107",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -1389,13 +1620,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "Olm\u00fctz",
+    "alt_tokens": "Olm\u00fctz",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Orleans",
-    "geonames": "https://sws.geonames.org/2989317/",
+    "key": "<a href='https://sws.geonames.org/2989317/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__108",
+    "mentions": "<ul><li><a href='play_1'>$Der Zetteltr\u00e4ger Papp</a></li><li><a href='play_25'>$Die Fahrt mit dem Dampfwagen</a></li><li><a href='play_43'>$Das M\u00e4dl aus der Vorstadt oder Ehrlich w\u00e4hrt am l\u00e4ngsten</a></li><li><a href='play_48'>$Das Quodlibet verschiedener Jahrhunderte</a></li><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li><li><a href='play_82'>$Fr\u00fchere Verh\u00e4ltnisse</a></li></ul>",
     "mentioned_in": [
       {
         "id": 1,
@@ -1428,13 +1662,16 @@
         "title": "Fr\u00fchere Verh\u00e4ltnisse"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Ostende  ",
-    "geonames": "https://sws.geonames.org/2789786/",
+    "key": "<a href='https://sws.geonames.org/2789786/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__110",
+    "mentions": "<ul><li><a href='play_73'>$Kampl</a></li></ul>",
     "mentioned_in": [
       {
         "id": 73,
@@ -1442,13 +1679,16 @@
         "title": "Kampl"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Padua  ",
-    "geonames": "https://sws.geonames.org/3171728/",
+    "key": "<a href='https://sws.geonames.org/3171728/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__111",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -1456,13 +1696,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Pantschowa  ",
-    "geonames": "https://sws.geonames.org/787237/",
+    "key": "<a href='https://sws.geonames.org/787237/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__112",
+    "mentions": "<ul><li><a href='play_41'>$Der Erbschleicher</a></li></ul>",
     "mentioned_in": [
       {
         "id": 41,
@@ -1470,13 +1713,16 @@
         "title": "Der Erbschleicher"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Paris ",
-    "geonames": "https://sws.geonames.org/2988507/",
+    "key": "<a href='https://sws.geonames.org/2988507/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__113",
+    "mentions": "<ul><li><a href='play_3'>$Dreyssig Jahre aus dem Leben eines Lumpen / Die Verbannung aus dem Zauberreiche</a></li><li><a href='play_8'>$Prinz Friedrich</a></li><li><a href='play_17'>$Der Feenball oder Tischler, Schneider und Schlosser</a></li><li><a href='play_19'>$Der Zauberer Sulphurelectrimagnetikophosphoratus und die Fee Walpurgiblocksbergiseptemtrionalis oder Die Abenteuer in der Sclaverey oder Asiatische Strafe f\u00fcr europ\u00e4ische Vergehen oder Des ungeratenen Herrn Sohnes Leben, Taten und Meinungen, wie auch dessen Bestrafung in der Sklaverei und was sich all dort Ferneres mit ihm begab</a></li><li><a href='play_26'>$Die Familien Zwirn, Knieriem und Leim oder Der Welt-Untergangs-Tag</a></li><li><a href='play_27'>$Weder Lorbeerbaum noch Bettelstab</a></li><li><a href='play_28'>$Eulenspiegel oder Schabernack \u00fcber Schabernack</a></li><li><a href='play_30'>$Der Treulose oder Saat und Ernte</a></li><li><a href='play_34'>$Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko</a></li><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li><li><a href='play_53'>$Die beiden Herrn S\u00f6hne</a></li><li><a href='play_54'>$Das Gew\u00fcrzkr\u00e4merkleeblatt oder Die unschuldig Schuldigen</a></li><li><a href='play_55'>$Unverhofft</a></li><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li><li><a href='play_61'>$Die lieben Anverwandten</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li><li><a href='play_68'>$Karikaturen-Charivari mit Heurathszweck</a></li><li><a href='play_69'>$Alles will den Prophet\u2019n seh\u2019n</a></li><li><a href='play_71'>$Mein Freund</a></li><li><a href='play_73'>$Kampl</a></li><li><a href='play_74'>$Heimliches Geld, heimliche Liebe</a></li><li><a href='play_75'>$Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit</a></li><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 3,
@@ -1594,13 +1840,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Parma  ",
-    "geonames": "https://sws.geonames.org/3171457/",
+    "key": "<a href='https://sws.geonames.org/3171457/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__114",
+    "mentions": "<ul><li><a href='play_17'>$Der Feenball oder Tischler, Schneider und Schlosser</a></li></ul>",
     "mentioned_in": [
       {
         "id": 17,
@@ -1608,13 +1857,16 @@
         "title": "Der Feenball oder Tischler, Schneider und Schlosser"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Peking ",
-    "geonames": "https://sws.geonames.org/1816670/",
+    "key": "<a href='https://sws.geonames.org/1816670/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__115",
+    "mentions": "<ul><li><a href='play_48'>$Das Quodlibet verschiedener Jahrhunderte</a></li></ul>",
     "mentioned_in": [
       {
         "id": 48,
@@ -1622,13 +1874,16 @@
         "title": "Das Quodlibet verschiedener Jahrhunderte"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Petersburg  ",
-    "geonames": "https://sws.geonames.org/498817/",
+    "key": "<a href='https://sws.geonames.org/498817/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__116",
+    "mentions": "<ul><li><a href='play_27'>$Weder Lorbeerbaum noch Bettelstab</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li></ul>",
     "mentioned_in": [
       {
         "id": 27,
@@ -1641,13 +1896,16 @@
         "title": "Freiheit in Kr\u00e4hwinkel"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Philadelphia ",
-    "geonames": "https://sws.geonames.org/4560349/",
+    "key": "<a href='https://sws.geonames.org/4560349/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__117",
+    "mentions": "<ul><li><a href='play_30'>$Der Treulose oder Saat und Ernte</a></li><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li></ul>",
     "mentioned_in": [
       {
         "id": 30,
@@ -1660,13 +1918,16 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Piacenza  ",
-    "geonames": "https://sws.geonames.org/3171058/",
+    "key": "<a href='https://sws.geonames.org/3171058/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__118",
+    "mentions": "<ul><li><a href='play_70'>$Verwickelte Geschichte!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 70,
@@ -1674,13 +1935,16 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Pompeji  ",
-    "geonames": "https://sws.geonames.org/3170336/",
+    "key": "<a href='https://sws.geonames.org/3170336/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__119",
+    "mentions": "<ul><li><a href='play_17'>$Der Feenball oder Tischler, Schneider und Schlosser</a></li><li><a href='play_49'>$Nur Ruhe!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 17,
@@ -1693,13 +1957,16 @@
         "title": "Nur Ruhe!"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Porto Vecchio ",
-    "geonames": "https://sws.geonames.org/2985947/",
+    "key": "<a href='https://sws.geonames.org/2985947/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__120",
+    "mentions": "<ul><li><a href='play_23'>$Das Verlobungsfest im Feenreiche oder Die Gleichheit der Jahre</a></li><li><a href='play_57'>$Zwey ewige Juden und Keiner</a></li><li><a href='play_71'>$Mein Freund</a></li></ul>",
     "mentioned_in": [
       {
         "id": 23,
@@ -1717,13 +1984,16 @@
         "title": "Mein Freund"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Prag",
     "name": "Praha",
-    "geonames": "https://sws.geonames.org/3067696/",
+    "key": "<a href='https://sws.geonames.org/3067696/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__122",
+    "mentions": "<ul><li><a href='play_18'>$Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt</a></li><li><a href='play_35'>$Das Haus der Temperamente</a></li></ul>",
     "mentioned_in": [
       {
         "id": 18,
@@ -1736,13 +2006,16 @@
         "title": "Das Haus der Temperamente"
       }
     ],
+    "alt_names": "Prag",
+    "alt_tokens": "Prag",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Purkersdorf  ",
-    "geonames": "https://sws.geonames.org/2768232/",
+    "key": "<a href='https://sws.geonames.org/2768232/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__123",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -1750,13 +2023,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Raigern ",
-    "geonames": "https://sws.geonames.org/3067078/",
+    "key": "<a href='https://sws.geonames.org/3067078/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__124",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -1764,13 +2040,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Regensburg ",
-    "geonames": "https://sws.geonames.org/2849483/",
+    "key": "<a href='https://sws.geonames.org/2849483/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__125",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -1778,13 +2057,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Rom",
-    "geonames": "https://sws.geonames.org/3169070/",
+    "key": "<a href='https://sws.geonames.org/3169070/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__126",
+    "mentions": "<ul><li><a href='play_66'>$H\u00f6llenangst</a></li><li><a href='play_70'>$Verwickelte Geschichte!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 66,
@@ -1797,13 +2079,16 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Rouen ",
-    "geonames": "https://sws.geonames.org/2982652/",
+    "key": "<a href='https://sws.geonames.org/2982652/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__127",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -1811,13 +2096,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Salzburg",
-    "geonames": "https://sws.geonames.org/2766824/",
+    "key": "<a href='https://sws.geonames.org/2766824/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__128",
+    "mentions": "<ul><li><a href='play_17'>$Der Feenball oder Tischler, Schneider und Schlosser</a></li><li><a href='play_59'>$Die schlimmen Buben in der Schule</a></li></ul>",
     "mentioned_in": [
       {
         "id": 17,
@@ -1830,13 +2118,16 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "San Pellegrino ",
-    "geonames": "https://sws.geonames.org/3167875/",
+    "key": "<a href='https://sws.geonames.org/3167875/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__129",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -1844,13 +2135,16 @@
         "title": "Prinz Friedrich"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Saragossa",
-    "geonames": "https://sws.geonames.org/3104324/",
+    "key": "<a href='https://sws.geonames.org/3104324/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__130",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -1858,13 +2152,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Sartena ",
-    "geonames": "https://sws.geonames.org/2975931/",
+    "key": "<a href='https://sws.geonames.org/2975931/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__131",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -1872,13 +2169,16 @@
         "title": "Prinz Friedrich"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Schw\u00f6chat",
     "name": "Schwechat",
-    "geonames": "https://sws.geonames.org/2765388/",
+    "key": "<a href='https://sws.geonames.org/2765388/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__133",
+    "mentions": "<ul><li><a href='play_27'>$Weder Lorbeerbaum noch Bettelstab</a></li></ul>",
     "mentioned_in": [
       {
         "id": 27,
@@ -1886,13 +2186,16 @@
         "title": "Weder Lorbeerbaum noch Bettelstab"
       }
     ],
+    "alt_names": "Schw\u00f6chat",
+    "alt_tokens": "Schw\u00f6chat",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Speyer",
-    "geonames": "https://sws.geonames.org/2830582/",
+    "key": "<a href='https://sws.geonames.org/2830582/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__135",
+    "mentions": "<ul><li><a href='play_15'>$Die Zauberreise in die Ritterzeit oder Die \u00dcberm\u00fcthigen</a></li></ul>",
     "mentioned_in": [
       {
         "id": 15,
@@ -1900,13 +2203,16 @@
         "title": "Die Zauberreise in die Ritterzeit oder Die \u00dcberm\u00fcthigen"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Spielberg",
-    "geonames": "https://sws.geonames.org/2764812/",
+    "key": "<a href='https://sws.geonames.org/2764812/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__136",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li><li><a href='play_66'>$H\u00f6llenangst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -1924,13 +2230,16 @@
         "title": "H\u00f6llenangst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Steinbrunn",
-    "geonames": "https://sws.geonames.org/2764296/",
+    "key": "<a href='https://sws.geonames.org/2764296/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__137",
+    "mentions": "<ul><li><a href='play_76'>$Nur keck!</a></li></ul>",
     "mentioned_in": [
       {
         "id": 76,
@@ -1938,13 +2247,16 @@
         "title": "Nur keck!"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Steyr",
-    "geonames": "https://sws.geonames.org/2764359/",
+    "key": "<a href='https://sws.geonames.org/2764359/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__138",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -1952,13 +2264,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Stixneusiedl  ",
-    "geonames": "https://sws.geonames.org/2764288/",
+    "key": "<a href='https://sws.geonames.org/2764288/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__139",
+    "mentions": "<ul><li><a href='play_67'>$\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer</a></li></ul>",
     "mentioned_in": [
       {
         "id": 67,
@@ -1966,13 +2281,16 @@
         "title": "\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Stockerau ",
-    "geonames": "https://sws.geonames.org/2764279/",
+    "key": "<a href='https://sws.geonames.org/2764279/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__140",
+    "mentions": "<ul><li><a href='play_28'>$Eulenspiegel oder Schabernack \u00fcber Schabernack</a></li><li><a href='play_65'>$Der alte Mann mit der jungen Frau</a></li></ul>",
     "mentioned_in": [
       {
         "id": 28,
@@ -1985,13 +2303,16 @@
         "title": "Der alte Mann mit der jungen Frau"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Stuttgard",
     "name": "Stuttgart",
-    "geonames": "https://sws.geonames.org/2825297/",
+    "key": "<a href='https://sws.geonames.org/2825297/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__142",
+    "mentions": "<ul><li><a href='play_30'>$Der Treulose oder Saat und Ernte</a></li></ul>",
     "mentioned_in": [
       {
         "id": 30,
@@ -1999,13 +2320,16 @@
         "title": "Der Treulose oder Saat und Ernte"
       }
     ],
+    "alt_names": "Stuttgard",
+    "alt_tokens": "Stuttgard",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Traiskirchen",
-    "geonames": "https://sws.geonames.org/7871715/",
+    "key": "<a href='https://sws.geonames.org/7871715/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__144",
+    "mentions": "<ul><li><a href='play_34'>$Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko</a></li></ul>",
     "mentioned_in": [
       {
         "id": 34,
@@ -2013,13 +2337,16 @@
         "title": "Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Triest",
     "name": "Trieste",
-    "geonames": "https://sws.geonames.org/3165185/",
+    "key": "<a href='https://sws.geonames.org/3165185/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__145",
+    "mentions": "<ul><li><a href='play_18'>$Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt</a></li><li><a href='play_41'>$Der Erbschleicher</a></li><li><a href='play_47'>$Liebesgeschichten und Heurathssachen</a></li></ul>",
     "mentioned_in": [
       {
         "id": 18,
@@ -2037,13 +2364,16 @@
         "title": "Liebesgeschichten und Heurathssachen"
       }
     ],
+    "alt_names": "Triest",
+    "alt_tokens": "Triest",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Tunis ",
-    "geonames": "https://sws.geonames.org/2464470/",
+    "key": "<a href='https://sws.geonames.org/2464470/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__147",
+    "mentions": "<ul><li><a href='play_8'>$Prinz Friedrich</a></li></ul>",
     "mentioned_in": [
       {
         "id": 8,
@@ -2051,13 +2381,16 @@
         "title": "Prinz Friedrich"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Ulm",
-    "geonames": "https://sws.geonames.org/2820256/",
+    "key": "<a href='https://sws.geonames.org/2820256/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__148",
+    "mentions": "<ul><li><a href='play_18'>$Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt</a></li></ul>",
     "mentioned_in": [
       {
         "id": 18,
@@ -2065,13 +2398,16 @@
         "title": "Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Venedig",
     "name": "Venezia",
-    "geonames": "https://sws.geonames.org/3164603/",
+    "key": "<a href='https://sws.geonames.org/3164603/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__149",
+    "mentions": "<ul><li><a href='play_34'>$Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko</a></li><li><a href='play_47'>$Liebesgeschichten und Heurathssachen</a></li><li><a href='play_75'>$Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit</a></li></ul>",
     "mentioned_in": [
       {
         "id": 34,
@@ -2089,13 +2425,16 @@
         "title": "Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit"
       }
     ],
+    "alt_names": "Venedig",
+    "alt_tokens": "Venedig",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Waidhofen/Ybbs",
-    "geonames": "https://sws.geonames.org/2762077/",
+    "key": "<a href='https://sws.geonames.org/2762077/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__150",
+    "mentions": "<ul><li><a href='play_3'>$Dreyssig Jahre aus dem Leben eines Lumpen / Die Verbannung aus dem Zauberreiche</a></li></ul>",
     "mentioned_in": [
       {
         "id": 3,
@@ -2103,13 +2442,16 @@
         "title": "Dreyssig Jahre aus dem Leben eines Lumpen / Die Verbannung aus dem Zauberreiche"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Weimar",
-    "geonames": "https://sws.geonames.org/2812482/",
+    "key": "<a href='https://sws.geonames.org/2812482/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__152",
+    "mentions": "<ul><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 77,
@@ -2117,13 +2459,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Weinsberg",
-    "geonames": "https://sws.geonames.org/2812158/",
+    "key": "<a href='https://sws.geonames.org/2812158/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__153",
+    "mentions": "<ul><li><a href='play_1'>$Der Zetteltr\u00e4ger Papp</a></li></ul>",
     "mentioned_in": [
       {
         "id": 1,
@@ -2131,13 +2476,16 @@
         "title": "Der Zetteltr\u00e4ger Papp"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Wien",
-    "geonames": "https://sws.geonames.org/2761369/",
+    "key": "<a href='https://sws.geonames.org/2761369/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__155",
+    "mentions": "<ul><li><a href='play_18'>$Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt</a></li><li><a href='play_19'>$Der Zauberer Sulphurelectrimagnetikophosphoratus und die Fee Walpurgiblocksbergiseptemtrionalis oder Die Abenteuer in der Sclaverey oder Asiatische Strafe f\u00fcr europ\u00e4ische Vergehen oder Des ungeratenen Herrn Sohnes Leben, Taten und Meinungen, wie auch dessen Bestrafung in der Sklaverei und was sich all dort Ferneres mit ihm begab</a></li><li><a href='play_20'>$Robert der Teuxel</a></li><li><a href='play_21'>$Der Tritschtratsch</a></li><li><a href='play_26'>$Die Familien Zwirn, Knieriem und Leim oder Der Welt-Untergangs-Tag</a></li><li><a href='play_27'>$Weder Lorbeerbaum noch Bettelstab</a></li><li><a href='play_33'>$Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing</a></li><li><a href='play_34'>$Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko</a></li><li><a href='play_39'>$Die verh\u00e4ngnisvolle Faschingsnacht</a></li><li><a href='play_47'>$Liebesgeschichten und Heurathssachen</a></li><li><a href='play_48'>$Das Quodlibet verschiedener Jahrhunderte</a></li><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li><li><a href='play_53'>$Die beiden Herrn S\u00f6hne</a></li><li><a href='play_58'>$Der Sch\u00fctzling</a></li><li><a href='play_59'>$Die schlimmen Buben in der Schule</a></li><li><a href='play_62'>$Freiheit in Kr\u00e4hwinkel</a></li><li><a href='play_63'>$Lady und Schneider</a></li><li><a href='play_64'>$Judith und Holofernes</a></li><li><a href='play_67'>$\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer</a></li><li><a href='play_69'>$Alles will den Prophet\u2019n seh\u2019n</a></li><li><a href='play_77'>$Umsonst</a></li></ul>",
     "mentioned_in": [
       {
         "id": 18,
@@ -2245,13 +2593,16 @@
         "title": "Umsonst"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Neustadt",
     "name": "Wiener Neustadt",
-    "geonames": "https://sws.geonames.org/2761353/",
+    "key": "<a href='https://sws.geonames.org/2761353/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__156",
+    "mentions": "<ul><li><a href='play_50'>$Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn</a></li></ul>",
     "mentioned_in": [
       {
         "id": 50,
@@ -2259,13 +2610,16 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
+    "alt_names": "Neustadt",
+    "alt_tokens": "Neustadt",
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "",
     "name": "Worms",
-    "geonames": "https://sws.geonames.org/2806142/",
+    "key": "<a href='https://sws.geonames.org/2806142/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__159",
+    "mentions": "<ul><li><a href='play_15'>$Die Zauberreise in die Ritterzeit oder Die \u00dcberm\u00fcthigen</a></li></ul>",
     "mentioned_in": [
       {
         "id": 15,
@@ -2273,13 +2627,16 @@
         "title": "Die Zauberreise in die Ritterzeit oder Die \u00dcberm\u00fcthigen"
       }
     ],
+    "alt_names": "",
+    "alt_tokens": null,
+    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "alt_names": "Yps",
     "name": "Ybbs",
-    "geonames": "https://sws.geonames.org/2760772/",
+    "key": "<a href='https://sws.geonames.org/2760772/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__160",
+    "mentions": "<ul><li><a href='play_13'>$Zampa der Tagdieb oder die Braut von Gips</a></li></ul>",
     "mentioned_in": [
       {
         "id": 13,
@@ -2287,6 +2644,9 @@
         "title": "Zampa der Tagdieb oder die Braut von Gips"
       }
     ],
+    "alt_names": "Yps",
+    "alt_tokens": null,
+    "legacy": "Yps",
     "total_occurences": "0"
   }
 ]
