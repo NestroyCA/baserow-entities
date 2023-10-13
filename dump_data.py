@@ -5,6 +5,26 @@ from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 
 play_id_2_play_name = None
 
+def create_tabulator_data(features):
+    tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
+    #os.makedirs(tabulator_data_output_path, exist_ok=True)
+    tabulator_data = []
+    for feature in features:
+        row = {
+            "coordinates" : feature.pop("geometry").pop("coordinates")
+        }
+        for key, val in feature.pop("properties").items():
+            row[key] = val
+        tabulator_data.append(row)
+    with open(tabulator_data_output_path, "w") as tabulator_data_dumpfile:
+        json.dump(
+            tabulator_data,
+            fp=tabulator_data_dumpfile,
+            indent=2
+        )
+    return tabulator_data_output_path
+
+
 def lookup_play(play_index):
     if not isinstance(play_index, str):
         play_index = str(play_index)
@@ -93,6 +113,7 @@ def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
         "type": "FeatureCollection",
         "features": features
     }
+    print(f"prepared data for tabulator in {create_tabulator_data(features)}")
     new_filepath = json_dump_filepath.replace(".json", "_geodata.json")
     with open(new_filepath, "w") as geo_data_dumpfile:
         json.dump(
