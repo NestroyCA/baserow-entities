@@ -13,16 +13,28 @@ def create_tabulator_data(features):
     for feature in features:
         row = {
             # "coordinates" : feature.pop("geometry").pop("coordinates")
-            "alt_names" : ""
         }
-
+        alt_names = ""
+        mentions = ""
         for key, val in feature.pop("properties").items():
             if key in altname_keys:
                 if val:
-                    if row["alt_names"] == "":
-                        row["alt_names"] = val
+                    if alt_names == "":
+                        alt_names = val
                     else:
-                        row["alt_names"] += f", {val}"
+                        alt_names += f", {val}"
+                row["alt_names"] = alt_names
+            if key == "mentioned_in":
+                items = []
+                for mention in val:
+                    play_nestroy_id = mention["value"]
+                    play_title = mention["title"]
+                    item = f"<li><a href='{play_nestroy_id}'>${play_title}</a></li>"
+                    items.append(item)
+                mentions = f"<ul>{''.join(items)}</ul>"
+                row["mentions"] = mentions
+            if key == "geonames":
+                row["key"] = f"<a href='{val}'>geonames</a>"
             else:
                 row[key] = val
         tabulator_data.append(row)
