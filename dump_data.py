@@ -29,7 +29,7 @@ def create_tabulator_data(features):
                 for mention in val:
                     play_nestroy_id = mention["value"]
                     play_title = mention["title"]
-                    item = f"<li><a href='{play_nestroy_id}'>${play_title}</a></li>"
+                    item = f"<li><a href='{play_nestroy_id}'>{play_title}</a></li>"
                     items.append(item)
                 mentions = f"<ul>{''.join(items)}</ul>"
                 row["mentions"] = mentions
