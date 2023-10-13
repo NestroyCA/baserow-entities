@@ -4,17 +4,26 @@ from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 
 play_id_2_play_name = None
+altname_keys = ["alt_tokens", "legacy"]
 
 def create_tabulator_data(features):
     tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
-    #os.makedirs(tabulator_data_output_path, exist_ok=True)
     tabulator_data = []
     for feature in features:
         row = {
-            "coordinates" : feature.pop("geometry").pop("coordinates")
+            # "coordinates" : feature.pop("geometry").pop("coordinates")
+            "alt_names" : ""
         }
+
         for key, val in feature.pop("properties").items():
-            row[key] = val
+            if key in altname_keys:
+                if val:
+                    if row["alt_names"] == "":
+                        row["alt_names"] = val
+                    else:
+                        row["alt_names"] += f", {val}"
+            else:
+                row[key] = val
         tabulator_data.append(row)
     with open(tabulator_data_output_path, "w") as tabulator_data_dumpfile:
         json.dump(
