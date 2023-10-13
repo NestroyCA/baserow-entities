@@ -24,7 +24,7 @@ def create_tabulator_data(features):
                     else:
                         alt_names += f", {val}"
                 row["alt_names"] = alt_names
-            if key == "mentioned_in":
+            elif key == "mentioned_in":
                 items = []
                 for mention in val:
                     play_nestroy_id = mention["value"]
@@ -33,7 +33,7 @@ def create_tabulator_data(features):
                     items.append(item)
                 mentions = f"<ul>{''.join(items)}</ul>"
                 row["mentions"] = mentions
-            if key == "geonames":
+            elif key == "geonames":
                 row[key] = f"<a href='{val}'>geonames</a>"
             else:
                 row[key] = val
