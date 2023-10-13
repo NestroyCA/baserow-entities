@@ -34,7 +34,7 @@ def create_tabulator_data(features):
                 mentions = f"<ul>{''.join(items)}</ul>"
                 row["mentions"] = mentions
             if key == "geonames":
-                row["key"] = f"<a href='{val}'>geonames</a>"
+                row[key] = f"<a href='{val}'>geonames</a>"
             else:
                 row[key] = val
         tabulator_data.append(row)
