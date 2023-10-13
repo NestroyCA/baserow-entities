@@ -1,9 +1,6 @@
 [
   {
-    "coordinates": [
-      "138.59863",
-      "-34.92866"
-    ],
+    "alt_names": "",
     "name": "Adelaide",
     "geonames": "https://sws.geonames.org/2078025/",
     "nestroy_id": "nestroy_place_id__3",
@@ -14,15 +11,10 @@
         "title": "Der alte Mann mit der jungen Frau"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "26.55597",
-      "41.67719"
-    ],
+    "alt_names": "Adrianopel",
     "name": "Edirne",
     "geonames": "https://sws.geonames.org/747712/",
     "nestroy_id": "nestroy_place_id__4",
@@ -33,15 +25,10 @@
         "title": "Eulenspiegel oder Schabernack \u00fcber Schabernack"
       }
     ],
-    "alt_tokens": null,
-    "legacy": "Adrianopel",
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.51265",
-      "42.10431"
-    ],
+    "alt_names": "",
     "name": "Aleria ",
     "geonames": "https://sws.geonames.org/3038225/",
     "nestroy_id": "nestroy_place_id__5",
@@ -52,15 +39,10 @@
         "title": "Prinz Friedrich"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "4.88969",
-      "52.37403"
-    ],
+    "alt_names": "",
     "name": "Amsterdam",
     "geonames": "https://sws.geonames.org/2759794/",
     "nestroy_id": "nestroy_place_id__7",
@@ -81,15 +63,10 @@
         "title": "Alles will den Prophet\u2019n seh\u2019n"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "21.31667",
-      "46.18333"
-    ],
+    "alt_names": "",
     "name": "Arad ",
     "geonames": "https://sws.geonames.org/686254/",
     "nestroy_id": "nestroy_place_id__8",
@@ -100,15 +77,10 @@
         "title": "Robert der Teuxel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-3.60246",
-      "40.03108"
-    ],
+    "alt_names": "",
     "name": "Aranjuez",
     "geonames": "https://sws.geonames.org/3129857/",
     "nestroy_id": "nestroy_place_id__9",
@@ -119,15 +91,10 @@
         "title": "Die lieben Anverwandten"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.23975",
-      "48.76060"
-    ],
+    "alt_names": "",
     "name": "Baden-Baden ",
     "geonames": "https://sws.geonames.org/2953504/",
     "nestroy_id": "nestroy_place_id__12",
@@ -138,15 +105,10 @@
         "title": "Lady und Schneider"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.07784",
-      "50.20228"
-    ],
+    "alt_names": "",
     "name": "Bad Kissingen ",
     "geonames": "https://sws.geonames.org/2953424/",
     "nestroy_id": "nestroy_place_id__13",
@@ -157,15 +119,10 @@
         "title": "Nur keck!"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.90067",
-      "49.89873"
-    ],
+    "alt_names": "",
     "name": "Bamberg",
     "geonames": "https://sws.geonames.org/2952984/",
     "nestroy_id": "nestroy_place_id__14",
@@ -176,15 +133,10 @@
         "title": "Unverhofft"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "13.41053",
-      "52.52437"
-    ],
+    "alt_names": "",
     "name": "Berlin ",
     "geonames": "https://sws.geonames.org/2950159/",
     "nestroy_id": "nestroy_place_id__16",
@@ -240,15 +192,10 @@
         "title": "Kampl"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.68417",
-      "50.11552"
-    ],
+    "alt_names": "",
     "name": "Frankfurt am Main ",
     "geonames": "https://sws.geonames.org/2925533/",
     "nestroy_id": "nestroy_place_id__18",
@@ -274,15 +221,10 @@
         "title": "Lady und Schneider"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "44.42417",
-      "32.54083"
-    ],
+    "alt_names": "",
     "name": "Babylon",
     "geonames": "https://sws.geonames.org/98228/",
     "nestroy_id": "nestroy_place_id__19",
@@ -298,15 +240,10 @@
         "title": "Judith und Holofernes"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.23264",
-      "48.00543"
-    ],
+    "alt_names": "Baaden",
     "name": "Baden",
     "geonames": "https://sws.geonames.org/2782067/",
     "nestroy_id": "nestroy_place_id__20",
@@ -317,15 +254,10 @@
         "title": "Robert der Teuxel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": "Baaden",
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-71.05977",
-      "42.35843"
-    ],
+    "alt_names": "",
     "name": "Boston",
     "geonames": "https://sws.geonames.org/4930956/",
     "nestroy_id": "nestroy_place_id__23",
@@ -336,15 +268,10 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "20.55111",
-      "42.98373"
-    ],
+    "alt_names": "",
     "name": "Branowitz",
     "geonames": "https://sws.geonames.org/791091/",
     "nestroy_id": "nestroy_place_id__24",
@@ -355,15 +282,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "17.10674",
-      "48.14816"
-    ],
+    "alt_names": "Pressburg",
     "name": "Bratislava",
     "geonames": "https://sws.geonames.org/3060972/",
     "nestroy_id": "nestroy_place_id__25",
@@ -374,15 +296,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": "Pressburg",
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.06959",
-      "47.50107"
-    ],
+    "alt_names": "",
     "name": "Braunau",
     "geonames": "https://sws.geonames.org/8533690/",
     "nestroy_id": "nestroy_place_id__26",
@@ -393,15 +310,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.52673",
-      "52.26594"
-    ],
+    "alt_names": "",
     "name": "Braunschweig ",
     "geonames": "https://sws.geonames.org/2945024/",
     "nestroy_id": "nestroy_place_id__27",
@@ -412,15 +324,10 @@
         "title": "Die verh\u00e4ngnisvolle Faschingsnacht"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.80717",
-      "53.07582"
-    ],
+    "alt_names": "",
     "name": "Bremen",
     "geonames": "https://sws.geonames.org/2944388/",
     "nestroy_id": "nestroy_place_id__28",
@@ -431,15 +338,10 @@
         "title": "Die verh\u00e4ngnisvolle Faschingsnacht"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "25.15027",
-      "50.08791"
-    ],
+    "alt_names": "",
     "name": "Brody ",
     "geonames": "https://sws.geonames.org/711416/",
     "nestroy_id": "nestroy_place_id__30",
@@ -450,15 +352,10 @@
         "title": "Der Erbschleicher"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.60796",
-      "49.19522"
-    ],
+    "alt_names": "Br\u00fcnn",
     "name": "Brno",
     "geonames": "https://sws.geonames.org/3078610/",
     "nestroy_id": "nestroy_place_id__32",
@@ -469,15 +366,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": "Br\u00fcnn",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "4.34878",
-      "50.85045"
-    ],
+    "alt_names": "",
     "name": "Br\u00fcssel",
     "geonames": "https://sws.geonames.org/2800866/",
     "nestroy_id": "nestroy_place_id__33",
@@ -488,15 +380,10 @@
         "title": "Einen Jux will er sich machen"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.47434",
-      "48.97447"
-    ],
+    "alt_names": "Budweis",
     "name": "Ceske Budejovice",
     "geonames": "https://sws.geonames.org/3077916/",
     "nestroy_id": "nestroy_place_id__35",
@@ -537,15 +424,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": "Budweis",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "15.56970",
-      "51.26418"
-    ],
+    "alt_names": "",
     "name": "Bunzlau",
     "geonames": "https://sws.geonames.org/3102987/",
     "nestroy_id": "nestroy_place_id__36",
@@ -556,15 +438,10 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "15.79558",
-      "49.95109"
-    ],
+    "alt_names": "",
     "name": "Chrudim",
     "geonames": "https://sws.geonames.org/3077539/",
     "nestroy_id": "nestroy_place_id__37",
@@ -575,15 +452,10 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.02129",
-      "45.13325"
-    ],
+    "alt_names": "",
     "name": "Cremona ",
     "geonames": "https://sws.geonames.org/3177838/",
     "nestroy_id": "nestroy_place_id__38",
@@ -594,15 +466,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "15.38972",
-      "49.91099"
-    ],
+    "alt_names": "",
     "name": "Czaslau ",
     "geonames": "https://sws.geonames.org/3078234/",
     "nestroy_id": "nestroy_place_id__39",
@@ -613,15 +480,10 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.65027",
-      "49.87167"
-    ],
+    "alt_names": "",
     "name": "Darmstadt ",
     "geonames": "https://sws.geonames.org/2938913/",
     "nestroy_id": "nestroy_place_id__40",
@@ -632,15 +494,10 @@
         "title": "Die lieben Anverwandten"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.56667",
-      "48.29972"
-    ],
+    "alt_names": "",
     "name": "Deutsch-Wagram ",
     "geonames": "https://sws.geonames.org/2781017/",
     "nestroy_id": "nestroy_place_id__42",
@@ -651,15 +508,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "13.73832",
-      "51.05089"
-    ],
+    "alt_names": "",
     "name": "Dresden ",
     "geonames": "https://sws.geonames.org/2935022/",
     "nestroy_id": "nestroy_place_id__43",
@@ -670,15 +522,10 @@
         "title": "Liebesgeschichten und Heurathssachen"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.83364",
-      "48.48441"
-    ],
+    "alt_names": "",
     "name": "D\u00fcrnkrut",
     "geonames": "https://sws.geonames.org/7871730/",
     "nestroy_id": "nestroy_place_id__44",
@@ -689,15 +536,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.60832",
-      "48.08502"
-    ],
+    "alt_names": "",
     "name": "Enzersdorf an der Fischa",
     "geonames": "https://sws.geonames.org/2780017/",
     "nestroy_id": "nestroy_place_id__46",
@@ -708,15 +550,10 @@
         "title": "Robert der Teuxel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.16667",
-      "46.51667"
-    ],
+    "alt_names": "",
     "name": "Feistritz",
     "geonames": "https://sws.geonames.org/2779704/",
     "nestroy_id": "nestroy_place_id__47",
@@ -727,15 +564,10 @@
         "title": "Kampl"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "11.62057",
-      "44.83804"
-    ],
+    "alt_names": "",
     "name": "Ferrara",
     "geonames": "https://sws.geonames.org/3177090/",
     "nestroy_id": "nestroy_place_id__48",
@@ -746,15 +578,10 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.61395",
-      "48.11573"
-    ],
+    "alt_names": "",
     "name": "Fischamend",
     "geonames": "https://sws.geonames.org/7871945/",
     "nestroy_id": "nestroy_place_id__49",
@@ -765,15 +592,10 @@
         "title": "Weder Lorbeerbaum noch Bettelstab"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "11.24626",
-      "43.77925"
-    ],
+    "alt_names": "",
     "name": "Florenz",
     "geonames": "https://sws.geonames.org/3176959/",
     "nestroy_id": "nestroy_place_id__50",
@@ -789,15 +611,10 @@
         "title": "Kampl"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "1.46919",
-      "38.69467"
-    ],
+    "alt_names": "",
     "name": "Formentera",
     "geonames": "https://sws.geonames.org/2517690/",
     "nestroy_id": "nestroy_place_id__51",
@@ -808,15 +625,10 @@
         "title": "Gegen Thorheit giebt es kein Mittel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.72016",
-      "48.33925"
-    ],
+    "alt_names": "",
     "name": "G\u00e4nserndorf ",
     "geonames": "https://sws.geonames.org/2778877/",
     "nestroy_id": "nestroy_place_id__53",
@@ -827,15 +639,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.94439",
-      "44.40478"
-    ],
+    "alt_names": "",
     "name": "Genua ",
     "geonames": "https://sws.geonames.org/3176219/",
     "nestroy_id": "nestroy_place_id__54",
@@ -846,15 +653,10 @@
         "title": "Prinz Friedrich"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "13.62167",
-      "45.94088"
-    ],
+    "alt_names": "",
     "name": "G\u00f6rz",
     "geonames": "https://sws.geonames.org/3175986/",
     "nestroy_id": "nestroy_place_id__56",
@@ -870,15 +672,10 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "11.24971",
-      "49.64426"
-    ],
+    "alt_names": "",
     "name": "Gr\u00e4fenberg",
     "geonames": "https://sws.geonames.org/2918350/",
     "nestroy_id": "nestroy_place_id__57",
@@ -889,15 +686,10 @@
         "title": "Das M\u00e4dl aus der Vorstadt oder Ehrlich w\u00e4hrt am l\u00e4ngsten"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "15.45000",
-      "47.06667"
-    ],
+    "alt_names": "",
     "name": "Graz",
     "geonames": "https://sws.geonames.org/2778067/",
     "nestroy_id": "nestroy_place_id__58",
@@ -913,15 +705,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-3.06618",
-      "55.00279"
-    ],
+    "alt_names": "",
     "name": "Gretna Green ",
     "geonames": "https://sws.geonames.org/2647909/",
     "nestroy_id": "nestroy_place_id__59",
@@ -932,15 +719,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.66186",
-      "44.91172"
-    ],
+    "alt_names": "Quastalla",
     "name": "Guastalla",
     "geonames": "https://sws.geonames.org/3175693/",
     "nestroy_id": "nestroy_place_id__60",
@@ -951,15 +733,10 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
-    "alt_tokens": "Quastalla",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.27710",
-      "48.04538"
-    ],
+    "alt_names": "",
     "name": "Gumpoldskirchen",
     "geonames": "https://sws.geonames.org/2777279/",
     "nestroy_id": "nestroy_place_id__61",
@@ -975,15 +752,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.99302",
-      "53.55073"
-    ],
+    "alt_names": "",
     "name": "Hamburg  ",
     "geonames": "https://sws.geonames.org/2911298/",
     "nestroy_id": "nestroy_place_id__62",
@@ -1014,15 +786,10 @@
         "title": "Alles will den Prophet\u2019n seh\u2019n"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.73322",
-      "52.37052"
-    ],
+    "alt_names": "",
     "name": "Hannover ",
     "geonames": "https://sws.geonames.org/2910831/",
     "nestroy_id": "nestroy_place_id__63",
@@ -1038,15 +805,10 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "27.60000",
-      "47.16667"
-    ],
+    "alt_names": "",
     "name": "Ia\u015fi (Jassy)  ",
     "geonames": "https://sws.geonames.org/675810/",
     "nestroy_id": "nestroy_place_id__66",
@@ -1057,15 +819,10 @@
         "title": "Unverhofft"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "11.39454",
-      "47.26266"
-    ],
+    "alt_names": "",
     "name": "Innsbruck  ",
     "geonames": "https://sws.geonames.org/2775220/",
     "nestroy_id": "nestroy_place_id__67",
@@ -1076,15 +833,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "13.61893",
-      "47.71109"
-    ],
+    "alt_names": "",
     "name": "Ischl",
     "geonames": "https://sws.geonames.org/2782052/",
     "nestroy_id": "nestroy_place_id__68",
@@ -1095,15 +847,10 @@
         "title": "Freiheit in Kr\u00e4hwinkel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "27.13838",
-      "38.41273"
-    ],
+    "alt_names": "Smyrna",
     "name": "Izmir",
     "geonames": "https://sws.geonames.org/311046/",
     "nestroy_id": "nestroy_place_id__69",
@@ -1114,15 +861,10 @@
         "title": "Unverhofft"
       }
     ],
-    "alt_tokens": null,
-    "legacy": "Smyrna",
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "35.45000",
-      "31.86667"
-    ],
+    "alt_names": "",
     "name": "Jericho  ",
     "geonames": "https://sws.geonames.org/284899/",
     "nestroy_id": "nestroy_place_id__70",
@@ -1133,15 +875,10 @@
         "title": "Judith und Holofernes"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "12.87117",
-      "50.23271"
-    ],
+    "alt_names": "",
     "name": "Karlsbad  ",
     "geonames": "https://sws.geonames.org/3073803/",
     "nestroy_id": "nestroy_place_id__72",
@@ -1152,15 +889,10 @@
         "title": "Der Tritschtratsch"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.33333",
-      "36.86667"
-    ],
+    "alt_names": "",
     "name": "Karthago  ",
     "geonames": "https://sws.geonames.org/2468244/",
     "nestroy_id": "nestroy_place_id__73",
@@ -1171,15 +903,10 @@
         "title": "Kampl"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.13489",
-      "54.32133"
-    ],
+    "alt_names": "",
     "name": "Kiel",
     "geonames": "https://sws.geonames.org/2891122/",
     "nestroy_id": "nestroy_place_id__76",
@@ -1190,15 +917,10 @@
         "title": "Der confuse Zauberer oder Treue und Flatterhaftigkeit"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "6.95000",
-      "50.93333"
-    ],
+    "alt_names": "C\u00f6ln",
     "name": "K\u00f6ln",
     "geonames": "https://sws.geonames.org/2886242/",
     "nestroy_id": "nestroy_place_id__78",
@@ -1209,15 +931,10 @@
         "title": "Prinz Friedrich"
       }
     ],
-    "alt_tokens": null,
-    "legacy": "C\u00f6ln",
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "28.94966",
-      "41.01384"
-    ],
+    "alt_names": "Constantinopel\nKonstantinopel",
     "name": "Istanbul",
     "geonames": "https://sws.geonames.org/745044/",
     "nestroy_id": "nestroy_place_id__79",
@@ -1238,15 +955,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": "",
-    "legacy": "Constantinopel\nKonstantinopel",
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.12919",
-      "48.05290"
-    ],
+    "alt_names": "",
     "name": "Kremsm\u00fcnster",
     "geonames": "https://sws.geonames.org/2773538/",
     "nestroy_id": "nestroy_place_id__81",
@@ -1257,15 +969,10 @@
         "title": "Nur Ruhe!"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.62532",
-      "49.17884"
-    ],
+    "alt_names": "",
     "name": "Kumrowitz ",
     "geonames": "https://sws.geonames.org/3073337/",
     "nestroy_id": "nestroy_place_id__82",
@@ -1276,15 +983,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.35607",
-      "48.06833"
-    ],
+    "alt_names": "",
     "name": "Laxenburg ",
     "geonames": "https://sws.geonames.org/2772810/",
     "nestroy_id": "nestroy_place_id__83",
@@ -1295,15 +997,10 @@
         "title": "Robert der Teuxel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.31298",
-      "49.86809"
-    ],
+    "alt_names": "",
     "name": "Leitomischl ",
     "geonames": "https://sws.geonames.org/3071675/",
     "nestroy_id": "nestroy_place_id__84",
@@ -1319,15 +1016,10 @@
         "title": "Freiheit in Kr\u00e4hwinkel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.28611",
-      "48.30639"
-    ],
+    "alt_names": "",
     "name": "Linz",
     "geonames": "https://sws.geonames.org/2772400/",
     "nestroy_id": "nestroy_place_id__88",
@@ -1338,15 +1030,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.28611",
-      "48.30639"
-    ],
+    "alt_names": "",
     "name": "Livorno ",
     "geonames": "https://sws.geonames.org/2772400/",
     "nestroy_id": "nestroy_place_id__89",
@@ -1362,15 +1049,10 @@
         "title": "Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-0.12574",
-      "51.50853"
-    ],
+    "alt_names": "",
     "name": "London ",
     "geonames": "https://sws.geonames.org/2643743/",
     "nestroy_id": "nestroy_place_id__90",
@@ -1441,15 +1123,10 @@
         "title": "Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.88203",
-      "48.75897"
-    ],
+    "alt_names": "",
     "name": "Lundenburg",
     "geonames": "https://sws.geonames.org/3078773/",
     "nestroy_id": "nestroy_place_id__91",
@@ -1460,15 +1137,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-3.70256",
-      "40.41650"
-    ],
+    "alt_names": "",
     "name": "Madrid ",
     "geonames": "https://sws.geonames.org/3117735/",
     "nestroy_id": "nestroy_place_id__92",
@@ -1479,15 +1151,10 @@
         "title": "Das Quodlibet verschiedener Jahrhunderte"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.18951",
-      "45.46427"
-    ],
+    "alt_names": "",
     "name": "Mailand  ",
     "geonames": "https://sws.geonames.org/3173435/",
     "nestroy_id": "nestroy_place_id__93",
@@ -1498,15 +1165,10 @@
         "title": "Prinz Friedrich"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-4.42034",
-      "36.72016"
-    ],
+    "alt_names": "",
     "name": "Malaga  ",
     "geonames": "https://sws.geonames.org/2514256/",
     "nestroy_id": "nestroy_place_id__94",
@@ -1532,15 +1194,10 @@
         "title": "Unverhofft"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "12.70118",
-      "49.96459"
-    ],
+    "alt_names": "",
     "name": "Marienbad  ",
     "geonames": "https://sws.geonames.org/3071024/",
     "nestroy_id": "nestroy_place_id__95",
@@ -1551,15 +1208,10 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "5.38107",
-      "43.29695"
-    ],
+    "alt_names": "",
     "name": "Marseille  ",
     "geonames": "https://sws.geonames.org/2995469/",
     "nestroy_id": "nestroy_place_id__96",
@@ -1575,15 +1227,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "15.55256",
-      "38.19394"
-    ],
+    "alt_names": "",
     "name": "Messina  ",
     "geonames": "https://sws.geonames.org/2524170/",
     "nestroy_id": "nestroy_place_id__97",
@@ -1594,15 +1241,10 @@
         "title": "Die beiden Nachtwandler oder Das Notwendige und das \u00dcberfl\u00fcssige"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.28921",
-      "48.08605"
-    ],
+    "alt_names": "",
     "name": "M\u00f6dling  ",
     "geonames": "https://sws.geonames.org/2771335/",
     "nestroy_id": "nestroy_place_id__98",
@@ -1618,15 +1260,10 @@
         "title": "Weder Lorbeerbaum noch Bettelstab"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "37.61556",
-      "55.75222"
-    ],
+    "alt_names": "",
     "name": "Moskau ",
     "geonames": "https://sws.geonames.org/524901/",
     "nestroy_id": "nestroy_place_id__99",
@@ -1637,15 +1274,10 @@
         "title": "Unverhofft"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.26811",
-      "40.85216"
-    ],
+    "alt_names": "",
     "name": "Neapel  ",
     "geonames": "https://sws.geonames.org/3172394/",
     "nestroy_id": "nestroy_place_id__102",
@@ -1686,15 +1318,10 @@
         "title": "H\u00f6llenangst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-74.00597",
-      "40.71427"
-    ],
+    "alt_names": "",
     "name": "New York  ",
     "geonames": "https://sws.geonames.org/5128581/",
     "nestroy_id": "nestroy_place_id__103",
@@ -1705,15 +1332,10 @@
         "title": "Der confuse Zauberer oder Treue und Flatterhaftigkeit"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "43.15667",
-      "36.36768"
-    ],
+    "alt_names": "",
     "name": "Ninive  ",
     "geonames": "https://sws.geonames.org/92878/",
     "nestroy_id": "nestroy_place_id__104",
@@ -1729,15 +1351,10 @@
         "title": "Der alte Mann mit der jungen Frau"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "11.07752",
-      "49.45421"
-    ],
+    "alt_names": "",
     "name": "N\u00fcrnberg  ",
     "geonames": "https://sws.geonames.org/2861650/",
     "nestroy_id": "nestroy_place_id__105",
@@ -1758,15 +1375,10 @@
         "title": "Liebesgeschichten und Heurathssachen"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "17.25175",
-      "49.59552"
-    ],
+    "alt_names": "Olm\u00fctz",
     "name": "Olomouc",
     "geonames": "https://sws.geonames.org/3069011/",
     "nestroy_id": "nestroy_place_id__107",
@@ -1777,15 +1389,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": "Olm\u00fctz",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "1.90389",
-      "47.90289"
-    ],
+    "alt_names": "",
     "name": "Orleans",
     "geonames": "https://sws.geonames.org/2989317/",
     "nestroy_id": "nestroy_place_id__108",
@@ -1821,15 +1428,10 @@
         "title": "Fr\u00fchere Verh\u00e4ltnisse"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "2.92700",
-      "51.21551"
-    ],
+    "alt_names": "",
     "name": "Ostende  ",
     "geonames": "https://sws.geonames.org/2789786/",
     "nestroy_id": "nestroy_place_id__110",
@@ -1840,15 +1442,10 @@
         "title": "Kampl"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "11.88586",
-      "45.40797"
-    ],
+    "alt_names": "",
     "name": "Padua  ",
     "geonames": "https://sws.geonames.org/3171728/",
     "nestroy_id": "nestroy_place_id__111",
@@ -1859,15 +1456,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "20.64167",
-      "44.87177"
-    ],
+    "alt_names": "",
     "name": "Pantschowa  ",
     "geonames": "https://sws.geonames.org/787237/",
     "nestroy_id": "nestroy_place_id__112",
@@ -1878,15 +1470,10 @@
         "title": "Der Erbschleicher"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "2.34880",
-      "48.85341"
-    ],
+    "alt_names": "",
     "name": "Paris ",
     "geonames": "https://sws.geonames.org/2988507/",
     "nestroy_id": "nestroy_place_id__113",
@@ -2007,15 +1594,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.32618",
-      "44.79935"
-    ],
+    "alt_names": "",
     "name": "Parma  ",
     "geonames": "https://sws.geonames.org/3171457/",
     "nestroy_id": "nestroy_place_id__114",
@@ -2026,15 +1608,10 @@
         "title": "Der Feenball oder Tischler, Schneider und Schlosser"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "116.39723",
-      "39.90750"
-    ],
+    "alt_names": "",
     "name": "Peking ",
     "geonames": "https://sws.geonames.org/1816670/",
     "nestroy_id": "nestroy_place_id__115",
@@ -2045,15 +1622,10 @@
         "title": "Das Quodlibet verschiedener Jahrhunderte"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "30.31413",
-      "59.93863"
-    ],
+    "alt_names": "",
     "name": "Petersburg  ",
     "geonames": "https://sws.geonames.org/498817/",
     "nestroy_id": "nestroy_place_id__116",
@@ -2069,15 +1641,10 @@
         "title": "Freiheit in Kr\u00e4hwinkel"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-75.16362",
-      "39.95238"
-    ],
+    "alt_names": "",
     "name": "Philadelphia ",
     "geonames": "https://sws.geonames.org/4560349/",
     "nestroy_id": "nestroy_place_id__117",
@@ -2093,15 +1660,10 @@
         "title": "Zwey ewige Juden und Keiner"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.69342",
-      "45.05242"
-    ],
+    "alt_names": "",
     "name": "Piacenza  ",
     "geonames": "https://sws.geonames.org/3171058/",
     "nestroy_id": "nestroy_place_id__118",
@@ -2112,15 +1674,10 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.48333",
-      "40.75000"
-    ],
+    "alt_names": "",
     "name": "Pompeji  ",
     "geonames": "https://sws.geonames.org/3170336/",
     "nestroy_id": "nestroy_place_id__119",
@@ -2136,15 +1693,10 @@
         "title": "Nur Ruhe!"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.27947",
-      "41.59101"
-    ],
+    "alt_names": "",
     "name": "Porto Vecchio ",
     "geonames": "https://sws.geonames.org/2985947/",
     "nestroy_id": "nestroy_place_id__120",
@@ -2165,15 +1717,10 @@
         "title": "Mein Freund"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.42076",
-      "50.08804"
-    ],
+    "alt_names": "Prag",
     "name": "Praha",
     "geonames": "https://sws.geonames.org/3067696/",
     "nestroy_id": "nestroy_place_id__122",
@@ -2189,15 +1736,10 @@
         "title": "Das Haus der Temperamente"
       }
     ],
-    "alt_tokens": "Prag",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.17539",
-      "48.20769"
-    ],
+    "alt_names": "",
     "name": "Purkersdorf  ",
     "geonames": "https://sws.geonames.org/2768232/",
     "nestroy_id": "nestroy_place_id__123",
@@ -2208,15 +1750,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.60388",
-      "49.09021"
-    ],
+    "alt_names": "",
     "name": "Raigern ",
     "geonames": "https://sws.geonames.org/3067078/",
     "nestroy_id": "nestroy_place_id__124",
@@ -2227,15 +1764,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "12.10161",
-      "49.01513"
-    ],
+    "alt_names": "",
     "name": "Regensburg ",
     "geonames": "https://sws.geonames.org/2849483/",
     "nestroy_id": "nestroy_place_id__125",
@@ -2246,15 +1778,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "12.51133",
-      "41.89193"
-    ],
+    "alt_names": "",
     "name": "Rom",
     "geonames": "https://sws.geonames.org/3169070/",
     "nestroy_id": "nestroy_place_id__126",
@@ -2270,15 +1797,10 @@
         "title": "Verwickelte Geschichte!"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "1.09932",
-      "49.44313"
-    ],
+    "alt_names": "",
     "name": "Rouen ",
     "geonames": "https://sws.geonames.org/2982652/",
     "nestroy_id": "nestroy_place_id__127",
@@ -2289,15 +1811,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "13.04399",
-      "47.79941"
-    ],
+    "alt_names": "",
     "name": "Salzburg",
     "geonames": "https://sws.geonames.org/2766824/",
     "nestroy_id": "nestroy_place_id__128",
@@ -2313,15 +1830,10 @@
         "title": "Die schlimmen Buben in der Schule"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.66753",
-      "45.83443"
-    ],
+    "alt_names": "",
     "name": "San Pellegrino ",
     "geonames": "https://sws.geonames.org/3167875/",
     "nestroy_id": "nestroy_place_id__129",
@@ -2332,15 +1844,10 @@
         "title": "Prinz Friedrich"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "-0.87734",
-      "41.65606"
-    ],
+    "alt_names": "",
     "name": "Saragossa",
     "geonames": "https://sws.geonames.org/3104324/",
     "nestroy_id": "nestroy_place_id__130",
@@ -2351,15 +1858,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.98333",
-      "41.61667"
-    ],
+    "alt_names": "",
     "name": "Sartena ",
     "geonames": "https://sws.geonames.org/2975931/",
     "nestroy_id": "nestroy_place_id__131",
@@ -2370,15 +1872,10 @@
         "title": "Prinz Friedrich"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.46667",
-      "48.13333"
-    ],
+    "alt_names": "Schw\u00f6chat",
     "name": "Schwechat",
     "geonames": "https://sws.geonames.org/2765388/",
     "nestroy_id": "nestroy_place_id__133",
@@ -2389,15 +1886,10 @@
         "title": "Weder Lorbeerbaum noch Bettelstab"
       }
     ],
-    "alt_tokens": "Schw\u00f6chat",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.43111",
-      "49.32083"
-    ],
+    "alt_names": "",
     "name": "Speyer",
     "geonames": "https://sws.geonames.org/2830582/",
     "nestroy_id": "nestroy_place_id__135",
@@ -2408,15 +1900,10 @@
         "title": "Die Zauberreise in die Ritterzeit oder Die \u00dcberm\u00fcthigen"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.78333",
-      "47.21667"
-    ],
+    "alt_names": "",
     "name": "Spielberg",
     "geonames": "https://sws.geonames.org/2764812/",
     "nestroy_id": "nestroy_place_id__136",
@@ -2437,15 +1924,10 @@
         "title": "H\u00f6llenangst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.41667",
-      "47.83333"
-    ],
+    "alt_names": "",
     "name": "Steinbrunn",
     "geonames": "https://sws.geonames.org/2764296/",
     "nestroy_id": "nestroy_place_id__137",
@@ -2456,15 +1938,10 @@
         "title": "Nur keck!"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.42127",
-      "48.04274"
-    ],
+    "alt_names": "",
     "name": "Steyr",
     "geonames": "https://sws.geonames.org/2764359/",
     "nestroy_id": "nestroy_place_id__138",
@@ -2475,15 +1952,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.67581",
-      "48.04509"
-    ],
+    "alt_names": "",
     "name": "Stixneusiedl  ",
     "geonames": "https://sws.geonames.org/2764288/",
     "nestroy_id": "nestroy_place_id__139",
@@ -2494,15 +1966,10 @@
         "title": "\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.21667",
-      "48.38333"
-    ],
+    "alt_names": "",
     "name": "Stockerau ",
     "geonames": "https://sws.geonames.org/2764279/",
     "nestroy_id": "nestroy_place_id__140",
@@ -2518,15 +1985,10 @@
         "title": "Der alte Mann mit der jungen Frau"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.17702",
-      "48.78232"
-    ],
+    "alt_names": "Stuttgard",
     "name": "Stuttgart",
     "geonames": "https://sws.geonames.org/2825297/",
     "nestroy_id": "nestroy_place_id__142",
@@ -2537,15 +1999,10 @@
         "title": "Der Treulose oder Saat und Ernte"
       }
     ],
-    "alt_tokens": "Stuttgard",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.30118",
-      "48.00964"
-    ],
+    "alt_names": "",
     "name": "Traiskirchen",
     "geonames": "https://sws.geonames.org/7871715/",
     "nestroy_id": "nestroy_place_id__144",
@@ -2556,15 +2013,10 @@
         "title": "Moppels Abentheuer im Viertel unter Wiener Wald, in Neu-Seeland und Marokko"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "13.77678",
-      "45.64953"
-    ],
+    "alt_names": "Triest",
     "name": "Trieste",
     "geonames": "https://sws.geonames.org/3165185/",
     "nestroy_id": "nestroy_place_id__145",
@@ -2585,15 +2037,10 @@
         "title": "Liebesgeschichten und Heurathssachen"
       }
     ],
-    "alt_tokens": "Triest",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "10.16579",
-      "36.81897"
-    ],
+    "alt_names": "",
     "name": "Tunis ",
     "geonames": "https://sws.geonames.org/2464470/",
     "nestroy_id": "nestroy_place_id__147",
@@ -2604,15 +2051,10 @@
         "title": "Prinz Friedrich"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.99155",
-      "48.39841"
-    ],
+    "alt_names": "",
     "name": "Ulm",
     "geonames": "https://sws.geonames.org/2820256/",
     "nestroy_id": "nestroy_place_id__148",
@@ -2623,15 +2065,10 @@
         "title": "Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "12.33265",
-      "45.43713"
-    ],
+    "alt_names": "Venedig",
     "name": "Venezia",
     "geonames": "https://sws.geonames.org/3164603/",
     "nestroy_id": "nestroy_place_id__149",
@@ -2652,15 +2089,10 @@
         "title": "Theaterg\u2019schichten durch Liebe, Intrige, Geld und Dummheit"
       }
     ],
-    "alt_tokens": "Venedig",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "14.77361",
-      "47.96004"
-    ],
+    "alt_names": "",
     "name": "Waidhofen/Ybbs",
     "geonames": "https://sws.geonames.org/2762077/",
     "nestroy_id": "nestroy_place_id__150",
@@ -2671,15 +2103,10 @@
         "title": "Dreyssig Jahre aus dem Leben eines Lumpen / Die Verbannung aus dem Zauberreiche"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "11.32903",
-      "50.98030"
-    ],
+    "alt_names": "",
     "name": "Weimar",
     "geonames": "https://sws.geonames.org/2812482/",
     "nestroy_id": "nestroy_place_id__152",
@@ -2690,15 +2117,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "9.28762",
-      "49.15127"
-    ],
+    "alt_names": "",
     "name": "Weinsberg",
     "geonames": "https://sws.geonames.org/2812158/",
     "nestroy_id": "nestroy_place_id__153",
@@ -2709,15 +2131,10 @@
         "title": "Der Zetteltr\u00e4ger Papp"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.37208",
-      "48.20849"
-    ],
+    "alt_names": "",
     "name": "Wien",
     "geonames": "https://sws.geonames.org/2761369/",
     "nestroy_id": "nestroy_place_id__155",
@@ -2828,15 +2245,10 @@
         "title": "Umsonst"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "16.23196",
-      "47.80485"
-    ],
+    "alt_names": "Neustadt",
     "name": "Wiener Neustadt",
     "geonames": "https://sws.geonames.org/2761353/",
     "nestroy_id": "nestroy_place_id__156",
@@ -2847,15 +2259,10 @@
         "title": "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn"
       }
     ],
-    "alt_tokens": "Neustadt",
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "8.35916",
-      "49.63278"
-    ],
+    "alt_names": "",
     "name": "Worms",
     "geonames": "https://sws.geonames.org/2806142/",
     "nestroy_id": "nestroy_place_id__159",
@@ -2866,15 +2273,10 @@
         "title": "Die Zauberreise in die Ritterzeit oder Die \u00dcberm\u00fcthigen"
       }
     ],
-    "alt_tokens": null,
-    "legacy": null,
     "total_occurences": "0"
   },
   {
-    "coordinates": [
-      "15.08333",
-      "48.16667"
-    ],
+    "alt_names": "Yps",
     "name": "Ybbs",
     "geonames": "https://sws.geonames.org/2760772/",
     "nestroy_id": "nestroy_place_id__160",
@@ -2885,8 +2287,6 @@
         "title": "Zampa der Tagdieb oder die Braut von Gips"
       }
     ],
-    "alt_tokens": null,
-    "legacy": "Yps",
     "total_occurences": "0"
   }
 ]
