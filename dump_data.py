@@ -45,7 +45,7 @@ def create_tabulator_data(features):
                 for mention in val:
                     play_nestroy_id = mention["value"]
                     play_title = mention["title"]
-                    link = f"<li>{get_link(play_title, play_nestroy_id)}</li>"
+                    link = f"{get_link(play_title, play_nestroy_id)}"
                     links.append(link)
                 #mentions = get_list(links)
                 mentions = "<br>".join(links)
