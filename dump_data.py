@@ -8,17 +8,16 @@ play_id_2_play_name = None
 altname_keys = ["alt_tokens", "legacy"]
 
 def get_link(title, target, field=""):
-    # return {
-    #     "title":title,
-    #     "field": field,
-    #     "formatter":"link", 
-    #     "formatterParams":{
-    #         "labelField":"name",
-    #         "urlPrefix":"",
-    #         "target": target,
-    #     }
-    # }
-    return f"<a href='{target}'>{title}</a>"
+    return {
+        "title":title,
+        "field": field,
+        "formatter":"link", 
+        "formatterParams":{
+            "labelField":"name",
+            "urlPrefix":"",
+            "target": target,
+        }
+    }
 
 def get_list(list_content):
     return f"<ul>{''.join([f'<li>{c}</li>' for c in list_content])}</ul>"
@@ -47,8 +46,7 @@ def create_tabulator_data(features):
                     play_title = mention["title"]
                     link = f"{get_link(play_title, play_nestroy_id)}"
                     links.append(link)
-                #mentions = get_list(links)
-                mentions = "<br>".join(links)
+                mentions = get_list(links)
                 row["mentions"] = mentions
             elif key == "geonames":
                 target = val
