@@ -8,16 +8,17 @@ play_id_2_play_name = None
 altname_keys = ["alt_tokens", "legacy"]
 
 def get_link(title, field, target):
-    return {
-        "title":title,
-        "field": field,
-        "formatter":"link", 
-        "formatterParams":{
-            "labelField":"name",
-            "urlPrefix":"",
-            "target": target,
-        }
-    }
+    # return {
+    #     "title":title,
+    #     "field": field,
+    #     "formatter":"link", 
+    #     "formatterParams":{
+    #         "labelField":"name",
+    #         "urlPrefix":"",
+    #         "target": target,
+    #     }
+    # }
+    return f"<a href='{target}'>{title}</a>"
 
 def create_tabulator_data(features):
     tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
@@ -50,7 +51,7 @@ def create_tabulator_data(features):
                 title = key
                 field = key
                 row[key] = get_link(title, field, target)
-                # row[key] = f"<a href='{val}'>geonames</a>"
+
             else:
                 row[key] = val
         tabulator_data.append(row)
