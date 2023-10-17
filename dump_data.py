@@ -7,7 +7,7 @@ from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 play_id_2_play_name = None
 altname_keys = ["alt_tokens", "legacy"]
 
-def get_link(title, field, target):
+def get_link(title, target, field=""):
     # return {
     #     "title":title,
     #     "field": field,
@@ -19,6 +19,9 @@ def get_link(title, field, target):
     #     }
     # }
     return f"<a href='{target}'>{title}</a>"
+
+def get_list(list_content):
+    return f"<ul>{''.join([f'<li>{c}</li>' for c in list_content])}</ul>"
 
 def create_tabulator_data(features):
     tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
@@ -38,19 +41,20 @@ def create_tabulator_data(features):
                         alt_names += f", {val}"
                 row["alt_names"] = alt_names
             elif key == "mentioned_in":
-                items = []
+                links = []
                 for mention in val:
                     play_nestroy_id = mention["value"]
                     play_title = mention["title"]
-                    item = f"<li><a href='{play_nestroy_id}'>{play_title}</a></li>"
-                    items.append(item)
-                mentions = f"<ul>{''.join(items)}</ul>"
+                    link = f"<li>{get_link(play_title, play_nestroy_id)}</li>"
+                    links.append(link)
+                #mentions = get_list(links)
+                mentions = "<br>".join(links)
                 row["mentions"] = mentions
             elif key == "geonames":
                 target = val
                 title = key
                 field = key
-                row[key] = get_link(title, field, target)
+                row[key] = get_link(title, target, field)
 
             else:
                 row[key] = val
