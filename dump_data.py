@@ -28,7 +28,6 @@ def create_tabulator_data(features):
     tabulator_data = []
     for feature in features:
         row = {
-            "coordinates" : feature.pop("geometry").pop("coordinates")
         }
         alt_names = ""
         mentions = ""
@@ -54,6 +53,9 @@ def create_tabulator_data(features):
                 title = key
                 field = key
                 row[key] = get_link(title, target, field)
+            elif key == "name":
+                coordinates = feature.pop("geometry").pop("coordinates")
+                row[key] = [val, coordinates]
             else:
                 row[key] = val
         tabulator_data.append(row)
