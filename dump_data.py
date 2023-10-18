@@ -27,7 +27,9 @@ def create_tabulator_data(features):
     tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
     tabulator_data = []
     for feature in features:
-        row = {}
+        row = {
+            "coordinates" : feature.pop("geometry").pop("coordinates")
+        }
         alt_names = ""
         mentions = ""
         for key, val in feature.pop("properties").items():
@@ -52,13 +54,6 @@ def create_tabulator_data(features):
                 title = key
                 field = key
                 row[key] = get_link(title, target, field)
-            elif key == "name":
-                coordinates = feature.pop("geometry").pop("coordinates")
-                row[key] = get_link(
-                    title=val,
-                    target=f"#{coordinates[0]}/{coordinates[1]}",
-                    classes="leaflet_mappoint_link"
-                )
             else:
                 row[key] = val
         tabulator_data.append(row)
