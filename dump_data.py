@@ -7,7 +7,7 @@ from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 play_id_2_play_name = None
 altname_keys = ["alt_tokens", "legacy"]
 
-def get_link(title, target, field=""):
+def get_link(title, target, field="", classes=""):
     # return {
     #     "title":title,
     #     "field": field,
@@ -18,7 +18,7 @@ def get_link(title, target, field=""):
     #         "target": target,
     #     }
     # }
-    return f"<a href='{target}'>{title}</a>"
+    return f"<a class='{classes}' href='{target}'>{title}</a>"
 
 def get_list(list_content):
     return f"<ul>{''.join([f'<li>{c}</li>' for c in list_content])}</ul>"
@@ -54,7 +54,13 @@ def create_tabulator_data(features):
                 title = key
                 field = key
                 row[key] = get_link(title, target, field)
-
+            elif key == "name":
+                coordinates = feature.pop("geometry").pop("coordinates")
+                row[key] = get_link(
+                    title=val,
+                    target=f"#{coordinates[0]}/{coordinates[1]}",
+                    classes="leaflet_mappoint_link"
+                )
             else:
                 row[key] = val
         tabulator_data.append(row)
