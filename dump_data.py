@@ -27,9 +27,7 @@ def create_tabulator_data(features):
     tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
     tabulator_data = []
     for feature in features:
-        row = {
-            "sorter":"string"
-        }
+        row = {}
         alt_names = ""
         mentions = ""
         for key, val in feature.pop("properties").items():
