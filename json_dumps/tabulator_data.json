@@ -1,5 +1,6 @@
 [
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#138.59863/-34.92866'>Adelaide</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2078025/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__3",
@@ -8,6 +9,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#26.55597/41.67719'>Edirne</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/747712/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__4",
@@ -16,6 +18,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.51265/42.10431'>Aleria </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3038225/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__5",
@@ -24,6 +27,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#4.88969/52.37403'>Amsterdam</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2759794/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__7",
@@ -32,6 +36,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#21.31667/46.18333'>Arad </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/686254/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__8",
@@ -40,6 +45,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-3.60246/40.03108'>Aranjuez</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3129857/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__9",
@@ -48,6 +54,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.23975/48.76060'>Baden-Baden </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2953504/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__12",
@@ -56,6 +63,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.07784/50.20228'>Bad Kissingen </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2953424/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__13",
@@ -64,6 +72,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.90067/49.89873'>Bamberg</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2952984/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__14",
@@ -72,6 +81,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#13.41053/52.52437'>Berlin </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2950159/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__16",
@@ -80,6 +90,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.68417/50.11552'>Frankfurt am Main </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2925533/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__18",
@@ -88,6 +99,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#44.42417/32.54083'>Babylon</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/98228/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__19",
@@ -96,6 +108,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.23264/48.00543'>Baden</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2782067/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__20",
@@ -104,6 +117,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-71.05977/42.35843'>Boston</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/4930956/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__23",
@@ -112,6 +126,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#20.55111/42.98373'>Branowitz</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/791091/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__24",
@@ -120,6 +135,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#17.10674/48.14816'>Bratislava</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3060972/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__25",
@@ -128,6 +144,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.06959/47.50107'>Braunau</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/8533690/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__26",
@@ -136,6 +153,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.52673/52.26594'>Braunschweig </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2945024/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__27",
@@ -144,6 +162,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.80717/53.07582'>Bremen</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2944388/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__28",
@@ -152,6 +171,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#25.15027/50.08791'>Brody </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/711416/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__30",
@@ -160,6 +180,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.60796/49.19522'>Brno</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3078610/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__32",
@@ -168,6 +189,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#4.34878/50.85045'>Br\u00fcssel</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2800866/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__33",
@@ -176,6 +198,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.47434/48.97447'>Ceske Budejovice</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3077916/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__35",
@@ -184,6 +207,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#15.56970/51.26418'>Bunzlau</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3102987/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__36",
@@ -192,6 +216,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#15.79558/49.95109'>Chrudim</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3077539/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__37",
@@ -200,6 +225,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.02129/45.13325'>Cremona </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3177838/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__38",
@@ -208,6 +234,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#15.38972/49.91099'>Czaslau </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3078234/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__39",
@@ -216,6 +243,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.65027/49.87167'>Darmstadt </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2938913/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__40",
@@ -224,6 +252,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.56667/48.29972'>Deutsch-Wagram </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2781017/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__42",
@@ -232,6 +261,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#13.73832/51.05089'>Dresden </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2935022/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__43",
@@ -240,6 +270,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.83364/48.48441'>D\u00fcrnkrut</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/7871730/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__44",
@@ -248,6 +279,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.60832/48.08502'>Enzersdorf an der Fischa</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2780017/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__46",
@@ -256,6 +288,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.16667/46.51667'>Feistritz</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2779704/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__47",
@@ -264,6 +297,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#11.62057/44.83804'>Ferrara</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3177090/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__48",
@@ -272,6 +306,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.61395/48.11573'>Fischamend</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/7871945/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__49",
@@ -280,6 +315,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#11.24626/43.77925'>Florenz</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3176959/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__50",
@@ -288,6 +324,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#1.46919/38.69467'>Formentera</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2517690/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__51",
@@ -296,6 +333,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.72016/48.33925'>G\u00e4nserndorf </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2778877/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__53",
@@ -304,6 +342,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.94439/44.40478'>Genua </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3176219/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__54",
@@ -312,6 +351,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#13.62167/45.94088'>G\u00f6rz</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3175986/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__56",
@@ -320,6 +360,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#11.24971/49.64426'>Gr\u00e4fenberg</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2918350/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__57",
@@ -328,6 +369,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#15.45000/47.06667'>Graz</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2778067/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__58",
@@ -336,6 +378,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-3.06618/55.00279'>Gretna Green </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2647909/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__59",
@@ -344,6 +387,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.66186/44.91172'>Guastalla</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3175693/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__60",
@@ -352,6 +396,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.27710/48.04538'>Gumpoldskirchen</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2777279/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__61",
@@ -360,6 +405,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.99302/53.55073'>Hamburg  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2911298/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__62",
@@ -368,6 +414,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.73322/52.37052'>Hannover </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2910831/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__63",
@@ -376,6 +423,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#27.60000/47.16667'>Ia\u015fi (Jassy)  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/675810/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__66",
@@ -384,6 +432,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#11.39454/47.26266'>Innsbruck  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2775220/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__67",
@@ -392,6 +441,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#13.61893/47.71109'>Ischl</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2782052/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__68",
@@ -400,6 +450,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#27.13838/38.41273'>Izmir</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/311046/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__69",
@@ -408,6 +459,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#35.45000/31.86667'>Jericho  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/284899/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__70",
@@ -416,6 +468,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#12.87117/50.23271'>Karlsbad  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3073803/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__72",
@@ -424,6 +477,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.33333/36.86667'>Karthago  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2468244/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__73",
@@ -432,6 +486,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.13489/54.32133'>Kiel</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2891122/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__76",
@@ -440,6 +495,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#6.95000/50.93333'>K\u00f6ln</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2886242/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__78",
@@ -448,6 +504,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#28.94966/41.01384'>Istanbul</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/745044/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__79",
@@ -456,6 +513,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.12919/48.05290'>Kremsm\u00fcnster</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2773538/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__81",
@@ -464,6 +522,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.62532/49.17884'>Kumrowitz </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3073337/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__82",
@@ -472,6 +531,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.35607/48.06833'>Laxenburg </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2772810/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__83",
@@ -480,6 +540,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.31298/49.86809'>Leitomischl </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3071675/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__84",
@@ -488,6 +549,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.28611/48.30639'>Linz</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2772400/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__88",
@@ -496,6 +558,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.28611/48.30639'>Livorno </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2772400/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__89",
@@ -504,6 +567,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-0.12574/51.50853'>London </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2643743/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__90",
@@ -512,6 +576,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.88203/48.75897'>Lundenburg</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3078773/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__91",
@@ -520,6 +585,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-3.70256/40.41650'>Madrid </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3117735/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__92",
@@ -528,6 +594,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.18951/45.46427'>Mailand  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3173435/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__93",
@@ -536,6 +603,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-4.42034/36.72016'>Malaga  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2514256/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__94",
@@ -544,6 +612,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#12.70118/49.96459'>Marienbad  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3071024/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__95",
@@ -552,6 +621,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#5.38107/43.29695'>Marseille  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2995469/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__96",
@@ -560,6 +630,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#15.55256/38.19394'>Messina  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2524170/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__97",
@@ -568,6 +639,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.28921/48.08605'>M\u00f6dling  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2771335/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__98",
@@ -576,6 +648,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#37.61556/55.75222'>Moskau </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/524901/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__99",
@@ -584,6 +657,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.26811/40.85216'>Neapel  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3172394/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__102",
@@ -592,6 +666,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-74.00597/40.71427'>New York  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/5128581/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__103",
@@ -600,6 +675,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#43.15667/36.36768'>Ninive  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/92878/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__104",
@@ -608,6 +684,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#11.07752/49.45421'>N\u00fcrnberg  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2861650/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__105",
@@ -616,6 +693,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#17.25175/49.59552'>Olomouc</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3069011/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__107",
@@ -624,6 +702,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#1.90389/47.90289'>Orleans</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2989317/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__108",
@@ -632,6 +711,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#2.92700/51.21551'>Ostende  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2789786/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__110",
@@ -640,6 +720,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#11.88586/45.40797'>Padua  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3171728/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__111",
@@ -648,6 +729,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#20.64167/44.87177'>Pantschowa  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/787237/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__112",
@@ -656,6 +738,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#2.34880/48.85341'>Paris </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2988507/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__113",
@@ -664,6 +747,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.32618/44.79935'>Parma  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3171457/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__114",
@@ -672,6 +756,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#116.39723/39.90750'>Peking </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/1816670/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__115",
@@ -680,6 +765,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#30.31413/59.93863'>Petersburg  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/498817/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__116",
@@ -688,6 +774,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-75.16362/39.95238'>Philadelphia </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/4560349/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__117",
@@ -696,6 +783,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.69342/45.05242'>Piacenza  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3171058/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__118",
@@ -704,6 +792,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.48333/40.75000'>Pompeji  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3170336/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__119",
@@ -712,6 +801,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.27947/41.59101'>Porto Vecchio </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2985947/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__120",
@@ -720,6 +810,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.42076/50.08804'>Praha</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3067696/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__122",
@@ -728,6 +819,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.17539/48.20769'>Purkersdorf  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2768232/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__123",
@@ -736,6 +828,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.60388/49.09021'>Raigern </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3067078/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__124",
@@ -744,6 +837,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#12.10161/49.01513'>Regensburg </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2849483/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__125",
@@ -752,6 +846,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#12.51133/41.89193'>Rom</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3169070/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__126",
@@ -760,6 +855,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#1.09932/49.44313'>Rouen </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2982652/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__127",
@@ -768,6 +864,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#13.04399/47.79941'>Salzburg</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2766824/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__128",
@@ -776,6 +873,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.66753/45.83443'>San Pellegrino </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3167875/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__129",
@@ -784,6 +882,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#-0.87734/41.65606'>Saragossa</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3104324/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__130",
@@ -792,6 +891,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.98333/41.61667'>Sartena </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2975931/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__131",
@@ -800,6 +900,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.46667/48.13333'>Schwechat</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2765388/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__133",
@@ -808,6 +909,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.43111/49.32083'>Speyer</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2830582/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__135",
@@ -816,6 +918,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.78333/47.21667'>Spielberg</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2764812/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__136",
@@ -824,6 +927,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.41667/47.83333'>Steinbrunn</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2764296/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__137",
@@ -832,6 +936,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.42127/48.04274'>Steyr</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2764359/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__138",
@@ -840,6 +945,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.67581/48.04509'>Stixneusiedl  </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2764288/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__139",
@@ -848,6 +954,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.21667/48.38333'>Stockerau </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2764279/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__140",
@@ -856,6 +963,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.17702/48.78232'>Stuttgart</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2825297/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__142",
@@ -864,6 +972,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.30118/48.00964'>Traiskirchen</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/7871715/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__144",
@@ -872,6 +981,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#13.77678/45.64953'>Trieste</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3165185/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__145",
@@ -880,6 +990,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#10.16579/36.81897'>Tunis </a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2464470/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__147",
@@ -888,6 +999,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.99155/48.39841'>Ulm</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2820256/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__148",
@@ -896,6 +1008,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#12.33265/45.43713'>Venezia</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/3164603/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__149",
@@ -904,6 +1017,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#14.77361/47.96004'>Waidhofen/Ybbs</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2762077/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__150",
@@ -912,6 +1026,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#11.32903/50.98030'>Weimar</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2812482/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__152",
@@ -920,6 +1035,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#9.28762/49.15127'>Weinsberg</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2812158/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__153",
@@ -928,6 +1044,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.37208/48.20849'>Wien</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2761369/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__155",
@@ -936,6 +1053,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#16.23196/47.80485'>Wiener Neustadt</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2761353/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__156",
@@ -944,6 +1062,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#8.35916/49.63278'>Worms</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2806142/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__159",
@@ -952,6 +1071,7 @@
     "total_occurences": "0"
   },
   {
+    "sorter": "string",
     "name": "<a class='leaflet_mappoint_link' href='#15.08333/48.16667'>Ybbs</a>",
     "geonames": "<a class='' href='https://sws.geonames.org/2760772/'>geonames</a>",
     "nestroy_id": "nestroy_place_id__160",
