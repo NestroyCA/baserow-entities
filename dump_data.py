@@ -28,7 +28,7 @@ def create_tabulator_data(features):
     tabulator_data = []
     for feature in features:
         row = {
-            # "coordinates" : feature.pop("geometry").pop("coordinates")
+            "sorter":"string"
         }
         alt_names = ""
         mentions = ""
