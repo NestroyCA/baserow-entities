@@ -1,12 +1,10 @@
 [
   {
-    "name": [
-      "Adelaide",
-      [
-        "138.59863",
-        "-34.92866"
-      ]
+    "coordinates": [
+      "138.59863",
+      "-34.92866"
     ],
+    "name": "Adelaide",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2078025/"
@@ -22,13 +20,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Edirne",
-      [
-        "26.55597",
-        "41.67719"
-      ]
+    "coordinates": [
+      "26.55597",
+      "41.67719"
     ],
+    "name": "Edirne",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/747712/"
@@ -46,13 +42,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Aleria ",
-      [
-        "9.51265",
-        "42.10431"
-      ]
+    "coordinates": [
+      "9.51265",
+      "42.10431"
     ],
+    "name": "Aleria ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3038225/"
@@ -68,13 +62,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Amsterdam",
-      [
-        "4.88969",
-        "52.37403"
-      ]
+    "coordinates": [
+      "4.88969",
+      "52.37403"
     ],
+    "name": "Amsterdam",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2759794/"
@@ -98,13 +90,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Arad ",
-      [
-        "21.31667",
-        "46.18333"
-      ]
+    "coordinates": [
+      "21.31667",
+      "46.18333"
     ],
+    "name": "Arad ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/686254/"
@@ -120,13 +110,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Aranjuez",
-      [
-        "-3.60246",
-        "40.03108"
-      ]
+    "coordinates": [
+      "-3.60246",
+      "40.03108"
     ],
+    "name": "Aranjuez",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3129857/"
@@ -142,13 +130,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Baden-Baden ",
-      [
-        "8.23975",
-        "48.76060"
-      ]
+    "coordinates": [
+      "8.23975",
+      "48.76060"
     ],
+    "name": "Baden-Baden ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2953504/"
@@ -164,13 +150,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Bad Kissingen ",
-      [
-        "10.07784",
-        "50.20228"
-      ]
+    "coordinates": [
+      "10.07784",
+      "50.20228"
     ],
+    "name": "Bad Kissingen ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2953424/"
@@ -186,13 +170,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Bamberg",
-      [
-        "10.90067",
-        "49.89873"
-      ]
+    "coordinates": [
+      "10.90067",
+      "49.89873"
     ],
+    "name": "Bamberg",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2952984/"
@@ -208,13 +190,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Berlin ",
-      [
-        "13.41053",
-        "52.52437"
-      ]
+    "coordinates": [
+      "13.41053",
+      "52.52437"
     ],
+    "name": "Berlin ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2950159/"
@@ -266,13 +246,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Frankfurt am Main ",
-      [
-        "8.68417",
-        "50.11552"
-      ]
+    "coordinates": [
+      "8.68417",
+      "50.11552"
     ],
+    "name": "Frankfurt am Main ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2925533/"
@@ -300,13 +278,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Babylon",
-      [
-        "44.42417",
-        "32.54083"
-      ]
+    "coordinates": [
+      "44.42417",
+      "32.54083"
     ],
+    "name": "Babylon",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/98228/"
@@ -326,13 +302,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Baden",
-      [
-        "16.23264",
-        "48.00543"
-      ]
+    "coordinates": [
+      "16.23264",
+      "48.00543"
     ],
+    "name": "Baden",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2782067/"
@@ -350,13 +324,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Boston",
-      [
-        "-71.05977",
-        "42.35843"
-      ]
+    "coordinates": [
+      "-71.05977",
+      "42.35843"
     ],
+    "name": "Boston",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/4930956/"
@@ -372,13 +344,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Branowitz",
-      [
-        "20.55111",
-        "42.98373"
-      ]
+    "coordinates": [
+      "20.55111",
+      "42.98373"
     ],
+    "name": "Branowitz",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/791091/"
@@ -394,13 +364,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Bratislava",
-      [
-        "17.10674",
-        "48.14816"
-      ]
+    "coordinates": [
+      "17.10674",
+      "48.14816"
     ],
+    "name": "Bratislava",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3060972/"
@@ -418,13 +386,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Braunau",
-      [
-        "9.06959",
-        "47.50107"
-      ]
+    "coordinates": [
+      "9.06959",
+      "47.50107"
     ],
+    "name": "Braunau",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/8533690/"
@@ -440,13 +406,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Braunschweig ",
-      [
-        "10.52673",
-        "52.26594"
-      ]
+    "coordinates": [
+      "10.52673",
+      "52.26594"
     ],
+    "name": "Braunschweig ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2945024/"
@@ -462,13 +426,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Bremen",
-      [
-        "8.80717",
-        "53.07582"
-      ]
+    "coordinates": [
+      "8.80717",
+      "53.07582"
     ],
+    "name": "Bremen",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2944388/"
@@ -484,13 +446,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Brody ",
-      [
-        "25.15027",
-        "50.08791"
-      ]
+    "coordinates": [
+      "25.15027",
+      "50.08791"
     ],
+    "name": "Brody ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/711416/"
@@ -506,13 +466,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Brno",
-      [
-        "16.60796",
-        "49.19522"
-      ]
+    "coordinates": [
+      "16.60796",
+      "49.19522"
     ],
+    "name": "Brno",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3078610/"
@@ -530,13 +488,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Br\u00fcssel",
-      [
-        "4.34878",
-        "50.85045"
-      ]
+    "coordinates": [
+      "4.34878",
+      "50.85045"
     ],
+    "name": "Br\u00fcssel",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2800866/"
@@ -552,13 +508,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ceske Budejovice",
-      [
-        "14.47434",
-        "48.97447"
-      ]
+    "coordinates": [
+      "14.47434",
+      "48.97447"
     ],
+    "name": "Ceske Budejovice",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3077916/"
@@ -600,13 +554,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Bunzlau",
-      [
-        "15.56970",
-        "51.26418"
-      ]
+    "coordinates": [
+      "15.56970",
+      "51.26418"
     ],
+    "name": "Bunzlau",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3102987/"
@@ -622,13 +574,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Chrudim",
-      [
-        "15.79558",
-        "49.95109"
-      ]
+    "coordinates": [
+      "15.79558",
+      "49.95109"
     ],
+    "name": "Chrudim",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3077539/"
@@ -644,13 +594,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Cremona ",
-      [
-        "10.02129",
-        "45.13325"
-      ]
+    "coordinates": [
+      "10.02129",
+      "45.13325"
     ],
+    "name": "Cremona ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3177838/"
@@ -666,13 +614,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Czaslau ",
-      [
-        "15.38972",
-        "49.91099"
-      ]
+    "coordinates": [
+      "15.38972",
+      "49.91099"
     ],
+    "name": "Czaslau ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3078234/"
@@ -688,13 +634,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Darmstadt ",
-      [
-        "8.65027",
-        "49.87167"
-      ]
+    "coordinates": [
+      "8.65027",
+      "49.87167"
     ],
+    "name": "Darmstadt ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2938913/"
@@ -710,13 +654,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Deutsch-Wagram ",
-      [
-        "16.56667",
-        "48.29972"
-      ]
+    "coordinates": [
+      "16.56667",
+      "48.29972"
     ],
+    "name": "Deutsch-Wagram ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2781017/"
@@ -732,13 +674,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Dresden ",
-      [
-        "13.73832",
-        "51.05089"
-      ]
+    "coordinates": [
+      "13.73832",
+      "51.05089"
     ],
+    "name": "Dresden ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2935022/"
@@ -754,13 +694,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "D\u00fcrnkrut",
-      [
-        "16.83364",
-        "48.48441"
-      ]
+    "coordinates": [
+      "16.83364",
+      "48.48441"
     ],
+    "name": "D\u00fcrnkrut",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/7871730/"
@@ -776,13 +714,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Enzersdorf an der Fischa",
-      [
-        "16.60832",
-        "48.08502"
-      ]
+    "coordinates": [
+      "16.60832",
+      "48.08502"
     ],
+    "name": "Enzersdorf an der Fischa",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2780017/"
@@ -798,13 +734,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Feistritz",
-      [
-        "14.16667",
-        "46.51667"
-      ]
+    "coordinates": [
+      "14.16667",
+      "46.51667"
     ],
+    "name": "Feistritz",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2779704/"
@@ -820,13 +754,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ferrara",
-      [
-        "11.62057",
-        "44.83804"
-      ]
+    "coordinates": [
+      "11.62057",
+      "44.83804"
     ],
+    "name": "Ferrara",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3177090/"
@@ -842,13 +774,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Fischamend",
-      [
-        "16.61395",
-        "48.11573"
-      ]
+    "coordinates": [
+      "16.61395",
+      "48.11573"
     ],
+    "name": "Fischamend",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/7871945/"
@@ -864,13 +794,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Florenz",
-      [
-        "11.24626",
-        "43.77925"
-      ]
+    "coordinates": [
+      "11.24626",
+      "43.77925"
     ],
+    "name": "Florenz",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3176959/"
@@ -890,13 +818,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Formentera",
-      [
-        "1.46919",
-        "38.69467"
-      ]
+    "coordinates": [
+      "1.46919",
+      "38.69467"
     ],
+    "name": "Formentera",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2517690/"
@@ -912,13 +838,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "G\u00e4nserndorf ",
-      [
-        "16.72016",
-        "48.33925"
-      ]
+    "coordinates": [
+      "16.72016",
+      "48.33925"
     ],
+    "name": "G\u00e4nserndorf ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2778877/"
@@ -934,13 +858,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Genua ",
-      [
-        "8.94439",
-        "44.40478"
-      ]
+    "coordinates": [
+      "8.94439",
+      "44.40478"
     ],
+    "name": "Genua ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3176219/"
@@ -956,13 +878,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "G\u00f6rz",
-      [
-        "13.62167",
-        "45.94088"
-      ]
+    "coordinates": [
+      "13.62167",
+      "45.94088"
     ],
+    "name": "G\u00f6rz",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3175986/"
@@ -982,13 +902,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Gr\u00e4fenberg",
-      [
-        "11.24971",
-        "49.64426"
-      ]
+    "coordinates": [
+      "11.24971",
+      "49.64426"
     ],
+    "name": "Gr\u00e4fenberg",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2918350/"
@@ -1004,13 +922,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Graz",
-      [
-        "15.45000",
-        "47.06667"
-      ]
+    "coordinates": [
+      "15.45000",
+      "47.06667"
     ],
+    "name": "Graz",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2778067/"
@@ -1030,13 +946,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Gretna Green ",
-      [
-        "-3.06618",
-        "55.00279"
-      ]
+    "coordinates": [
+      "-3.06618",
+      "55.00279"
     ],
+    "name": "Gretna Green ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2647909/"
@@ -1052,13 +966,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Guastalla",
-      [
-        "10.66186",
-        "44.91172"
-      ]
+    "coordinates": [
+      "10.66186",
+      "44.91172"
     ],
+    "name": "Guastalla",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3175693/"
@@ -1076,13 +988,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Gumpoldskirchen",
-      [
-        "16.27710",
-        "48.04538"
-      ]
+    "coordinates": [
+      "16.27710",
+      "48.04538"
     ],
+    "name": "Gumpoldskirchen",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2777279/"
@@ -1102,13 +1012,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Hamburg  ",
-      [
-        "9.99302",
-        "53.55073"
-      ]
+    "coordinates": [
+      "9.99302",
+      "53.55073"
     ],
+    "name": "Hamburg  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2911298/"
@@ -1140,13 +1048,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Hannover ",
-      [
-        "9.73322",
-        "52.37052"
-      ]
+    "coordinates": [
+      "9.73322",
+      "52.37052"
     ],
+    "name": "Hannover ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2910831/"
@@ -1166,13 +1072,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ia\u015fi (Jassy)  ",
-      [
-        "27.60000",
-        "47.16667"
-      ]
+    "coordinates": [
+      "27.60000",
+      "47.16667"
     ],
+    "name": "Ia\u015fi (Jassy)  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/675810/"
@@ -1188,13 +1092,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Innsbruck  ",
-      [
-        "11.39454",
-        "47.26266"
-      ]
+    "coordinates": [
+      "11.39454",
+      "47.26266"
     ],
+    "name": "Innsbruck  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2775220/"
@@ -1210,13 +1112,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ischl",
-      [
-        "13.61893",
-        "47.71109"
-      ]
+    "coordinates": [
+      "13.61893",
+      "47.71109"
     ],
+    "name": "Ischl",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2782052/"
@@ -1232,13 +1132,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Izmir",
-      [
-        "27.13838",
-        "38.41273"
-      ]
+    "coordinates": [
+      "27.13838",
+      "38.41273"
     ],
+    "name": "Izmir",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/311046/"
@@ -1256,13 +1154,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Jericho  ",
-      [
-        "35.45000",
-        "31.86667"
-      ]
+    "coordinates": [
+      "35.45000",
+      "31.86667"
     ],
+    "name": "Jericho  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/284899/"
@@ -1278,13 +1174,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Karlsbad  ",
-      [
-        "12.87117",
-        "50.23271"
-      ]
+    "coordinates": [
+      "12.87117",
+      "50.23271"
     ],
+    "name": "Karlsbad  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3073803/"
@@ -1300,13 +1194,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Karthago  ",
-      [
-        "10.33333",
-        "36.86667"
-      ]
+    "coordinates": [
+      "10.33333",
+      "36.86667"
     ],
+    "name": "Karthago  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2468244/"
@@ -1322,13 +1214,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Kiel",
-      [
-        "10.13489",
-        "54.32133"
-      ]
+    "coordinates": [
+      "10.13489",
+      "54.32133"
     ],
+    "name": "Kiel",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2891122/"
@@ -1344,13 +1234,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "K\u00f6ln",
-      [
-        "6.95000",
-        "50.93333"
-      ]
+    "coordinates": [
+      "6.95000",
+      "50.93333"
     ],
+    "name": "K\u00f6ln",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2886242/"
@@ -1368,13 +1256,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Istanbul",
-      [
-        "28.94966",
-        "41.01384"
-      ]
+    "coordinates": [
+      "28.94966",
+      "41.01384"
     ],
+    "name": "Istanbul",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/745044/"
@@ -1400,13 +1286,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Kremsm\u00fcnster",
-      [
-        "14.12919",
-        "48.05290"
-      ]
+    "coordinates": [
+      "14.12919",
+      "48.05290"
     ],
+    "name": "Kremsm\u00fcnster",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2773538/"
@@ -1422,13 +1306,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Kumrowitz ",
-      [
-        "16.62532",
-        "49.17884"
-      ]
+    "coordinates": [
+      "16.62532",
+      "49.17884"
     ],
+    "name": "Kumrowitz ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3073337/"
@@ -1444,13 +1326,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Laxenburg ",
-      [
-        "16.35607",
-        "48.06833"
-      ]
+    "coordinates": [
+      "16.35607",
+      "48.06833"
     ],
+    "name": "Laxenburg ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2772810/"
@@ -1466,13 +1346,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Leitomischl ",
-      [
-        "16.31298",
-        "49.86809"
-      ]
+    "coordinates": [
+      "16.31298",
+      "49.86809"
     ],
+    "name": "Leitomischl ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3071675/"
@@ -1492,13 +1370,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Linz",
-      [
-        "14.28611",
-        "48.30639"
-      ]
+    "coordinates": [
+      "14.28611",
+      "48.30639"
     ],
+    "name": "Linz",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2772400/"
@@ -1514,13 +1390,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Livorno ",
-      [
-        "14.28611",
-        "48.30639"
-      ]
+    "coordinates": [
+      "14.28611",
+      "48.30639"
     ],
+    "name": "Livorno ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2772400/"
@@ -1540,13 +1414,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "London ",
-      [
-        "-0.12574",
-        "51.50853"
-      ]
+    "coordinates": [
+      "-0.12574",
+      "51.50853"
     ],
+    "name": "London ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2643743/"
@@ -1610,13 +1482,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Lundenburg",
-      [
-        "16.88203",
-        "48.75897"
-      ]
+    "coordinates": [
+      "16.88203",
+      "48.75897"
     ],
+    "name": "Lundenburg",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3078773/"
@@ -1632,13 +1502,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Madrid ",
-      [
-        "-3.70256",
-        "40.41650"
-      ]
+    "coordinates": [
+      "-3.70256",
+      "40.41650"
     ],
+    "name": "Madrid ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3117735/"
@@ -1654,13 +1522,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Mailand  ",
-      [
-        "9.18951",
-        "45.46427"
-      ]
+    "coordinates": [
+      "9.18951",
+      "45.46427"
     ],
+    "name": "Mailand  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3173435/"
@@ -1676,13 +1542,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Malaga  ",
-      [
-        "-4.42034",
-        "36.72016"
-      ]
+    "coordinates": [
+      "-4.42034",
+      "36.72016"
     ],
+    "name": "Malaga  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2514256/"
@@ -1710,13 +1574,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Marienbad  ",
-      [
-        "12.70118",
-        "49.96459"
-      ]
+    "coordinates": [
+      "12.70118",
+      "49.96459"
     ],
+    "name": "Marienbad  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3071024/"
@@ -1732,13 +1594,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Marseille  ",
-      [
-        "5.38107",
-        "43.29695"
-      ]
+    "coordinates": [
+      "5.38107",
+      "43.29695"
     ],
+    "name": "Marseille  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2995469/"
@@ -1758,13 +1618,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Messina  ",
-      [
-        "15.55256",
-        "38.19394"
-      ]
+    "coordinates": [
+      "15.55256",
+      "38.19394"
     ],
+    "name": "Messina  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2524170/"
@@ -1780,13 +1638,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "M\u00f6dling  ",
-      [
-        "16.28921",
-        "48.08605"
-      ]
+    "coordinates": [
+      "16.28921",
+      "48.08605"
     ],
+    "name": "M\u00f6dling  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2771335/"
@@ -1806,13 +1662,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Moskau ",
-      [
-        "37.61556",
-        "55.75222"
-      ]
+    "coordinates": [
+      "37.61556",
+      "55.75222"
     ],
+    "name": "Moskau ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/524901/"
@@ -1828,13 +1682,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Neapel  ",
-      [
-        "14.26811",
-        "40.85216"
-      ]
+    "coordinates": [
+      "14.26811",
+      "40.85216"
     ],
+    "name": "Neapel  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3172394/"
@@ -1874,13 +1726,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "New York  ",
-      [
-        "-74.00597",
-        "40.71427"
-      ]
+    "coordinates": [
+      "-74.00597",
+      "40.71427"
     ],
+    "name": "New York  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/5128581/"
@@ -1896,13 +1746,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ninive  ",
-      [
-        "43.15667",
-        "36.36768"
-      ]
+    "coordinates": [
+      "43.15667",
+      "36.36768"
     ],
+    "name": "Ninive  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/92878/"
@@ -1922,13 +1770,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "N\u00fcrnberg  ",
-      [
-        "11.07752",
-        "49.45421"
-      ]
+    "coordinates": [
+      "11.07752",
+      "49.45421"
     ],
+    "name": "N\u00fcrnberg  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2861650/"
@@ -1952,13 +1798,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Olomouc",
-      [
-        "17.25175",
-        "49.59552"
-      ]
+    "coordinates": [
+      "17.25175",
+      "49.59552"
     ],
+    "name": "Olomouc",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3069011/"
@@ -1976,13 +1820,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Orleans",
-      [
-        "1.90389",
-        "47.90289"
-      ]
+    "coordinates": [
+      "1.90389",
+      "47.90289"
     ],
+    "name": "Orleans",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2989317/"
@@ -2018,13 +1860,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ostende  ",
-      [
-        "2.92700",
-        "51.21551"
-      ]
+    "coordinates": [
+      "2.92700",
+      "51.21551"
     ],
+    "name": "Ostende  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2789786/"
@@ -2040,13 +1880,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Padua  ",
-      [
-        "11.88586",
-        "45.40797"
-      ]
+    "coordinates": [
+      "11.88586",
+      "45.40797"
     ],
+    "name": "Padua  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3171728/"
@@ -2062,13 +1900,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Pantschowa  ",
-      [
-        "20.64167",
-        "44.87177"
-      ]
+    "coordinates": [
+      "20.64167",
+      "44.87177"
     ],
+    "name": "Pantschowa  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/787237/"
@@ -2084,13 +1920,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Paris ",
-      [
-        "2.34880",
-        "48.85341"
-      ]
+    "coordinates": [
+      "2.34880",
+      "48.85341"
     ],
+    "name": "Paris ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2988507/"
@@ -2194,13 +2028,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Parma  ",
-      [
-        "10.32618",
-        "44.79935"
-      ]
+    "coordinates": [
+      "10.32618",
+      "44.79935"
     ],
+    "name": "Parma  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3171457/"
@@ -2216,13 +2048,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Peking ",
-      [
-        "116.39723",
-        "39.90750"
-      ]
+    "coordinates": [
+      "116.39723",
+      "39.90750"
     ],
+    "name": "Peking ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/1816670/"
@@ -2238,13 +2068,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Petersburg  ",
-      [
-        "30.31413",
-        "59.93863"
-      ]
+    "coordinates": [
+      "30.31413",
+      "59.93863"
     ],
+    "name": "Petersburg  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/498817/"
@@ -2264,13 +2092,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Philadelphia ",
-      [
-        "-75.16362",
-        "39.95238"
-      ]
+    "coordinates": [
+      "-75.16362",
+      "39.95238"
     ],
+    "name": "Philadelphia ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/4560349/"
@@ -2290,13 +2116,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Piacenza  ",
-      [
-        "9.69342",
-        "45.05242"
-      ]
+    "coordinates": [
+      "9.69342",
+      "45.05242"
     ],
+    "name": "Piacenza  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3171058/"
@@ -2312,13 +2136,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Pompeji  ",
-      [
-        "14.48333",
-        "40.75000"
-      ]
+    "coordinates": [
+      "14.48333",
+      "40.75000"
     ],
+    "name": "Pompeji  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3170336/"
@@ -2338,13 +2160,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Porto Vecchio ",
-      [
-        "9.27947",
-        "41.59101"
-      ]
+    "coordinates": [
+      "9.27947",
+      "41.59101"
     ],
+    "name": "Porto Vecchio ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2985947/"
@@ -2368,13 +2188,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Praha",
-      [
-        "14.42076",
-        "50.08804"
-      ]
+    "coordinates": [
+      "14.42076",
+      "50.08804"
     ],
+    "name": "Praha",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3067696/"
@@ -2396,13 +2214,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Purkersdorf  ",
-      [
-        "16.17539",
-        "48.20769"
-      ]
+    "coordinates": [
+      "16.17539",
+      "48.20769"
     ],
+    "name": "Purkersdorf  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2768232/"
@@ -2418,13 +2234,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Raigern ",
-      [
-        "16.60388",
-        "49.09021"
-      ]
+    "coordinates": [
+      "16.60388",
+      "49.09021"
     ],
+    "name": "Raigern ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3067078/"
@@ -2440,13 +2254,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Regensburg ",
-      [
-        "12.10161",
-        "49.01513"
-      ]
+    "coordinates": [
+      "12.10161",
+      "49.01513"
     ],
+    "name": "Regensburg ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2849483/"
@@ -2462,13 +2274,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Rom",
-      [
-        "12.51133",
-        "41.89193"
-      ]
+    "coordinates": [
+      "12.51133",
+      "41.89193"
     ],
+    "name": "Rom",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3169070/"
@@ -2488,13 +2298,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Rouen ",
-      [
-        "1.09932",
-        "49.44313"
-      ]
+    "coordinates": [
+      "1.09932",
+      "49.44313"
     ],
+    "name": "Rouen ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2982652/"
@@ -2510,13 +2318,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Salzburg",
-      [
-        "13.04399",
-        "47.79941"
-      ]
+    "coordinates": [
+      "13.04399",
+      "47.79941"
     ],
+    "name": "Salzburg",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2766824/"
@@ -2536,13 +2342,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "San Pellegrino ",
-      [
-        "9.66753",
-        "45.83443"
-      ]
+    "coordinates": [
+      "9.66753",
+      "45.83443"
     ],
+    "name": "San Pellegrino ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3167875/"
@@ -2558,13 +2362,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Saragossa",
-      [
-        "-0.87734",
-        "41.65606"
-      ]
+    "coordinates": [
+      "-0.87734",
+      "41.65606"
     ],
+    "name": "Saragossa",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3104324/"
@@ -2580,13 +2382,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Sartena ",
-      [
-        "8.98333",
-        "41.61667"
-      ]
+    "coordinates": [
+      "8.98333",
+      "41.61667"
     ],
+    "name": "Sartena ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2975931/"
@@ -2602,13 +2402,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Schwechat",
-      [
-        "16.46667",
-        "48.13333"
-      ]
+    "coordinates": [
+      "16.46667",
+      "48.13333"
     ],
+    "name": "Schwechat",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2765388/"
@@ -2626,13 +2424,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Speyer",
-      [
-        "8.43111",
-        "49.32083"
-      ]
+    "coordinates": [
+      "8.43111",
+      "49.32083"
     ],
+    "name": "Speyer",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2830582/"
@@ -2648,13 +2444,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Spielberg",
-      [
-        "14.78333",
-        "47.21667"
-      ]
+    "coordinates": [
+      "14.78333",
+      "47.21667"
     ],
+    "name": "Spielberg",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2764812/"
@@ -2678,13 +2472,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Steinbrunn",
-      [
-        "16.41667",
-        "47.83333"
-      ]
+    "coordinates": [
+      "16.41667",
+      "47.83333"
     ],
+    "name": "Steinbrunn",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2764296/"
@@ -2700,13 +2492,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Steyr",
-      [
-        "14.42127",
-        "48.04274"
-      ]
+    "coordinates": [
+      "14.42127",
+      "48.04274"
     ],
+    "name": "Steyr",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2764359/"
@@ -2722,13 +2512,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Stixneusiedl  ",
-      [
-        "16.67581",
-        "48.04509"
-      ]
+    "coordinates": [
+      "16.67581",
+      "48.04509"
     ],
+    "name": "Stixneusiedl  ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2764288/"
@@ -2744,13 +2532,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Stockerau ",
-      [
-        "16.21667",
-        "48.38333"
-      ]
+    "coordinates": [
+      "16.21667",
+      "48.38333"
     ],
+    "name": "Stockerau ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2764279/"
@@ -2770,13 +2556,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Stuttgart",
-      [
-        "9.17702",
-        "48.78232"
-      ]
+    "coordinates": [
+      "9.17702",
+      "48.78232"
     ],
+    "name": "Stuttgart",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2825297/"
@@ -2794,13 +2578,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Traiskirchen",
-      [
-        "16.30118",
-        "48.00964"
-      ]
+    "coordinates": [
+      "16.30118",
+      "48.00964"
     ],
+    "name": "Traiskirchen",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/7871715/"
@@ -2816,13 +2598,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Trieste",
-      [
-        "13.77678",
-        "45.64953"
-      ]
+    "coordinates": [
+      "13.77678",
+      "45.64953"
     ],
+    "name": "Trieste",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3165185/"
@@ -2848,13 +2628,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Tunis ",
-      [
-        "10.16579",
-        "36.81897"
-      ]
+    "coordinates": [
+      "10.16579",
+      "36.81897"
     ],
+    "name": "Tunis ",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2464470/"
@@ -2870,13 +2648,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ulm",
-      [
-        "9.99155",
-        "48.39841"
-      ]
+    "coordinates": [
+      "9.99155",
+      "48.39841"
     ],
+    "name": "Ulm",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2820256/"
@@ -2892,13 +2668,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Venezia",
-      [
-        "12.33265",
-        "45.43713"
-      ]
+    "coordinates": [
+      "12.33265",
+      "45.43713"
     ],
+    "name": "Venezia",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/3164603/"
@@ -2924,13 +2698,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Waidhofen/Ybbs",
-      [
-        "14.77361",
-        "47.96004"
-      ]
+    "coordinates": [
+      "14.77361",
+      "47.96004"
     ],
+    "name": "Waidhofen/Ybbs",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2762077/"
@@ -2946,13 +2718,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Weimar",
-      [
-        "11.32903",
-        "50.98030"
-      ]
+    "coordinates": [
+      "11.32903",
+      "50.98030"
     ],
+    "name": "Weimar",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2812482/"
@@ -2968,13 +2738,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Weinsberg",
-      [
-        "9.28762",
-        "49.15127"
-      ]
+    "coordinates": [
+      "9.28762",
+      "49.15127"
     ],
+    "name": "Weinsberg",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2812158/"
@@ -2990,13 +2758,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Wien",
-      [
-        "16.37208",
-        "48.20849"
-      ]
+    "coordinates": [
+      "16.37208",
+      "48.20849"
     ],
+    "name": "Wien",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2761369/"
@@ -3092,13 +2858,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Wiener Neustadt",
-      [
-        "16.23196",
-        "47.80485"
-      ]
+    "coordinates": [
+      "16.23196",
+      "47.80485"
     ],
+    "name": "Wiener Neustadt",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2761353/"
@@ -3116,13 +2880,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Worms",
-      [
-        "8.35916",
-        "49.63278"
-      ]
+    "coordinates": [
+      "8.35916",
+      "49.63278"
     ],
+    "name": "Worms",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2806142/"
@@ -3138,13 +2900,11 @@
     "total_occurences": "0"
   },
   {
-    "name": [
-      "Ybbs",
-      [
-        "15.08333",
-        "48.16667"
-      ]
+    "coordinates": [
+      "15.08333",
+      "48.16667"
     ],
+    "name": "Ybbs",
     "geonames": [
       "geonames",
       "https://sws.geonames.org/2760772/"
