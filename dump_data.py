@@ -12,8 +12,12 @@ def create_tabulator_data(features):
     tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
     tabulator_data = []
     for feature in features:
+        coordinates = feature.pop("geometry").pop("coordinates")
         row = {
-            "coordinates" : feature.pop("geometry").pop("coordinates")
+            "coordinates" : {
+                "lng" : coordinates[0],
+                "lat" : coordinates[1]
+            }
         }
         alt_names = []
         for key, val in feature.pop("properties").items():
