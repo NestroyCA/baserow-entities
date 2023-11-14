@@ -72,7 +72,7 @@ def update_table_with_coordinates(table_name, geoname_field_id, lat_field_id):
             item_id = item_to_update_id,
             update_data = item_update
         )
-        print(result)
+        print(result.text)
 
 
 if __name__ == "__main__":
