@@ -1,8 +1,8 @@
 [
   {
     "coordinates": {
-      "lng": "-34.92866",
-      "lat": "138.59863"
+      "lng": "138.59863",
+      "lat": "-34.92866"
     },
     "name": "Adelaide",
     "geonames": [
@@ -21,8 +21,8 @@
   },
   {
     "coordinates": {
-      "lng": "41.67719",
-      "lat": "26.55597"
+      "lng": "26.55597",
+      "lat": "41.67719"
     },
     "name": "Edirne",
     "geonames": [
@@ -43,8 +43,8 @@
   },
   {
     "coordinates": {
-      "lng": "42.10431",
-      "lat": "9.51265"
+      "lng": "9.51265",
+      "lat": "42.10431"
     },
     "name": "Aleria ",
     "geonames": [
@@ -63,8 +63,8 @@
   },
   {
     "coordinates": {
-      "lng": "36.73225",
-      "lat": "3.08746"
+      "lng": "3.08746",
+      "lat": "36.73225"
     },
     "name": "Algier ",
     "geonames": [
@@ -78,8 +78,8 @@
   },
   {
     "coordinates": {
-      "lng": "52.37403",
-      "lat": "4.88969"
+      "lng": "4.88969",
+      "lat": "52.37403"
     },
     "name": "Amsterdam",
     "geonames": [
@@ -106,8 +106,8 @@
   },
   {
     "coordinates": {
-      "lng": "46.18333",
-      "lat": "21.31667"
+      "lng": "21.31667",
+      "lat": "46.18333"
     },
     "name": "Arad ",
     "geonames": [
@@ -126,8 +126,8 @@
   },
   {
     "coordinates": {
-      "lng": "40.03108",
-      "lat": "-3.60246"
+      "lng": "-3.60246",
+      "lat": "40.03108"
     },
     "name": "Aranjuez",
     "geonames": [
@@ -146,8 +146,8 @@
   },
   {
     "coordinates": {
-      "lng": "37.98376",
-      "lat": "23.72784"
+      "lng": "23.72784",
+      "lat": "37.98376"
     },
     "name": "Athen",
     "geonames": [
@@ -161,8 +161,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.37154",
-      "lat": "10.89851"
+      "lng": "10.89851",
+      "lat": "48.37154"
     },
     "name": "Augsburg ",
     "geonames": [
@@ -176,8 +176,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.76060",
-      "lat": "8.23975"
+      "lng": "8.23975",
+      "lat": "48.76060"
     },
     "name": "Baden-Baden ",
     "geonames": [
@@ -196,8 +196,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.20228",
-      "lat": "10.07784"
+      "lng": "10.07784",
+      "lat": "50.20228"
     },
     "name": "Bad Kissingen ",
     "geonames": [
@@ -216,8 +216,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.89873",
-      "lat": "10.90067"
+      "lng": "10.90067",
+      "lat": "49.89873"
     },
     "name": "Bamberg",
     "geonames": [
@@ -236,8 +236,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.63236",
-      "lat": "13.00187"
+      "lng": "13.00187",
+      "lat": "47.63236"
     },
     "name": "Berchtesgaden",
     "geonames": [
@@ -251,8 +251,8 @@
   },
   {
     "coordinates": {
-      "lng": "52.52437",
-      "lat": "13.41053"
+      "lng": "13.41053",
+      "lat": "52.52437"
     },
     "name": "Berlin ",
     "geonames": [
@@ -307,8 +307,8 @@
   },
   {
     "coordinates": {
-      "lng": "51.22172",
-      "lat": "6.77616"
+      "lng": "6.77616",
+      "lat": "51.22172"
     },
     "name": "D\u00fcsseldorf ",
     "geonames": [
@@ -322,8 +322,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.11552",
-      "lat": "8.68417"
+      "lng": "8.68417",
+      "lat": "50.11552"
     },
     "name": "Frankfurt am Main ",
     "geonames": [
@@ -354,8 +354,8 @@
   },
   {
     "coordinates": {
-      "lng": "32.54083",
-      "lat": "44.42417"
+      "lng": "44.42417",
+      "lat": "32.54083"
     },
     "name": "Babylon",
     "geonames": [
@@ -378,8 +378,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.00543",
-      "lat": "16.23264"
+      "lng": "16.23264",
+      "lat": "48.00543"
     },
     "name": "Baden",
     "geonames": [
@@ -400,8 +400,8 @@
   },
   {
     "coordinates": {
-      "lng": "33.34058",
-      "lat": "44.40088"
+      "lng": "44.40088",
+      "lat": "33.34058"
     },
     "name": "Bagdad ",
     "geonames": [
@@ -415,8 +415,8 @@
   },
   {
     "coordinates": {
-      "lng": "42.70219",
-      "lat": "9.45123"
+      "lng": "9.45123",
+      "lat": "42.70219"
     },
     "name": "Bastia ",
     "geonames": [
@@ -430,8 +430,8 @@
   },
   {
     "coordinates": {
-      "lng": "42.35843",
-      "lat": "-71.05977"
+      "lng": "-71.05977",
+      "lat": "42.35843"
     },
     "name": "Boston",
     "geonames": [
@@ -450,8 +450,8 @@
   },
   {
     "coordinates": {
-      "lng": "42.98373",
-      "lat": "20.55111"
+      "lng": "20.55111",
+      "lat": "42.98373"
     },
     "name": "Branowitz",
     "geonames": [
@@ -470,8 +470,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.14816",
-      "lat": "17.10674"
+      "lng": "17.10674",
+      "lat": "48.14816"
     },
     "name": "Bratislava",
     "geonames": [
@@ -492,8 +492,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.50107",
-      "lat": "9.06959"
+      "lng": "9.06959",
+      "lat": "47.50107"
     },
     "name": "Braunau",
     "geonames": [
@@ -512,8 +512,8 @@
   },
   {
     "coordinates": {
-      "lng": "52.26594",
-      "lat": "10.52673"
+      "lng": "10.52673",
+      "lat": "52.26594"
     },
     "name": "Braunschweig ",
     "geonames": [
@@ -532,8 +532,8 @@
   },
   {
     "coordinates": {
-      "lng": "53.07582",
-      "lat": "8.80717"
+      "lng": "8.80717",
+      "lat": "53.07582"
     },
     "name": "Bremen",
     "geonames": [
@@ -552,8 +552,8 @@
   },
   {
     "coordinates": {
-      "lng": "51.10000",
-      "lat": "17.03333"
+      "lng": "17.03333",
+      "lat": "51.10000"
     },
     "name": "Breslau (Wroclaw)",
     "geonames": [
@@ -567,8 +567,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.08791",
-      "lat": "25.15027"
+      "lng": "25.15027",
+      "lat": "50.08791"
     },
     "name": "Brody ",
     "geonames": [
@@ -587,8 +587,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.12426",
-      "lat": "8.59804"
+      "lng": "8.59804",
+      "lat": "49.12426"
     },
     "name": "Bruchsal",
     "geonames": [
@@ -602,8 +602,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.19522",
-      "lat": "16.60796"
+      "lng": "16.60796",
+      "lat": "49.19522"
     },
     "name": "Brno",
     "geonames": [
@@ -624,8 +624,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.85045",
-      "lat": "4.34878"
+      "lng": "4.34878",
+      "lat": "50.85045"
     },
     "name": "Br\u00fcssel",
     "geonames": [
@@ -644,8 +644,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.49835",
-      "lat": "19.04045"
+      "lng": "19.04045",
+      "lat": "47.49835"
     },
     "name": "Budapest ",
     "geonames": [
@@ -659,8 +659,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.97447",
-      "lat": "14.47434"
+      "lng": "14.47434",
+      "lat": "48.97447"
     },
     "name": "Ceske Budejovice",
     "geonames": [
@@ -705,8 +705,8 @@
   },
   {
     "coordinates": {
-      "lng": "51.26418",
-      "lat": "15.56970"
+      "lng": "15.56970",
+      "lat": "51.26418"
     },
     "name": "Bunzlau",
     "geonames": [
@@ -725,8 +725,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.95109",
-      "lat": "15.79558"
+      "lng": "15.79558",
+      "lat": "49.95109"
     },
     "name": "Chrudim",
     "geonames": [
@@ -745,8 +745,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.13325",
-      "lat": "10.02129"
+      "lng": "10.02129",
+      "lat": "45.13325"
     },
     "name": "Cremona ",
     "geonames": [
@@ -765,8 +765,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.91099",
-      "lat": "15.38972"
+      "lng": "15.38972",
+      "lat": "49.91099"
     },
     "name": "Czaslau ",
     "geonames": [
@@ -785,8 +785,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.87167",
-      "lat": "8.65027"
+      "lng": "8.65027",
+      "lat": "49.87167"
     },
     "name": "Darmstadt ",
     "geonames": [
@@ -805,8 +805,8 @@
   },
   {
     "coordinates": {
-      "lng": "52.07667",
-      "lat": "4.29861"
+      "lng": "4.29861",
+      "lat": "52.07667"
     },
     "name": "Den Haag",
     "geonames": [
@@ -820,8 +820,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.29972",
-      "lat": "16.56667"
+      "lng": "16.56667",
+      "lat": "48.29972"
     },
     "name": "Deutsch-Wagram ",
     "geonames": [
@@ -840,8 +840,8 @@
   },
   {
     "coordinates": {
-      "lng": "51.05089",
-      "lat": "13.73832"
+      "lng": "13.73832",
+      "lat": "51.05089"
     },
     "name": "Dresden ",
     "geonames": [
@@ -860,8 +860,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.48441",
-      "lat": "16.83364"
+      "lng": "16.83364",
+      "lat": "48.48441"
     },
     "name": "D\u00fcrnkrut",
     "geonames": [
@@ -880,8 +880,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.79992",
-      "lat": "16.80339"
+      "lng": "16.80339",
+      "lat": "48.79992"
     },
     "name": "Eisgrub ",
     "geonames": [
@@ -895,8 +895,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.08502",
-      "lat": "16.60832"
+      "lng": "16.60832",
+      "lat": "48.08502"
     },
     "name": "Enzersdorf an der Fischa",
     "geonames": [
@@ -915,8 +915,8 @@
   },
   {
     "coordinates": {
-      "lng": "46.51667",
-      "lat": "14.16667"
+      "lng": "14.16667",
+      "lat": "46.51667"
     },
     "name": "Feistritz",
     "geonames": [
@@ -935,8 +935,8 @@
   },
   {
     "coordinates": {
-      "lng": "44.83804",
-      "lat": "11.62057"
+      "lng": "11.62057",
+      "lat": "44.83804"
     },
     "name": "Ferrara",
     "geonames": [
@@ -955,8 +955,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.11573",
-      "lat": "16.61395"
+      "lng": "16.61395",
+      "lat": "48.11573"
     },
     "name": "Fischamend",
     "geonames": [
@@ -975,8 +975,8 @@
   },
   {
     "coordinates": {
-      "lng": "43.77925",
-      "lat": "11.24626"
+      "lng": "11.24626",
+      "lat": "43.77925"
     },
     "name": "Florenz",
     "geonames": [
@@ -999,8 +999,8 @@
   },
   {
     "coordinates": {
-      "lng": "38.69467",
-      "lat": "1.46919"
+      "lng": "1.46919",
+      "lat": "38.69467"
     },
     "name": "Formentera",
     "geonames": [
@@ -1019,8 +1019,8 @@
   },
   {
     "coordinates": {
-      "lng": "52.34714",
-      "lat": "14.55062"
+      "lng": "14.55062",
+      "lat": "52.34714"
     },
     "name": "Frankfurt a. d. Oder",
     "geonames": [
@@ -1034,8 +1034,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.33925",
-      "lat": "16.72016"
+      "lng": "16.72016",
+      "lat": "48.33925"
     },
     "name": "G\u00e4nserndorf ",
     "geonames": [
@@ -1054,8 +1054,8 @@
   },
   {
     "coordinates": {
-      "lng": "44.40478",
-      "lat": "8.94439"
+      "lng": "8.94439",
+      "lat": "44.40478"
     },
     "name": "Genua ",
     "geonames": [
@@ -1074,8 +1074,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.67487",
-      "lat": "15.93893"
+      "lng": "15.93893",
+      "lat": "47.67487"
     },
     "name": "Gloggnitz ",
     "geonames": [
@@ -1089,8 +1089,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.94088",
-      "lat": "13.62167"
+      "lng": "13.62167",
+      "lat": "45.94088"
     },
     "name": "G\u00f6rz",
     "geonames": [
@@ -1113,8 +1113,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.64426",
-      "lat": "11.24971"
+      "lng": "11.24971",
+      "lat": "49.64426"
     },
     "name": "Gr\u00e4fenberg",
     "geonames": [
@@ -1133,8 +1133,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.06667",
-      "lat": "15.45000"
+      "lng": "15.45000",
+      "lat": "47.06667"
     },
     "name": "Graz",
     "geonames": [
@@ -1157,8 +1157,8 @@
   },
   {
     "coordinates": {
-      "lng": "55.00279",
-      "lat": "-3.06618"
+      "lng": "-3.06618",
+      "lat": "55.00279"
     },
     "name": "Gretna Green ",
     "geonames": [
@@ -1177,8 +1177,8 @@
   },
   {
     "coordinates": {
-      "lng": "44.91172",
-      "lat": "10.66186"
+      "lng": "10.66186",
+      "lat": "44.91172"
     },
     "name": "Guastalla",
     "geonames": [
@@ -1199,8 +1199,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.04538",
-      "lat": "16.27710"
+      "lng": "16.27710",
+      "lat": "48.04538"
     },
     "name": "Gumpoldskirchen",
     "geonames": [
@@ -1223,8 +1223,8 @@
   },
   {
     "coordinates": {
-      "lng": "53.55073",
-      "lat": "9.99302"
+      "lng": "9.99302",
+      "lat": "53.55073"
     },
     "name": "Hamburg  ",
     "geonames": [
@@ -1259,8 +1259,8 @@
   },
   {
     "coordinates": {
-      "lng": "52.37052",
-      "lat": "9.73322"
+      "lng": "9.73322",
+      "lat": "52.37052"
     },
     "name": "Hannover ",
     "geonames": [
@@ -1283,8 +1283,8 @@
   },
   {
     "coordinates": {
-      "lng": "54.18213",
-      "lat": "7.88458"
+      "lng": "7.88458",
+      "lat": "54.18213"
     },
     "name": "Helgoland  ",
     "geonames": [
@@ -1298,8 +1298,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.80000",
-      "lat": "24.15000"
+      "lng": "24.15000",
+      "lat": "45.80000"
     },
     "name": "Hermannstadt  ",
     "geonames": [
@@ -1313,8 +1313,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.16667",
-      "lat": "27.60000"
+      "lng": "27.60000",
+      "lat": "47.16667"
     },
     "name": "Ia\u015fi (Jassy)  ",
     "geonames": [
@@ -1333,8 +1333,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.26266",
-      "lat": "11.39454"
+      "lng": "11.39454",
+      "lat": "47.26266"
     },
     "name": "Innsbruck  ",
     "geonames": [
@@ -1353,8 +1353,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.71109",
-      "lat": "13.61893"
+      "lng": "13.61893",
+      "lat": "47.71109"
     },
     "name": "Ischl",
     "geonames": [
@@ -1373,8 +1373,8 @@
   },
   {
     "coordinates": {
-      "lng": "38.41273",
-      "lat": "27.13838"
+      "lng": "27.13838",
+      "lat": "38.41273"
     },
     "name": "Izmir",
     "geonames": [
@@ -1395,8 +1395,8 @@
   },
   {
     "coordinates": {
-      "lng": "31.86667",
-      "lat": "35.45000"
+      "lng": "35.45000",
+      "lat": "31.86667"
     },
     "name": "Jericho  ",
     "geonames": [
@@ -1415,8 +1415,8 @@
   },
   {
     "coordinates": {
-      "lng": "22.56263",
-      "lat": "88.36304"
+      "lng": "88.36304",
+      "lat": "22.56263"
     },
     "name": "Kalkutta ",
     "geonames": [
@@ -1430,8 +1430,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.23271",
-      "lat": "12.87117"
+      "lng": "12.87117",
+      "lat": "50.23271"
     },
     "name": "Karlsbad  ",
     "geonames": [
@@ -1450,8 +1450,8 @@
   },
   {
     "coordinates": {
-      "lng": "36.86667",
-      "lat": "10.33333"
+      "lng": "10.33333",
+      "lat": "36.86667"
     },
     "name": "Karthago  ",
     "geonames": [
@@ -1470,8 +1470,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.00306",
-      "lat": "14.97703"
+      "lng": "14.97703",
+      "lat": "50.00306"
     },
     "name": "Kau\u0159im  ",
     "geonames": [
@@ -1485,8 +1485,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.90897",
-      "lat": "11.87587"
+      "lng": "11.87587",
+      "lat": "48.90897"
     },
     "name": "Kehlheim  ",
     "geonames": [
@@ -1500,8 +1500,8 @@
   },
   {
     "coordinates": {
-      "lng": "54.32133",
-      "lat": "10.13489"
+      "lng": "10.13489",
+      "lat": "54.32133"
     },
     "name": "Kiel",
     "geonames": [
@@ -1520,8 +1520,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.93333",
-      "lat": "6.95000"
+      "lng": "6.95000",
+      "lat": "50.93333"
     },
     "name": "K\u00f6ln",
     "geonames": [
@@ -1542,8 +1542,8 @@
   },
   {
     "coordinates": {
-      "lng": "41.01384",
-      "lat": "28.94966"
+      "lng": "28.94966",
+      "lat": "41.01384"
     },
     "name": "Istanbul",
     "geonames": [
@@ -1572,8 +1572,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.06143",
-      "lat": "19.93658"
+      "lng": "19.93658",
+      "lat": "50.06143"
     },
     "name": "Krakow",
     "geonames": [
@@ -1589,8 +1589,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.05290",
-      "lat": "14.12919"
+      "lng": "14.12919",
+      "lat": "48.05290"
     },
     "name": "Kremsm\u00fcnster",
     "geonames": [
@@ -1609,8 +1609,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.17884",
-      "lat": "16.62532"
+      "lng": "16.62532",
+      "lat": "49.17884"
     },
     "name": "Kumrowitz ",
     "geonames": [
@@ -1629,8 +1629,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.06833",
-      "lat": "16.35607"
+      "lng": "16.35607",
+      "lat": "48.06833"
     },
     "name": "Laxenburg ",
     "geonames": [
@@ -1649,8 +1649,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.86809",
-      "lat": "16.31298"
+      "lng": "16.31298",
+      "lat": "49.86809"
     },
     "name": "Leitomischl ",
     "geonames": [
@@ -1673,8 +1673,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.83826",
-      "lat": "24.02324"
+      "lng": "24.02324",
+      "lat": "49.83826"
     },
     "name": "Lwiw",
     "geonames": [
@@ -1690,8 +1690,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.37650",
-      "lat": "15.09144"
+      "lng": "15.09144",
+      "lat": "47.37650"
     },
     "name": "Leoben",
     "geonames": [
@@ -1705,8 +1705,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.61222",
-      "lat": "5.94120"
+      "lng": "5.94120",
+      "lat": "50.61222"
     },
     "name": "Limbourg ",
     "geonames": [
@@ -1720,8 +1720,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.30639",
-      "lat": "14.28611"
+      "lng": "14.28611",
+      "lat": "48.30639"
     },
     "name": "Linz",
     "geonames": [
@@ -1740,8 +1740,8 @@
   },
   {
     "coordinates": {
-      "lng": "43.54427",
-      "lat": "10.32615"
+      "lng": "10.32615",
+      "lat": "43.54427"
     },
     "name": "Livorno ",
     "geonames": [
@@ -1764,8 +1764,8 @@
   },
   {
     "coordinates": {
-      "lng": "51.50853",
-      "lat": "-0.12574"
+      "lng": "-0.12574",
+      "lat": "51.50853"
     },
     "name": "London ",
     "geonames": [
@@ -1832,8 +1832,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.75897",
-      "lat": "16.88203"
+      "lng": "16.88203",
+      "lat": "48.75897"
     },
     "name": "Lundenburg",
     "geonames": [
@@ -1852,8 +1852,8 @@
   },
   {
     "coordinates": {
-      "lng": "40.41650",
-      "lat": "-3.70256"
+      "lng": "-3.70256",
+      "lat": "40.41650"
     },
     "name": "Madrid ",
     "geonames": [
@@ -1872,8 +1872,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.46427",
-      "lat": "9.18951"
+      "lng": "9.18951",
+      "lat": "45.46427"
     },
     "name": "Mailand  ",
     "geonames": [
@@ -1892,8 +1892,8 @@
   },
   {
     "coordinates": {
-      "lng": "36.72016",
-      "lat": "-4.42034"
+      "lng": "-4.42034",
+      "lat": "36.72016"
     },
     "name": "Malaga  ",
     "geonames": [
@@ -1924,8 +1924,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.96459",
-      "lat": "12.70118"
+      "lng": "12.70118",
+      "lat": "49.96459"
     },
     "name": "Marienbad  ",
     "geonames": [
@@ -1944,8 +1944,8 @@
   },
   {
     "coordinates": {
-      "lng": "43.29695",
-      "lat": "5.38107"
+      "lng": "5.38107",
+      "lat": "43.29695"
     },
     "name": "Marseille  ",
     "geonames": [
@@ -1968,8 +1968,8 @@
   },
   {
     "coordinates": {
-      "lng": "38.19394",
-      "lat": "15.55256"
+      "lng": "15.55256",
+      "lat": "38.19394"
     },
     "name": "Messina  ",
     "geonames": [
@@ -1988,8 +1988,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.08605",
-      "lat": "16.28921"
+      "lng": "16.28921",
+      "lat": "48.08605"
     },
     "name": "M\u00f6dling  ",
     "geonames": [
@@ -2012,8 +2012,8 @@
   },
   {
     "coordinates": {
-      "lng": "55.75222",
-      "lat": "37.61556"
+      "lng": "37.61556",
+      "lat": "55.75222"
     },
     "name": "Moskau ",
     "geonames": [
@@ -2032,8 +2032,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.44248",
-      "lat": "22.71800"
+      "lng": "22.71800",
+      "lat": "48.44248"
     },
     "name": "Munk\u00e4cs  ",
     "geonames": [
@@ -2047,8 +2047,8 @@
   },
   {
     "coordinates": {
-      "lng": "51.96236",
-      "lat": "7.62571"
+      "lng": "7.62571",
+      "lat": "51.96236"
     },
     "name": "M\u00fcnster ",
     "geonames": [
@@ -2062,8 +2062,8 @@
   },
   {
     "coordinates": {
-      "lng": "40.85216",
-      "lat": "14.26811"
+      "lng": "14.26811",
+      "lat": "40.85216"
     },
     "name": "Neapel  ",
     "geonames": [
@@ -2106,8 +2106,8 @@
   },
   {
     "coordinates": {
-      "lng": "40.71427",
-      "lat": "-74.00597"
+      "lng": "-74.00597",
+      "lat": "40.71427"
     },
     "name": "New York  ",
     "geonames": [
@@ -2126,8 +2126,8 @@
   },
   {
     "coordinates": {
-      "lng": "36.36768",
-      "lat": "43.15667"
+      "lng": "43.15667",
+      "lat": "36.36768"
     },
     "name": "Ninive  ",
     "geonames": [
@@ -2150,8 +2150,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.45421",
-      "lat": "11.07752"
+      "lng": "11.07752",
+      "lat": "49.45421"
     },
     "name": "N\u00fcrnberg  ",
     "geonames": [
@@ -2178,8 +2178,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.10061",
-      "lat": "8.76647"
+      "lng": "8.76647",
+      "lat": "50.10061"
     },
     "name": "Offenbach  ",
     "geonames": [
@@ -2193,8 +2193,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.59552",
-      "lat": "17.25175"
+      "lng": "17.25175",
+      "lat": "49.59552"
     },
     "name": "Olomouc",
     "geonames": [
@@ -2215,8 +2215,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.90289",
-      "lat": "1.90389"
+      "lng": "1.90389",
+      "lat": "47.90289"
     },
     "name": "Orleans",
     "geonames": [
@@ -2255,8 +2255,8 @@
   },
   {
     "coordinates": {
-      "lng": "44.72299",
-      "lat": "22.39619"
+      "lng": "22.39619",
+      "lat": "44.72299"
     },
     "name": "Orsowa  ",
     "geonames": [
@@ -2270,8 +2270,8 @@
   },
   {
     "coordinates": {
-      "lng": "51.21551",
-      "lat": "2.92700"
+      "lng": "2.92700",
+      "lat": "51.21551"
     },
     "name": "Ostende  ",
     "geonames": [
@@ -2290,8 +2290,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.40797",
-      "lat": "11.88586"
+      "lng": "11.88586",
+      "lat": "45.40797"
     },
     "name": "Padua  ",
     "geonames": [
@@ -2310,8 +2310,8 @@
   },
   {
     "coordinates": {
-      "lng": "44.87177",
-      "lat": "20.64167"
+      "lng": "20.64167",
+      "lat": "44.87177"
     },
     "name": "Pantschowa  ",
     "geonames": [
@@ -2330,8 +2330,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.85341",
-      "lat": "2.34880"
+      "lng": "2.34880",
+      "lat": "48.85341"
     },
     "name": "Paris ",
     "geonames": [
@@ -2438,8 +2438,8 @@
   },
   {
     "coordinates": {
-      "lng": "44.79935",
-      "lat": "10.32618"
+      "lng": "10.32618",
+      "lat": "44.79935"
     },
     "name": "Parma  ",
     "geonames": [
@@ -2458,8 +2458,8 @@
   },
   {
     "coordinates": {
-      "lng": "39.90750",
-      "lat": "116.39723"
+      "lng": "116.39723",
+      "lat": "39.90750"
     },
     "name": "Peking ",
     "geonames": [
@@ -2478,8 +2478,8 @@
   },
   {
     "coordinates": {
-      "lng": "59.93863",
-      "lat": "30.31413"
+      "lng": "30.31413",
+      "lat": "59.93863"
     },
     "name": "Petersburg  ",
     "geonames": [
@@ -2502,8 +2502,8 @@
   },
   {
     "coordinates": {
-      "lng": "39.95238",
-      "lat": "-75.16362"
+      "lng": "-75.16362",
+      "lat": "39.95238"
     },
     "name": "Philadelphia ",
     "geonames": [
@@ -2526,8 +2526,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.05242",
-      "lat": "9.69342"
+      "lng": "9.69342",
+      "lat": "45.05242"
     },
     "name": "Piacenza  ",
     "geonames": [
@@ -2546,8 +2546,8 @@
   },
   {
     "coordinates": {
-      "lng": "40.75000",
-      "lat": "14.48333"
+      "lng": "14.48333",
+      "lat": "40.75000"
     },
     "name": "Pompeji  ",
     "geonames": [
@@ -2570,8 +2570,8 @@
   },
   {
     "coordinates": {
-      "lng": "41.59101",
-      "lat": "9.27947"
+      "lng": "9.27947",
+      "lat": "41.59101"
     },
     "name": "Porto Vecchio ",
     "geonames": [
@@ -2598,8 +2598,8 @@
   },
   {
     "coordinates": {
-      "lng": "52.39886",
-      "lat": "13.06566"
+      "lng": "13.06566",
+      "lat": "52.39886"
     },
     "name": "Potsdam  ",
     "geonames": [
@@ -2613,8 +2613,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.08804",
-      "lat": "14.42076"
+      "lng": "14.42076",
+      "lat": "50.08804"
     },
     "name": "Praha",
     "geonames": [
@@ -2639,8 +2639,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.20769",
-      "lat": "16.17539"
+      "lng": "16.17539",
+      "lat": "48.20769"
     },
     "name": "Purkersdorf  ",
     "geonames": [
@@ -2659,8 +2659,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.09021",
-      "lat": "16.60388"
+      "lng": "16.60388",
+      "lat": "49.09021"
     },
     "name": "Raigern ",
     "geonames": [
@@ -2679,8 +2679,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.01513",
-      "lat": "12.10161"
+      "lng": "12.10161",
+      "lat": "49.01513"
     },
     "name": "Regensburg ",
     "geonames": [
@@ -2699,8 +2699,8 @@
   },
   {
     "coordinates": {
-      "lng": "41.89193",
-      "lat": "12.51133"
+      "lng": "12.51133",
+      "lat": "41.89193"
     },
     "name": "Rom",
     "geonames": [
@@ -2723,8 +2723,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.44313",
-      "lat": "1.09932"
+      "lng": "1.09932",
+      "lat": "49.44313"
     },
     "name": "Rouen ",
     "geonames": [
@@ -2743,8 +2743,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.79941",
-      "lat": "13.04399"
+      "lng": "13.04399",
+      "lat": "47.79941"
     },
     "name": "Salzburg",
     "geonames": [
@@ -2767,8 +2767,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.83443",
-      "lat": "9.66753"
+      "lng": "9.66753",
+      "lat": "45.83443"
     },
     "name": "San Pellegrino ",
     "geonames": [
@@ -2787,8 +2787,8 @@
   },
   {
     "coordinates": {
-      "lng": "41.65606",
-      "lat": "-0.87734"
+      "lng": "-0.87734",
+      "lat": "41.65606"
     },
     "name": "Saragossa",
     "geonames": [
@@ -2807,8 +2807,8 @@
   },
   {
     "coordinates": {
-      "lng": "41.61667",
-      "lat": "8.98333"
+      "lng": "8.98333",
+      "lat": "41.61667"
     },
     "name": "Sartena ",
     "geonames": [
@@ -2827,8 +2827,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.63330",
-      "lat": "11.20000"
+      "lng": "11.20000",
+      "lat": "50.63330"
     },
     "name": "Schwarzburg-Rudolstadt",
     "geonames": [
@@ -2842,8 +2842,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.13333",
-      "lat": "16.46667"
+      "lng": "16.46667",
+      "lat": "48.13333"
     },
     "name": "Schwechat",
     "geonames": [
@@ -2864,8 +2864,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.19822",
-      "lat": "4.13244"
+      "lng": "4.13244",
+      "lat": "49.19822"
     },
     "name": "Sillery",
     "geonames": [
@@ -2879,8 +2879,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.32083",
-      "lat": "8.43111"
+      "lng": "8.43111",
+      "lat": "49.32083"
     },
     "name": "Speyer",
     "geonames": [
@@ -2899,8 +2899,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.21667",
-      "lat": "14.78333"
+      "lng": "14.78333",
+      "lat": "47.21667"
     },
     "name": "Spielberg",
     "geonames": [
@@ -2927,8 +2927,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.83333",
-      "lat": "16.41667"
+      "lng": "16.41667",
+      "lat": "47.83333"
     },
     "name": "Steinbrunn",
     "geonames": [
@@ -2947,8 +2947,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.04274",
-      "lat": "14.42127"
+      "lng": "14.42127",
+      "lat": "48.04274"
     },
     "name": "Steyr",
     "geonames": [
@@ -2967,8 +2967,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.04509",
-      "lat": "16.67581"
+      "lng": "16.67581",
+      "lat": "48.04509"
     },
     "name": "Stixneusiedl  ",
     "geonames": [
@@ -2987,8 +2987,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.38333",
-      "lat": "16.21667"
+      "lng": "16.21667",
+      "lat": "48.38333"
     },
     "name": "Stockerau ",
     "geonames": [
@@ -3011,8 +3011,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.18995",
-      "lat": "18.41034"
+      "lng": "18.41034",
+      "lat": "47.18995"
     },
     "name": "Stuhlwei\u00dfenburg",
     "geonames": [
@@ -3026,8 +3026,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.78232",
-      "lat": "9.17702"
+      "lng": "9.17702",
+      "lat": "48.78232"
     },
     "name": "Stuttgart",
     "geonames": [
@@ -3048,8 +3048,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.82059",
-      "lat": "18.20214"
+      "lng": "18.20214",
+      "lat": "49.82059"
     },
     "name": "Svinov siehe Sch\u00f6nbrunn",
     "geonames": [
@@ -3063,8 +3063,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.00964",
-      "lat": "16.30118"
+      "lng": "16.30118",
+      "lat": "48.00964"
     },
     "name": "Traiskirchen",
     "geonames": [
@@ -3083,8 +3083,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.64953",
-      "lat": "13.77678"
+      "lng": "13.77678",
+      "lat": "45.64953"
     },
     "name": "Trieste",
     "geonames": [
@@ -3113,8 +3113,8 @@
   },
   {
     "coordinates": {
-      "lng": "39.95732",
-      "lat": "26.23909"
+      "lng": "26.23909",
+      "lat": "39.95732"
     },
     "name": "Troja",
     "geonames": [
@@ -3128,8 +3128,8 @@
   },
   {
     "coordinates": {
-      "lng": "36.81897",
-      "lat": "10.16579"
+      "lng": "10.16579",
+      "lat": "36.81897"
     },
     "name": "Tunis ",
     "geonames": [
@@ -3148,8 +3148,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.39841",
-      "lat": "9.99155"
+      "lng": "9.99155",
+      "lat": "48.39841"
     },
     "name": "Ulm",
     "geonames": [
@@ -3168,8 +3168,8 @@
   },
   {
     "coordinates": {
-      "lng": "45.43713",
-      "lat": "12.33265"
+      "lng": "12.33265",
+      "lat": "45.43713"
     },
     "name": "Venezia",
     "geonames": [
@@ -3198,8 +3198,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.96004",
-      "lat": "14.77361"
+      "lng": "14.77361",
+      "lat": "47.96004"
     },
     "name": "Waidhofen/Ybbs",
     "geonames": [
@@ -3218,8 +3218,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.98030",
-      "lat": "11.32903"
+      "lng": "11.32903",
+      "lat": "50.98030"
     },
     "name": "Weimar",
     "geonames": [
@@ -3238,8 +3238,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.15127",
-      "lat": "9.28762"
+      "lng": "9.28762",
+      "lat": "49.15127"
     },
     "name": "Weinsberg",
     "geonames": [
@@ -3258,8 +3258,8 @@
   },
   {
     "coordinates": {
-      "lng": "43.99159",
-      "lat": "22.88236"
+      "lng": "22.88236",
+      "lat": "43.99159"
     },
     "name": "Widin ",
     "geonames": [
@@ -3273,8 +3273,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.20849",
-      "lat": "16.37208"
+      "lng": "16.37208",
+      "lat": "48.20849"
     },
     "name": "Wien",
     "geonames": [
@@ -3373,8 +3373,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.80485",
-      "lat": "16.23196"
+      "lng": "16.23196",
+      "lat": "47.80485"
     },
     "name": "Wiener Neustadt",
     "geonames": [
@@ -3395,8 +3395,8 @@
   },
   {
     "coordinates": {
-      "lng": "50.08258",
-      "lat": "8.24932"
+      "lng": "8.24932",
+      "lat": "50.08258"
     },
     "name": "Wiesbaden",
     "geonames": [
@@ -3410,8 +3410,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.13333",
-      "lat": "15.13333"
+      "lng": "15.13333",
+      "lat": "48.13333"
     },
     "name": "Wieselburg Wieselbach",
     "geonames": [
@@ -3425,8 +3425,8 @@
   },
   {
     "coordinates": {
-      "lng": "49.63278",
-      "lat": "8.35916"
+      "lng": "8.35916",
+      "lat": "49.63278"
     },
     "name": "Worms",
     "geonames": [
@@ -3445,8 +3445,8 @@
   },
   {
     "coordinates": {
-      "lng": "48.16667",
-      "lat": "15.08333"
+      "lng": "15.08333",
+      "lat": "48.16667"
     },
     "name": "Ybbs",
     "geonames": [
@@ -3482,8 +3482,8 @@
   },
   {
     "coordinates": {
-      "lng": "47.66667",
-      "lat": "15.16667"
+      "lng": "15.16667",
+      "lat": "47.66667"
     },
     "name": "Weichselboden Weichselberg",
     "geonames": [
