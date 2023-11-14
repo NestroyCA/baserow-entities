@@ -53,8 +53,8 @@ def create_tabulator_data(
             print(row)
             new_row = make_tabulator_data_entry(
                 name=row[name_key],
-                lng=row[lat_key],
-                lat=row[lng_key],
+                lng=row[lng_key],
+                lat=row[lat_key],
                 geonames_url=row[geonames_url_key],
                 internal_id=row[internal_id_key],
                 mentions=row[mentions_key],
