@@ -81,3 +81,9 @@ if __name__ == "__main__":
         geoname_field_id = "field_23572",
         lat_field_id = "field_23583"
     )
+
+    update_table_with_coordinates(
+        table_name = "vienna_places",
+        geoname_field_id = "field_23579",
+        lat_field_id = "field_23746"
+    )
