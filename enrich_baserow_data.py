@@ -60,6 +60,7 @@ def update_item_online(table_id:str, item_id: str, update_data:dict):
 
 
 def update_table_with_coordinates(table_name, geoname_field_id, lat_field_id):
+    print(f"updating {table_name}")
     table_id = br_client.get_table_by_name(BASEROW_DB_ID, table_name)
     lat_long_filter = get_coordinates_filters_for_request(geoname_field_id, lat_field_id)
     items_to_update = get_items_to_update(lat_long_filter, table_id)
