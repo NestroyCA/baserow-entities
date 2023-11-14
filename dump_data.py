@@ -28,7 +28,7 @@ def make_tabulator_data_entry(
             geonames_url
         ],
         "internal_id": internal_id,
-        "mentions": mentions,
+        "mentions": mentions if mentions else [],
         "alt_names": alt_names,
         "total_occurences": total_occurences
     }
@@ -138,6 +138,19 @@ def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict
     return json_file_path
 
 
+def get_play_title_for_mentions(mentions: list):
+    new_mentions = []
+    if len(mentions) != 0:
+        for mention in mentions:
+            new_mentions.append(
+                [
+                    lookup_play(mention["id"])["title"],
+                    mention["value"]
+                ]
+            )
+    return new_mentions
+
+
 if __name__ == "__main__":
     os.makedirs(JSON_FOLDER, exist_ok=True)
     json_file_paths = br_client.dump_tables_as_json(
@@ -149,7 +162,8 @@ if __name__ == "__main__":
     vienna_places_filepath = f"{JSON_FOLDER}/vienna_places.json"
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {
-            "geonames" : get_normalized_uri
+            "geonames" : get_normalized_uri,
+            "mentioned_in" : get_play_title_for_mentions
         }
         modfied_file_path = modify_fields_in_dump(
             places_filepath,
@@ -161,7 +175,7 @@ if __name__ == "__main__":
             lng_key="long",
             lat_key="lat",
             geonames_url_key="geonames",
-            internal_id_key="id",
+            internal_id_key="nestroy_id",
             mentions_key="mentioned_in",
             altnames_keys=[
                 "alt_tokens",
@@ -173,8 +187,16 @@ if __name__ == "__main__":
         test_2_fieldname = {
             "geonames" : lambda x: not bool(x.strip())
         }
-        modfied_file_path = delete_rows_in_dump(
+        fieldnames_to_manipulations = {
+            "geonames" : get_normalized_uri,
+            "mentioned_in" : get_play_title_for_mentions
+        }
+        modfied_file_path = modify_fields_in_dump(
             vienna_places_filepath,
+            fieldnames_to_manipulations
+        )
+        modfied_file_path = delete_rows_in_dump(
+            modfied_file_path,
             test_2_fieldname
         )
         create_tabulator_data(
