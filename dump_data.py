@@ -208,7 +208,8 @@ if __name__ == "__main__":
             internal_id_key="nestroy_id",
             mentions_key="mentioned_in",
             altnames_keys=[
-                "variants"
+                "variants",
+                "modern_name"
             ],
             total_occurences_keys="total_occurences"
         )
