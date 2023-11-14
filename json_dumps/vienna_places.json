@@ -11,7 +11,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__1",
     "lat": "48.20671",
-    "long": "16.37369"
+    "long": "16.37369",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "2": {
     "id": 2,
@@ -25,7 +27,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=3588",
     "nestroy_id": "nestroy_otherplace_id__2",
     "lat": "48.21841",
-    "long": "16.33907"
+    "long": "16.33907",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "3": {
     "id": 3,
@@ -39,7 +43,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=7657",
     "nestroy_id": "nestroy_otherplace_id__3",
     "lat": "48.19480",
-    "long": "16.36405"
+    "long": "16.36405",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "5": {
     "id": 5,
@@ -53,7 +59,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=9149",
     "nestroy_id": "nestroy_otherplace_id__5",
     "lat": "48.19040",
-    "long": "16.34862"
+    "long": "16.34862",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "6": {
     "id": 6,
@@ -67,7 +75,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__6",
     "lat": "48.21060",
-    "long": "16.36706"
+    "long": "16.36706",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "7": {
     "id": 7,
@@ -81,7 +91,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=16028",
     "nestroy_id": "nestroy_otherplace_id__7",
     "lat": "48.21399",
-    "long": "16.34555"
+    "long": "16.34555",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "8": {
     "id": 8,
@@ -95,7 +107,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__8",
     "lat": "48.21399",
-    "long": "16.34555"
+    "long": "16.34555",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "9": {
     "id": 9,
@@ -109,7 +123,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__9",
     "lat": "48.20796",
-    "long": "16.35264"
+    "long": "16.35264",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "14": {
     "id": 14,
@@ -123,7 +139,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__14",
     "lat": "48.21021",
-    "long": "16.36543"
+    "long": "16.36543",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "15": {
     "id": 15,
@@ -137,7 +155,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__15",
     "lat": "48.18932",
-    "long": "16.35931"
+    "long": "16.35931",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "17": {
     "id": 17,
@@ -151,7 +171,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=6610",
     "nestroy_id": "nestroy_otherplace_id__17",
     "lat": "48.20307",
-    "long": "16.35714"
+    "long": "16.35714",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "18": {
     "id": 18,
@@ -165,7 +187,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__18",
     "lat": "48.19811",
-    "long": "16.39482"
+    "long": "16.39482",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "19": {
     "id": 19,
@@ -179,7 +203,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=26630",
     "nestroy_id": "nestroy_otherplace_id__19",
     "lat": "48.20521",
-    "long": "16.37104"
+    "long": "16.37104",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "21": {
     "id": 21,
@@ -193,7 +219,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=24672",
     "nestroy_id": "nestroy_otherplace_id__21",
     "lat": "48.19959",
-    "long": "16.34093"
+    "long": "16.34093",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "22": {
     "id": 22,
@@ -207,7 +235,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=4374",
     "nestroy_id": "nestroy_otherplace_id__22",
     "lat": "48.20959",
-    "long": "16.36680"
+    "long": "16.36680",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "24": {
     "id": 24,
@@ -221,7 +251,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__24",
     "lat": "48.20829",
-    "long": "16.37655"
+    "long": "16.37655",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "29": {
     "id": 29,
@@ -235,7 +267,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__29",
     "lat": "48.20837",
-    "long": "16.37218"
+    "long": "16.37218",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "30": {
     "id": 30,
@@ -249,7 +283,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__30",
     "lat": "48.20563",
-    "long": "16.36469"
+    "long": "16.36469",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "31": {
     "id": 31,
@@ -263,7 +299,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__31",
     "lat": "48.17547",
-    "long": "16.29101"
+    "long": "16.29101",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "38": {
     "id": 38,
@@ -277,7 +315,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__38",
     "lat": "48.22387",
-    "long": "16.35641"
+    "long": "16.35641",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "43": {
     "id": 43,
@@ -291,7 +331,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__43",
     "lat": "48.22707",
-    "long": "16.31006"
+    "long": "16.31006",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "44": {
     "id": 44,
@@ -305,7 +347,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__44",
     "lat": "48.21667",
-    "long": "16.40000"
+    "long": "16.40000",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "45": {
     "id": 45,
@@ -319,7 +363,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__45",
     "lat": "48.20000",
-    "long": "16.30000"
+    "long": "16.30000",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "46": {
     "id": 46,
@@ -333,7 +379,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__46",
     "lat": "48.17147",
-    "long": "16.43126"
+    "long": "16.43126",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "47": {
     "id": 47,
@@ -347,7 +395,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__47",
     "lat": "48.13333",
-    "long": "16.46667"
+    "long": "16.46667",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "49": {
     "id": 49,
@@ -361,7 +411,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__49",
     "lat": "48.17192",
-    "long": "16.32586"
+    "long": "16.32586",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "50": {
     "id": 50,
@@ -375,7 +427,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__50",
     "lat": "48.25000",
-    "long": "16.36667"
+    "long": "16.36667",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "51": {
     "id": 51,
@@ -389,7 +443,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__51",
     "lat": "48.30432",
-    "long": "15.86306"
+    "long": "15.86306",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "52": {
     "id": 52,
@@ -403,7 +459,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__52",
     "lat": "48.08605",
-    "long": "16.28921"
+    "long": "16.28921",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "53": {
     "id": 53,
@@ -417,7 +475,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__53",
     "lat": "48.00543",
-    "long": "16.23264"
+    "long": "16.23264",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "54": {
     "id": 54,
@@ -431,7 +491,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__54",
     "lat": "48.20883",
-    "long": "16.36951"
+    "long": "16.36951",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "55": {
     "id": 55,
@@ -445,7 +507,9 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__55",
     "lat": "48.21392",
-    "long": "16.36202"
+    "long": "16.36202",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "57": {
     "id": 57,
@@ -459,7 +523,9 @@
     "wien_geschichte_wiki": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=14709",
     "nestroy_id": "nestroy_otherplace_id__57",
     "lat": "48.45000",
-    "long": "15.38333"
+    "long": "15.38333",
+    "mentioned_in": [],
+    "total_occurences": null
   },
   "58": {
     "id": 58,
@@ -473,6 +539,8 @@
     "wien_geschichte_wiki": "",
     "nestroy_id": "nestroy_otherplace_id__58",
     "lat": "47.80000",
-    "long": "16.25000"
+    "long": "16.25000",
+    "mentioned_in": [],
+    "total_occurences": null
   }
 }

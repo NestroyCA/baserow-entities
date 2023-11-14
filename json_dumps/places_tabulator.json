@@ -1,0 +1,3498 @@
+[
+  {
+    "coordinates": {
+      "lng": "-34.92866",
+      "lat": "138.59863"
+    },
+    "name": "Adelaide",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2078025/"
+    ],
+    "internal_id": 3,
+    "mentions": [
+      {
+        "id": 65,
+        "value": "play_65"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "41.67719",
+      "lat": "26.55597"
+    },
+    "name": "Edirne",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/747712/"
+    ],
+    "internal_id": 4,
+    "mentions": [
+      {
+        "id": 28,
+        "value": "play_28"
+      }
+    ],
+    "alt_names": [
+      "Adrianopel"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "42.10431",
+      "lat": "9.51265"
+    },
+    "name": "Aleria ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3038225/"
+    ],
+    "internal_id": 5,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "36.73225",
+      "lat": "3.08746"
+    },
+    "name": "Algier ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2507480/"
+    ],
+    "internal_id": 6,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "52.37403",
+      "lat": "4.88969"
+    },
+    "name": "Amsterdam",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2759794/"
+    ],
+    "internal_id": 7,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 67,
+        "value": "play_67"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "46.18333",
+      "lat": "21.31667"
+    },
+    "name": "Arad ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/686254/"
+    ],
+    "internal_id": 8,
+    "mentions": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "40.03108",
+      "lat": "-3.60246"
+    },
+    "name": "Aranjuez",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3129857/"
+    ],
+    "internal_id": 9,
+    "mentions": [
+      {
+        "id": 61,
+        "value": "play_61"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "37.98376",
+      "lat": "23.72784"
+    },
+    "name": "Athen",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/264371/"
+    ],
+    "internal_id": 10,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.37154",
+      "lat": "10.89851"
+    },
+    "name": "Augsburg ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2954172/"
+    ],
+    "internal_id": 11,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.76060",
+      "lat": "8.23975"
+    },
+    "name": "Baden-Baden ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2953504/"
+    ],
+    "internal_id": 12,
+    "mentions": [
+      {
+        "id": 63,
+        "value": "play_63"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.20228",
+      "lat": "10.07784"
+    },
+    "name": "Bad Kissingen ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2953424/"
+    ],
+    "internal_id": 13,
+    "mentions": [
+      {
+        "id": 76,
+        "value": "play_76"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.89873",
+      "lat": "10.90067"
+    },
+    "name": "Bamberg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2952984/"
+    ],
+    "internal_id": 14,
+    "mentions": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.63236",
+      "lat": "13.00187"
+    },
+    "name": "Berchtesgaden",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2950881/"
+    ],
+    "internal_id": 15,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "52.52437",
+      "lat": "13.41053"
+    },
+    "name": "Berlin ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2950159/"
+    ],
+    "internal_id": 16,
+    "mentions": [
+      {
+        "id": 21,
+        "value": "play_21"
+      },
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 41,
+        "value": "play_41"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 63,
+        "value": "play_63"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "51.22172",
+      "lat": "6.77616"
+    },
+    "name": "D\u00fcsseldorf ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2934246/"
+    ],
+    "internal_id": 17,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.11552",
+      "lat": "8.68417"
+    },
+    "name": "Frankfurt am Main ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2925533/"
+    ],
+    "internal_id": 18,
+    "mentions": [
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 60,
+        "value": "play_60"
+      },
+      {
+        "id": 61,
+        "value": "play_61"
+      },
+      {
+        "id": 63,
+        "value": "play_63"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "32.54083",
+      "lat": "44.42417"
+    },
+    "name": "Babylon",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/98228/"
+    ],
+    "internal_id": 19,
+    "mentions": [
+      {
+        "id": 56,
+        "value": "play_56"
+      },
+      {
+        "id": 64,
+        "value": "play_64"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.00543",
+      "lat": "16.23264"
+    },
+    "name": "Baden",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2782067/"
+    ],
+    "internal_id": 20,
+    "mentions": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_names": [
+      "Baaden"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "33.34058",
+      "lat": "44.40088"
+    },
+    "name": "Bagdad ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/98182/"
+    ],
+    "internal_id": 21,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "42.70219",
+      "lat": "9.45123"
+    },
+    "name": "Bastia ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3034640/"
+    ],
+    "internal_id": 22,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "42.35843",
+      "lat": "-71.05977"
+    },
+    "name": "Boston",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/4930956/"
+    ],
+    "internal_id": 23,
+    "mentions": [
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "42.98373",
+      "lat": "20.55111"
+    },
+    "name": "Branowitz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/791091/"
+    ],
+    "internal_id": 24,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.14816",
+      "lat": "17.10674"
+    },
+    "name": "Bratislava",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3060972/"
+    ],
+    "internal_id": 25,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [
+      "Pressburg"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.50107",
+      "lat": "9.06959"
+    },
+    "name": "Braunau",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/8533690/"
+    ],
+    "internal_id": 26,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "52.26594",
+      "lat": "10.52673"
+    },
+    "name": "Braunschweig ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2945024/"
+    ],
+    "internal_id": 27,
+    "mentions": [
+      {
+        "id": 39,
+        "value": "play_39"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "53.07582",
+      "lat": "8.80717"
+    },
+    "name": "Bremen",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2944388/"
+    ],
+    "internal_id": 28,
+    "mentions": [
+      {
+        "id": 39,
+        "value": "play_39"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "51.10000",
+      "lat": "17.03333"
+    },
+    "name": "Breslau (Wroclaw)",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3081368/"
+    ],
+    "internal_id": 29,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.08791",
+      "lat": "25.15027"
+    },
+    "name": "Brody ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/711416/"
+    ],
+    "internal_id": 30,
+    "mentions": [
+      {
+        "id": 41,
+        "value": "play_41"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.12426",
+      "lat": "8.59804"
+    },
+    "name": "Bruchsal",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2943560/"
+    ],
+    "internal_id": 31,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.19522",
+      "lat": "16.60796"
+    },
+    "name": "Brno",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3078610/"
+    ],
+    "internal_id": 32,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [
+      "Br\u00fcnn"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.85045",
+      "lat": "4.34878"
+    },
+    "name": "Br\u00fcssel",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2800866/"
+    ],
+    "internal_id": 33,
+    "mentions": [
+      {
+        "id": 44,
+        "value": "play_44"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.49835",
+      "lat": "19.04045"
+    },
+    "name": "Budapest ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3054643/"
+    ],
+    "internal_id": 34,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.97447",
+      "lat": "14.47434"
+    },
+    "name": "Ceske Budejovice",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3077916/"
+    ],
+    "internal_id": 35,
+    "mentions": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      },
+      {
+        "id": 74,
+        "value": "play_74"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [
+      "Budweis"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "51.26418",
+      "lat": "15.56970"
+    },
+    "name": "Bunzlau",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3102987/"
+    ],
+    "internal_id": 36,
+    "mentions": [
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.95109",
+      "lat": "15.79558"
+    },
+    "name": "Chrudim",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3077539/"
+    ],
+    "internal_id": 37,
+    "mentions": [
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.13325",
+      "lat": "10.02129"
+    },
+    "name": "Cremona ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3177838/"
+    ],
+    "internal_id": 38,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.91099",
+      "lat": "15.38972"
+    },
+    "name": "Czaslau ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3078234/"
+    ],
+    "internal_id": 39,
+    "mentions": [
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.87167",
+      "lat": "8.65027"
+    },
+    "name": "Darmstadt ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2938913/"
+    ],
+    "internal_id": 40,
+    "mentions": [
+      {
+        "id": 61,
+        "value": "play_61"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "52.07667",
+      "lat": "4.29861"
+    },
+    "name": "Den Haag",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2747373/"
+    ],
+    "internal_id": 41,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.29972",
+      "lat": "16.56667"
+    },
+    "name": "Deutsch-Wagram ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2781017/"
+    ],
+    "internal_id": 42,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "51.05089",
+      "lat": "13.73832"
+    },
+    "name": "Dresden ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2935022/"
+    ],
+    "internal_id": 43,
+    "mentions": [
+      {
+        "id": 47,
+        "value": "play_47"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.48441",
+      "lat": "16.83364"
+    },
+    "name": "D\u00fcrnkrut",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/7871730/"
+    ],
+    "internal_id": 44,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.79992",
+      "lat": "16.80339"
+    },
+    "name": "Eisgrub ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3072232/"
+    ],
+    "internal_id": 45,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.08502",
+      "lat": "16.60832"
+    },
+    "name": "Enzersdorf an der Fischa",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2780017/"
+    ],
+    "internal_id": 46,
+    "mentions": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "46.51667",
+      "lat": "14.16667"
+    },
+    "name": "Feistritz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2779704/"
+    ],
+    "internal_id": 47,
+    "mentions": [
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "44.83804",
+      "lat": "11.62057"
+    },
+    "name": "Ferrara",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3177090/"
+    ],
+    "internal_id": 48,
+    "mentions": [
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.11573",
+      "lat": "16.61395"
+    },
+    "name": "Fischamend",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/7871945/"
+    ],
+    "internal_id": 49,
+    "mentions": [
+      {
+        "id": 27,
+        "value": "play_27"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "43.77925",
+      "lat": "11.24626"
+    },
+    "name": "Florenz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3176959/"
+    ],
+    "internal_id": 50,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "38.69467",
+      "lat": "1.46919"
+    },
+    "name": "Formentera",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2517690/"
+    ],
+    "internal_id": 51,
+    "mentions": [
+      {
+        "id": 38,
+        "value": "play_38"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "52.34714",
+      "lat": "14.55062"
+    },
+    "name": "Frankfurt a. d. Oder",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2925535/"
+    ],
+    "internal_id": 52,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.33925",
+      "lat": "16.72016"
+    },
+    "name": "G\u00e4nserndorf ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2778877/"
+    ],
+    "internal_id": 53,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "44.40478",
+      "lat": "8.94439"
+    },
+    "name": "Genua ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3176219/"
+    ],
+    "internal_id": 54,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.67487",
+      "lat": "15.93893"
+    },
+    "name": "Gloggnitz ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2778455/"
+    ],
+    "internal_id": 55,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.94088",
+      "lat": "13.62167"
+    },
+    "name": "G\u00f6rz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3175986/"
+    ],
+    "internal_id": 56,
+    "mentions": [
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.64426",
+      "lat": "11.24971"
+    },
+    "name": "Gr\u00e4fenberg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2918350/"
+    ],
+    "internal_id": 57,
+    "mentions": [
+      {
+        "id": 43,
+        "value": "play_43"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.06667",
+      "lat": "15.45000"
+    },
+    "name": "Graz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2778067/"
+    ],
+    "internal_id": 58,
+    "mentions": [
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "55.00279",
+      "lat": "-3.06618"
+    },
+    "name": "Gretna Green ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2647909/"
+    ],
+    "internal_id": 59,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "44.91172",
+      "lat": "10.66186"
+    },
+    "name": "Guastalla",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3175693/"
+    ],
+    "internal_id": 60,
+    "mentions": [
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_names": [
+      "Quastalla"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.04538",
+      "lat": "16.27710"
+    },
+    "name": "Gumpoldskirchen",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2777279/"
+    ],
+    "internal_id": 61,
+    "mentions": [
+      {
+        "id": 20,
+        "value": "play_20"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "53.55073",
+      "lat": "9.99302"
+    },
+    "name": "Hamburg  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2911298/"
+    ],
+    "internal_id": 62,
+    "mentions": [
+      {
+        "id": 3,
+        "value": "play_3"
+      },
+      {
+        "id": 29,
+        "value": "play_29"
+      },
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 41,
+        "value": "play_41"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "52.37052",
+      "lat": "9.73322"
+    },
+    "name": "Hannover ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2910831/"
+    ],
+    "internal_id": 63,
+    "mentions": [
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "54.18213",
+      "lat": "7.88458"
+    },
+    "name": "Helgoland  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2906947/"
+    ],
+    "internal_id": 64,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.80000",
+      "lat": "24.15000"
+    },
+    "name": "Hermannstadt  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/667268/"
+    ],
+    "internal_id": 65,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.16667",
+      "lat": "27.60000"
+    },
+    "name": "Ia\u015fi (Jassy)  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/675810/"
+    ],
+    "internal_id": 66,
+    "mentions": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.26266",
+      "lat": "11.39454"
+    },
+    "name": "Innsbruck  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2775220/"
+    ],
+    "internal_id": 67,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.71109",
+      "lat": "13.61893"
+    },
+    "name": "Ischl",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2782052/"
+    ],
+    "internal_id": 68,
+    "mentions": [
+      {
+        "id": 62,
+        "value": "play_62"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "38.41273",
+      "lat": "27.13838"
+    },
+    "name": "Izmir",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/311046/"
+    ],
+    "internal_id": 69,
+    "mentions": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_names": [
+      "Smyrna"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "31.86667",
+      "lat": "35.45000"
+    },
+    "name": "Jericho  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/284899/"
+    ],
+    "internal_id": 70,
+    "mentions": [
+      {
+        "id": 64,
+        "value": "play_64"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "22.56263",
+      "lat": "88.36304"
+    },
+    "name": "Kalkutta ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/1275004/"
+    ],
+    "internal_id": 71,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.23271",
+      "lat": "12.87117"
+    },
+    "name": "Karlsbad  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3073803/"
+    ],
+    "internal_id": 72,
+    "mentions": [
+      {
+        "id": 21,
+        "value": "play_21"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "36.86667",
+      "lat": "10.33333"
+    },
+    "name": "Karthago  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2468244/"
+    ],
+    "internal_id": 73,
+    "mentions": [
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.00306",
+      "lat": "14.97703"
+    },
+    "name": "Kau\u0159im  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3073084/"
+    ],
+    "internal_id": 74,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.90897",
+      "lat": "11.87587"
+    },
+    "name": "Kehlheim  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/6558243/"
+    ],
+    "internal_id": 75,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "54.32133",
+      "lat": "10.13489"
+    },
+    "name": "Kiel",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2891122/"
+    ],
+    "internal_id": 76,
+    "mentions": [
+      {
+        "id": 14,
+        "value": "play_14"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.93333",
+      "lat": "6.95000"
+    },
+    "name": "K\u00f6ln",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2886242/"
+    ],
+    "internal_id": 78,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_names": [
+      "C\u00f6ln"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "41.01384",
+      "lat": "28.94966"
+    },
+    "name": "Istanbul",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/745044/"
+    ],
+    "internal_id": 79,
+    "mentions": [
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [
+      "Constantinopel\nKonstantinopel"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.06143",
+      "lat": "19.93658"
+    },
+    "name": "Krakow",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3094802/"
+    ],
+    "internal_id": 80,
+    "mentions": [],
+    "alt_names": [
+      "Krakau"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.05290",
+      "lat": "14.12919"
+    },
+    "name": "Kremsm\u00fcnster",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2773538/"
+    ],
+    "internal_id": 81,
+    "mentions": [
+      {
+        "id": 49,
+        "value": "play_49"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.17884",
+      "lat": "16.62532"
+    },
+    "name": "Kumrowitz ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3073337/"
+    ],
+    "internal_id": 82,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.06833",
+      "lat": "16.35607"
+    },
+    "name": "Laxenburg ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2772810/"
+    ],
+    "internal_id": 83,
+    "mentions": [
+      {
+        "id": 20,
+        "value": "play_20"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.86809",
+      "lat": "16.31298"
+    },
+    "name": "Leitomischl ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3071675/"
+    ],
+    "internal_id": 84,
+    "mentions": [
+      {
+        "id": 38,
+        "value": "play_38"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.83826",
+      "lat": "24.02324"
+    },
+    "name": "Lwiw",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/702550/"
+    ],
+    "internal_id": 85,
+    "mentions": [],
+    "alt_names": [
+      "Lemberg"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.37650",
+      "lat": "15.09144"
+    },
+    "name": "Leoben",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2772649/"
+    ],
+    "internal_id": 86,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.61222",
+      "lat": "5.94120"
+    },
+    "name": "Limbourg ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2792348/"
+    ],
+    "internal_id": 87,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.30639",
+      "lat": "14.28611"
+    },
+    "name": "Linz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2772400/"
+    ],
+    "internal_id": 88,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "43.54427",
+      "lat": "10.32615"
+    },
+    "name": "Livorno ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3174659/"
+    ],
+    "internal_id": 89,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "51.50853",
+      "lat": "-0.12574"
+    },
+    "name": "London ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2643743/"
+    ],
+    "internal_id": 90,
+    "mentions": [
+      {
+        "id": 5,
+        "value": "play_5"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 31,
+        "value": "play_31"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 52,
+        "value": "play_52"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 54,
+        "value": "play_54"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.75897",
+      "lat": "16.88203"
+    },
+    "name": "Lundenburg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3078773/"
+    ],
+    "internal_id": 91,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "40.41650",
+      "lat": "-3.70256"
+    },
+    "name": "Madrid ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3117735/"
+    ],
+    "internal_id": 92,
+    "mentions": [
+      {
+        "id": 48,
+        "value": "play_48"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.46427",
+      "lat": "9.18951"
+    },
+    "name": "Mailand  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3173435/"
+    ],
+    "internal_id": 93,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "36.72016",
+      "lat": "-4.42034"
+    },
+    "name": "Malaga  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2514256/"
+    ],
+    "internal_id": 94,
+    "mentions": [
+      {
+        "id": 29,
+        "value": "play_29"
+      },
+      {
+        "id": 33,
+        "value": "play_33"
+      },
+      {
+        "id": 36,
+        "value": "play_36"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.96459",
+      "lat": "12.70118"
+    },
+    "name": "Marienbad  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3071024/"
+    ],
+    "internal_id": 95,
+    "mentions": [
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "43.29695",
+      "lat": "5.38107"
+    },
+    "name": "Marseille  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2995469/"
+    ],
+    "internal_id": 96,
+    "mentions": [
+      {
+        "id": 29,
+        "value": "play_29"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "38.19394",
+      "lat": "15.55256"
+    },
+    "name": "Messina  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2524170/"
+    ],
+    "internal_id": 97,
+    "mentions": [
+      {
+        "id": 31,
+        "value": "play_31"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.08605",
+      "lat": "16.28921"
+    },
+    "name": "M\u00f6dling  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2771335/"
+    ],
+    "internal_id": 98,
+    "mentions": [
+      {
+        "id": 20,
+        "value": "play_20"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "55.75222",
+      "lat": "37.61556"
+    },
+    "name": "Moskau ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/524901/"
+    ],
+    "internal_id": 99,
+    "mentions": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.44248",
+      "lat": "22.71800"
+    },
+    "name": "Munk\u00e4cs  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/700646/"
+    ],
+    "internal_id": 100,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "51.96236",
+      "lat": "7.62571"
+    },
+    "name": "M\u00fcnster ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2867543/"
+    ],
+    "internal_id": 101,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "40.85216",
+      "lat": "14.26811"
+    },
+    "name": "Neapel  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3172394/"
+    ],
+    "internal_id": 102,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 42,
+        "value": "play_42"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "40.71427",
+      "lat": "-74.00597"
+    },
+    "name": "New York  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/5128581/"
+    ],
+    "internal_id": 103,
+    "mentions": [
+      {
+        "id": 14,
+        "value": "play_14"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "36.36768",
+      "lat": "43.15667"
+    },
+    "name": "Ninive  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/92878/"
+    ],
+    "internal_id": 104,
+    "mentions": [
+      {
+        "id": 56,
+        "value": "play_56"
+      },
+      {
+        "id": 65,
+        "value": "play_65"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.45421",
+      "lat": "11.07752"
+    },
+    "name": "N\u00fcrnberg  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2861650/"
+    ],
+    "internal_id": 105,
+    "mentions": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.10061",
+      "lat": "8.76647"
+    },
+    "name": "Offenbach  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2857807/"
+    ],
+    "internal_id": 106,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.59552",
+      "lat": "17.25175"
+    },
+    "name": "Olomouc",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3069011/"
+    ],
+    "internal_id": 107,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [
+      "Olm\u00fctz"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.90289",
+      "lat": "1.90389"
+    },
+    "name": "Orleans",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2989317/"
+    ],
+    "internal_id": 108,
+    "mentions": [
+      {
+        "id": 1,
+        "value": "play_1"
+      },
+      {
+        "id": 25,
+        "value": "play_25"
+      },
+      {
+        "id": 43,
+        "value": "play_43"
+      },
+      {
+        "id": 48,
+        "value": "play_48"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 82,
+        "value": "play_82"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "44.72299",
+      "lat": "22.39619"
+    },
+    "name": "Orsowa  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/671681/"
+    ],
+    "internal_id": 109,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "51.21551",
+      "lat": "2.92700"
+    },
+    "name": "Ostende  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2789786/"
+    ],
+    "internal_id": 110,
+    "mentions": [
+      {
+        "id": 73,
+        "value": "play_73"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.40797",
+      "lat": "11.88586"
+    },
+    "name": "Padua  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3171728/"
+    ],
+    "internal_id": 111,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "44.87177",
+      "lat": "20.64167"
+    },
+    "name": "Pantschowa  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/787237/"
+    ],
+    "internal_id": 112,
+    "mentions": [
+      {
+        "id": 41,
+        "value": "play_41"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.85341",
+      "lat": "2.34880"
+    },
+    "name": "Paris ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2988507/"
+    ],
+    "internal_id": 113,
+    "mentions": [
+      {
+        "id": 3,
+        "value": "play_3"
+      },
+      {
+        "id": 8,
+        "value": "play_8"
+      },
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 19,
+        "value": "play_19"
+      },
+      {
+        "id": 26,
+        "value": "play_26"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 30,
+        "value": "play_30"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 54,
+        "value": "play_54"
+      },
+      {
+        "id": 55,
+        "value": "play_55"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 61,
+        "value": "play_61"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 68,
+        "value": "play_68"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      },
+      {
+        "id": 71,
+        "value": "play_71"
+      },
+      {
+        "id": 73,
+        "value": "play_73"
+      },
+      {
+        "id": 74,
+        "value": "play_74"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "44.79935",
+      "lat": "10.32618"
+    },
+    "name": "Parma  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3171457/"
+    ],
+    "internal_id": 114,
+    "mentions": [
+      {
+        "id": 17,
+        "value": "play_17"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "39.90750",
+      "lat": "116.39723"
+    },
+    "name": "Peking ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/1816670/"
+    ],
+    "internal_id": 115,
+    "mentions": [
+      {
+        "id": 48,
+        "value": "play_48"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "59.93863",
+      "lat": "30.31413"
+    },
+    "name": "Petersburg  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/498817/"
+    ],
+    "internal_id": 116,
+    "mentions": [
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "39.95238",
+      "lat": "-75.16362"
+    },
+    "name": "Philadelphia ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/4560349/"
+    ],
+    "internal_id": 117,
+    "mentions": [
+      {
+        "id": 30,
+        "value": "play_30"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.05242",
+      "lat": "9.69342"
+    },
+    "name": "Piacenza  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3171058/"
+    ],
+    "internal_id": 118,
+    "mentions": [
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "40.75000",
+      "lat": "14.48333"
+    },
+    "name": "Pompeji  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3170336/"
+    ],
+    "internal_id": 119,
+    "mentions": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 49,
+        "value": "play_49"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "41.59101",
+      "lat": "9.27947"
+    },
+    "name": "Porto Vecchio ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2985947/"
+    ],
+    "internal_id": 120,
+    "mentions": [
+      {
+        "id": 23,
+        "value": "play_23"
+      },
+      {
+        "id": 57,
+        "value": "play_57"
+      },
+      {
+        "id": 71,
+        "value": "play_71"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "52.39886",
+      "lat": "13.06566"
+    },
+    "name": "Potsdam  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2852458/"
+    ],
+    "internal_id": 121,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.08804",
+      "lat": "14.42076"
+    },
+    "name": "Praha",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3067696/"
+    ],
+    "internal_id": 122,
+    "mentions": [
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 35,
+        "value": "play_35"
+      }
+    ],
+    "alt_names": [
+      "Prag"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.20769",
+      "lat": "16.17539"
+    },
+    "name": "Purkersdorf  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2768232/"
+    ],
+    "internal_id": 123,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.09021",
+      "lat": "16.60388"
+    },
+    "name": "Raigern ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3067078/"
+    ],
+    "internal_id": 124,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.01513",
+      "lat": "12.10161"
+    },
+    "name": "Regensburg ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2849483/"
+    ],
+    "internal_id": 125,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "41.89193",
+      "lat": "12.51133"
+    },
+    "name": "Rom",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3169070/"
+    ],
+    "internal_id": 126,
+    "mentions": [
+      {
+        "id": 66,
+        "value": "play_66"
+      },
+      {
+        "id": 70,
+        "value": "play_70"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.44313",
+      "lat": "1.09932"
+    },
+    "name": "Rouen ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2982652/"
+    ],
+    "internal_id": 127,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.79941",
+      "lat": "13.04399"
+    },
+    "name": "Salzburg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2766824/"
+    ],
+    "internal_id": 128,
+    "mentions": [
+      {
+        "id": 17,
+        "value": "play_17"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.83443",
+      "lat": "9.66753"
+    },
+    "name": "San Pellegrino ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3167875/"
+    ],
+    "internal_id": 129,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "41.65606",
+      "lat": "-0.87734"
+    },
+    "name": "Saragossa",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3104324/"
+    ],
+    "internal_id": 130,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "41.61667",
+      "lat": "8.98333"
+    },
+    "name": "Sartena ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2975931/"
+    ],
+    "internal_id": 131,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.63330",
+      "lat": "11.20000"
+    },
+    "name": "Schwarzburg-Rudolstadt",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/6550335/"
+    ],
+    "internal_id": 132,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.13333",
+      "lat": "16.46667"
+    },
+    "name": "Schwechat",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2765388/"
+    ],
+    "internal_id": 133,
+    "mentions": [
+      {
+        "id": 27,
+        "value": "play_27"
+      }
+    ],
+    "alt_names": [
+      "Schw\u00f6chat"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.19822",
+      "lat": "4.13244"
+    },
+    "name": "Sillery",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2974547/"
+    ],
+    "internal_id": 134,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.32083",
+      "lat": "8.43111"
+    },
+    "name": "Speyer",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2830582/"
+    ],
+    "internal_id": 135,
+    "mentions": [
+      {
+        "id": 15,
+        "value": "play_15"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.21667",
+      "lat": "14.78333"
+    },
+    "name": "Spielberg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2764812/"
+    ],
+    "internal_id": 136,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 66,
+        "value": "play_66"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.83333",
+      "lat": "16.41667"
+    },
+    "name": "Steinbrunn",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2764296/"
+    ],
+    "internal_id": 137,
+    "mentions": [
+      {
+        "id": 76,
+        "value": "play_76"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.04274",
+      "lat": "14.42127"
+    },
+    "name": "Steyr",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2764359/"
+    ],
+    "internal_id": 138,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.04509",
+      "lat": "16.67581"
+    },
+    "name": "Stixneusiedl  ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2764288/"
+    ],
+    "internal_id": 139,
+    "mentions": [
+      {
+        "id": 67,
+        "value": "play_67"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.38333",
+      "lat": "16.21667"
+    },
+    "name": "Stockerau ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2764279/"
+    ],
+    "internal_id": 140,
+    "mentions": [
+      {
+        "id": 28,
+        "value": "play_28"
+      },
+      {
+        "id": 65,
+        "value": "play_65"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.18995",
+      "lat": "18.41034"
+    },
+    "name": "Stuhlwei\u00dfenburg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3044774/"
+    ],
+    "internal_id": 141,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.78232",
+      "lat": "9.17702"
+    },
+    "name": "Stuttgart",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2825297/"
+    ],
+    "internal_id": 142,
+    "mentions": [
+      {
+        "id": 30,
+        "value": "play_30"
+      }
+    ],
+    "alt_names": [
+      "Stuttgard"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.82059",
+      "lat": "18.20214"
+    },
+    "name": "Svinov siehe Sch\u00f6nbrunn",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3064464/"
+    ],
+    "internal_id": 143,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.00964",
+      "lat": "16.30118"
+    },
+    "name": "Traiskirchen",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/7871715/"
+    ],
+    "internal_id": 144,
+    "mentions": [
+      {
+        "id": 34,
+        "value": "play_34"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.64953",
+      "lat": "13.77678"
+    },
+    "name": "Trieste",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3165185/"
+    ],
+    "internal_id": 145,
+    "mentions": [
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 41,
+        "value": "play_41"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      }
+    ],
+    "alt_names": [
+      "Triest"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "39.95732",
+      "lat": "26.23909"
+    },
+    "name": "Troja",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/298885/"
+    ],
+    "internal_id": 146,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "36.81897",
+      "lat": "10.16579"
+    },
+    "name": "Tunis ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2464470/"
+    ],
+    "internal_id": 147,
+    "mentions": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.39841",
+      "lat": "9.99155"
+    },
+    "name": "Ulm",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2820256/"
+    ],
+    "internal_id": 148,
+    "mentions": [
+      {
+        "id": 18,
+        "value": "play_18"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "45.43713",
+      "lat": "12.33265"
+    },
+    "name": "Venezia",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3164603/"
+    ],
+    "internal_id": 149,
+    "mentions": [
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      },
+      {
+        "id": 75,
+        "value": "play_75"
+      }
+    ],
+    "alt_names": [
+      "Venedig"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.96004",
+      "lat": "14.77361"
+    },
+    "name": "Waidhofen/Ybbs",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2762077/"
+    ],
+    "internal_id": 150,
+    "mentions": [
+      {
+        "id": 3,
+        "value": "play_3"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.98030",
+      "lat": "11.32903"
+    },
+    "name": "Weimar",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2812482/"
+    ],
+    "internal_id": 152,
+    "mentions": [
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.15127",
+      "lat": "9.28762"
+    },
+    "name": "Weinsberg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2812158/"
+    ],
+    "internal_id": 153,
+    "mentions": [
+      {
+        "id": 1,
+        "value": "play_1"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "43.99159",
+      "lat": "22.88236"
+    },
+    "name": "Widin ",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/725905/"
+    ],
+    "internal_id": 154,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.20849",
+      "lat": "16.37208"
+    },
+    "name": "Wien",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2761369/"
+    ],
+    "internal_id": 155,
+    "mentions": [
+      {
+        "id": 18,
+        "value": "play_18"
+      },
+      {
+        "id": 19,
+        "value": "play_19"
+      },
+      {
+        "id": 20,
+        "value": "play_20"
+      },
+      {
+        "id": 21,
+        "value": "play_21"
+      },
+      {
+        "id": 26,
+        "value": "play_26"
+      },
+      {
+        "id": 27,
+        "value": "play_27"
+      },
+      {
+        "id": 33,
+        "value": "play_33"
+      },
+      {
+        "id": 34,
+        "value": "play_34"
+      },
+      {
+        "id": 39,
+        "value": "play_39"
+      },
+      {
+        "id": 47,
+        "value": "play_47"
+      },
+      {
+        "id": 48,
+        "value": "play_48"
+      },
+      {
+        "id": 50,
+        "value": "play_50"
+      },
+      {
+        "id": 53,
+        "value": "play_53"
+      },
+      {
+        "id": 58,
+        "value": "play_58"
+      },
+      {
+        "id": 59,
+        "value": "play_59"
+      },
+      {
+        "id": 62,
+        "value": "play_62"
+      },
+      {
+        "id": 63,
+        "value": "play_63"
+      },
+      {
+        "id": 64,
+        "value": "play_64"
+      },
+      {
+        "id": 67,
+        "value": "play_67"
+      },
+      {
+        "id": 69,
+        "value": "play_69"
+      },
+      {
+        "id": 77,
+        "value": "play_77"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.80485",
+      "lat": "16.23196"
+    },
+    "name": "Wiener Neustadt",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2761353/"
+    ],
+    "internal_id": 156,
+    "mentions": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "alt_names": [
+      "Neustadt"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "50.08258",
+      "lat": "8.24932"
+    },
+    "name": "Wiesbaden",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2809346/"
+    ],
+    "internal_id": 157,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.13333",
+      "lat": "15.13333"
+    },
+    "name": "Wieselburg Wieselbach",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2761314/"
+    ],
+    "internal_id": 158,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "49.63278",
+      "lat": "8.35916"
+    },
+    "name": "Worms",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2806142/"
+    ],
+    "internal_id": 159,
+    "mentions": [
+      {
+        "id": 15,
+        "value": "play_15"
+      }
+    ],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "48.16667",
+      "lat": "15.08333"
+    },
+    "name": "Ybbs",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2760772/"
+    ],
+    "internal_id": 160,
+    "mentions": [
+      {
+        "id": 13,
+        "value": "play_13"
+      }
+    ],
+    "alt_names": [
+      "Yps"
+    ],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": null,
+      "lat": null
+    },
+    "name": "",
+    "geonames": [
+      "geonames",
+      ""
+    ],
+    "internal_id": 161,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  },
+  {
+    "coordinates": {
+      "lng": "47.66667",
+      "lat": "15.16667"
+    },
+    "name": "Weichselboden Weichselberg",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2761771/"
+    ],
+    "internal_id": 151,
+    "mentions": [],
+    "alt_names": [],
+    "total_occurences": "0"
+  }
+]
