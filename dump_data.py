@@ -63,7 +63,34 @@ def lookup_play(play_index):
     return play_id_2_play_name[play_index]
 
 
-def modify_dump(json_file_path: str, fieldnames_to_manipulations: dict):
+def delete_rows_in_dump(json_file_path: str, test_2_fieldname: dict):
+    """
+    test_2_fieldname: dict, 
+        key = fieldname,
+        val = function that takes fieldname 
+        and returns true if it qualifies the row to be deleted
+    """
+    # load data
+    json_data = None
+    with open(json_file_path, "r") as json_file_io:
+        json_data = json.load(json_file_io)
+    # apply changes
+    keys = json_data.keys()
+    for entity_id in keys:
+        entity = json_data[entity_id]
+        delete_row = True
+        for fieldname, testfunction in fieldnames_to_manipulations.items():
+            delete_row = testfunction(entity[fieldname])
+            if delete_row is not True:
+                break
+        if delete_row:
+            _ = json_data.pop(entity_id)
+    # dump data
+    with open(json_file_path, "w") as outfile:
+        json.dump(json_data, outfile, indent=2)
+
+
+def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict):
     """
     Loads json file from json_file_path and performs a set of manipulations.
     fieldnames_to_manipulations contains a set of fieldnames-strings as keys, 
@@ -159,12 +186,21 @@ if __name__ == "__main__":
         indent=2
     )
     places_filepath = f"{JSON_FOLDER}/places.json"
+    vienna_places_filepath = f"{JSON_FOLDER}/vienna_places.json"
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {
             "geonames" : get_normalized_uri
         }
-        modify_dump(
+        modify_fields_in_dump(
             places_filepath,
+            fieldnames_to_manipulations
+        )
+    elif os.path.isfile(vienna_places_filepath):
+        fieldnames_to_manipulations = {
+            "geonames" : lambda x: bool(x.strip())
+        }
+        delete_rows_in_dump(
+            vienna_places_filepath,
             fieldnames_to_manipulations
         )
     else:
