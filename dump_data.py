@@ -172,5 +172,3 @@ if __name__ == "__main__":
         raise FileNotFoundError
     for path in json_file_paths:
         print(path)
-    geo_json_filepath = create_geo_json(places_filepath)
-    print(f"wrote geojson to {geo_json_filepath}")
