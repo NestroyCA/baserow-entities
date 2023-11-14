@@ -7,42 +7,61 @@ from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 play_id_2_play_name = None
 altname_keys = ["alt_tokens", "legacy"]
 
+def make_tabulator_data_entry(
+        name: str,
+        lng: str,
+        lat: str,
+        geonames_url: str,
+        internal_id: str,
+        mentions: list,
+        alt_names: list,
+        total_occurences: int
+    ):
+    return {
+        "coordinates": {
+        "lng": lng,
+        "lat": lat
+        },
+        "name": name,
+        "geonames": [
+            "geonames",
+            geonames_url
+        ],
+        "internal_id": internal_id,
+        "mentions": mentions,
+        "alt_names": alt_names,
+        "total_occurences": total_occurences
+    }
 
-def create_tabulator_data(features):
-    tabulator_data_output_path = f"{JSON_FOLDER}/tabulator_data.json"
+
+def create_tabulator_data(
+        json_file_path:str,
+        name_key: str,
+        lng_key: str,
+        lat_key: str,
+        geonames_url_key: str,
+        internal_id_key: str,
+        mentions_key: str,
+        altnames_keys: list,
+        total_occurences_keys: str
+    ):
+    tabulator_data_output_path = f"{json_file_path.removesuffix('.json')}_tabulator.json"
     tabulator_data = []
-    for feature in features:
-        coordinates = feature.pop("geometry").pop("coordinates")
-        row = {
-            "coordinates" : {
-                "lng" : coordinates[0],
-                "lat" : coordinates[1]
-            }
-        }
-        alt_names = []
-        for key, val in feature.pop("properties").items():
-            if key in altname_keys:
-                if val:
-                    if not alt_names:
-                        alt_names = [val]
-                    else:
-                        alt_names.append(val)
-                row["alt_names"] = alt_names
-            elif key == "mentioned_in":
-                links = []
-                for mention in val:
-                    play_nestroy_id = mention["value"]
-                    play_title = mention["title"]
-                    link = [play_title, play_nestroy_id]
-                    links.append(link)
-                row["mentions"] = links
-            elif key == "geonames":
-                target = val
-                title = key
-                row[key] = [title, target]
-            else:
-                row[key] = val
-        tabulator_data.append(row)
+    with open(json_file_path, "r") as json_file_io:
+        json_data = json.load(json_file_io)
+        for row in json_data.values():
+            print(row)
+            new_row = make_tabulator_data_entry(
+                name=row[name_key],
+                lng=row[lat_key],
+                lat=row[lng_key],
+                geonames_url=row[geonames_url_key],
+                internal_id=row[internal_id_key],
+                mentions=row[mentions_key],
+                alt_names=[row[altnames_key] for altnames_key in altnames_keys if row[altnames_key]],
+                total_occurences=row[total_occurences_keys] if row[total_occurences_keys] else 1
+            )
+            tabulator_data.append(new_row)
     with open(tabulator_data_output_path, "w") as tabulator_data_dumpfile:
         json.dump(
             tabulator_data,
@@ -89,6 +108,7 @@ def delete_rows_in_dump(json_file_path: str, test_2_fieldname: dict):
     # dump data
     with open(json_file_path, "w") as outfile:
         json.dump(json_data, outfile, indent=2)
+    return json_file_path
 
 
 def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict):
@@ -115,68 +135,7 @@ def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict
     # dump data
     with open(json_file_path, "w") as outfile:
         json.dump(json_data, outfile, indent=2)
-
-
-def make_geoname_point(long_lat: tuple, properties: dict):
-    if len(properties["mentioned_in"]) == 0:
-        return None
-    mentions = properties["mentioned_in"]
-    properties["mentioned_in"] = []
-    for mention in mentions:
-        play_index = mention["id"]
-        play_data = lookup_play(play_index)
-        mention["title"] = play_data["title"]
-        properties["mentioned_in"].append(mention)
-    return {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": list(long_lat)
-        },
-        "properties": properties
-    }
-
-
-def create_geo_json(json_dump_filepath:str=None, json_dump_input:json=None):
-    print(f"creating geojson from {json_dump_filepath}")
-    features = []
-    json_dump = None
-    if json_dump_filepath is not None:
-        with open(json_dump_filepath, "r") as json_dump_file:
-            json_dump = json.load(json_dump_file)
-    elif json_dump_input is not None:
-        json_dump = json_dump_input
-    else:
-        print("no valid arg for accessing json-data")
-        raise ValueError
-    for json_entity in json_dump.values():
-        lat = json_entity.pop("lat")
-        long = json_entity.pop("long")
-        if lat and long:
-            # # remove useless data
-            _ = json_entity.pop("id")
-            _ = json_entity.pop("order")
-            long_lat = (long, lat)
-            geoname_point = make_geoname_point(
-                long_lat = long_lat,
-                properties=json_entity
-            )
-            if geoname_point is not None:
-                features.append(geoname_point)
-    
-    dump_data = {
-        "type": "FeatureCollection",
-        "features": features
-    }
-    print(f"prepared data for tabulator in {create_tabulator_data(deepcopy(features))}")
-    new_filepath = json_dump_filepath.replace(".json", "_geodata.json")
-    with open(new_filepath, "w") as geo_data_dumpfile:
-        json.dump(
-            dump_data,
-            fp=geo_data_dumpfile,
-            indent=2
-        )
-    return new_filepath
+    return json_file_path
 
 
 if __name__ == "__main__":
@@ -192,17 +151,44 @@ if __name__ == "__main__":
         fieldnames_to_manipulations = {
             "geonames" : get_normalized_uri
         }
-        modify_fields_in_dump(
+        modfied_file_path = modify_fields_in_dump(
             places_filepath,
             fieldnames_to_manipulations
+        )
+        create_tabulator_data(
+            json_file_path=modfied_file_path,
+            name_key="name",
+            lng_key="long",
+            lat_key="lat",
+            geonames_url_key="geonames",
+            internal_id_key="id",
+            mentions_key="mentioned_in",
+            altnames_keys=[
+                "alt_tokens",
+                "legacy"
+            ],
+            total_occurences_keys="total_occurences"
         )
     if os.path.isfile(vienna_places_filepath):
         test_2_fieldname = {
             "geonames" : lambda x: not bool(x.strip())
         }
-        delete_rows_in_dump(
+        modfied_file_path = delete_rows_in_dump(
             vienna_places_filepath,
             test_2_fieldname
+        )
+        create_tabulator_data(
+            json_file_path=modfied_file_path,
+            name_key="survey_id",
+            lng_key="long",
+            lat_key="lat",
+            geonames_url_key="geonames",
+            internal_id_key="nestroy_id",
+            mentions_key="mentioned_in",
+            altnames_keys=[
+                "variants"
+            ],
+            total_occurences_keys="total_occurences"
         )
     for path in json_file_paths:
         print(path)
