@@ -70,16 +70,17 @@ def delete_rows_in_dump(json_file_path: str, test_2_fieldname: dict):
         val = function that takes fieldname 
         and returns true if it qualifies the row to be deleted
     """
+    print(f"deleting rows in {json_file_path}")
     # load data
     json_data = None
     with open(json_file_path, "r") as json_file_io:
         json_data = json.load(json_file_io)
     # apply changes
-    keys = json_data.keys()
+    keys = list(json_data.keys())
     for entity_id in keys:
         entity = json_data[entity_id]
-        delete_row = True
-        for fieldname, testfunction in fieldnames_to_manipulations.items():
+        delete_row = False
+        for fieldname, testfunction in test_2_fieldname.items():
             delete_row = testfunction(entity[fieldname])
             if delete_row is not True:
                 break
@@ -195,16 +196,13 @@ if __name__ == "__main__":
             places_filepath,
             fieldnames_to_manipulations
         )
-    elif os.path.isfile(vienna_places_filepath):
-        fieldnames_to_manipulations = {
-            "geonames" : lambda x: bool(x.strip())
+    if os.path.isfile(vienna_places_filepath):
+        test_2_fieldname = {
+            "geonames" : lambda x: not bool(x.strip())
         }
         delete_rows_in_dump(
             vienna_places_filepath,
-            fieldnames_to_manipulations
+            test_2_fieldname
         )
-    else:
-        print(f"Missing '{places_filepath}'; was something renamed?")
-        raise FileNotFoundError
     for path in json_file_paths:
         print(path)
