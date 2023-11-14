@@ -3,24 +3,19 @@ from config import br_client, BASEROW_DB_ID
 from acdh_geonames_utils.gn_client import gn_as_object
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 
-
-place_table_id = br_client.get_table_by_name(BASEROW_DB_ID, "places")
-
-def get_coordinates_filters_for_request():
+def get_coordinates_filters_for_request(geoname_field_id, lat_field_id):
     """filter to request items missing the coordinates"""
-    geoname_field_id = "field_23572"
-    lat_field_id = "field_23583"
     return {
         f"filter__{geoname_field_id}__contains": "www.geonames",
         f"filter__{geoname_field_id}__contains": "https", 
         f"filter__{lat_field_id}__empty": True
     }
 
-def get_items_to_update(request_filters) -> list:
+def get_items_to_update(request_filters, table_id) -> list:
     """get items from baserow according
     to filer, returns list"""
     table_items = []
-    for item in br_client.yield_rows(place_table_id, filters=request_filters):
+    for item in br_client.yield_rows(table_id, filters=request_filters):
         table_items.append(item)
     return table_items
 
@@ -51,8 +46,8 @@ def get_update_for_item(item:dict):
     return update_data
 
 
-def update_item_online(item_id: str, update_data:dict):
-    update_target_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{item_id}/?user_field_names=true"
+def update_item_online(table_id:str, item_id: str, update_data:dict):
+    update_target_url = f"{br_client.br_base_url}database/rows/table/{table_id}/{item_id}/?user_field_names=true"
     result = requests.patch(
         update_target_url,
         headers={
@@ -64,26 +59,25 @@ def update_item_online(item_id: str, update_data:dict):
     return result
 
 
-def update_coordinates_and_geoname_uris_online():
-    # I dont use filter in the request, because 
-    # I can't use them to check if the geonames uri is canonical
-    # see https://github.com/acdh-oeaw/arche-assets#python
-    # better trigger this manually
-    print(f"updating uris online for {place_table_id}\n\n")
-    for table_row_item in br_client.yield_rows(place_table_id):
-        update_data = get_update_for_item(table_row_item)
-        if update_data:
-            print(update_item_online(table_row_item, update_data))
-
-
-if __name__ == "__main__":
-    lat_long_filter = get_coordinates_filters_for_request()
-    items_to_update = get_items_to_update(lat_long_filter)
+def update_table_with_coordinates(table_name, geoname_field_id, lat_field_id):
+    table_id = br_client.get_table_by_name(BASEROW_DB_ID, table_name)
+    lat_long_filter = get_coordinates_filters_for_request(geoname_field_id, lat_field_id)
+    items_to_update = get_items_to_update(lat_long_filter, table_id)
     for item_to_update in items_to_update:
         item_to_update_id = item_to_update["id"]
         item_update = get_update_for_item(item_to_update)
         result = update_item_online(
+            table_id = table_id,
             item_id = item_to_update_id,
             update_data = item_update
         )
         print(result)
+
+
+if __name__ == "__main__":
+    # update places table
+    update_table_with_coordinates(
+        table_name = "places",
+        geoname_field_id = "field_23572",
+        lat_field_id = "field_23583"
+    )
