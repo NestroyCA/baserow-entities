@@ -1721,13 +1721,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.28611",
-          "48.30639"
+          "10.32615",
+          "43.54427"
         ]
       },
       "properties": {
         "name": "Livorno ",
-        "geonames": "https://sws.geonames.org/2772400/",
+        "geonames": "https://sws.geonames.org/3174659/",
         "nestroy_id": "nestroy_place_id__89",
         "mentioned_in": [
           {

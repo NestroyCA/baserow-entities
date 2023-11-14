@@ -1550,10 +1550,10 @@
     "id": 89,
     "order": "89.00000000000000000000",
     "name": "Livorno ",
-    "geonames": "https://sws.geonames.org/2772400/",
+    "geonames": "https://sws.geonames.org/3174659/",
     "nestroy_id": "nestroy_place_id__89",
-    "lat": "48.30639",
-    "long": "14.28611",
+    "lat": "43.54427",
+    "long": "10.32615",
     "mentioned_in": [
       {
         "id": 8,
