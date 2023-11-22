@@ -3467,21 +3467,6 @@
   },
   {
     "coordinates": {
-      "lng": null,
-      "lat": null
-    },
-    "name": "",
-    "geonames": [
-      "geonames",
-      ""
-    ],
-    "internal_id": "nestroy_place_id__161",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "15.16667",
       "lat": "47.66667"
     },
