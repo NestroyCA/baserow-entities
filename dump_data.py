@@ -17,21 +17,24 @@ def make_tabulator_data_entry(
         alt_names: list,
         total_occurences: int
     ):
-    return {
-        "coordinates": {
-        "lng": lng,
-        "lat": lat
-        },
-        "name": name,
-        "geonames": [
-            "geonames",
-            geonames_url
-        ],
-        "internal_id": internal_id,
-        "mentions": mentions if mentions else [],
-        "alt_names": alt_names,
-        "total_occurences": total_occurences
-    }
+    if name and lng and lat:
+        return {
+            "coordinates": {
+            "lng": lng,
+            "lat": lat
+            },
+            "name": name,
+            "geonames": [
+                "geonames",
+                geonames_url
+            ],
+            "internal_id": internal_id,
+            "mentions": mentions if mentions else [],
+            "alt_names": alt_names,
+            "total_occurences": total_occurences
+        }
+    else:
+        return []
 
 
 def create_tabulator_data(
@@ -61,7 +64,8 @@ def create_tabulator_data(
                 alt_names=[row[altnames_key] for altnames_key in altnames_keys if row[altnames_key]],
                 total_occurences=row[total_occurences_keys] if row[total_occurences_keys] else 1
             )
-            tabulator_data.append(new_row)
+            if new_row:
+                tabulator_data.append(new_row)
     with open(tabulator_data_output_path, "w") as tabulator_data_dumpfile:
         json.dump(
             tabulator_data,
