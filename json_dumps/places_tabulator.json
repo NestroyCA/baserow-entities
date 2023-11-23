@@ -63,21 +63,6 @@
   },
   {
     "coordinates": {
-      "lng": "3.08746",
-      "lat": "36.73225"
-    },
-    "name": "Algier ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2507480/"
-    ],
-    "internal_id": "nestroy_place_id__6",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "4.88969",
       "lat": "52.37403"
     },
@@ -146,36 +131,6 @@
   },
   {
     "coordinates": {
-      "lng": "23.72784",
-      "lat": "37.98376"
-    },
-    "name": "Athen",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/264371/"
-    ],
-    "internal_id": "nestroy_place_id__10",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "10.89851",
-      "lat": "48.37154"
-    },
-    "name": "Augsburg ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2954172/"
-    ],
-    "internal_id": "nestroy_place_id__11",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "8.23975",
       "lat": "48.76060"
     },
@@ -236,21 +191,6 @@
   },
   {
     "coordinates": {
-      "lng": "13.00187",
-      "lat": "47.63236"
-    },
-    "name": "Berchtesgaden",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2950881/"
-    ],
-    "internal_id": "nestroy_place_id__15",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "13.41053",
       "lat": "52.52437"
     },
@@ -302,21 +242,6 @@
         "play_73"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "6.77616",
-      "lat": "51.22172"
-    },
-    "name": "D\u00fcsseldorf ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2934246/"
-    ],
-    "internal_id": "nestroy_place_id__17",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -396,36 +321,6 @@
     "alt_names": [
       "Baaden"
     ],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "44.40088",
-      "lat": "33.34058"
-    },
-    "name": "Bagdad ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/98182/"
-    ],
-    "internal_id": "nestroy_place_id__21",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "9.45123",
-      "lat": "42.70219"
-    },
-    "name": "Bastia ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3034640/"
-    ],
-    "internal_id": "nestroy_place_id__22",
-    "mentions": [],
-    "alt_names": [],
     "total_occurences": "0"
   },
   {
@@ -552,21 +447,6 @@
   },
   {
     "coordinates": {
-      "lng": "17.03333",
-      "lat": "51.10000"
-    },
-    "name": "Breslau (Wroclaw)",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3081368/"
-    ],
-    "internal_id": "nestroy_place_id__29",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "25.15027",
       "lat": "50.08791"
     },
@@ -582,21 +462,6 @@
         "play_41"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "8.59804",
-      "lat": "49.12426"
-    },
-    "name": "Bruchsal",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2943560/"
-    ],
-    "internal_id": "nestroy_place_id__31",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -639,21 +504,6 @@
         "play_44"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "19.04045",
-      "lat": "47.49835"
-    },
-    "name": "Budapest ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3054643/"
-    ],
-    "internal_id": "nestroy_place_id__34",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -805,21 +655,6 @@
   },
   {
     "coordinates": {
-      "lng": "4.29861",
-      "lat": "52.07667"
-    },
-    "name": "Den Haag",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2747373/"
-    ],
-    "internal_id": "nestroy_place_id__41",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "16.56667",
       "lat": "48.29972"
     },
@@ -875,21 +710,6 @@
         "play_50"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "16.80339",
-      "lat": "48.79992"
-    },
-    "name": "Eisgrub ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3072232/"
-    ],
-    "internal_id": "nestroy_place_id__45",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -1019,21 +839,6 @@
   },
   {
     "coordinates": {
-      "lng": "14.55062",
-      "lat": "52.34714"
-    },
-    "name": "Frankfurt a. d. Oder",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2925535/"
-    ],
-    "internal_id": "nestroy_place_id__52",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "16.72016",
       "lat": "48.33925"
     },
@@ -1069,21 +874,6 @@
         "play_8"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "15.93893",
-      "lat": "47.67487"
-    },
-    "name": "Gloggnitz ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2778455/"
-    ],
-    "internal_id": "nestroy_place_id__55",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -1283,36 +1073,6 @@
   },
   {
     "coordinates": {
-      "lng": "7.88458",
-      "lat": "54.18213"
-    },
-    "name": "Helgoland  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2906947/"
-    ],
-    "internal_id": "nestroy_place_id__64",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "24.15000",
-      "lat": "45.80000"
-    },
-    "name": "Hermannstadt  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/667268/"
-    ],
-    "internal_id": "nestroy_place_id__65",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "27.60000",
       "lat": "47.16667"
     },
@@ -1415,21 +1175,6 @@
   },
   {
     "coordinates": {
-      "lng": "88.36304",
-      "lat": "22.56263"
-    },
-    "name": "Kalkutta ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/1275004/"
-    ],
-    "internal_id": "nestroy_place_id__71",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "12.87117",
       "lat": "50.23271"
     },
@@ -1465,36 +1210,6 @@
         "play_73"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "14.97703",
-      "lat": "50.00306"
-    },
-    "name": "Kau\u0159im  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3073084/"
-    ],
-    "internal_id": "nestroy_place_id__74",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "11.87587",
-      "lat": "48.90897"
-    },
-    "name": "Kehlheim  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/6558243/"
-    ],
-    "internal_id": "nestroy_place_id__75",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -1567,23 +1282,6 @@
     ],
     "alt_names": [
       "Constantinopel\nKonstantinopel"
-    ],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "19.93658",
-      "lat": "50.06143"
-    },
-    "name": "Krakow",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3094802/"
-    ],
-    "internal_id": "nestroy_place_id__80",
-    "mentions": [],
-    "alt_names": [
-      "Krakau"
     ],
     "total_occurences": "0"
   },
@@ -1668,53 +1366,6 @@
         "play_62"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "24.02324",
-      "lat": "49.83826"
-    },
-    "name": "Lwiw",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/702550/"
-    ],
-    "internal_id": "nestroy_place_id__85",
-    "mentions": [],
-    "alt_names": [
-      "Lemberg"
-    ],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "15.09144",
-      "lat": "47.37650"
-    },
-    "name": "Leoben",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2772649/"
-    ],
-    "internal_id": "nestroy_place_id__86",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "5.94120",
-      "lat": "50.61222"
-    },
-    "name": "Limbourg ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2792348/"
-    ],
-    "internal_id": "nestroy_place_id__87",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -2032,36 +1683,6 @@
   },
   {
     "coordinates": {
-      "lng": "22.71800",
-      "lat": "48.44248"
-    },
-    "name": "Munk\u00e4cs  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/700646/"
-    ],
-    "internal_id": "nestroy_place_id__100",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "7.62571",
-      "lat": "51.96236"
-    },
-    "name": "M\u00fcnster ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2867543/"
-    ],
-    "internal_id": "nestroy_place_id__101",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "14.26811",
       "lat": "40.85216"
     },
@@ -2178,21 +1799,6 @@
   },
   {
     "coordinates": {
-      "lng": "8.76647",
-      "lat": "50.10061"
-    },
-    "name": "Offenbach  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2857807/"
-    ],
-    "internal_id": "nestroy_place_id__106",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "17.25175",
       "lat": "49.59552"
     },
@@ -2250,21 +1856,6 @@
         "play_82"
       ]
     ],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "22.39619",
-      "lat": "44.72299"
-    },
-    "name": "Orsowa  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/671681/"
-    ],
-    "internal_id": "nestroy_place_id__109",
-    "mentions": [],
     "alt_names": [],
     "total_occurences": "0"
   },
@@ -2598,21 +2189,6 @@
   },
   {
     "coordinates": {
-      "lng": "13.06566",
-      "lat": "52.39886"
-    },
-    "name": "Potsdam  ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2852458/"
-    ],
-    "internal_id": "nestroy_place_id__121",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "14.42076",
       "lat": "50.08804"
     },
@@ -2827,21 +2403,6 @@
   },
   {
     "coordinates": {
-      "lng": "11.20000",
-      "lat": "50.63330"
-    },
-    "name": "Schwarzburg-Rudolstadt",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/6550335/"
-    ],
-    "internal_id": "nestroy_place_id__132",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "16.46667",
       "lat": "48.13333"
     },
@@ -2860,21 +2421,6 @@
     "alt_names": [
       "Schw\u00f6chat"
     ],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "4.13244",
-      "lat": "49.19822"
-    },
-    "name": "Sillery",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2974547/"
-    ],
-    "internal_id": "nestroy_place_id__134",
-    "mentions": [],
-    "alt_names": [],
     "total_occurences": "0"
   },
   {
@@ -3011,21 +2557,6 @@
   },
   {
     "coordinates": {
-      "lng": "18.41034",
-      "lat": "47.18995"
-    },
-    "name": "Stuhlwei\u00dfenburg",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3044774/"
-    ],
-    "internal_id": "nestroy_place_id__141",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "9.17702",
       "lat": "48.78232"
     },
@@ -3044,21 +2575,6 @@
     "alt_names": [
       "Stuttgard"
     ],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "18.20214",
-      "lat": "49.82059"
-    },
-    "name": "Svinov siehe Sch\u00f6nbrunn",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/3064464/"
-    ],
-    "internal_id": "nestroy_place_id__143",
-    "mentions": [],
-    "alt_names": [],
     "total_occurences": "0"
   },
   {
@@ -3109,21 +2625,6 @@
     "alt_names": [
       "Triest"
     ],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "26.23909",
-      "lat": "39.95732"
-    },
-    "name": "Troja",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/298885/"
-    ],
-    "internal_id": "nestroy_place_id__146",
-    "mentions": [],
-    "alt_names": [],
     "total_occurences": "0"
   },
   {
@@ -3258,21 +2759,6 @@
   },
   {
     "coordinates": {
-      "lng": "22.88236",
-      "lat": "43.99159"
-    },
-    "name": "Widin ",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/725905/"
-    ],
-    "internal_id": "nestroy_place_id__154",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "16.37208",
       "lat": "48.20849"
     },
@@ -3395,36 +2881,6 @@
   },
   {
     "coordinates": {
-      "lng": "8.24932",
-      "lat": "50.08258"
-    },
-    "name": "Wiesbaden",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2809346/"
-    ],
-    "internal_id": "nestroy_place_id__157",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "15.13333",
-      "lat": "48.13333"
-    },
-    "name": "Wieselburg Wieselbach",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2761314/"
-    ],
-    "internal_id": "nestroy_place_id__158",
-    "mentions": [],
-    "alt_names": [],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
       "lng": "8.35916",
       "lat": "49.63278"
     },
@@ -3463,21 +2919,6 @@
     "alt_names": [
       "Yps"
     ],
-    "total_occurences": "0"
-  },
-  {
-    "coordinates": {
-      "lng": "15.16667",
-      "lat": "47.66667"
-    },
-    "name": "Weichselboden Weichselberg",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/2761771/"
-    ],
-    "internal_id": "nestroy_place_id__151",
-    "mentions": [],
-    "alt_names": [],
     "total_occurences": "0"
   }
 ]
