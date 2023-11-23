@@ -17,7 +17,8 @@ def make_tabulator_data_entry(
         alt_names: list,
         total_occurences: int
     ):
-    if name and lng and lat:
+    """creates dict for row if name, lng, lat and mentions are True, else None"""
+    if name and lng and lat and mentions:
         return {
             "coordinates": {
             "lng": lng,
@@ -34,7 +35,7 @@ def make_tabulator_data_entry(
             "total_occurences": total_occurences
         }
     else:
-        return []
+        return None
 
 
 def create_tabulator_data(
@@ -64,7 +65,7 @@ def create_tabulator_data(
                 alt_names=[row[altnames_key] for altnames_key in altnames_keys if row[altnames_key]],
                 total_occurences=row[total_occurences_keys] if row[total_occurences_keys] else 1
             )
-            if new_row:
+            if new_row is not None:
                 tabulator_data.append(new_row)
     with open(tabulator_data_output_path, "w") as tabulator_data_dumpfile:
         json.dump(
