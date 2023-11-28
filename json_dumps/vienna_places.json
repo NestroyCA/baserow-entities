@@ -333,7 +333,12 @@
     "nestroy_id": "nestroy_otherplace_id__24",
     "lat": "48.20829",
     "long": "16.37655",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
     "total_occurences": null
   },
   "29": {
@@ -349,7 +354,12 @@
     "nestroy_id": "nestroy_otherplace_id__29",
     "lat": "48.20837",
     "long": "16.37218",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Die schlimmen Buben in der Schule",
+        "play_59"
+      ]
+    ],
     "total_occurences": null
   },
   "30": {
@@ -365,13 +375,18 @@
     "nestroy_id": "nestroy_otherplace_id__30",
     "lat": "48.20563",
     "long": "16.36469",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Freiheit in Kr\u00e4hwinkel",
+        "play_62"
+      ]
+    ],
     "total_occurences": null
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "survey_id": "(Hauptplatz in) Hietzing",
+    "survey_id": "Hietzing",
     "variants": "",
     "modern_name": "",
     "pmb_id": "63",
@@ -381,7 +396,16 @@
     "nestroy_id": "nestroy_otherplace_id__31",
     "lat": "48.17547",
     "long": "16.29101",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ],
+      [
+        "Umsonst",
+        "play_77"
+      ]
+    ],
     "total_occurences": null
   },
   "38": {
@@ -397,13 +421,18 @@
     "nestroy_id": "nestroy_otherplace_id__38",
     "lat": "48.22387",
     "long": "16.35641",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
     "total_occurences": null
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "survey_id": "Hernals(er Kirtag)",
+    "survey_id": "Hernals",
     "variants": "",
     "modern_name": "",
     "pmb_id": "67",
@@ -413,7 +442,16 @@
     "nestroy_id": "nestroy_otherplace_id__43",
     "lat": "48.22707",
     "long": "16.31006",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Der Tritschtratsch",
+        "play_21"
+      ],
+      [
+        "Liebesgeschichten und Heurathssachen",
+        "play_47"
+      ]
+    ],
     "total_occurences": null
   },
   "44": {
@@ -429,7 +467,20 @@
     "nestroy_id": "nestroy_otherplace_id__44",
     "lat": "48.21667",
     "long": "16.40000",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ],
+      [
+        "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn",
+        "play_50"
+      ],
+      [
+        "Judith und Holofernes",
+        "play_64"
+      ]
+    ],
     "total_occurences": null
   },
   "45": {
@@ -445,7 +496,12 @@
     "nestroy_id": "nestroy_otherplace_id__45",
     "lat": "48.20000",
     "long": "16.30000",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
     "total_occurences": null
   },
   "46": {
@@ -461,7 +517,16 @@
     "nestroy_id": "nestroy_otherplace_id__46",
     "lat": "48.17147",
     "long": "16.43126",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Weder Lorbeerbaum noch Bettelstab",
+        "play_27"
+      ],
+      [
+        "Der Sch\u00fctzling",
+        "play_58"
+      ]
+    ],
     "total_occurences": null
   },
   "47": {
@@ -509,7 +574,12 @@
     "nestroy_id": "nestroy_otherplace_id__50",
     "lat": "48.25000",
     "long": "16.36667",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
     "total_occurences": null
   },
   "51": {
@@ -525,7 +595,12 @@
     "nestroy_id": "nestroy_otherplace_id__51",
     "lat": "48.30432",
     "long": "15.86306",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Weder Lorbeerbaum noch Bettelstab",
+        "play_27"
+      ]
+    ],
     "total_occurences": null
   },
   "52": {
@@ -541,7 +616,16 @@
     "nestroy_id": "nestroy_otherplace_id__52",
     "lat": "48.08605",
     "long": "16.28921",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Robert der Teuxel",
+        "play_20"
+      ],
+      [
+        "Weder Lorbeerbaum noch Bettelstab",
+        "play_27"
+      ]
+    ],
     "total_occurences": null
   },
   "53": {
@@ -557,7 +641,20 @@
     "nestroy_id": "nestroy_otherplace_id__53",
     "lat": "48.00543",
     "long": "16.23264",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Robert der Teuxel",
+        "play_20"
+      ],
+      [
+        "Zu ebener Erde und erster Stock oder Die Launen des Gl\u00fcckes",
+        "play_29"
+      ],
+      [
+        "Lady und Schneider",
+        "play_63"
+      ]
+    ],
     "total_occurences": null
   },
   "54": {
@@ -589,7 +686,12 @@
     "nestroy_id": "nestroy_otherplace_id__55",
     "lat": "48.21392",
     "long": "16.36202",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
     "total_occurences": null
   },
   "57": {
@@ -605,7 +707,12 @@
     "nestroy_id": "nestroy_otherplace_id__57",
     "lat": "48.45000",
     "long": "15.38333",
-    "mentioned_in": [],
+    "mentioned_in": [
+      [
+        "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn",
+        "play_50"
+      ]
+    ],
     "total_occurences": null
   },
   "58": {

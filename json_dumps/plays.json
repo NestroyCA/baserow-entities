@@ -19,7 +19,12 @@
     ],
     "pers_relations": [],
     "vienna_places": [],
-    "fictional_characters": []
+    "fictional_characters": [
+      {
+        "id": 25,
+        "value": "Rossini"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -177,7 +182,12 @@
     ],
     "pers_relations": [],
     "vienna_places": [],
-    "fictional_characters": []
+    "fictional_characters": [
+      {
+        "id": 7,
+        "value": "Archimedes"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -459,6 +469,14 @@
       {
         "id": 21,
         "value": "Kaiserstraße"
+      },
+      {
+        "id": 52,
+        "value": "Mödling"
+      },
+      {
+        "id": 53,
+        "value": "Baden (Bei Wien)"
       }
     ],
     "fictional_characters": []
@@ -486,7 +504,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 43,
+        "value": "Hernals"
+      }
+    ],
     "fictional_characters": []
   },
   "22": {
@@ -612,8 +635,26 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
-    "fictional_characters": []
+    "vienna_places": [
+      {
+        "id": 46,
+        "value": "Simmering"
+      },
+      {
+        "id": 51,
+        "value": "Hütteldorf"
+      },
+      {
+        "id": 52,
+        "value": "Mödling"
+      }
+    ],
+    "fictional_characters": [
+      {
+        "id": 35,
+        "value": "Canova, Antonio"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -680,7 +721,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 53,
+        "value": "Baden (Bei Wien)"
+      }
+    ],
     "fictional_characters": []
   },
   "30": {
@@ -707,7 +753,16 @@
     ],
     "pers_relations": [],
     "vienna_places": [],
-    "fictional_characters": []
+    "fictional_characters": [
+      {
+        "id": 10,
+        "value": "Beethoven"
+      },
+      {
+        "id": 24,
+        "value": "Raphael"
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -779,6 +834,34 @@
       {
         "id": 19,
         "value": "Kär[n]thnerstraße"
+      },
+      {
+        "id": 24,
+        "value": "Wollzeil"
+      },
+      {
+        "id": 31,
+        "value": "Hietzing"
+      },
+      {
+        "id": 38,
+        "value": "Alservorstadt"
+      },
+      {
+        "id": 44,
+        "value": "Leopoldstadt"
+      },
+      {
+        "id": 45,
+        "value": "Penzing"
+      },
+      {
+        "id": 50,
+        "value": "Heiligenstadt"
+      },
+      {
+        "id": 55,
+        "value": "Schottenthor"
       }
     ],
     "fictional_characters": []
@@ -1106,7 +1189,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 43,
+        "value": "Hernals"
+      }
+    ],
     "fictional_characters": []
   },
   "48": {
@@ -1260,8 +1348,22 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
-    "fictional_characters": []
+    "vienna_places": [
+      {
+        "id": 44,
+        "value": "Leopoldstadt"
+      },
+      {
+        "id": 57,
+        "value": "Burkersdorf"
+      }
+    ],
+    "fictional_characters": [
+      {
+        "id": 6,
+        "value": "Amati Nicola"
+      }
+    ]
   },
   "51": {
     "id": 51,
@@ -1405,7 +1507,16 @@
         "value": "lange Gasse"
       }
     ],
-    "fictional_characters": []
+    "fictional_characters": [
+      {
+        "id": 9,
+        "value": "Bayard, Jean-François-Alfred"
+      },
+      {
+        "id": 13,
+        "value": "Correggio"
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -1503,7 +1614,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 46,
+        "value": "Simmering"
+      }
+    ],
     "fictional_characters": []
   },
   "59": {
@@ -1549,6 +1665,10 @@
       {
         "id": 19,
         "value": "Kär[n]thnerstraße"
+      },
+      {
+        "id": 29,
+        "value": "Stephansplatz"
       }
     ],
     "fictional_characters": []
@@ -1648,8 +1768,18 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
-    "fictional_characters": []
+    "vienna_places": [
+      {
+        "id": 30,
+        "value": "Josephsplatz"
+      }
+    ],
+    "fictional_characters": [
+      {
+        "id": 36,
+        "value": "Carlos, Prinz von Spanien"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -1682,6 +1812,10 @@
       {
         "id": 12,
         "value": "Winkelgasse"
+      },
+      {
+        "id": 53,
+        "value": "Baden (Bei Wien)"
       }
     ],
     "fictional_characters": []
@@ -1709,7 +1843,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 44,
+        "value": "Leopoldstadt"
+      }
+    ],
     "fictional_characters": []
   },
   "65": {
@@ -1861,7 +2000,16 @@
     ],
     "pers_relations": [],
     "vienna_places": [],
-    "fictional_characters": []
+    "fictional_characters": [
+      {
+        "id": 8,
+        "value": "Balochino, Carlo"
+      },
+      {
+        "id": 16,
+        "value": "Mayerbeer"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -2117,7 +2265,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 31,
+        "value": "Hietzing"
+      }
+    ],
     "fictional_characters": []
   },
   "78": {

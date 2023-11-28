@@ -284,5 +284,353 @@
     ],
     "alt_names": [],
     "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.37655",
+      "lat": "48.20829"
+    },
+    "name": "Wollzeil",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12574193/"
+    ],
+    "internal_id": "nestroy_otherplace_id__24",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [
+      "Wollzeile"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.37218",
+      "lat": "48.20837"
+    },
+    "name": "Stephansplatz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/10345209/"
+    ],
+    "internal_id": "nestroy_otherplace_id__29",
+    "mentions": [
+      [
+        "Die schlimmen Buben in der Schule",
+        "play_59"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.36469",
+      "lat": "48.20563"
+    },
+    "name": "Josephsplatz",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/6354988/"
+    ],
+    "internal_id": "nestroy_otherplace_id__30",
+    "mentions": [
+      [
+        "Freiheit in Kr\u00e4hwinkel",
+        "play_62"
+      ]
+    ],
+    "alt_names": [
+      "Josefsplatz"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.29101",
+      "lat": "48.17547"
+    },
+    "name": "Hietzing",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2776420/"
+    ],
+    "internal_id": "nestroy_otherplace_id__31",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ],
+      [
+        "Umsonst",
+        "play_77"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.35641",
+      "lat": "48.22387"
+    },
+    "name": "Alservorstadt",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2782729/"
+    ],
+    "internal_id": "nestroy_otherplace_id__38",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.31006",
+      "lat": "48.22707"
+    },
+    "name": "Hernals",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2776486/"
+    ],
+    "internal_id": "nestroy_otherplace_id__43",
+    "mentions": [
+      [
+        "Der Tritschtratsch",
+        "play_21"
+      ],
+      [
+        "Liebesgeschichten und Heurathssachen",
+        "play_47"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.40000",
+      "lat": "48.21667"
+    },
+    "name": "Leopoldstadt",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2772614/"
+    ],
+    "internal_id": "nestroy_otherplace_id__44",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ],
+      [
+        "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn",
+        "play_50"
+      ],
+      [
+        "Judith und Holofernes",
+        "play_64"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.30000",
+      "lat": "48.20000"
+    },
+    "name": "Penzing",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2769121/"
+    ],
+    "internal_id": "nestroy_otherplace_id__45",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.43126",
+      "lat": "48.17147"
+    },
+    "name": "Simmering",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2765027/"
+    ],
+    "internal_id": "nestroy_otherplace_id__46",
+    "mentions": [
+      [
+        "Weder Lorbeerbaum noch Bettelstab",
+        "play_27"
+      ],
+      [
+        "Der Sch\u00fctzling",
+        "play_58"
+      ]
+    ],
+    "alt_names": [
+      "Simmringer (Br\u00e4uhaus)"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.36667",
+      "lat": "48.25000"
+    },
+    "name": "Heiligenstadt",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/3333500/"
+    ],
+    "internal_id": "nestroy_otherplace_id__50",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [
+      "Heiligenst\u00e4tter"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "15.86306",
+      "lat": "48.30432"
+    },
+    "name": "H\u00fctteldorf",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2775372/"
+    ],
+    "internal_id": "nestroy_otherplace_id__51",
+    "mentions": [
+      [
+        "Weder Lorbeerbaum noch Bettelstab",
+        "play_27"
+      ]
+    ],
+    "alt_names": [
+      "H\u00fctteldorfer"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.28921",
+      "lat": "48.08605"
+    },
+    "name": "M\u00f6dling",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2771335/"
+    ],
+    "internal_id": "nestroy_otherplace_id__52",
+    "mentions": [
+      [
+        "Robert der Teuxel",
+        "play_20"
+      ],
+      [
+        "Weder Lorbeerbaum noch Bettelstab",
+        "play_27"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.23264",
+      "lat": "48.00543"
+    },
+    "name": "Baden (Bei Wien)",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2782067/"
+    ],
+    "internal_id": "nestroy_otherplace_id__53",
+    "mentions": [
+      [
+        "Robert der Teuxel",
+        "play_20"
+      ],
+      [
+        "Zu ebener Erde und erster Stock oder Die Launen des Gl\u00fcckes",
+        "play_29"
+      ],
+      [
+        "Lady und Schneider",
+        "play_63"
+      ]
+    ],
+    "alt_names": [
+      "Baaden"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.36202",
+      "lat": "48.21392"
+    },
+    "name": "Schottenthor",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12574190/"
+    ],
+    "internal_id": "nestroy_otherplace_id__55",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [
+      "Schottentor"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "15.38333",
+      "lat": "48.45000"
+    },
+    "name": "Burkersdorf",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/2768231/"
+    ],
+    "internal_id": "nestroy_otherplace_id__57",
+    "mentions": [
+      [
+        "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn",
+        "play_50"
+      ]
+    ],
+    "alt_names": [
+      "Purkersdorf"
+    ],
+    "total_occurences": 1
   }
 ]

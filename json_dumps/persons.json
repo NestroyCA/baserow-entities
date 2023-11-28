@@ -2,27 +2,658 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "",
+    "name": "Abraham",
     "nestroy_person_id": "nestroy_person_id__1",
-    "alt_name": null,
     "pmb_url": "",
+    "alt_name": null,
     "wiki_data_url": "",
-    "wien_geschichtewiki_url": "",
     "occurences": [],
+    "wien_geschichtewiki_url": "",
     "birth_not_before": null,
-    "death_not_after": null
+    "death_not_after": null,
+    "comment": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "",
+    "name": "Adam",
     "nestroy_person_id": "nestroy_person_id__2",
-    "alt_name": null,
     "pmb_url": "",
+    "alt_name": null,
     "wiki_data_url": "",
-    "wien_geschichtewiki_url": "",
     "occurences": [],
+    "wien_geschichtewiki_url": "",
     "birth_not_before": null,
-    "death_not_after": null
+    "death_not_after": null,
+    "comment": "Biblisch"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Adelheid, Kaiserin",
+    "nestroy_person_id": "nestroy_person_id__3",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Adelung, Johann Christoph",
+    "nestroy_person_id": "nestroy_person_id__4",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Albert, Prinzgemahl von England",
+    "nestroy_person_id": "nestroy_person_id__5",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Amati Nicola",
+    "nestroy_person_id": "nestroy_person_id__6",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 50,
+        "value": "play_50"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Archimedes",
+    "nestroy_person_id": "nestroy_person_id__7",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 8,
+        "value": "play_8"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Balochino, Carlo",
+    "nestroy_person_id": "nestroy_person_id__8",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 69,
+        "value": "play_69"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Bayard, Jean-François-Alfred",
+    "nestroy_person_id": "nestroy_person_id__9",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Beethoven",
+    "nestroy_person_id": "nestroy_person_id__10",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 30,
+        "value": "play_30"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Belisar",
+    "nestroy_person_id": "nestroy_person_id__11",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Beriot, Charles Auguste",
+    "nestroy_person_id": "nestroy_person_id__12",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Correggio",
+    "nestroy_person_id": "nestroy_person_id__13",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 55,
+        "value": "play_55"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Eva (Biblisch)",
+    "nestroy_person_id": "nestroy_person_id__14",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Goethe",
+    "nestroy_person_id": "nestroy_person_id__15",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Mayerbeer",
+    "nestroy_person_id": "nestroy_person_id__16",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 69,
+        "value": "play_69"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Napoleon",
+    "nestroy_person_id": "nestroy_person_id__17",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Nero",
+    "nestroy_person_id": "nestroy_person_id__18",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Newton",
+    "nestroy_person_id": "nestroy_person_id__19",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Ottokar, König von Böhmen",
+    "nestroy_person_id": "nestroy_person_id__20",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Paphnutius",
+    "nestroy_person_id": "nestroy_person_id__21",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Paracelsus",
+    "nestroy_person_id": "nestroy_person_id__22",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Racine",
+    "nestroy_person_id": "nestroy_person_id__23",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Raphael",
+    "nestroy_person_id": "nestroy_person_id__24",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 30,
+        "value": "play_30"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Rossini",
+    "nestroy_person_id": "nestroy_person_id__25",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 1,
+        "value": "play_1"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Sappho",
+    "nestroy_person_id": "nestroy_person_id__26",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "Schiller",
+    "nestroy_person_id": "nestroy_person_id__27",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "name": "Shakespeare",
+    "nestroy_person_id": "nestroy_person_id__28",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Sokrates",
+    "nestroy_person_id": "nestroy_person_id__29",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "Mozart",
+    "nestroy_person_id": "nestroy_person_id__30",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "Viktoria",
+    "nestroy_person_id": "nestroy_person_id__31",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "Mamon",
+    "nestroy_person_id": "nestroy_person_id__32",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "Moses",
+    "nestroy_person_id": "nestroy_person_id__33",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Mozart",
+    "nestroy_person_id": "nestroy_person_id__34",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Canova, Antonio",
+    "nestroy_person_id": "nestroy_person_id__35",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 27,
+        "value": "play_27"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "Carlos, Prinz von Spanien",
+    "nestroy_person_id": "nestroy_person_id__36",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [
+      {
+        "id": 62,
+        "value": "play_62"
+      }
+    ],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Cook, James",
+    "nestroy_person_id": "nestroy_person_id__37",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": "Cortes, Ferdinand",
+    "nestroy_person_id": "nestroy_person_id__38",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "d’Epagny",
+    "nestroy_person_id": "nestroy_person_id__39",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "Dupin, Jean Henri",
+    "nestroy_person_id": "nestroy_person_id__40",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": "Dommayer, Ferdinand",
+    "nestroy_person_id": "nestroy_person_id__41",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": "Fust, Johann",
+    "nestroy_person_id": "nestroy_person_id__42",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "name": "Fouché, Joseph",
+    "nestroy_person_id": "nestroy_person_id__43",
+    "pmb_url": "",
+    "alt_name": "",
+    "wiki_data_url": "",
+    "occurences": [],
+    "wien_geschichtewiki_url": "",
+    "birth_not_before": null,
+    "death_not_after": null,
+    "comment": null
   }
 }
