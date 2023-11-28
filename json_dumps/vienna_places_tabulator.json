@@ -1,1 +1,288 @@
-[]
+[
+  {
+    "coordinates": {
+      "lng": "16.37369",
+      "lat": "48.20671"
+    },
+    "name": "Weiburggasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12541328/"
+    ],
+    "internal_id": "nestroy_otherplace_id__1",
+    "mentions": [
+      [
+        "Robert der Teuxel",
+        "play_20"
+      ],
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.33907",
+      "lat": "48.21841"
+    },
+    "name": "W\u00e4hringergasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12547864/"
+    ],
+    "internal_id": "nestroy_otherplace_id__2",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [
+      "Ranftlgasse"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.36405",
+      "lat": "48.19480"
+    },
+    "name": "Schiffgasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12547865/"
+    ],
+    "internal_id": "nestroy_otherplace_id__3",
+    "mentions": [
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.34862",
+      "lat": "48.19040"
+    },
+    "name": "Bruckengasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12574197/"
+    ],
+    "internal_id": "nestroy_otherplace_id__5",
+    "mentions": [
+      [
+        "Das M\u00e4dl aus der Vorstadt oder Ehrlich w\u00e4hrt am l\u00e4ngsten",
+        "play_43"
+      ]
+    ],
+    "alt_names": [
+      "Br\u00fcckengasse"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.36706",
+      "lat": "48.21060"
+    },
+    "name": "Naglergasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12574189/"
+    ],
+    "internal_id": "nestroy_otherplace_id__6",
+    "mentions": [
+      [
+        "Die Papiere des Teufels oder Der Zufall",
+        "play_46"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.34555",
+      "lat": "48.21399"
+    },
+    "name": "Feldgasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12547863/"
+    ],
+    "internal_id": "nestroy_otherplace_id__7",
+    "mentions": [
+      [
+        "Der Zerrissene",
+        "play_52"
+      ],
+      [
+        "\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer",
+        "play_67"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.34555",
+      "lat": "48.21399"
+    },
+    "name": "Mu\u0308hlgasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12547863/"
+    ],
+    "internal_id": "nestroy_otherplace_id__8",
+    "mentions": [
+      [
+        "Das Gew\u00fcrzkr\u00e4merkleeblatt oder Die unschuldig Schuldigen",
+        "play_54"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.35264",
+      "lat": "48.20796"
+    },
+    "name": "lange Gasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12574191/"
+    ],
+    "internal_id": "nestroy_otherplace_id__9",
+    "mentions": [
+      [
+        "Unverhofft",
+        "play_55"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.36543",
+      "lat": "48.21021"
+    },
+    "name": "Herrngasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/11808356/"
+    ],
+    "internal_id": "nestroy_otherplace_id__14",
+    "mentions": [
+      [
+        "\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer",
+        "play_67"
+      ]
+    ],
+    "alt_names": [
+      "Herrengasse"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.35931",
+      "lat": "48.18932"
+    },
+    "name": "Gartengasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12574192/"
+    ],
+    "internal_id": "nestroy_otherplace_id__15",
+    "mentions": [
+      [
+        "Mein Freund",
+        "play_71"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.35714",
+      "lat": "48.20307"
+    },
+    "name": "Breitengasse",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12541326/"
+    ],
+    "internal_id": "nestroy_otherplace_id__17",
+    "mentions": [
+      [
+        "Kampl",
+        "play_73"
+      ]
+    ],
+    "alt_names": [
+      "Breite Gasse"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.37104",
+      "lat": "48.20521"
+    },
+    "name": "K\u00e4r[n]thnerstra\u00dfe",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12232635/"
+    ],
+    "internal_id": "nestroy_otherplace_id__19",
+    "mentions": [
+      [
+        "Robert der Teuxel",
+        "play_20"
+      ],
+      [
+        "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
+        "play_33"
+      ],
+      [
+        "Die schlimmen Buben in der Schule",
+        "play_59"
+      ]
+    ],
+    "alt_names": [
+      "K\u00e4rtnerstra\u00dfe"
+    ],
+    "total_occurences": 1
+  },
+  {
+    "coordinates": {
+      "lng": "16.34093",
+      "lat": "48.19959"
+    },
+    "name": "Kaiserstra\u00dfe",
+    "geonames": [
+      "geonames",
+      "https://sws.geonames.org/12574195/"
+    ],
+    "internal_id": "nestroy_otherplace_id__21",
+    "mentions": [
+      [
+        "Robert der Teuxel",
+        "play_20"
+      ]
+    ],
+    "alt_names": [],
+    "total_occurences": 1
+  }
+]

@@ -18,7 +18,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "2": {
     "id": 2,
@@ -30,7 +31,8 @@
     "not_after": "1827",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "3": {
     "id": 3,
@@ -55,7 +57,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "4": {
     "id": 4,
@@ -67,7 +70,8 @@
     "not_after": "1829",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "5": {
     "id": 5,
@@ -84,7 +88,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "6": {
     "id": 6,
@@ -96,7 +101,8 @@
     "not_after": "1830",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "7": {
     "id": 7,
@@ -108,7 +114,8 @@
     "not_after": "1830",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "8": {
     "id": 8,
@@ -169,7 +176,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "9": {
     "id": 9,
@@ -181,7 +189,8 @@
     "not_after": "1831",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "10": {
     "id": 10,
@@ -193,7 +202,8 @@
     "not_after": "1832",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "11": {
     "id": 11,
@@ -205,7 +215,8 @@
     "not_after": "1832",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "12": {
     "id": 12,
@@ -217,7 +228,8 @@
     "not_after": "1832",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "13": {
     "id": 13,
@@ -234,7 +246,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "14": {
     "id": 14,
@@ -255,7 +268,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "15": {
     "id": 15,
@@ -276,7 +290,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "16": {
     "id": 16,
@@ -288,7 +303,8 @@
     "not_after": "1832",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "17": {
     "id": 17,
@@ -329,7 +345,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "18": {
     "id": 18,
@@ -366,7 +383,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "19": {
     "id": 19,
@@ -387,7 +405,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "20": {
     "id": 20,
@@ -428,7 +447,21 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 1,
+        "value": "Weiburggasse"
+      },
+      {
+        "id": 19,
+        "value": "Kär[n]thnerstraße"
+      },
+      {
+        "id": 21,
+        "value": "Kaiserstraße"
+      }
+    ],
+    "fictional_characters": []
   },
   "21": {
     "id": 21,
@@ -453,7 +486,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "22": {
     "id": 22,
@@ -465,7 +499,8 @@
     "not_after": "1834",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "23": {
     "id": 23,
@@ -482,7 +517,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "24": {
     "id": 24,
@@ -494,7 +530,8 @@
     "not_after": "1834",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "25": {
     "id": 25,
@@ -511,7 +548,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "26": {
     "id": 26,
@@ -532,7 +570,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "27": {
     "id": 27,
@@ -573,7 +612,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "28": {
     "id": 28,
@@ -614,7 +654,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "29": {
     "id": 29,
@@ -639,7 +680,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "30": {
     "id": 30,
@@ -664,7 +706,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "31": {
     "id": 31,
@@ -685,7 +728,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "32": {
     "id": 32,
@@ -697,7 +741,8 @@
     "not_after": "1836",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "33": {
     "id": 33,
@@ -718,7 +763,25 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 1,
+        "value": "Weiburggasse"
+      },
+      {
+        "id": 2,
+        "value": "Währingergasse"
+      },
+      {
+        "id": 3,
+        "value": "Schiffgasse"
+      },
+      {
+        "id": 19,
+        "value": "Kär[n]thnerstraße"
+      }
+    ],
+    "fictional_characters": []
   },
   "34": {
     "id": 34,
@@ -759,7 +822,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "35": {
     "id": 35,
@@ -776,7 +840,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "36": {
     "id": 36,
@@ -793,7 +858,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "37": {
     "id": 37,
@@ -805,7 +871,8 @@
     "not_after": "1838",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "38": {
     "id": 38,
@@ -826,7 +893,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "39": {
     "id": 39,
@@ -863,7 +931,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "40": {
     "id": 40,
@@ -875,7 +944,8 @@
     "not_after": "1840",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "41": {
     "id": 41,
@@ -908,7 +978,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "42": {
     "id": 42,
@@ -925,7 +996,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "43": {
     "id": 43,
@@ -946,7 +1018,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 5,
+        "value": "Bruckengasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "44": {
     "id": 44,
@@ -963,7 +1041,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "45": {
     "id": 45,
@@ -975,7 +1054,8 @@
     "not_after": "1842",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "46": {
     "id": 46,
@@ -987,7 +1067,13 @@
     "not_after": "1842",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 6,
+        "value": "Naglergasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "47": {
     "id": 47,
@@ -1020,7 +1106,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "48": {
     "id": 48,
@@ -1049,7 +1136,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "49": {
     "id": 49,
@@ -1070,7 +1158,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "50": {
     "id": 50,
@@ -1171,7 +1260,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "51": {
     "id": 51,
@@ -1183,7 +1273,8 @@
     "not_after": "1844",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "52": {
     "id": 52,
@@ -1200,7 +1291,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 7,
+        "value": "Feldgasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "53": {
     "id": 53,
@@ -1229,7 +1326,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "54": {
     "id": 54,
@@ -1250,7 +1348,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 8,
+        "value": "Mühlgasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "55": {
     "id": 55,
@@ -1295,7 +1399,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 9,
+        "value": "lange Gasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "56": {
     "id": 56,
@@ -1316,7 +1426,17 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 10,
+        "value": "Kleingasse"
+      },
+      {
+        "id": 11,
+        "value": "Krummgasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "57": {
     "id": 57,
@@ -1365,7 +1485,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "58": {
     "id": 58,
@@ -1382,7 +1503,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "59": {
     "id": 59,
@@ -1423,7 +1545,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 19,
+        "value": "Kär[n]thnerstraße"
+      }
+    ],
+    "fictional_characters": []
   },
   "60": {
     "id": 60,
@@ -1440,7 +1568,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "61": {
     "id": 61,
@@ -1469,7 +1598,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "62": {
     "id": 62,
@@ -1518,7 +1648,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "63": {
     "id": 63,
@@ -1547,7 +1678,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 12,
+        "value": "Winkelgasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "64": {
     "id": 64,
@@ -1572,7 +1709,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "65": {
     "id": 65,
@@ -1597,7 +1735,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "66": {
     "id": 66,
@@ -1630,7 +1769,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "67": {
     "id": 67,
@@ -1655,7 +1795,21 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 7,
+        "value": "Feldgasse"
+      },
+      {
+        "id": 13,
+        "value": "Rosengasse"
+      },
+      {
+        "id": 14,
+        "value": "Herrngasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "68": {
     "id": 68,
@@ -1672,7 +1826,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "69": {
     "id": 69,
@@ -1705,7 +1860,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "70": {
     "id": 70,
@@ -1734,7 +1890,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "71": {
     "id": 71,
@@ -1755,7 +1912,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 15,
+        "value": "Gartengasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "72": {
     "id": 72,
@@ -1767,7 +1930,8 @@
     "not_after": "1851",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "73": {
     "id": 73,
@@ -1808,7 +1972,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 17,
+        "value": "Breitengasse"
+      }
+    ],
+    "fictional_characters": []
   },
   "74": {
     "id": 74,
@@ -1829,7 +1999,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "75": {
     "id": 75,
@@ -1858,7 +2029,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "76": {
     "id": 76,
@@ -1879,7 +2051,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "77": {
     "id": 77,
@@ -1944,7 +2117,8 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "78": {
     "id": 78,
@@ -1956,7 +2130,8 @@
     "not_after": "1857",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "79": {
     "id": 79,
@@ -1968,7 +2143,8 @@
     "not_after": null,
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "80": {
     "id": 80,
@@ -1980,7 +2156,8 @@
     "not_after": "1858",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "81": {
     "id": 81,
@@ -1992,7 +2169,8 @@
     "not_after": "1859",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   },
   "82": {
     "id": 82,
@@ -2009,7 +2187,13 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [
+      {
+        "id": 16,
+        "value": "Neugassen"
+      }
+    ],
+    "fictional_characters": []
   },
   "83": {
     "id": 83,
@@ -2021,6 +2205,7 @@
     "not_after": "1862",
     "places": [],
     "pers_relations": [],
-    "vienna_places": []
+    "vienna_places": [],
+    "fictional_characters": []
   }
 }
