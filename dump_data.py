@@ -165,6 +165,15 @@ if __name__ == "__main__":
     )
     places_filepath = f"{JSON_FOLDER}/places.json"
     vienna_places_filepath = f"{JSON_FOLDER}/vienna_places.json"
+    person_filepath = f"{JSON_FOLDER}/persons.json"
+    if os.path.isfile(person_filepath):
+        fieldnames_to_manipulations = {
+            "occurences" : get_play_title_for_mentions
+        }
+        modfied_file_path = modify_fields_in_dump(
+            person_filepath,
+            fieldnames_to_manipulations
+        )
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {
             "geonames" : get_normalized_uri,
