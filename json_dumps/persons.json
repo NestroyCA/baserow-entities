@@ -1,5 +1,5 @@
-{
-  "1": {
+[
+  {
     "id": 1,
     "order": "1.00000000000000000000",
     "name": "Abraham",
@@ -13,7 +13,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "2": {
+  {
     "id": 2,
     "order": "2.00000000000000000000",
     "name": "Adam",
@@ -27,7 +27,7 @@
     "death_not_after": null,
     "comment": "Biblisch"
   },
-  "3": {
+  {
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "Adelheid, Kaiserin",
@@ -41,7 +41,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "4": {
+  {
     "id": 4,
     "order": "4.00000000000000000000",
     "name": "Adelung, Johann Christoph",
@@ -55,7 +55,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "5": {
+  {
     "id": 5,
     "order": "5.00000000000000000000",
     "name": "Albert, Prinzgemahl von England",
@@ -69,7 +69,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "6": {
+  {
     "id": 6,
     "order": "6.00000000000000000000",
     "name": "Amati Nicola",
@@ -88,7 +88,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "7": {
+  {
     "id": 7,
     "order": "7.00000000000000000000",
     "name": "Archimedes",
@@ -107,7 +107,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "8": {
+  {
     "id": 8,
     "order": "8.00000000000000000000",
     "name": "Balochino, Carlo",
@@ -126,7 +126,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "9": {
+  {
     "id": 9,
     "order": "9.00000000000000000000",
     "name": "Bayard, Jean-Fran\u00e7ois-Alfred",
@@ -145,7 +145,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "10": {
+  {
     "id": 10,
     "order": "10.00000000000000000000",
     "name": "Beethoven",
@@ -164,7 +164,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "11": {
+  {
     "id": 11,
     "order": "11.00000000000000000000",
     "name": "Belisar",
@@ -178,7 +178,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "12": {
+  {
     "id": 12,
     "order": "12.00000000000000000000",
     "name": "Beriot, Charles Auguste",
@@ -192,7 +192,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "13": {
+  {
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "Correggio",
@@ -211,7 +211,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "14": {
+  {
     "id": 14,
     "order": "14.00000000000000000000",
     "name": "Eva (Biblisch)",
@@ -225,7 +225,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "15": {
+  {
     "id": 15,
     "order": "15.00000000000000000000",
     "name": "Goethe",
@@ -239,7 +239,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "16": {
+  {
     "id": 16,
     "order": "16.00000000000000000000",
     "name": "Mayerbeer",
@@ -258,7 +258,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "17": {
+  {
     "id": 17,
     "order": "17.00000000000000000000",
     "name": "Napoleon",
@@ -272,7 +272,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "18": {
+  {
     "id": 18,
     "order": "18.00000000000000000000",
     "name": "Nero",
@@ -286,7 +286,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "19": {
+  {
     "id": 19,
     "order": "19.00000000000000000000",
     "name": "Newton",
@@ -300,7 +300,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "20": {
+  {
     "id": 20,
     "order": "20.00000000000000000000",
     "name": "Ottokar, K\u00f6nig von B\u00f6hmen",
@@ -314,7 +314,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "21": {
+  {
     "id": 21,
     "order": "21.00000000000000000000",
     "name": "Paphnutius",
@@ -328,7 +328,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "22": {
+  {
     "id": 22,
     "order": "22.00000000000000000000",
     "name": "Paracelsus",
@@ -342,7 +342,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "23": {
+  {
     "id": 23,
     "order": "23.00000000000000000000",
     "name": "Racine",
@@ -356,7 +356,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "24": {
+  {
     "id": 24,
     "order": "24.00000000000000000000",
     "name": "Raphael",
@@ -375,7 +375,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "25": {
+  {
     "id": 25,
     "order": "25.00000000000000000000",
     "name": "Rossini",
@@ -394,7 +394,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "26": {
+  {
     "id": 26,
     "order": "26.00000000000000000000",
     "name": "Sappho",
@@ -408,7 +408,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "27": {
+  {
     "id": 27,
     "order": "27.00000000000000000000",
     "name": "Schiller",
@@ -422,7 +422,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "28": {
+  {
     "id": 28,
     "order": "28.00000000000000000000",
     "name": "Shakespeare",
@@ -436,7 +436,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "29": {
+  {
     "id": 29,
     "order": "29.00000000000000000000",
     "name": "Sokrates",
@@ -450,7 +450,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "30": {
+  {
     "id": 30,
     "order": "30.00000000000000000000",
     "name": "Mozart",
@@ -464,7 +464,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "31": {
+  {
     "id": 31,
     "order": "31.00000000000000000000",
     "name": "Viktoria",
@@ -478,7 +478,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "32": {
+  {
     "id": 32,
     "order": "32.00000000000000000000",
     "name": "Mamon",
@@ -492,7 +492,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "33": {
+  {
     "id": 33,
     "order": "33.00000000000000000000",
     "name": "Moses",
@@ -506,7 +506,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "34": {
+  {
     "id": 34,
     "order": "34.00000000000000000000",
     "name": "Mozart",
@@ -520,7 +520,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "35": {
+  {
     "id": 35,
     "order": "35.00000000000000000000",
     "name": "Canova, Antonio",
@@ -539,7 +539,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "36": {
+  {
     "id": 36,
     "order": "36.00000000000000000000",
     "name": "Carlos, Prinz von Spanien",
@@ -558,7 +558,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "37": {
+  {
     "id": 37,
     "order": "37.00000000000000000000",
     "name": "Cook, James",
@@ -572,7 +572,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "38": {
+  {
     "id": 38,
     "order": "38.00000000000000000000",
     "name": "Cortes, Ferdinand",
@@ -586,7 +586,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "39": {
+  {
     "id": 39,
     "order": "39.00000000000000000000",
     "name": "d\u2019Epagny",
@@ -600,7 +600,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "40": {
+  {
     "id": 40,
     "order": "40.00000000000000000000",
     "name": "Dupin, Jean Henri",
@@ -614,7 +614,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "41": {
+  {
     "id": 41,
     "order": "41.00000000000000000000",
     "name": "Dommayer, Ferdinand",
@@ -628,7 +628,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "42": {
+  {
     "id": 42,
     "order": "42.00000000000000000000",
     "name": "Fust, Johann",
@@ -642,7 +642,7 @@
     "death_not_after": null,
     "comment": null
   },
-  "43": {
+  {
     "id": 43,
     "order": "43.00000000000000000000",
     "name": "Fouch\u00e9, Joseph",
@@ -656,4 +656,4 @@
     "death_not_after": null,
     "comment": null
   }
-}
+]
