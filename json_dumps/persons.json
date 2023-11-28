@@ -78,10 +78,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 50,
-        "value": "play_50"
-      }
+      [
+        "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn",
+        "play_50"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -97,10 +97,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 8,
-        "value": "play_8"
-      }
+      [
+        "Prinz Friedrich",
+        "play_8"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -116,10 +116,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 69,
-        "value": "play_69"
-      }
+      [
+        "Alles will den Prophet\u2019n seh\u2019n",
+        "play_69"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -129,16 +129,16 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "Bayard, Jean-François-Alfred",
+    "name": "Bayard, Jean-Fran\u00e7ois-Alfred",
     "nestroy_person_id": "nestroy_person_id__9",
     "pmb_url": "",
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 55,
-        "value": "play_55"
-      }
+      [
+        "Unverhofft",
+        "play_55"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -154,10 +154,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 30,
-        "value": "play_30"
-      }
+      [
+        "Der Treulose oder Saat und Ernte",
+        "play_30"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -201,10 +201,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 55,
-        "value": "play_55"
-      }
+      [
+        "Unverhofft",
+        "play_55"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -248,10 +248,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 69,
-        "value": "play_69"
-      }
+      [
+        "Alles will den Prophet\u2019n seh\u2019n",
+        "play_69"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -303,7 +303,7 @@
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "name": "Ottokar, König von Böhmen",
+    "name": "Ottokar, K\u00f6nig von B\u00f6hmen",
     "nestroy_person_id": "nestroy_person_id__20",
     "pmb_url": "",
     "alt_name": "",
@@ -365,10 +365,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 30,
-        "value": "play_30"
-      }
+      [
+        "Der Treulose oder Saat und Ernte",
+        "play_30"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -384,10 +384,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 1,
-        "value": "play_1"
-      }
+      [
+        "Der Zetteltr\u00e4ger Papp",
+        "play_1"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -529,10 +529,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 27,
-        "value": "play_27"
-      }
+      [
+        "Weder Lorbeerbaum noch Bettelstab",
+        "play_27"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -548,10 +548,10 @@
     "alt_name": "",
     "wiki_data_url": "",
     "occurences": [
-      {
-        "id": 62,
-        "value": "play_62"
-      }
+      [
+        "Freiheit in Kr\u00e4hwinkel",
+        "play_62"
+      ]
     ],
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
@@ -589,7 +589,7 @@
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "name": "d’Epagny",
+    "name": "d\u2019Epagny",
     "nestroy_person_id": "nestroy_person_id__39",
     "pmb_url": "",
     "alt_name": "",
@@ -645,7 +645,7 @@
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "name": "Fouché, Joseph",
+    "name": "Fouch\u00e9, Joseph",
     "nestroy_person_id": "nestroy_person_id__43",
     "pmb_url": "",
     "alt_name": "",
