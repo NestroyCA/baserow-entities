@@ -116,7 +116,7 @@ def delete_rows_in_dump(json_file_path: str, test_2_fieldname: dict):
     return json_file_path
 
 
-def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict):
+def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict, write:bool=True):
     """
     Loads json file from json_file_path and performs a set of manipulations.
     fieldnames_to_manipulations contains a set of fieldnames-strings as keys, 
@@ -137,10 +137,13 @@ def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict
             new_field_value = manipulation_function(current_field_value)
             entity[fieldname] = new_field_value
         json_data[entity_id] = entity
-    # dump data
-    with open(json_file_path, "w") as outfile:
-        json.dump(json_data, outfile, indent=2)
-    return json_file_path
+    if write:
+        # dump data
+        with open(json_file_path, "w") as outfile:
+            json.dump(json_data, outfile, indent=2)
+        return json_file_path
+    else:
+        return json_data
 
 
 def get_play_title_for_mentions(mentions: list):
@@ -170,10 +173,17 @@ if __name__ == "__main__":
         fieldnames_to_manipulations = {
             "occurences" : get_play_title_for_mentions
         }
-        modfied_file_path = modify_fields_in_dump(
+        modfied_data = modify_fields_in_dump(
             person_filepath,
-            fieldnames_to_manipulations
+            fieldnames_to_manipulations,
+            False
         )
+        with open(person_filepath, "w") as outfile:
+            json.dump(
+                [val for val in modfied_data.values()],
+                outfile,
+                indent=2
+            )
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {
             "geonames" : get_normalized_uri,
