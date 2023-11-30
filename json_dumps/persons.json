@@ -214,7 +214,7 @@
   {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Eva (Biblisch)",
+    "name": "Eva",
     "nestroy_person_id": "nestroy_person_id__14",
     "pmb_url": "",
     "alt_name": "",
@@ -223,7 +223,7 @@
     "wien_geschichtewiki_url": "",
     "birth_not_before": null,
     "death_not_after": null,
-    "comment": null
+    "comment": "Biblisch"
   },
   {
     "id": 15,
