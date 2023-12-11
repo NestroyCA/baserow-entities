@@ -21,7 +21,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "2"
   },
   {
     "coordinates": {
@@ -43,7 +43,7 @@
     "alt_names": [
       "Ranftlgasse"
     ],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -63,7 +63,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -85,7 +85,7 @@
     "alt_names": [
       "Br\u00fcckengasse"
     ],
-    "total_occurences": 1
+    "total_occurences": "3"
   },
   {
     "coordinates": {
@@ -105,7 +105,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -122,14 +122,10 @@
       [
         "Der Zerrissene",
         "play_52"
-      ],
-      [
-        "\u201eSie sollen ihn nicht haben!\u201c oder Der holl\u00e4ndische Bauer",
-        "play_67"
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -149,7 +145,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "3"
   },
   {
     "coordinates": {
@@ -169,7 +165,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -191,7 +187,7 @@
     "alt_names": [
       "Herrengasse"
     ],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -211,7 +207,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -228,12 +224,16 @@
       [
         "Kampl",
         "play_73"
+      ],
+      [
+        "Zeitvertreib",
+        "play_80"
       ]
     ],
     "alt_names": [
       "Breite Gasse"
     ],
-    "total_occurences": 1
+    "total_occurences": "2"
   },
   {
     "coordinates": {
@@ -263,7 +263,7 @@
     "alt_names": [
       "K\u00e4rtnerstra\u00dfe"
     ],
-    "total_occurences": 1
+    "total_occurences": "4"
   },
   {
     "coordinates": {
@@ -283,7 +283,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -305,7 +305,7 @@
     "alt_names": [
       "Wollzeile"
     ],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -325,7 +325,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -347,7 +347,7 @@
     "alt_names": [
       "Josefsplatz"
     ],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -371,7 +371,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "18"
   },
   {
     "coordinates": {
@@ -391,7 +391,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "3"
   },
   {
     "coordinates": {
@@ -415,7 +415,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "6"
   },
   {
     "coordinates": {
@@ -443,7 +443,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "4"
   },
   {
     "coordinates": {
@@ -460,10 +460,14 @@
       [
         "Eine Wohnung ist zu vermieten in der Stadt, Eine Wohnung ist zu verlassen in der Vorstadt, Eine Wohnung mit Garten ist zu haben in Hietzing",
         "play_33"
+      ],
+      [
+        "Gegen Thorheit giebt es kein Mittel",
+        "play_38"
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "4"
   },
   {
     "coordinates": {
@@ -489,7 +493,7 @@
     "alt_names": [
       "Simmringer (Br\u00e4uhaus)"
     ],
-    "total_occurences": 1
+    "total_occurences": "5"
   },
   {
     "coordinates": {
@@ -511,7 +515,7 @@
     "alt_names": [
       "Heiligenst\u00e4tter"
     ],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -533,7 +537,7 @@
     "alt_names": [
       "H\u00fctteldorfer"
     ],
-    "total_occurences": 1
+    "total_occurences": "2"
   },
   {
     "coordinates": {
@@ -557,7 +561,7 @@
       ]
     ],
     "alt_names": [],
-    "total_occurences": 1
+    "total_occurences": "2"
   },
   {
     "coordinates": {
@@ -585,9 +589,9 @@
       ]
     ],
     "alt_names": [
-      "Baaden"
+      "Baaden Bad'n"
     ],
-    "total_occurences": 1
+    "total_occurences": "3"
   },
   {
     "coordinates": {
@@ -609,7 +613,7 @@
     "alt_names": [
       "Schottentor"
     ],
-    "total_occurences": 1
+    "total_occurences": "1"
   },
   {
     "coordinates": {
@@ -624,6 +628,10 @@
     "internal_id": "nestroy_otherplace_id__57",
     "mentions": [
       [
+        "Der b\u00f6se Geist Lumpacivagabundus oder Das liederliche Kleeblatt",
+        "play_18"
+      ],
+      [
         "Eisenbahnheiraten oder Wien, Neustadt, Br\u00fcnn",
         "play_50"
       ]
@@ -631,6 +639,6 @@
     "alt_names": [
       "Purkersdorf"
     ],
-    "total_occurences": 1
+    "total_occurences": "2"
   }
 ]

@@ -393,7 +393,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 57,
+        "value": "Burkersdorf"
+      }
+    ],
     "mentioned_persons": []
   },
   "19": {
@@ -976,7 +981,12 @@
       }
     ],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 45,
+        "value": "Penzing"
+      }
+    ],
     "mentioned_persons": []
   },
   "39": {
@@ -1936,10 +1946,6 @@
     "pers_relations": [],
     "vienna_places": [
       {
-        "id": 7,
-        "value": "Feldgasse"
-      },
-      {
         "id": 13,
         "value": "Rosengasse"
       },
@@ -2309,7 +2315,12 @@
     "not_after": "1858",
     "places": [],
     "pers_relations": [],
-    "vienna_places": [],
+    "vienna_places": [
+      {
+        "id": 17,
+        "value": "Breitengasse"
+      }
+    ],
     "mentioned_persons": []
   },
   "81": {
@@ -2343,7 +2354,7 @@
     "vienna_places": [
       {
         "id": 16,
-        "value": "Neugassen"
+        "value": "Neugasse"
       }
     ],
     "mentioned_persons": []
