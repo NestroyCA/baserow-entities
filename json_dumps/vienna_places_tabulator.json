@@ -129,26 +129,6 @@
   },
   {
     "coordinates": {
-      "lng": "16.34555",
-      "lat": "48.21399"
-    },
-    "name": "Mu\u0308hlgasse",
-    "geonames": [
-      "geonames",
-      "https://sws.geonames.org/12547863/"
-    ],
-    "internal_id": "nestroy_otherplace_id__8",
-    "mentions": [
-      [
-        "Das Gew\u00fcrzkr\u00e4merkleeblatt oder Die unschuldig Schuldigen",
-        "play_54"
-      ]
-    ],
-    "alt_names": [],
-    "total_occurences": "3"
-  },
-  {
-    "coordinates": {
       "lng": "16.35264",
       "lat": "48.20796"
     },

@@ -129,27 +129,6 @@
     ],
     "total_occurences": "1"
   },
-  "8": {
-    "id": 8,
-    "order": "8.00000000000000000000",
-    "survey_id": "Mu\u0308hlgasse",
-    "variants": "",
-    "modern_name": "",
-    "pmb_id": "358",
-    "wikidata": "",
-    "geonames": "https://sws.geonames.org/12547863/",
-    "wien_geschichte_wiki": "",
-    "nestroy_id": "nestroy_otherplace_id__8",
-    "lat": "48.21399",
-    "long": "16.34555",
-    "mentioned_in": [
-      [
-        "Das Gew\u00fcrzkr\u00e4merkleeblatt oder Die unschuldig Schuldigen",
-        "play_54"
-      ]
-    ],
-    "total_occurences": "3"
-  },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
