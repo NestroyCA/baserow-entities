@@ -1,0 +1,244 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "Name": "humanities",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 36,
+        "value": "nestroy_term_id_36"
+      },
+      {
+        "id": 41,
+        "value": "nestroy_term_id_41"
+      },
+      {
+        "id": 42,
+        "value": "nestroy_term_id_42"
+      },
+      {
+        "id": 49,
+        "value": "nestroy_term_id_49"
+      },
+      {
+        "id": 51,
+        "value": "nestroy_term_id_51"
+      },
+      {
+        "id": 53,
+        "value": "nestroy_term_id_53"
+      },
+      {
+        "id": 54,
+        "value": "nestroy_term_id_54"
+      },
+      {
+        "id": 57,
+        "value": "nestroy_term_id_57"
+      },
+      {
+        "id": 58,
+        "value": "nestroy_term_id_58"
+      },
+      {
+        "id": 63,
+        "value": "nestroy_term_id_63"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "Name": "geography",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 42,
+        "value": "nestroy_term_id_42"
+      },
+      {
+        "id": 50,
+        "value": "nestroy_term_id_50"
+      },
+      {
+        "id": 56,
+        "value": "nestroy_term_id_56"
+      },
+      {
+        "id": 60,
+        "value": "nestroy_term_id_60"
+      },
+      {
+        "id": 62,
+        "value": "nestroy_term_id_62"
+      },
+      {
+        "id": 63,
+        "value": "nestroy_term_id_63"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "society and politics",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 44,
+        "value": "nestroy_term_id_44"
+      },
+      {
+        "id": 45,
+        "value": "nestroy_term_id_45"
+      },
+      {
+        "id": 53,
+        "value": "nestroy_term_id_53"
+      },
+      {
+        "id": 54,
+        "value": "nestroy_term_id_54"
+      },
+      {
+        "id": 61,
+        "value": "nestroy_term_id_61"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "law",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 39,
+        "value": "nestroy_term_id_39"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_4"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "Name": "medicine",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 3,
+        "value": "nestroy_term_id_3"
+      },
+      {
+        "id": 52,
+        "value": "nestroy_term_id_52"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_5"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "Name": "arts",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 37,
+        "value": "nestroy_term_id_37"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_6"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "Name": "technology",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 40,
+        "value": "nestroy_term_id_40"
+      },
+      {
+        "id": 43,
+        "value": "nestroy_term_id_43"
+      },
+      {
+        "id": 46,
+        "value": "nestroy_term_id_46"
+      },
+      {
+        "id": 47,
+        "value": "nestroy_term_id_47"
+      },
+      {
+        "id": 55,
+        "value": "nestroy_term_id_55"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_7"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "Name": "religion",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 41,
+        "value": "nestroy_term_id_41"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_8"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "Name": "science",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 47,
+        "value": "nestroy_term_id_47"
+      },
+      {
+        "id": 59,
+        "value": "nestroy_term_id_59"
+      },
+      {
+        "id": 64,
+        "value": "nestroy_term_id_64"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_9"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "Name": "leisure and sports",
+    "Anmerkungen": "",
+    "terminology": [],
+    "nestroy_id": "nerstroy_domain_id_10"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "Name": "food",
+    "Anmerkungen": "",
+    "terminology": [
+      {
+        "id": 38,
+        "value": "nestroy_term_id_38"
+      },
+      {
+        "id": 48,
+        "value": "nestroy_term_id_48"
+      }
+    ],
+    "nestroy_id": "nerstroy_domain_id_11"
+  }
+}

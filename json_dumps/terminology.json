@@ -1,0 +1,722 @@
+{
+  "3": {
+    "id": 3,
+    "order": "2.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_3",
+    "lemma": "Homäopathie",
+    "sublemmata_separated_by_newline": "Homäopath\nhomöopathisch",
+    "variants_seperated_by_newlines": "Homeopath\nhomeopathisch\nhomäopathisch",
+    "domains": [
+      {
+        "id": 5,
+        "value": "medicine"
+      }
+    ],
+    "not_before_date_german": "1796-01-01",
+    "not_before_date_global": "1796-01-01",
+    "occurs_in_plays": [
+      {
+        "id": 30,
+        "value": "play_30"
+      },
+      {
+        "id": 61,
+        "value": "play_61"
+      }
+    ],
+    "wikidata_url": "https://www.wikidata.org/wiki/Q81058",
+    "total_frequency": "13",
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "36": {
+    "id": 36,
+    "order": "3.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_36",
+    "lemma": "Isis",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "37": {
+    "id": 37,
+    "order": "4.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_37",
+    "lemma": "Alkove",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "Alkoven",
+    "domains": [
+      {
+        "id": 6,
+        "value": "arts"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [
+      {
+        "id": 5,
+        "value": "play_5"
+      },
+      {
+        "id": 13,
+        "value": "play_13"
+      },
+      {
+        "id": 37,
+        "value": "play_37"
+      },
+      {
+        "id": 41,
+        "value": "play_41"
+      }
+    ],
+    "wikidata_url": "",
+    "total_frequency": "11",
+    "DWB_url": "https://woerterbuchnetz.de/?sigle=DWB2&lemid=A07276",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "38": {
+    "id": 38,
+    "order": "5.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_38",
+    "lemma": "Lagerbier",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 11,
+        "value": "food"
+      }
+    ],
+    "not_before_date_german": "1469-01-01",
+    "not_before_date_global": "1839-01-01",
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "https://woerterbuchnetz.de/?sigle=LexerN&lemid=L00026",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "39": {
+    "id": 39,
+    "order": "6.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_39",
+    "lemma": "Alibibeweis",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 4,
+        "value": "law"
+      }
+    ],
+    "not_before_date_german": "1846-01-01",
+    "not_before_date_global": null,
+    "occurs_in_plays": [
+      {
+        "id": 56,
+        "value": "play_56"
+      }
+    ],
+    "wikidata_url": "",
+    "total_frequency": "1",
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "40": {
+    "id": 40,
+    "order": "7.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_40",
+    "lemma": "Machinist",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 7,
+        "value": "technology"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "41": {
+    "id": 41,
+    "order": "8.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_41",
+    "lemma": "Hebräer",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      },
+      {
+        "id": 8,
+        "value": "religion"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "42": {
+    "id": 42,
+    "order": "9.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_42",
+    "lemma": "Levante",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      },
+      {
+        "id": 2,
+        "value": "geography"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01298",
+    "other_lexical_url_b": ""
+  },
+  "43": {
+    "id": 43,
+    "order": "10.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_43",
+    "lemma": "Fidibus",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 7,
+        "value": "technology"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "44": {
+    "id": 44,
+    "order": "11.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_44",
+    "lemma": "Kolonial-sistem",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 3,
+        "value": "society and politics"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "12.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_45",
+    "lemma": "Kommunismus",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 3,
+        "value": "society and politics"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "46": {
+    "id": 46,
+    "order": "13.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_46",
+    "lemma": "Katafalk",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 7,
+        "value": "technology"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "https://woerterbuchnetz.de/?sigle=DWB&lemid=K02418",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "47": {
+    "id": 47,
+    "order": "14.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_47",
+    "lemma": "Kautschuk",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 7,
+        "value": "technology"
+      },
+      {
+        "id": 9,
+        "value": "science"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "48": {
+    "id": 48,
+    "order": "15.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_48",
+    "lemma": "Kaviar",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 11,
+        "value": "food"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "49": {
+    "id": 49,
+    "order": "16.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_49",
+    "lemma": "Euphrosyne",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "50": {
+    "id": 50,
+    "order": "17.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_50",
+    "lemma": "Eskimo",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 2,
+        "value": "geography"
+      }
+    ],
+    "not_before_date_german": "1776-01-01",
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "51": {
+    "id": 51,
+    "order": "18.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_51",
+    "lemma": "Epitheton",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "52": {
+    "id": 52,
+    "order": "19.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_52",
+    "lemma": "Gicht",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 5,
+        "value": "medicine"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "20.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_53",
+    "lemma": "Sklavenaufruhr",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      },
+      {
+        "id": 3,
+        "value": "society and politics"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "21.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_54",
+    "lemma": "Idealismus",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      },
+      {
+        "id": 3,
+        "value": "society and politics"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "22.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_55",
+    "lemma": "Kaffeemaschine",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 7,
+        "value": "technology"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "56": {
+    "id": 56,
+    "order": "23.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_56",
+    "lemma": "Polar-länder",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 2,
+        "value": "geography"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "57": {
+    "id": 57,
+    "order": "24.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_57",
+    "lemma": "platonisch",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "58": {
+    "id": 58,
+    "order": "25.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_58",
+    "lemma": "",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "59": {
+    "id": 59,
+    "order": "26.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_59",
+    "lemma": "Polypenarm",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 9,
+        "value": "science"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "60": {
+    "id": 60,
+    "order": "27.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_60",
+    "lemma": "Kannibal",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 2,
+        "value": "geography"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "61": {
+    "id": 61,
+    "order": "28.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_61",
+    "lemma": "Premier-minister",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 3,
+        "value": "society and politics"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "62": {
+    "id": 62,
+    "order": "29.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_62",
+    "lemma": "Europa",
+    "sublemmata_separated_by_newline": "europamüde",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 2,
+        "value": "geography"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [
+      {
+        "id": 58,
+        "value": "play_58"
+      }
+    ],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "63": {
+    "id": 63,
+    "order": "30.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_63",
+    "lemma": "Sarazene",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 1,
+        "value": "humanities"
+      },
+      {
+        "id": 2,
+        "value": "geography"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  },
+  "64": {
+    "id": 64,
+    "order": "31.00000000000000000000",
+    "nestroy_id": "nestroy_term_id_64",
+    "lemma": "Fixstern-quadrant",
+    "sublemmata_separated_by_newline": "",
+    "variants_seperated_by_newlines": "",
+    "domains": [
+      {
+        "id": 9,
+        "value": "science"
+      }
+    ],
+    "not_before_date_german": null,
+    "not_before_date_global": null,
+    "occurs_in_plays": [],
+    "wikidata_url": "",
+    "total_frequency": null,
+    "DWB_url": "",
+    "other_lexical_url_a": "",
+    "other_lexical_url_b": ""
+  }
+}
