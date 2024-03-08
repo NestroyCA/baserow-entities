@@ -24,11 +24,10 @@
         "value": "play_61"
       }
     ],
-    "wikidata_url": "https://www.wikidata.org/wiki/Q81058",
     "total_frequency": "13",
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": [
+      "https://www.wikidata.org/wiki/Q81058"
+    ]
   },
   {
     "id": 36,
@@ -46,11 +45,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 37,
@@ -85,11 +81,10 @@
         "value": "play_41"
       }
     ],
-    "wikidata_url": "",
     "total_frequency": "11",
-    "DWB_url": "https://woerterbuchnetz.de/?sigle=DWB2&lemid=A07276",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": [
+      "https://woerterbuchnetz.de/?sigle=DWB2&lemid=A07276"
+    ]
   },
   {
     "id": 38,
@@ -107,11 +102,10 @@
     "not_before_date_german": "1469-01-01",
     "not_before_date_global": "1839-01-01",
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "https://woerterbuchnetz.de/?sigle=LexerN&lemid=L00026",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": [
+      "https://woerterbuchnetz.de/?sigle=LexerN&lemid=L00026"
+    ]
   },
   {
     "id": 39,
@@ -134,11 +128,8 @@
         "value": "play_56"
       }
     ],
-    "wikidata_url": "",
     "total_frequency": "1",
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 40,
@@ -156,11 +147,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 41,
@@ -182,11 +170,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 42,
@@ -208,11 +193,10 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01298",
-    "other_lexical_url_b": ""
+    "authority_data": [
+      "https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01298"
+    ]
   },
   {
     "id": 43,
@@ -230,11 +214,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 44,
@@ -252,11 +233,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 45,
@@ -274,11 +252,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 46,
@@ -296,11 +271,10 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "https://woerterbuchnetz.de/?sigle=DWB&lemid=K02418",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": [
+      "https://woerterbuchnetz.de/?sigle=DWB&lemid=K02418"
+    ]
   },
   {
     "id": 47,
@@ -322,11 +296,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 48,
@@ -344,11 +315,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 49,
@@ -366,11 +334,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 50,
@@ -388,11 +353,8 @@
     "not_before_date_german": "1776-01-01",
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 51,
@@ -410,11 +372,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 52,
@@ -432,11 +391,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 53,
@@ -458,11 +414,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 54,
@@ -484,11 +437,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 55,
@@ -506,11 +456,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 56,
@@ -528,11 +475,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 57,
@@ -550,33 +494,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
-  },
-  {
-    "id": 58,
-    "order": "25.00000000000000000000",
-    "nestroy_id": "nestroy_term_id_58",
-    "lemma": "",
-    "sublemmata_separated_by_newline": "",
-    "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      }
-    ],
-    "not_before_date_german": null,
-    "not_before_date_global": null,
-    "occurs_in_plays": [],
-    "wikidata_url": "",
-    "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 59,
@@ -594,11 +513,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 60,
@@ -616,11 +532,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 61,
@@ -638,11 +551,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 62,
@@ -665,11 +575,8 @@
         "value": "play_58"
       }
     ],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 63,
@@ -691,11 +598,8 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   },
   {
     "id": 64,
@@ -713,10 +617,7 @@
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
-    "wikidata_url": "",
     "total_frequency": null,
-    "DWB_url": "",
-    "other_lexical_url_a": "",
-    "other_lexical_url_b": ""
+    "authority_data": []
   }
 ]
