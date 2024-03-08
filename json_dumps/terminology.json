@@ -26,7 +26,10 @@
     ],
     "total_frequency": "13",
     "authority_data": [
-      "https://www.wikidata.org/wiki/Q81058"
+      [
+        "Wikidata",
+        "https://www.wikidata.org/wiki/Q81058"
+      ]
     ]
   },
   {
@@ -83,7 +86,10 @@
     ],
     "total_frequency": "11",
     "authority_data": [
-      "https://woerterbuchnetz.de/?sigle=DWB2&lemid=A07276"
+      [
+        "DWB",
+        "https://woerterbuchnetz.de/?sigle=DWB2&lemid=A07276"
+      ]
     ]
   },
   {
@@ -104,7 +110,10 @@
     "occurs_in_plays": [],
     "total_frequency": null,
     "authority_data": [
-      "https://woerterbuchnetz.de/?sigle=LexerN&lemid=L00026"
+      [
+        "DWB",
+        "https://woerterbuchnetz.de/?sigle=LexerN&lemid=L00026"
+      ]
     ]
   },
   {
@@ -195,7 +204,10 @@
     "occurs_in_plays": [],
     "total_frequency": null,
     "authority_data": [
-      "https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01298"
+      [
+        "other",
+        "https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01298"
+      ]
     ]
   },
   {
@@ -273,7 +285,10 @@
     "occurs_in_plays": [],
     "total_frequency": null,
     "authority_data": [
-      "https://woerterbuchnetz.de/?sigle=DWB&lemid=K02418"
+      [
+        "DWB",
+        "https://woerterbuchnetz.de/?sigle=DWB&lemid=K02418"
+      ]
     ]
   },
   {
