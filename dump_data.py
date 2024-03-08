@@ -162,6 +162,7 @@ def get_play_title_for_mentions(mentions: list):
 def summarize_lemma_authority_data(json_data, authority_fieldnames):
     terms = []
     for term_entry in json_data.values():
+        print(term_entry)
         authorty_links = []
         for field_key, linklable in authority_fieldnames.items():
             link = term_entry.pop(field_key)
@@ -174,6 +175,11 @@ def summarize_lemma_authority_data(json_data, authority_fieldnames):
         term_entry["authority_data"] = authorty_links
         terms.append(term_entry)
     return terms
+
+def unpack_domains(domains_list):
+    if domains_list:
+        return "\n".join([d["value"] for d in domains_list])
+    return ""
 
 
 if __name__ == "__main__":
@@ -194,13 +200,18 @@ if __name__ == "__main__":
             "other_lexical_url_a" : "other",
             "other_lexical_url_b" : "other",
         }
-        json_data = None
-        with open(terms_filepath, "r") as json_file_io:
-            json_data = json.load(json_file_io)
+        fieldnames_to_manipulations = {
+            "domains" : unpack_domains
+        }
+        modfied_data = modify_fields_in_dump(
+            terms_filepath,
+            fieldnames_to_manipulations,
+            False
+        )
         with open(terms_filepath, "w") as outfile:
             json.dump(
                 summarize_lemma_authority_data(
-                    json_data, authority_fieldnames
+                    modfied_data, authority_fieldnames
                 ),
                 outfile,
                 indent=2
