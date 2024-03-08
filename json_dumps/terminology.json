@@ -1,11 +1,11 @@
-{
-  "3": {
+[
+  {
     "id": 3,
     "order": "2.00000000000000000000",
     "nestroy_id": "nestroy_term_id_3",
-    "lemma": "Homäopathie",
-    "sublemmata_separated_by_newline": "Homäopath\nhomöopathisch",
-    "variants_seperated_by_newlines": "Homeopath\nhomeopathisch\nhomäopathisch",
+    "lemma": "Hom\u00e4opathie",
+    "sublemmata_separated_by_newline": "Hom\u00e4opath\nhom\u00f6opathisch",
+    "variants_seperated_by_newlines": "Homeopath\nhomeopathisch\nhom\u00e4opathisch",
     "domains": [
       {
         "id": 5,
@@ -30,7 +30,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "36": {
+  {
     "id": 36,
     "order": "3.00000000000000000000",
     "nestroy_id": "nestroy_term_id_36",
@@ -52,7 +52,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "37": {
+  {
     "id": 37,
     "order": "4.00000000000000000000",
     "nestroy_id": "nestroy_term_id_37",
@@ -91,7 +91,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "38": {
+  {
     "id": 38,
     "order": "5.00000000000000000000",
     "nestroy_id": "nestroy_term_id_38",
@@ -113,7 +113,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "39": {
+  {
     "id": 39,
     "order": "6.00000000000000000000",
     "nestroy_id": "nestroy_term_id_39",
@@ -140,7 +140,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "40": {
+  {
     "id": 40,
     "order": "7.00000000000000000000",
     "nestroy_id": "nestroy_term_id_40",
@@ -162,11 +162,11 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "41": {
+  {
     "id": 41,
     "order": "8.00000000000000000000",
     "nestroy_id": "nestroy_term_id_41",
-    "lemma": "Hebräer",
+    "lemma": "Hebr\u00e4er",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
     "domains": [
@@ -188,7 +188,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "42": {
+  {
     "id": 42,
     "order": "9.00000000000000000000",
     "nestroy_id": "nestroy_term_id_42",
@@ -214,7 +214,7 @@
     "other_lexical_url_a": "https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01298",
     "other_lexical_url_b": ""
   },
-  "43": {
+  {
     "id": 43,
     "order": "10.00000000000000000000",
     "nestroy_id": "nestroy_term_id_43",
@@ -236,7 +236,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "44": {
+  {
     "id": 44,
     "order": "11.00000000000000000000",
     "nestroy_id": "nestroy_term_id_44",
@@ -258,7 +258,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "45": {
+  {
     "id": 45,
     "order": "12.00000000000000000000",
     "nestroy_id": "nestroy_term_id_45",
@@ -280,7 +280,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "46": {
+  {
     "id": 46,
     "order": "13.00000000000000000000",
     "nestroy_id": "nestroy_term_id_46",
@@ -302,7 +302,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "47": {
+  {
     "id": 47,
     "order": "14.00000000000000000000",
     "nestroy_id": "nestroy_term_id_47",
@@ -328,7 +328,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "48": {
+  {
     "id": 48,
     "order": "15.00000000000000000000",
     "nestroy_id": "nestroy_term_id_48",
@@ -350,7 +350,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "49": {
+  {
     "id": 49,
     "order": "16.00000000000000000000",
     "nestroy_id": "nestroy_term_id_49",
@@ -372,7 +372,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "50": {
+  {
     "id": 50,
     "order": "17.00000000000000000000",
     "nestroy_id": "nestroy_term_id_50",
@@ -394,7 +394,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "51": {
+  {
     "id": 51,
     "order": "18.00000000000000000000",
     "nestroy_id": "nestroy_term_id_51",
@@ -416,7 +416,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "52": {
+  {
     "id": 52,
     "order": "19.00000000000000000000",
     "nestroy_id": "nestroy_term_id_52",
@@ -438,7 +438,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "53": {
+  {
     "id": 53,
     "order": "20.00000000000000000000",
     "nestroy_id": "nestroy_term_id_53",
@@ -464,7 +464,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "54": {
+  {
     "id": 54,
     "order": "21.00000000000000000000",
     "nestroy_id": "nestroy_term_id_54",
@@ -490,7 +490,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "55": {
+  {
     "id": 55,
     "order": "22.00000000000000000000",
     "nestroy_id": "nestroy_term_id_55",
@@ -512,11 +512,11 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "56": {
+  {
     "id": 56,
     "order": "23.00000000000000000000",
     "nestroy_id": "nestroy_term_id_56",
-    "lemma": "Polar-länder",
+    "lemma": "Polar-l\u00e4nder",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
     "domains": [
@@ -534,7 +534,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "57": {
+  {
     "id": 57,
     "order": "24.00000000000000000000",
     "nestroy_id": "nestroy_term_id_57",
@@ -556,7 +556,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "58": {
+  {
     "id": 58,
     "order": "25.00000000000000000000",
     "nestroy_id": "nestroy_term_id_58",
@@ -578,7 +578,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "59": {
+  {
     "id": 59,
     "order": "26.00000000000000000000",
     "nestroy_id": "nestroy_term_id_59",
@@ -600,7 +600,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "60": {
+  {
     "id": 60,
     "order": "27.00000000000000000000",
     "nestroy_id": "nestroy_term_id_60",
@@ -622,7 +622,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "61": {
+  {
     "id": 61,
     "order": "28.00000000000000000000",
     "nestroy_id": "nestroy_term_id_61",
@@ -644,12 +644,12 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "62": {
+  {
     "id": 62,
     "order": "29.00000000000000000000",
     "nestroy_id": "nestroy_term_id_62",
     "lemma": "Europa",
-    "sublemmata_separated_by_newline": "europamüde",
+    "sublemmata_separated_by_newline": "europam\u00fcde",
     "variants_seperated_by_newlines": "",
     "domains": [
       {
@@ -671,7 +671,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "63": {
+  {
     "id": 63,
     "order": "30.00000000000000000000",
     "nestroy_id": "nestroy_term_id_63",
@@ -697,7 +697,7 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   },
-  "64": {
+  {
     "id": 64,
     "order": "31.00000000000000000000",
     "nestroy_id": "nestroy_term_id_64",
@@ -719,4 +719,4 @@
     "other_lexical_url_a": "",
     "other_lexical_url_b": ""
   }
-}
+]
