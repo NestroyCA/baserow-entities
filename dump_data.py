@@ -126,6 +126,7 @@ def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict
     print(f"updating {', '.join(fieldnames_to_manipulations.keys())} in {json_file_path}")
     # load data
     json_data = None
+    print(f"loading {json_file_path}")
     with open(json_file_path, "r") as json_file_io:
         json_data = json.load(json_file_io)
     # apply changes
@@ -169,6 +170,17 @@ if __name__ == "__main__":
     places_filepath = f"{JSON_FOLDER}/places.json"
     vienna_places_filepath = f"{JSON_FOLDER}/vienna_places.json"
     person_filepath = f"{JSON_FOLDER}/persons.json"
+    terms_filepath = f"{JSON_FOLDER}/terminology.json"
+    if os.path.isfile(terms_filepath):
+            json_data = None
+            with open(terms_filepath, "r") as json_file_io:
+                json_data = json.load(json_file_io)
+            with open(terms_filepath, "w") as outfile:
+                json.dump(
+                    [val for val in json_data.values()],
+                    outfile,
+                    indent=2
+                )
     if os.path.isfile(person_filepath):
         fieldnames_to_manipulations = {
             "occurences" : get_play_title_for_mentions
@@ -184,6 +196,7 @@ if __name__ == "__main__":
                 outfile,
                 indent=2
             )
+    
     if os.path.isfile(places_filepath):
         fieldnames_to_manipulations = {
             "geonames" : get_normalized_uri,
