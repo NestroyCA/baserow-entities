@@ -6,12 +6,7 @@
     "lemma": "Hom\u00e4opathie",
     "sublemmata_separated_by_newline": "Hom\u00e4opath\nhom\u00f6opathisch",
     "variants_seperated_by_newlines": "Homeopath\nhomeopathisch\nhom\u00e4opathisch",
-    "domains": [
-      {
-        "id": 5,
-        "value": "medicine"
-      }
-    ],
+    "domains": "medicine",
     "not_before_date_german": "1796-01-01",
     "not_before_date_global": "1796-01-01",
     "occurs_in_plays": [
@@ -39,12 +34,7 @@
     "lemma": "Isis",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      }
-    ],
+    "domains": "humanities",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -58,12 +48,7 @@
     "lemma": "Alkove",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "Alkoven",
-    "domains": [
-      {
-        "id": 6,
-        "value": "arts"
-      }
-    ],
+    "domains": "arts",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [
@@ -99,12 +84,7 @@
     "lemma": "Lagerbier",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 11,
-        "value": "food"
-      }
-    ],
+    "domains": "food",
     "not_before_date_german": "1469-01-01",
     "not_before_date_global": "1839-01-01",
     "occurs_in_plays": [],
@@ -123,12 +103,7 @@
     "lemma": "Alibibeweis",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 4,
-        "value": "law"
-      }
-    ],
+    "domains": "law",
     "not_before_date_german": "1846-01-01",
     "not_before_date_global": null,
     "occurs_in_plays": [
@@ -147,12 +122,7 @@
     "lemma": "Machinist",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 7,
-        "value": "technology"
-      }
-    ],
+    "domains": "technology",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -166,16 +136,7 @@
     "lemma": "Hebr\u00e4er",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      },
-      {
-        "id": 8,
-        "value": "religion"
-      }
-    ],
+    "domains": "humanities\nreligion",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -189,16 +150,7 @@
     "lemma": "Levante",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      },
-      {
-        "id": 2,
-        "value": "geography"
-      }
-    ],
+    "domains": "humanities\ngeography",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -217,12 +169,7 @@
     "lemma": "Fidibus",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 7,
-        "value": "technology"
-      }
-    ],
+    "domains": "technology",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -236,12 +183,7 @@
     "lemma": "Kolonial-sistem",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 3,
-        "value": "society and politics"
-      }
-    ],
+    "domains": "society and politics",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -255,12 +197,7 @@
     "lemma": "Kommunismus",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 3,
-        "value": "society and politics"
-      }
-    ],
+    "domains": "society and politics",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -274,12 +211,7 @@
     "lemma": "Katafalk",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 7,
-        "value": "technology"
-      }
-    ],
+    "domains": "technology",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -298,16 +230,7 @@
     "lemma": "Kautschuk",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 7,
-        "value": "technology"
-      },
-      {
-        "id": 9,
-        "value": "science"
-      }
-    ],
+    "domains": "technology\nscience",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -321,12 +244,7 @@
     "lemma": "Kaviar",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 11,
-        "value": "food"
-      }
-    ],
+    "domains": "food",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -340,12 +258,7 @@
     "lemma": "Euphrosyne",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      }
-    ],
+    "domains": "humanities",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -359,12 +272,7 @@
     "lemma": "Eskimo",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 2,
-        "value": "geography"
-      }
-    ],
+    "domains": "geography",
     "not_before_date_german": "1776-01-01",
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -378,12 +286,7 @@
     "lemma": "Epitheton",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      }
-    ],
+    "domains": "humanities",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -397,12 +300,7 @@
     "lemma": "Gicht",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 5,
-        "value": "medicine"
-      }
-    ],
+    "domains": "medicine",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -416,16 +314,7 @@
     "lemma": "Sklavenaufruhr",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      },
-      {
-        "id": 3,
-        "value": "society and politics"
-      }
-    ],
+    "domains": "humanities\nsociety and politics",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -439,16 +328,7 @@
     "lemma": "Idealismus",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      },
-      {
-        "id": 3,
-        "value": "society and politics"
-      }
-    ],
+    "domains": "humanities\nsociety and politics",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -462,12 +342,7 @@
     "lemma": "Kaffeemaschine",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 7,
-        "value": "technology"
-      }
-    ],
+    "domains": "technology",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -481,12 +356,7 @@
     "lemma": "Polar-l\u00e4nder",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 2,
-        "value": "geography"
-      }
-    ],
+    "domains": "geography",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -500,12 +370,7 @@
     "lemma": "platonisch",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      }
-    ],
+    "domains": "humanities",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -519,12 +384,7 @@
     "lemma": "Polypenarm",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 9,
-        "value": "science"
-      }
-    ],
+    "domains": "science",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -538,12 +398,7 @@
     "lemma": "Kannibal",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 2,
-        "value": "geography"
-      }
-    ],
+    "domains": "geography",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -557,12 +412,7 @@
     "lemma": "Premier-minister",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 3,
-        "value": "society and politics"
-      }
-    ],
+    "domains": "society and politics",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -576,12 +426,7 @@
     "lemma": "Europa",
     "sublemmata_separated_by_newline": "europam\u00fcde",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 2,
-        "value": "geography"
-      }
-    ],
+    "domains": "geography",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [
@@ -600,16 +445,7 @@
     "lemma": "Sarazene",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 1,
-        "value": "humanities"
-      },
-      {
-        "id": 2,
-        "value": "geography"
-      }
-    ],
+    "domains": "humanities\ngeography",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
@@ -623,12 +459,7 @@
     "lemma": "Fixstern-quadrant",
     "sublemmata_separated_by_newline": "",
     "variants_seperated_by_newlines": "",
-    "domains": [
-      {
-        "id": 9,
-        "value": "science"
-      }
-    ],
+    "domains": "science",
     "not_before_date_german": null,
     "not_before_date_global": null,
     "occurs_in_plays": [],
