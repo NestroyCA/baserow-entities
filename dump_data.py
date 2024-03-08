@@ -163,10 +163,14 @@ def summarize_lemma_authority_data(json_data, authority_fieldnames):
     terms = []
     for term_entry in json_data.values():
         authorty_links = []
-        for field_key in authority_fieldnames:
+        for field_key, linklable in authority_fieldnames.items():
             link = term_entry.pop(field_key)
             if link:
-                authorty_links.append(link)
+                authorty_links.append(
+                    (
+                        linklable, link
+                    )
+                )
         term_entry["authority_data"] = authorty_links
         terms.append(term_entry)
     return terms
@@ -184,12 +188,12 @@ if __name__ == "__main__":
     person_filepath = f"{JSON_FOLDER}/persons.json"
     terms_filepath = f"{JSON_FOLDER}/terminology.json"
     if os.path.isfile(terms_filepath):
-        authority_fieldnames = [
-            "wikidata_url",
-            "DWB_url",
-            "other_lexical_url_a",
-            "other_lexical_url_b"
-        ]
+        authority_fieldnames = {
+            "wikidata_url" : "Wikidata",
+            "DWB_url" : "DWB",
+            "other_lexical_url_a" : "other",
+            "other_lexical_url_b" : "other",
+        }
         json_data = None
         with open(terms_filepath, "r") as json_file_io:
             json_data = json.load(json_file_io)
