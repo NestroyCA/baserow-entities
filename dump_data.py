@@ -159,6 +159,18 @@ def get_play_title_for_mentions(mentions: list):
             )
     return new_mentions
 
+def summarize_lemma_authority_data(json_data, authority_fieldnames):
+    terms = []
+    for term_entry in json_data.values():
+        authorty_links = []
+        for field_key in authority_fieldnames:
+            link = term_entry.pop(field_key)
+            if link:
+                authorty_links.append(link)
+        term_entry["authority_data"] = authorty_links
+        terms.append(term_entry)
+    return terms
+
 
 if __name__ == "__main__":
     os.makedirs(JSON_FOLDER, exist_ok=True)
@@ -172,15 +184,23 @@ if __name__ == "__main__":
     person_filepath = f"{JSON_FOLDER}/persons.json"
     terms_filepath = f"{JSON_FOLDER}/terminology.json"
     if os.path.isfile(terms_filepath):
-            json_data = None
-            with open(terms_filepath, "r") as json_file_io:
-                json_data = json.load(json_file_io)
-            with open(terms_filepath, "w") as outfile:
-                json.dump(
-                    [val for val in json_data.values()],
-                    outfile,
-                    indent=2
-                )
+        authority_fieldnames = [
+            "wikidata_url",
+            "DWB_url",
+            "other_lexical_url_a",
+            "other_lexical_url_b"
+        ]
+        json_data = None
+        with open(terms_filepath, "r") as json_file_io:
+            json_data = json.load(json_file_io)
+        with open(terms_filepath, "w") as outfile:
+            json.dump(
+                summarize_lemma_authority_data(
+                    json_data, authority_fieldnames
+                ),
+                outfile,
+                indent=2
+            )
     if os.path.isfile(person_filepath):
         fieldnames_to_manipulations = {
             "occurences" : get_play_title_for_mentions
