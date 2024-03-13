@@ -6,6 +6,11 @@ from config import br_client, BASEROW_DB_ID, JSON_FOLDER
 
 play_id_2_play_name = None
 altname_keys = ["alt_tokens", "legacy"]
+lemmas_filepath = f"{JSON_FOLDER}/lemma_context.json"
+existing_lemmas = {}
+with open(lemmas_filepath, "r") as lemmafile:
+    existing_lemmas = json.load(lemmafile)
+
 
 def make_tabulator_data_entry(
         name: str,
@@ -54,7 +59,6 @@ def create_tabulator_data(
     with open(json_file_path, "r") as json_file_io:
         json_data = json.load(json_file_io)
         for row in json_data.values():
-            print(row)
             new_row = make_tabulator_data_entry(
                 name=row[name_key],
                 lng=row[lng_key],
@@ -116,7 +120,12 @@ def delete_rows_in_dump(json_file_path: str, test_2_fieldname: dict):
     return json_file_path
 
 
-def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict, write:bool=True):
+def modify_fields_in_dump(
+        json_file_path: str,
+        fieldnames_to_manipulations: dict,
+        write:bool=True,
+        index_name_key=""
+    ):
     """
     Loads json file from json_file_path and performs a set of manipulations.
     fieldnames_to_manipulations contains a set of fieldnames-strings as keys, 
@@ -132,6 +141,20 @@ def modify_fields_in_dump(json_file_path: str, fieldnames_to_manipulations: dict
     # apply changes
     for entity_id in json_data.keys():
         entity = json_data[entity_id]
+        entity["occurs_in_xml"] = ""
+        if "nestroy_id" in entity:
+            nestroy_id = entity["nestroy_id"]
+            if nestroy_id in existing_lemmas:
+                current_value = existing_lemmas[nestroy_id]
+                if isinstance(current_value, list):
+                    new_value = {
+                        "matches" : current_value,
+                        "index_name" : entity[index_name_key]
+                    }
+                    entity["occurs_in_xml"] = nestroy_id
+                    existing_lemmas[nestroy_id] = new_value
+        else:
+            input(entity)
         for fieldname in fieldnames_to_manipulations:
             manipulation_function = fieldnames_to_manipulations[fieldname]
             current_field_value = entity[fieldname] if fieldname in entity else None
@@ -162,7 +185,6 @@ def get_play_title_for_mentions(mentions: list):
 def summarize_lemma_authority_data(json_data, authority_fieldnames):
     terms = []
     for term_entry in json_data.values():
-        print(term_entry)
         authorty_links = []
         for field_key, linklable in authority_fieldnames.items():
             link = term_entry.pop(field_key)
@@ -180,6 +202,10 @@ def unpack_domains(domains_list):
     if domains_list:
         return "\n".join([d["value"] for d in domains_list])
     return ""
+
+def load_lemmas_in_context():
+    with open("./json_dumps/lemma_context.json", "r") as lemmafile:
+        return json.load(lemmafile)
 
 
 if __name__ == "__main__":
@@ -204,9 +230,10 @@ if __name__ == "__main__":
             "domains" : unpack_domains
         }
         modfied_data = modify_fields_in_dump(
-            terms_filepath,
-            fieldnames_to_manipulations,
-            False
+            json_file_path=terms_filepath,
+            fieldnames_to_manipulations=fieldnames_to_manipulations,
+            write=False,
+            index_name_key="lemma"
         )
         with open(terms_filepath, "w") as outfile:
             json.dump(
@@ -221,9 +248,10 @@ if __name__ == "__main__":
             "occurences" : get_play_title_for_mentions
         }
         modfied_data = modify_fields_in_dump(
-            person_filepath,
-            fieldnames_to_manipulations,
-            False
+            json_file_path=person_filepath,
+            fieldnames_to_manipulations=fieldnames_to_manipulations,
+            write=False,
+            index_name_key="name"
         )
         with open(person_filepath, "w") as outfile:
             json.dump(
@@ -238,8 +266,10 @@ if __name__ == "__main__":
             "mentioned_in" : get_play_title_for_mentions
         }
         modfied_file_path = modify_fields_in_dump(
-            places_filepath,
-            fieldnames_to_manipulations
+            json_file_path=places_filepath,
+            fieldnames_to_manipulations=fieldnames_to_manipulations,
+            write=True,
+            index_name_key="name"
         )
         create_tabulator_data(
             json_file_path=modfied_file_path,
@@ -264,8 +294,10 @@ if __name__ == "__main__":
             "mentioned_in" : get_play_title_for_mentions
         }
         modfied_file_path = modify_fields_in_dump(
-            vienna_places_filepath,
-            fieldnames_to_manipulations
+            json_file_path=vienna_places_filepath,
+            fieldnames_to_manipulations=fieldnames_to_manipulations,
+            write=True,
+            index_name_key="survey_id"        
         )
         modfied_file_path = delete_rows_in_dump(
             modfied_file_path,
@@ -285,5 +317,10 @@ if __name__ == "__main__":
             ],
             total_occurences_keys="total_occurences"
         )
+
+    with open(lemmas_filepath, "w") as lemmafile:
+        json.dump(existing_lemmas, lemmafile)
+        json_file_paths.append(lemmas_filepath)
+
     for path in json_file_paths:
         print(path)
