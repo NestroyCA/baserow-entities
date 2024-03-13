@@ -319,7 +319,7 @@ if __name__ == "__main__":
         )
 
     with open(lemmas_filepath, "w") as lemmafile:
-        json.dump(existing_lemmas, lemmafile)
+        json.dump(existing_lemmas, lemmafile, indent=2)
         json_file_paths.append(lemmas_filepath)
 
     for path in json_file_paths:
