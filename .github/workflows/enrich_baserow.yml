@@ -9,6 +9,7 @@ jobs:
     name: enrich places-basrow with coordinates
     runs-on: ubuntu-latest
     env:
+      GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
       BASEROW_TOKEN: ${{ secrets.BASEROW_TOKEN }}
       BASEROW_USER: ${{ secrets.BASEROW_USER }}
       BASEROW_PW: ${{ secrets.BASEROW_PW }}
