@@ -17,6 +17,13 @@ jobs:
         uses: actions/checkout@v3
       - name: Install Python Packages
         run: pip install -r requirements.txt
+      - name: fetch lemmas in context
+        run: |
+          curl --request GET \
+          --url 'https://raw.githubusercontent.com/NestroyCA/working-data/main/json/cleaned_lemma_context.json' \
+          --header "authorization: token $GITHUB_USER_TOKEN" \
+          -H 'Accept: application/vnd.github.v3.raw' \
+          -o ./json_dumps/lemma_context.json
       - name: dump the data
         run: |
           python dump_data.py
