@@ -22,7 +22,8 @@
         "play_33"
       ]
     ],
-    "total_occurences": "2"
+    "total_occurences": "2",
+    "occurs_in_xml": ""
   },
   "2": {
     "id": 2,
@@ -43,7 +44,8 @@
         "play_33"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "3": {
     "id": 3,
@@ -64,7 +66,8 @@
         "play_33"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "5": {
     "id": 5,
@@ -85,7 +88,8 @@
         "play_43"
       ]
     ],
-    "total_occurences": "3"
+    "total_occurences": "3",
+    "occurs_in_xml": "nestroy_otherplace_id__5"
   },
   "6": {
     "id": 6,
@@ -106,7 +110,8 @@
         "play_46"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "7": {
     "id": 7,
@@ -127,7 +132,8 @@
         "play_52"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": "nestroy_otherplace_id__7"
   },
   "9": {
     "id": 9,
@@ -148,7 +154,8 @@
         "play_55"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "14": {
     "id": 14,
@@ -169,7 +176,8 @@
         "play_67"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "15": {
     "id": 15,
@@ -190,7 +198,8 @@
         "play_71"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "17": {
     "id": 17,
@@ -215,7 +224,8 @@
         "play_80"
       ]
     ],
-    "total_occurences": "2"
+    "total_occurences": "2",
+    "occurs_in_xml": ""
   },
   "18": {
     "id": 18,
@@ -231,7 +241,8 @@
     "lat": "48.19811",
     "long": "16.39482",
     "mentioned_in": [],
-    "total_occurences": null
+    "total_occurences": null,
+    "occurs_in_xml": "nestroy_otherplace_id__18"
   },
   "19": {
     "id": 19,
@@ -260,7 +271,8 @@
         "play_59"
       ]
     ],
-    "total_occurences": "4"
+    "total_occurences": "4",
+    "occurs_in_xml": ""
   },
   "21": {
     "id": 21,
@@ -281,7 +293,8 @@
         "play_20"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "22": {
     "id": 22,
@@ -297,7 +310,8 @@
     "lat": "48.20959",
     "long": "16.36680",
     "mentioned_in": [],
-    "total_occurences": null
+    "total_occurences": null,
+    "occurs_in_xml": ""
   },
   "24": {
     "id": 24,
@@ -318,7 +332,8 @@
         "play_33"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "29": {
     "id": 29,
@@ -339,7 +354,8 @@
         "play_59"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": "nestroy_otherplace_id__29"
   },
   "30": {
     "id": 30,
@@ -360,7 +376,8 @@
         "play_62"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "31": {
     "id": 31,
@@ -385,7 +402,8 @@
         "play_77"
       ]
     ],
-    "total_occurences": "18"
+    "total_occurences": "18",
+    "occurs_in_xml": ""
   },
   "38": {
     "id": 38,
@@ -406,7 +424,8 @@
         "play_33"
       ]
     ],
-    "total_occurences": "3"
+    "total_occurences": "3",
+    "occurs_in_xml": ""
   },
   "43": {
     "id": 43,
@@ -431,7 +450,8 @@
         "play_47"
       ]
     ],
-    "total_occurences": "6"
+    "total_occurences": "6",
+    "occurs_in_xml": ""
   },
   "44": {
     "id": 44,
@@ -460,7 +480,8 @@
         "play_64"
       ]
     ],
-    "total_occurences": "4"
+    "total_occurences": "4",
+    "occurs_in_xml": ""
   },
   "45": {
     "id": 45,
@@ -485,7 +506,8 @@
         "play_38"
       ]
     ],
-    "total_occurences": "4"
+    "total_occurences": "4",
+    "occurs_in_xml": ""
   },
   "46": {
     "id": 46,
@@ -510,7 +532,8 @@
         "play_58"
       ]
     ],
-    "total_occurences": "5"
+    "total_occurences": "5",
+    "occurs_in_xml": ""
   },
   "47": {
     "id": 47,
@@ -526,7 +549,8 @@
     "lat": "48.13333",
     "long": "16.46667",
     "mentioned_in": [],
-    "total_occurences": "3"
+    "total_occurences": "3",
+    "occurs_in_xml": ""
   },
   "49": {
     "id": 49,
@@ -542,7 +566,8 @@
     "lat": "48.17192",
     "long": "16.32586",
     "mentioned_in": [],
-    "total_occurences": null
+    "total_occurences": null,
+    "occurs_in_xml": ""
   },
   "50": {
     "id": 50,
@@ -563,7 +588,8 @@
         "play_33"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "51": {
     "id": 51,
@@ -584,7 +610,8 @@
         "play_27"
       ]
     ],
-    "total_occurences": "2"
+    "total_occurences": "2",
+    "occurs_in_xml": ""
   },
   "52": {
     "id": 52,
@@ -609,7 +636,8 @@
         "play_27"
       ]
     ],
-    "total_occurences": "2"
+    "total_occurences": "2",
+    "occurs_in_xml": ""
   },
   "53": {
     "id": 53,
@@ -638,7 +666,8 @@
         "play_63"
       ]
     ],
-    "total_occurences": "3"
+    "total_occurences": "3",
+    "occurs_in_xml": ""
   },
   "54": {
     "id": 54,
@@ -654,7 +683,8 @@
     "lat": "48.20883",
     "long": "16.36951",
     "mentioned_in": [],
-    "total_occurences": null
+    "total_occurences": null,
+    "occurs_in_xml": ""
   },
   "55": {
     "id": 55,
@@ -675,7 +705,8 @@
         "play_33"
       ]
     ],
-    "total_occurences": "1"
+    "total_occurences": "1",
+    "occurs_in_xml": ""
   },
   "57": {
     "id": 57,
@@ -700,7 +731,8 @@
         "play_50"
       ]
     ],
-    "total_occurences": "2"
+    "total_occurences": "2",
+    "occurs_in_xml": "nestroy_otherplace_id__57"
   },
   "58": {
     "id": 58,
@@ -716,6 +748,7 @@
     "lat": "47.80000",
     "long": "16.25000",
     "mentioned_in": [],
-    "total_occurences": null
+    "total_occurences": null,
+    "occurs_in_xml": ""
   }
 }
