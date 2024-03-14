@@ -127,7 +127,7 @@ def build_occurences_link(nestroy_id, number_of_occurences):
     if number_of_occurences == 0:
         return '<a href="#">0 occurences</a>'
     else:
-        return f'<a href="lemma/{nestroy_id}">{number_of_occurences} occurence(s)</a>'
+        return f'<a href="/lemma/{nestroy_id}">{number_of_occurences} occurence(s)</a>'
 
 def modify_fields_in_dump(
         json_file_path: str,
