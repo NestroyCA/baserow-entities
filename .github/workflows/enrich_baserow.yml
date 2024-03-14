@@ -20,11 +20,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: fetch lemmas in context
         run: |
-          curl --request GET \
-          --url 'https://raw.githubusercontent.com/NestroyCA/working-data/main/json/cleaned_lemma_context.json' \
-          --header "authorization: token $GITHUB_USER_TOKEN" \
-          -H 'Accept: application/vnd.github.v3.raw' \
-          -o ./json_dumps/lemma_context.json
+          ./fetch_lemmas.sh $GITHUB_USER_TOKEN
       - name: dump the data
         run: |
           python dump_data.py
