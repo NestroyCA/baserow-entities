@@ -20,7 +20,8 @@ def make_tabulator_data_entry(
         internal_id: str,
         mentions: list,
         alt_names: list,
-        total_occurences: int
+        total_occurences: int,
+        occurences_link: str
     ):
     """creates dict for row if name, lng, lat and mentions are True, else None"""
     if name and lng and lat and mentions:
@@ -37,7 +38,8 @@ def make_tabulator_data_entry(
             "internal_id": internal_id,
             "mentions": mentions if mentions else [],
             "alt_names": alt_names,
-            "total_occurences": total_occurences
+            "total_occurences": total_occurences,
+            "occurences_link": occurences_link
         }
     else:
         return None
@@ -52,7 +54,8 @@ def create_tabulator_data(
         internal_id_key: str,
         mentions_key: str,
         altnames_keys: list,
-        total_occurences_keys: str
+        total_occurences_keys: str,
+        occurences_link_key: str,
     ):
     tabulator_data_output_path = f"{json_file_path.removesuffix('.json')}_tabulator.json"
     tabulator_data = []
@@ -67,7 +70,8 @@ def create_tabulator_data(
                 internal_id=row[internal_id_key],
                 mentions=row[mentions_key],
                 alt_names=[row[altnames_key] for altnames_key in altnames_keys if row[altnames_key]],
-                total_occurences=row[total_occurences_keys] if row[total_occurences_keys] else 1
+                total_occurences=row[total_occurences_keys] if row[total_occurences_keys] else 1,
+                occurences_link=row[occurences_link_key] if row[occurences_link_key] else ""
             )
             if new_row is not None:
                 tabulator_data.append(new_row)
@@ -141,7 +145,7 @@ def modify_fields_in_dump(
     # apply changes
     for entity_id in json_data.keys():
         entity = json_data[entity_id]
-        entity["occurs_in_xml"] = ""
+        entity["occurences_link"] = ""
         if "nestroy_id" in entity:
             nestroy_id = entity["nestroy_id"]
             if nestroy_id in existing_lemmas:
@@ -151,7 +155,7 @@ def modify_fields_in_dump(
                         "matches" : current_value,
                         "index_name" : entity[index_name_key]
                     }
-                    entity["occurs_in_xml"] = nestroy_id
+                    entity["occurences_link"] = nestroy_id
                     existing_lemmas[nestroy_id] = new_value
         else:
             input(entity)
@@ -283,7 +287,8 @@ if __name__ == "__main__":
                 "alt_tokens",
                 "legacy"
             ],
-            total_occurences_keys="total_occurences"
+            total_occurences_keys="total_occurences",
+            occurences_link_key="occurences_link"
         )
     if os.path.isfile(vienna_places_filepath):
         test_2_fieldname = {
@@ -315,7 +320,8 @@ if __name__ == "__main__":
                 "variants",
                 "modern_name"
             ],
-            total_occurences_keys="total_occurences"
+            total_occurences_keys="total_occurences",
+            occurences_link_key="occurences_link"
         )
 
     with open(lemmas_filepath, "w") as lemmafile:
