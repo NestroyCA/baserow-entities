@@ -89,7 +89,7 @@
       "Br\u00fcckengasse"
     ],
     "total_occurences": "3",
-    "occurences_link": "<a href=\"lemma/nestroy_otherplace_id__5\">3 occurence(s)</a>"
+    "occurences_link": "<a href=\"/lemma/nestroy_otherplace_id__5\">3 occurence(s)</a>"
   },
   {
     "coordinates": {
@@ -131,7 +131,7 @@
     ],
     "alt_names": [],
     "total_occurences": "1",
-    "occurences_link": "<a href=\"lemma/nestroy_otherplace_id__7\">1 occurence(s)</a>"
+    "occurences_link": "<a href=\"/lemma/nestroy_otherplace_id__7\">1 occurence(s)</a>"
   },
   {
     "coordinates": {
@@ -319,7 +319,7 @@
     ],
     "alt_names": [],
     "total_occurences": "1",
-    "occurences_link": "<a href=\"lemma/nestroy_otherplace_id__29\">1 occurence(s)</a>"
+    "occurences_link": "<a href=\"/lemma/nestroy_otherplace_id__29\">1 occurence(s)</a>"
   },
   {
     "coordinates": {
@@ -646,6 +646,6 @@
       "Purkersdorf"
     ],
     "total_occurences": "2",
-    "occurences_link": "<a href=\"lemma/nestroy_otherplace_id__57\">1 occurence(s)</a>"
+    "occurences_link": "<a href=\"/lemma/nestroy_otherplace_id__57\">1 occurence(s)</a>"
   }
 ]
