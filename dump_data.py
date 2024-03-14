@@ -123,6 +123,11 @@ def delete_rows_in_dump(json_file_path: str, test_2_fieldname: dict):
         json.dump(json_data, outfile, indent=2)
     return json_file_path
 
+def build_occurences_link(nestroy_id, number_of_occurences):
+    if number_of_occurences == 0:
+        return '<a href="#">0 occurences</a>'
+    else:
+        return f'<a href="lemma/{nestroy_id}">{number_of_occurences} occurence(s)</a>'
 
 def modify_fields_in_dump(
         json_file_path: str,
@@ -155,7 +160,9 @@ def modify_fields_in_dump(
                         "matches" : current_value,
                         "index_name" : entity[index_name_key]
                     }
-                    entity["occurences_link"] = nestroy_id
+                    entity["occurences_link"] = build_occurences_link(
+                        nestroy_id, len(current_value)
+                    )
                     existing_lemmas[nestroy_id] = new_value
         else:
             input(entity)
