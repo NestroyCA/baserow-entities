@@ -1,4 +1,3 @@
-from copy import deepcopy
 import os
 import json
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
