@@ -5,21 +5,6 @@
         "entity_id": "nestroy_otherplace_id__18",
         "play_id": "",
         "lemma": "Landstra\u00dfe",
-        "text_snipped": "Hm, meine Mimen haben heut allerdings gro\u00dfe Fortschritte gethan auf der Bahn der <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Landstra\u00dfe</span> \u2013 man gebe ihnen einiges Bier.",
-        "play_title": "ZWEY EWIGE JUDEN UND KEINER",
-        "play_subtitle": "Burleske in 2 Acten",
-        "act": [
-          "I. ACT"
-        ],
-        "scene": [
-          "17te Scene"
-        ],
-        "bibl": "ZWEY EWIGE JUDEN UND KEINER. Burleske in 2 Acten. I. ACT, 17te Scene."
-      },
-      {
-        "entity_id": "nestroy_otherplace_id__18",
-        "play_id": "",
-        "lemma": "Landstra\u00dfe",
         "text_snipped": "\u2026 Decoration \u00b7 vor. Mit der Verwandlung endet die Tanzmusick. VERWANDLUNG Kurze freye Wintergegend, die <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Landstra\u00dfe</span> vorstellend, dicht am Eingang des Stadtthores. Lincks eine h\u00f6lzerne Banck. Innerhalb des Thores sieht man  \u2026",
         "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
         "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
@@ -30,6 +15,21 @@
           "3te Scene"
         ],
         "bibl": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER. Faschings-Posse in 3 Aufz\u00fcgen. 1ster ACT, 3te Scene."
+      },
+      {
+        "entity_id": "nestroy_otherplace_id__18",
+        "play_id": "",
+        "lemma": "Landstra\u00dfe",
+        "text_snipped": "Hm, meine Mimen haben heut allerdings gro\u00dfe Fortschritte gethan auf der Bahn der <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Landstra\u00dfe</span> \u2013 man gebe ihnen einiges Bier.",
+        "play_title": "ZWEY EWIGE JUDEN UND KEINER",
+        "play_subtitle": "Burleske in 2 Acten",
+        "act": [
+          "I. ACT"
+        ],
+        "scene": [
+          "17te Scene"
+        ],
+        "bibl": "ZWEY EWIGE JUDEN UND KEINER. Burleske in 2 Acten. I. ACT, 17te Scene."
       }
     ],
     "index_name": "Landstra\u00dfe"
@@ -148,21 +148,6 @@
         "entity_id": "nestroy_person_id__11",
         "play_id": "",
         "lemma": "Belisar",
-        "text_snipped": "\u2026 s sicherste Verfahren, ihr Herz in Gefahr zu bringen. LIPS. Mit einem Wort, Sie wurden geblendet, ohne weder Fink noch <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Belisar</span> zu sein. MADAME SCHLEIER. Die Equipage war ausgeliehen, \u2013 das Verm\u00f6g \u2026",
-        "play_title": "Der Zerrissene",
-        "play_subtitle": "Posse mit Gesang in drei Aufz\u00fcgen",
-        "act": [
-          "Erster Aufzug"
-        ],
-        "scene": [
-          "Neunter Auftritt"
-        ],
-        "bibl": "Der Zerrissene. Posse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Neunter Auftritt."
-      },
-      {
-        "entity_id": "nestroy_person_id__11",
-        "play_id": "",
-        "lemma": "Belisar",
         "text_snipped": "Oh, nein, die Geschichte spricht daf\u00fcr. Da war zum Beispiel ein gewisser <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Belisar</span>, von dem haben S' g'wi\u00df g'h\u00f6rt?",
         "play_title": "Der Talisman",
         "play_subtitle": "Posse mit Gesang in drei Aufz\u00fcgen",
@@ -188,6 +173,21 @@
           "Achtzehnter Auftritt"
         ],
         "bibl": "Der Talisman. Posse mit Gesang in drei Aufz\u00fcgen. Dritter Aufzug, Achtzehnter Auftritt."
+      },
+      {
+        "entity_id": "nestroy_person_id__11",
+        "play_id": "",
+        "lemma": "Belisar",
+        "text_snipped": "\u2026 s sicherste Verfahren, ihr Herz in Gefahr zu bringen. LIPS. Mit einem Wort, Sie wurden geblendet, ohne weder Fink noch <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Belisar</span> zu sein. MADAME SCHLEIER. Die Equipage war ausgeliehen, \u2013 das Verm\u00f6g \u2026",
+        "play_title": "Der Zerrissene",
+        "play_subtitle": "Posse mit Gesang in drei Aufz\u00fcgen",
+        "act": [
+          "Erster Aufzug"
+        ],
+        "scene": [
+          "Neunter Auftritt"
+        ],
+        "bibl": "Der Zerrissene. Posse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Neunter Auftritt."
       }
     ],
     "index_name": "Belisar"
@@ -916,6 +916,19 @@
         "entity_id": "nestroy_place_id__102",
         "play_id": "",
         "lemma": "Neapel",
+        "text_snipped": "Alles Sollt Ihr erfahren, jetzt vernehmt nur, da\u00df die Gnade Des K\u00f6nigs von <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Neapel</span>, mich zum Obersten Ernannt, und auf mein Wort Euch zum Capit\u00e4n Der Garde.",
+        "play_title": "PRINZ FRIEDRICH",
+        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
+        "act": [
+          "VIERTER AKT"
+        ],
+        "scene": [],
+        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. VIERTER AKT."
+      },
+      {
+        "entity_id": "nestroy_place_id__102",
+        "play_id": "",
+        "lemma": "Neapel",
         "text_snipped": "\u00dcberall, in London, Paris, Stockerau, <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Neapel</span>, Konstantinopel, Adrianopel und noch ein paar Opl hab' ich sprechen geh\u00f6rt von der sch\u00f6nen M\u00fcndel des M\u00fcllers Mehlwurm in Nelkenstein.",
         "play_title": "Eulenspiegel oder Schabernack \u00fcber Schabernack",
         "play_subtitle": "Posse mit Gesang in vier Akten",
@@ -946,21 +959,6 @@
         "entity_id": "nestroy_place_id__102",
         "play_id": "",
         "lemma": "Neapel",
-        "text_snipped": "Das is a dalkete Red'! Das w\u00e4r' sehr traurig, wenn der Unbedeutende nicht auch Anspruch auf ein braves M\u00e4dl h\u00e4tt'; und bei diesem Anspruch bescheiden sein, w\u00e4r' eher eine Niedertr\u00e4chtigkeit als eine Tugend. In gar vielem kann und soll sich der Mensch behelfen, sich mit dem Minderen begn\u00fcgen, wenn er 's Bessere nicht haben kann. Wer's auf kein' Paperl bringt, der spendiert sich zwei Laubfr\u00f6sch' vors Fenster \u2013 wer kein'n Kammerdiener hat, kauft sich ein' Stiefelknecht um sechs Groschen \u2013 wer nicht als nobler Kridatar auf seine neugekaufte Villa in d' Schweiz kann fahren, der geht dem Schuster mit a paar Juchtene durch \u2013 wer eine <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Neapel</span>reis' z'kostspielig find't, um den feuerspeienden Vesuv zu sehen, der schaut sich um a zornige Kr\u00e4utlerin um \u2013 kurz, f\u00fcr alles hat der Geringere ein Surrogat und kann das Echte dem H\u00f6hern \u00fcberlassen; \u2013 aber was den Punkt der Familienehre betrifft, da steht der Unbedeutende dem Gr\u00f6\u00dften gleich und hat ebensogut das Recht, das Makelloseste zu begehren. Jetzt komm auf a Glas Wein.",
-        "play_title": "Der Unbedeutende",
-        "play_subtitle": "Posse mit Gesang in drei Akten",
-        "act": [
-          "Erster Akt"
-        ],
-        "scene": [
-          "Vierzehnte Szene"
-        ],
-        "bibl": "Der Unbedeutende. Posse mit Gesang in drei Akten. Erster Akt, Vierzehnte Szene."
-      },
-      {
-        "entity_id": "nestroy_place_id__102",
-        "play_id": "",
-        "lemma": "Neapel",
         "text_snipped": "\u2026  zum zahln, Die thun s\u2019 nit mit anbrennte Kampelz\u00e4hn mahln. 2. Ich geh mit der meinigen jetzt nach <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Neapel</span>. Dort kauf i ihr ein Schahl, und sie kauft mir a Kappel. Da  \u2026",
         "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
         "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
@@ -976,14 +974,16 @@
         "entity_id": "nestroy_place_id__102",
         "play_id": "",
         "lemma": "Neapel",
-        "text_snipped": "Alles Sollt Ihr erfahren, jetzt vernehmt nur, da\u00df die Gnade Des K\u00f6nigs von <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Neapel</span>, mich zum Obersten Ernannt, und auf mein Wort Euch zum Capit\u00e4n Der Garde.",
-        "play_title": "PRINZ FRIEDRICH",
-        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
+        "text_snipped": "Das is a dalkete Red'! Das w\u00e4r' sehr traurig, wenn der Unbedeutende nicht auch Anspruch auf ein braves M\u00e4dl h\u00e4tt'; und bei diesem Anspruch bescheiden sein, w\u00e4r' eher eine Niedertr\u00e4chtigkeit als eine Tugend. In gar vielem kann und soll sich der Mensch behelfen, sich mit dem Minderen begn\u00fcgen, wenn er 's Bessere nicht haben kann. Wer's auf kein' Paperl bringt, der spendiert sich zwei Laubfr\u00f6sch' vors Fenster \u2013 wer kein'n Kammerdiener hat, kauft sich ein' Stiefelknecht um sechs Groschen \u2013 wer nicht als nobler Kridatar auf seine neugekaufte Villa in d' Schweiz kann fahren, der geht dem Schuster mit a paar Juchtene durch \u2013 wer eine <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Neapel</span>reis' z'kostspielig find't, um den feuerspeienden Vesuv zu sehen, der schaut sich um a zornige Kr\u00e4utlerin um \u2013 kurz, f\u00fcr alles hat der Geringere ein Surrogat und kann das Echte dem H\u00f6hern \u00fcberlassen; \u2013 aber was den Punkt der Familienehre betrifft, da steht der Unbedeutende dem Gr\u00f6\u00dften gleich und hat ebensogut das Recht, das Makelloseste zu begehren. Jetzt komm auf a Glas Wein.",
+        "play_title": "Der Unbedeutende",
+        "play_subtitle": "Posse mit Gesang in drei Akten",
         "act": [
-          "VIERTER AKT"
+          "Erster Akt"
         ],
-        "scene": [],
-        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. VIERTER AKT."
+        "scene": [
+          "Vierzehnte Szene"
+        ],
+        "bibl": "Der Unbedeutende. Posse mit Gesang in drei Akten. Erster Akt, Vierzehnte Szene."
       }
     ],
     "index_name": "Neapel  "
@@ -1168,6 +1168,45 @@
         "entity_id": "nestroy_place_id__113",
         "play_id": "",
         "lemma": "Paris",
+        "text_snipped": "Nun wollte als verlor\u2019ner Sohn ich in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span> zu den F\u00fc\u00dfen meiner Mutter mich werfen, da ward mir gesteckt, da\u00df mir der K\u00f6nig frei Quartier in der Bastille zu geben willens sei.",
+        "play_title": "PRINZ FRIEDRICH",
+        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
+        "act": [
+          "DRITTER AKT"
+        ],
+        "scene": [],
+        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. DRITTER AKT."
+      },
+      {
+        "entity_id": "nestroy_place_id__113",
+        "play_id": "",
+        "lemma": "Paris",
+        "text_snipped": "Nun sah ich wohl, da\u00df kl\u00fcglich ich das Weite suchen m\u00fc\u00dfte, da schickte meine Mutter mich in Ambassade an Euren Vater ; ich gehorchte seufzend und verlie\u00df das g\u00f6ttliche <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span>.",
+        "play_title": "PRINZ FRIEDRICH",
+        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
+        "act": [
+          "DRITTER AKT"
+        ],
+        "scene": [],
+        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. DRITTER AKT."
+      },
+      {
+        "entity_id": "nestroy_place_id__113",
+        "play_id": "",
+        "lemma": "Paris",
+        "text_snipped": "Nehmt das so hoch nicht, Vetter, glaubt, ich habe wahrlich nichts profitiert bei diesem Tausch ; man lebt als Leutnant im herrlichen <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span> viel besser als bei Euch als Prinz.",
+        "play_title": "PRINZ FRIEDRICH",
+        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
+        "act": [
+          "DRITTER AKT"
+        ],
+        "scene": [],
+        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. DRITTER AKT."
+      },
+      {
+        "entity_id": "nestroy_place_id__113",
+        "play_id": "",
+        "lemma": "Paris",
         "text_snipped": "\u00dcberall, in London, <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span>, Stockerau, Neapel, Konstantinopel, Adrianopel und noch ein paar Opl hab' ich sprechen geh\u00f6rt von der sch\u00f6nen M\u00fcndel des M\u00fcllers Mehlwurm in Nelkenstein.",
         "play_title": "Eulenspiegel oder Schabernack \u00fcber Schabernack",
         "play_subtitle": "Posse mit Gesang in vier Akten",
@@ -1178,6 +1217,36 @@
           " Sechzehnter Auftritt"
         ],
         "bibl": "Eulenspiegel oder Schabernack \u00fcber Schabernack. Posse mit Gesang in vier Akten. Erster Aufzug,  Sechzehnter Auftritt."
+      },
+      {
+        "entity_id": "nestroy_place_id__113",
+        "play_id": "",
+        "lemma": "Paris",
+        "text_snipped": "Ich bin ein <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span>er",
+        "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
+        "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
+        "act": [
+          "2ter ACT"
+        ],
+        "scene": [
+          "9te Scene"
+        ],
+        "bibl": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER. Faschings-Posse in 3 Aufz\u00fcgen. 2ter ACT, 9te Scene."
+      },
+      {
+        "entity_id": "nestroy_place_id__113",
+        "play_id": "",
+        "lemma": "Paris",
+        "text_snipped": "Der Grund meines Besuches ist eigentlich der, ich ziehe mit meiner Gemahlinn nach <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span> zur\u00fcck, und da wollt ich Ihnen meine \u00b7 villa \u00b7 zum Verkauf anbiethen.",
+        "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
+        "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
+        "act": [
+          "2ter ACT"
+        ],
+        "scene": [
+          "10te Scene"
+        ],
+        "bibl": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER. Faschings-Posse in 3 Aufz\u00fcgen. 2ter ACT, 10te Scene."
       },
       {
         "entity_id": "nestroy_place_id__113",
@@ -1223,75 +1292,6 @@
           "5te Scene"
         ],
         "bibl": "ZWEY EWIGE JUDEN UND KEINER. Burleske in 2 Acten. I. ACT, 5te Scene."
-      },
-      {
-        "entity_id": "nestroy_place_id__113",
-        "play_id": "",
-        "lemma": "Paris",
-        "text_snipped": "Ich bin ein <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span>er",
-        "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
-        "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
-        "act": [
-          "2ter ACT"
-        ],
-        "scene": [
-          "9te Scene"
-        ],
-        "bibl": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER. Faschings-Posse in 3 Aufz\u00fcgen. 2ter ACT, 9te Scene."
-      },
-      {
-        "entity_id": "nestroy_place_id__113",
-        "play_id": "",
-        "lemma": "Paris",
-        "text_snipped": "Der Grund meines Besuches ist eigentlich der, ich ziehe mit meiner Gemahlinn nach <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span> zur\u00fcck, und da wollt ich Ihnen meine \u00b7 villa \u00b7 zum Verkauf anbiethen.",
-        "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
-        "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
-        "act": [
-          "2ter ACT"
-        ],
-        "scene": [
-          "10te Scene"
-        ],
-        "bibl": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER. Faschings-Posse in 3 Aufz\u00fcgen. 2ter ACT, 10te Scene."
-      },
-      {
-        "entity_id": "nestroy_place_id__113",
-        "play_id": "",
-        "lemma": "Paris",
-        "text_snipped": "Nun wollte als verlor\u2019ner Sohn ich in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span> zu den F\u00fc\u00dfen meiner Mutter mich werfen, da ward mir gesteckt, da\u00df mir der K\u00f6nig frei Quartier in der Bastille zu geben willens sei.",
-        "play_title": "PRINZ FRIEDRICH",
-        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
-        "act": [
-          "DRITTER AKT"
-        ],
-        "scene": [],
-        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. DRITTER AKT."
-      },
-      {
-        "entity_id": "nestroy_place_id__113",
-        "play_id": "",
-        "lemma": "Paris",
-        "text_snipped": "Nun sah ich wohl, da\u00df kl\u00fcglich ich das Weite suchen m\u00fc\u00dfte, da schickte meine Mutter mich in Ambassade an Euren Vater ; ich gehorchte seufzend und verlie\u00df das g\u00f6ttliche <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span>.",
-        "play_title": "PRINZ FRIEDRICH",
-        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
-        "act": [
-          "DRITTER AKT"
-        ],
-        "scene": [],
-        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. DRITTER AKT."
-      },
-      {
-        "entity_id": "nestroy_place_id__113",
-        "play_id": "",
-        "lemma": "Paris",
-        "text_snipped": "Nehmt das so hoch nicht, Vetter, glaubt, ich habe wahrlich nichts profitiert bei diesem Tausch ; man lebt als Leutnant im herrlichen <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Paris</span> viel besser als bei Euch als Prinz.",
-        "play_title": "PRINZ FRIEDRICH",
-        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
-        "act": [
-          "DRITTER AKT"
-        ],
-        "scene": [],
-        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. DRITTER AKT."
       }
     ],
     "index_name": "Paris "
@@ -1581,19 +1581,6 @@
         "entity_id": "nestroy_place_id__128",
         "play_id": "",
         "lemma": "Salzburg",
-        "text_snipped": "\u2026 ille STANISLAUS sieht in die Kappe und antwortet dann rasch K\u00e4rnthen, Krain, G\u00f6rz, <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Salzburg</span> und die Windische Mark. WILLIBALD kichert schadenfroh WICHTIG Verdammt \u2013 mir schein \u2026",
-        "play_title": "DIE SCHLIMMEN BUBEN IN DER SCHULE",
-        "play_subtitle": "Burleske mit Gesang in 1 Acte",
-        "act": [],
-        "scene": [
-          "24te Scene"
-        ],
-        "bibl": "DIE SCHLIMMEN BUBEN IN DER SCHULE. Burleske mit Gesang in 1 Acte. 24te Scene."
-      },
-      {
-        "entity_id": "nestroy_place_id__128",
-        "play_id": "",
-        "lemma": "Salzburg",
         "text_snipped": "Ich hab ja ein Rausch g\u2019habt, also kann ich nix davor, in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Salzburg</span> hab ich \u00fcber die <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Salzburg</span>er g\u2019schimpft, und bey diesem Wortwechsel hab ich ein einen Arm ausdr\u00e4ht, das hat mir viel Verdr\u00fc\u00dflichkeiten gmacht.",
         "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
         "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
@@ -1604,6 +1591,19 @@
           "7te Scene"
         ],
         "bibl": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER. Faschings-Posse in 3 Aufz\u00fcgen. 1ster ACT, 7te Scene."
+      },
+      {
+        "entity_id": "nestroy_place_id__128",
+        "play_id": "",
+        "lemma": "Salzburg",
+        "text_snipped": "\u2026 ille STANISLAUS sieht in die Kappe und antwortet dann rasch K\u00e4rnthen, Krain, G\u00f6rz, <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Salzburg</span> und die Windische Mark. WILLIBALD kichert schadenfroh WICHTIG Verdammt \u2013 mir schein \u2026",
+        "play_title": "DIE SCHLIMMEN BUBEN IN DER SCHULE",
+        "play_subtitle": "Burleske mit Gesang in 1 Acte",
+        "act": [],
+        "scene": [
+          "24te Scene"
+        ],
+        "bibl": "DIE SCHLIMMEN BUBEN IN DER SCHULE. Burleske mit Gesang in 1 Acte. 24te Scene."
       }
     ],
     "index_name": "Salzburg"
@@ -1832,6 +1832,107 @@
         "entity_id": "nestroy_place_id__155",
         "play_id": "",
         "lemma": "Wien",
+        "text_snipped": "\u2026 e? \u2013 ZWIRN. Nein, nein \u2013 er fragt, ob sie Batzen hat. LEIM. Geld? \u2013 Freilich hat s' Geld. Sie ist die Tochter vom reichen Meister Hobelmann in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span>. ZWIRN. Von dem? \u2013 Schuster, den reichen Tischlermeister Hob \u2026",
+        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
+        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
+        "act": [
+          "Erster Aufzug"
+        ],
+        "scene": [
+          "Sechster Auftritt"
+        ],
+        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Sechster Auftritt."
+      },
+      {
+        "entity_id": "nestroy_place_id__155",
+        "play_id": "",
+        "lemma": "Wien",
+        "text_snipped": "Wart, ich werd' dir gleich draufhelfen. Der reiche Tischler Hobelmann logiert in \u2013 \u2013 in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> logiert er. \u2013 Du kennst den reichen Tischler Hobelmann nicht?",
+        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
+        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
+        "act": [
+          "Erster Aufzug"
+        ],
+        "scene": [
+          "Sechster Auftritt"
+        ],
+        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Sechster Auftritt."
+      },
+      {
+        "entity_id": "nestroy_place_id__155",
+        "play_id": "",
+        "lemma": "Wien",
+        "text_snipped": "Ich reis' nach <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> morgen in aller Fr\u00fch; find' ich meine Peppi noch ledig, so bin ich der gl\u00fccklichste Mensch auf der Welt; ist sie verheiratet, dann nutzt mich mein ganzer Reichtum nichts \u2013 da geh' ich dann nach Haus, bau' ein Spital f\u00fcr ungl\u00fcckliche Tischlergesellen, und da leg' ich zuerst mich selber hinein, und stirb auch drin.",
+        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
+        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
+        "act": [
+          "Erster Aufzug"
+        ],
+        "scene": [
+          "Zehnter Auftritt"
+        ],
+        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Zehnter Auftritt."
+      },
+      {
+        "entity_id": "nestroy_place_id__155",
+        "play_id": "",
+        "lemma": "Wien",
+        "text_snipped": "Und heut \u00fcbers Jahr, am heutigen Tag, an dem Ged\u00e4chtnistag unsers Gl\u00fccks, kommen wir alle drei in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> zusammen beim Meister Hobelmann, dort bin ich entweder gl\u00fccklich, oder ihr erfahrt, wo ich in meinem Ungl\u00fcck zu finden bin.",
+        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
+        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
+        "act": [
+          "Erster Aufzug"
+        ],
+        "scene": [
+          "Zehnter Auftritt"
+        ],
+        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Zehnter Auftritt."
+      },
+      {
+        "entity_id": "nestroy_place_id__155",
+        "play_id": "",
+        "lemma": "Wien",
+        "text_snipped": "\u00bbIch habe vor vier Monaten, wie ich von <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> fort bin, Herrn Hobelmann hundert Taler zur\u00fccklassen \u2013\u00ab",
+        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
+        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
+        "act": [
+          "Dritter Aufzug"
+        ],
+        "scene": [
+          "Vierter Auftritt"
+        ],
+        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Dritter Aufzug, Vierter Auftritt."
+      },
+      {
+        "entity_id": "nestroy_place_id__155",
+        "play_id": "",
+        "lemma": "Wien",
+        "text_snipped": "Und sonst haben sie keine Schmerzen? Geh zu ihrem Oberpriester, er soll seinem Gott melden, der Holofernes is da, mit so einen Helden hat er's noch nie zu tun g'habt, da is in ganz <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span>, will ich sagen, in ganz Assyrien keiner, der mir 's Wasser reicht. Der Gesandte ab. Und ihr meine Getreuen folgt mir in den Kampf, man sattle mir das buckligste meiner Kamele, auf nach \u2013 nach \u2013 wie hei\u00dft das Nest \u2013?",
+        "play_title": "Judith und Holofernes",
+        "play_subtitle": "Travestie in einem Akt",
+        "act": [],
+        "scene": [
+          "Neunte Szene"
+        ],
+        "bibl": "Judith und Holofernes. Travestie in einem Akt. Neunte Szene."
+      },
+      {
+        "entity_id": "nestroy_place_id__155",
+        "play_id": "",
+        "lemma": "Wien",
+        "text_snipped": "Die Weltgeschichte theilt man ein in die alte und in die neue; beyde unterscheiden sich wesentlich von einander. <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> zum Beyspiel war vor 2000 Jahren eine kleine r\u00f6mische Stadt, hatte wohl r\u00f6mische Kultur aber noch keine Vorst\u00e4dte; Spittelberg, Lichtenthal, Hundsthurm und Lerchenfeld wurden erst in den Zeiten der Aufkl\u00e4rung hinzugebaut \u2013 In der alten Geschichte hat <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> Vindobona gehei\u00dfen, und Vasen und Urnen hat es in \u00dcberflu\u00df gegeben, in der neuen Geschichte hei\u00dft es <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span>, und Heferln Reindln und Schaffeln werden auf\u2019n Stephansplatz verkauft. In noch \u00e4lterer Zeit war <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> ein Wald und wahrscheinlich zur Ged\u00e4chtni\u00dffeyer wird noch jetzt in der K\u00e4rnthnerstra\u00dfen Holz gehackt. \u00dcberhaupt haben sich die Zeiten sehr ge\u00e4ndert. In der alten Zeit hat es R\u00f6mer und Griechen gegeben, in der neuen Zeit haben wir Salamim\u00e4nner und Ratzen. In der alten Zeit hat es trojanische punische und andere Kriege gegeben, an denen jeder ehrenwerthe Staatsb\u00fcrger Theil nehmen mu\u00dfte, in der neuen Zeit haben sie Federkriege in die sich kein honetter Mensch einlassen kann. Warum aber diese neue Zeit, die Zeit des Fortschrittes genannt wird, das is die einzige Frag, wo ich keine Antwort drauf wei\u00df.",
+        "play_title": "DIE SCHLIMMEN BUBEN IN DER SCHULE",
+        "play_subtitle": "Burleske mit Gesang in 1 Acte",
+        "act": [],
+        "scene": [
+          "10te Scene"
+        ],
+        "bibl": "DIE SCHLIMMEN BUBEN IN DER SCHULE. Burleske mit Gesang in 1 Acte. 10te Scene."
+      },
+      {
+        "entity_id": "nestroy_place_id__155",
+        "play_id": "",
+        "lemma": "Wien",
         "text_snipped": "Aus dem glorreichen freiheitstrahlenden \u00d6sterreich f\u00fchrt mich mein finsteres Schicksal nach Kr\u00e4hwinkel her. Nach Kr\u00e4hwinkel, wo s' noch mit die physischen Z\u00f6pf paradieren, folglich von der Abschneidungsnotwendigkeit der moralischen keine Ahnung haben. Nach Kr\u00e4hwinkel, wo man von Recht und Freiheit als wie von chim\u00e4risch blitzblaue Spatzen redt. Is uns aber auch nit viel besser gangen, und zwar aus dem n\u00e4mlichen Grund; Recht und Freiheit sind ein paar bedeutungsvolle Worte, aber nur in der einfachen Zahl unendlich gro\u00df, drum hat man sie uns auch immer nur in der wertlosen vielfachen Zahl gegeben. Das klingt wie ein mathematischer Unsinn, und is doch die evidenteste Wahrheit. Es is grad wie manche Frau, die sehr viele Tugenden hat. Sie hat einen freundlichen Humor, und brummt nicht, wenn der Mann ausgeht, \u2013 das is eine Tugend \u2013 sie ist geistreich \u2013 das is eine Tugend, \u2013 sie hat ein gutes Herz, das ist eine Tugend, sie bringt die f\u00fcnfte Schale Kaffee schon schwer hinunter, das is auch eine Tugend, und trotz so vielen ihr innewohnenden Tugenden, is doch Tugend bei ihr nicht zu Haus; grad so is's uns mit Freiheit und Recht ergangen. Was f\u00fcr eine Menge Rechte haben wir g'habt, diese Rechte der Geburt, die Rechte und Vorrechte des Standes, dann das h\u00f6chste unter allen Rechten, das Bergrecht, dann das niedrigste unter allen Rechten, das Recht, da\u00df man selbst bei erwiesener Zahlungsunf\u00e4higkeit und Armut einen einsperren lassen kann. Wir haben ferner das Recht g'habt, nach erlangter Bewilligung Diplome von gelehrten Gesellschaften anzunehmen. Sogar mit hoher Genehmigung das Recht, ausl\u00e4ndische Courtoisie-Orden zu tragen. Und trotz all diesen unsch\u00e4tzbaren Rechten, haben wir doch kein Recht g'habt, weil wir Sklaven waren. Was haben wir ferner alles f\u00fcr Freiheiten g'habt. \u00dcberall auf'n Land und in den St\u00e4dten zu gewissen Zeiten Marktfreiheit. Auch in der Residenz war Freiheit, in die Redoutens\u00e4le n\u00e4mlich, die Maskenfreiheit, noch mehr Freiheit in die Kaffeeh\u00e4user, wenn sich ein Nichtsverzehrender ang'lehnt und die Pyramidler geniert hat, hat der Mark\u00f6r laut und \u00f6ffentlich g'schrien: Billardfreiheit. Wir haben sogar Gedankenfreiheit g'habt, insofern wir die Gedanken bei uns behalten haben. Es war n\u00e4mlich f\u00fcr die Gedanken eine Art Hundsverordnung. Man hat s' haben d\u00fcrfen, aber am Schn\u00fcrl f\u00fchren, wie man s' loslassen hat, haben s' einem s' erschlagen. Mit einem Wort, wir haben eine Menge Freiheiten gehabt, aber von Freiheit keine Spur. Na, das is anders geworden, und wird auch in Kr\u00e4hwinkel anders werden. Wahrscheinlich werden dann von die Kr\u00e4hwinkler viele so engherzig sein und nach Zersprengung ihrer Ketten, ohne gerade Reaktion\u00e4r' zu sein, dennoch kleinm\u00fctig zum raunzen anfangen: O mein Gott, fr\u00fcher is es halt doch besser gewesen, \u2013 und schon das ganze Leben jetzt \u2013 und diese Sachen alle \u2013 aber das macht nichts, man hat ja selbst in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> \u00e4hnliche R\u00e4sonnements geh\u00f6rt. Und sonderbar, gerade die, die es am schwersten betrifft, verhalten sich am ruhigsten dabei. Das sind die Hebammen und die Dichter; f\u00fcr die Hebammen kann das gewi\u00df nicht angenehm sein, da\u00df jetzt die Geburt nix mehr gilt, und die Dichter haben ihre beliebteste Ausred eingeb\u00fc\u00dft. Es war halt eine sch\u00f6ne Sach', wenn einem nichts eing'fallen is, und man hat zu die Leut sagen k\u00f6nnen: Ach Gott! es is schrecklich, sie verbieten einem ja alles. Das fallt jetzt weg, und aus dem Grund, und aus vielen andern Gr\u00fcnden, \u2013 ah mein Prinzipal \u2013",
         "play_title": "Freiheit in Kr\u00e4hwinkel",
         "play_subtitle": "Posse mit Gesang in zwei Abteilungen und drei Aufz\u00fcgen",
@@ -1947,107 +2048,6 @@
           "Achtzehnter Auftritt"
         ],
         "bibl": "Freiheit in Kr\u00e4hwinkel. Posse mit Gesang in zwei Abteilungen und drei Aufz\u00fcgen. Dritter Aufzug, Achtzehnter Auftritt."
-      },
-      {
-        "entity_id": "nestroy_place_id__155",
-        "play_id": "",
-        "lemma": "Wien",
-        "text_snipped": "\u2026 e? \u2013 ZWIRN. Nein, nein \u2013 er fragt, ob sie Batzen hat. LEIM. Geld? \u2013 Freilich hat s' Geld. Sie ist die Tochter vom reichen Meister Hobelmann in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span>. ZWIRN. Von dem? \u2013 Schuster, den reichen Tischlermeister Hob \u2026",
-        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
-        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
-        "act": [
-          "Erster Aufzug"
-        ],
-        "scene": [
-          "Sechster Auftritt"
-        ],
-        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Sechster Auftritt."
-      },
-      {
-        "entity_id": "nestroy_place_id__155",
-        "play_id": "",
-        "lemma": "Wien",
-        "text_snipped": "Wart, ich werd' dir gleich draufhelfen. Der reiche Tischler Hobelmann logiert in \u2013 \u2013 in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> logiert er. \u2013 Du kennst den reichen Tischler Hobelmann nicht?",
-        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
-        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
-        "act": [
-          "Erster Aufzug"
-        ],
-        "scene": [
-          "Sechster Auftritt"
-        ],
-        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Sechster Auftritt."
-      },
-      {
-        "entity_id": "nestroy_place_id__155",
-        "play_id": "",
-        "lemma": "Wien",
-        "text_snipped": "Ich reis' nach <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> morgen in aller Fr\u00fch; find' ich meine Peppi noch ledig, so bin ich der gl\u00fccklichste Mensch auf der Welt; ist sie verheiratet, dann nutzt mich mein ganzer Reichtum nichts \u2013 da geh' ich dann nach Haus, bau' ein Spital f\u00fcr ungl\u00fcckliche Tischlergesellen, und da leg' ich zuerst mich selber hinein, und stirb auch drin.",
-        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
-        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
-        "act": [
-          "Erster Aufzug"
-        ],
-        "scene": [
-          "Zehnter Auftritt"
-        ],
-        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Zehnter Auftritt."
-      },
-      {
-        "entity_id": "nestroy_place_id__155",
-        "play_id": "",
-        "lemma": "Wien",
-        "text_snipped": "Und heut \u00fcbers Jahr, am heutigen Tag, an dem Ged\u00e4chtnistag unsers Gl\u00fccks, kommen wir alle drei in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> zusammen beim Meister Hobelmann, dort bin ich entweder gl\u00fccklich, oder ihr erfahrt, wo ich in meinem Ungl\u00fcck zu finden bin.",
-        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
-        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
-        "act": [
-          "Erster Aufzug"
-        ],
-        "scene": [
-          "Zehnter Auftritt"
-        ],
-        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Zehnter Auftritt."
-      },
-      {
-        "entity_id": "nestroy_place_id__155",
-        "play_id": "",
-        "lemma": "Wien",
-        "text_snipped": "\u00bbIch habe vor vier Monaten, wie ich von <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> fort bin, Herrn Hobelmann hundert Taler zur\u00fccklassen \u2013\u00ab",
-        "play_title": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt",
-        "play_subtitle": "Zauberposse mit Gesang in drei Aufz\u00fcgen",
-        "act": [
-          "Dritter Aufzug"
-        ],
-        "scene": [
-          "Vierter Auftritt"
-        ],
-        "bibl": "Der b\u00f6se Geist Lumpazivagabundus oder Das liederliche Kleeblatt. Zauberposse mit Gesang in drei Aufz\u00fcgen. Dritter Aufzug, Vierter Auftritt."
-      },
-      {
-        "entity_id": "nestroy_place_id__155",
-        "play_id": "",
-        "lemma": "Wien",
-        "text_snipped": "Die Weltgeschichte theilt man ein in die alte und in die neue; beyde unterscheiden sich wesentlich von einander. <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> zum Beyspiel war vor 2000 Jahren eine kleine r\u00f6mische Stadt, hatte wohl r\u00f6mische Kultur aber noch keine Vorst\u00e4dte; Spittelberg, Lichtenthal, Hundsthurm und Lerchenfeld wurden erst in den Zeiten der Aufkl\u00e4rung hinzugebaut \u2013 In der alten Geschichte hat <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> Vindobona gehei\u00dfen, und Vasen und Urnen hat es in \u00dcberflu\u00df gegeben, in der neuen Geschichte hei\u00dft es <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span>, und Heferln Reindln und Schaffeln werden auf\u2019n Stephansplatz verkauft. In noch \u00e4lterer Zeit war <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span> ein Wald und wahrscheinlich zur Ged\u00e4chtni\u00dffeyer wird noch jetzt in der K\u00e4rnthnerstra\u00dfen Holz gehackt. \u00dcberhaupt haben sich die Zeiten sehr ge\u00e4ndert. In der alten Zeit hat es R\u00f6mer und Griechen gegeben, in der neuen Zeit haben wir Salamim\u00e4nner und Ratzen. In der alten Zeit hat es trojanische punische und andere Kriege gegeben, an denen jeder ehrenwerthe Staatsb\u00fcrger Theil nehmen mu\u00dfte, in der neuen Zeit haben sie Federkriege in die sich kein honetter Mensch einlassen kann. Warum aber diese neue Zeit, die Zeit des Fortschrittes genannt wird, das is die einzige Frag, wo ich keine Antwort drauf wei\u00df.",
-        "play_title": "DIE SCHLIMMEN BUBEN IN DER SCHULE",
-        "play_subtitle": "Burleske mit Gesang in 1 Acte",
-        "act": [],
-        "scene": [
-          "10te Scene"
-        ],
-        "bibl": "DIE SCHLIMMEN BUBEN IN DER SCHULE. Burleske mit Gesang in 1 Acte. 10te Scene."
-      },
-      {
-        "entity_id": "nestroy_place_id__155",
-        "play_id": "",
-        "lemma": "Wien",
-        "text_snipped": "Und sonst haben sie keine Schmerzen? Geh zu ihrem Oberpriester, er soll seinem Gott melden, der Holofernes is da, mit so einen Helden hat er's noch nie zu tun g'habt, da is in ganz <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Wien</span>, will ich sagen, in ganz Assyrien keiner, der mir 's Wasser reicht. Der Gesandte ab. Und ihr meine Getreuen folgt mir in den Kampf, man sattle mir das buckligste meiner Kamele, auf nach \u2013 nach \u2013 wie hei\u00dft das Nest \u2013?",
-        "play_title": "Judith und Holofernes",
-        "play_subtitle": "Travestie in einem Akt",
-        "act": [],
-        "scene": [
-          "Neunte Szene"
-        ],
-        "bibl": "Judith und Holofernes. Travestie in einem Akt. Neunte Szene."
       },
       {
         "entity_id": "nestroy_place_id__155",
@@ -2440,19 +2440,6 @@
         "entity_id": "nestroy_place_id__35",
         "play_id": "",
         "lemma": "Budweis",
-        "text_snipped": "\u2026 D Und wie hei\u00dfen sie? CHRISTOPH RIES in den Zettel blickend Chrudim, Bunzlau, Kaurzim, Czaslau, <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Budweis</span> \u2013 WAMPL Ungl\u00fccklicher halt ein!Zu FRANZWie ist denn der zu de \u2026",
-        "play_title": "DIE SCHLIMMEN BUBEN IN DER SCHULE",
-        "play_subtitle": "Burleske mit Gesang in 1 Acte",
-        "act": [],
-        "scene": [
-          "24te Scene"
-        ],
-        "bibl": "DIE SCHLIMMEN BUBEN IN DER SCHULE. Burleske mit Gesang in 1 Acte. 24te Scene."
-      },
-      {
-        "entity_id": "nestroy_place_id__35",
-        "play_id": "",
-        "lemma": "Budweis",
         "text_snipped": "\u2026 ch hab auch nichts als unverschuldete Ungl\u00fccksf\u00e4lle gehabt. In <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Budweis</span> hab ich mein Meistern g\u2019haut, weil er ein B\u00f6hm war.  \u2026",
         "play_title": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER",
         "play_subtitle": "Faschings-Posse in 3 Aufz\u00fcgen",
@@ -2463,6 +2450,19 @@
           "7te Scene"
         ],
         "bibl": "DER FEENBALL oder TISCHLER, SCHNEIDER UND SCHLOSSER. Faschings-Posse in 3 Aufz\u00fcgen. 1ster ACT, 7te Scene."
+      },
+      {
+        "entity_id": "nestroy_place_id__35",
+        "play_id": "",
+        "lemma": "Budweis",
+        "text_snipped": "\u2026 D Und wie hei\u00dfen sie? CHRISTOPH RIES in den Zettel blickend Chrudim, Bunzlau, Kaurzim, Czaslau, <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Budweis</span> \u2013 WAMPL Ungl\u00fccklicher halt ein!Zu FRANZWie ist denn der zu de \u2026",
+        "play_title": "DIE SCHLIMMEN BUBEN IN DER SCHULE",
+        "play_subtitle": "Burleske mit Gesang in 1 Acte",
+        "act": [],
+        "scene": [
+          "24te Scene"
+        ],
+        "bibl": "DIE SCHLIMMEN BUBEN IN DER SCHULE. Burleske mit Gesang in 1 Acte. 24te Scene."
       }
     ],
     "index_name": "Ceske Budejovice"
@@ -2922,6 +2922,21 @@
         "entity_id": "nestroy_place_id__58",
         "play_id": "",
         "lemma": "Graz",
+        "text_snipped": "Schmeichlerin! Da\u00df ich dir also weiter erz\u00e4hl' \u00fcber mein Schicksal. Die Zur\u00fccksto\u00dfung meines Herrn Vetters war nicht das einzige Bittere, was ich hab' dulden m\u00fcssen; ich hab' in dem Heiligtum der Lieb' mein Gl\u00fcck suchen wollen, aber die <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Graz</span>ien haben mich f\u00fcr geschmackswidrig erkl\u00e4rt; ich hab' in den Tempel der Freundschaft geguckt, aber die Freund' sind alle so witzig, da hat's Bonmots g'regnet auf mein'n Kopf, bis ich ihn auf ewige Zeiten zur\u00fcckgezogen hab'. So ist mir ohne Geld, ohne Lieb', ohne Freundschaft meine Umgebung unertr\u00e4glich word'n; da hab' ich alle Verh\u00e4ltnisse abg'streift, wie man einen wattierten Kaput auszieht in der Hitz', und jetzt steh' ich in den Hemd\u00e4rmeln der Freiheit da.",
+        "play_title": "Der Talisman",
+        "play_subtitle": "Posse mit Gesang in drei Aufz\u00fcgen",
+        "act": [
+          "Erster Aufzug"
+        ],
+        "scene": [
+          "Achter Auftritt"
+        ],
+        "bibl": "Der Talisman. Posse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Achter Auftritt."
+      },
+      {
+        "entity_id": "nestroy_place_id__58",
+        "play_id": "",
+        "lemma": "Graz",
         "text_snipped": "Dero joviale Lorgnette vergr\u00f6\u00dfert zu g\u00fctig \u2013 wenn s' ein' Zoll <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Graz</span>ie find't, macht s' gleich eine Klafter Venus draus.",
         "play_title": "Der Unbedeutende",
         "play_subtitle": "Posse mit Gesang in drei Akten",
@@ -2947,21 +2962,6 @@
           "Siebenter Auftritt"
         ],
         "bibl": "Das M\u00e4dl aus der Vorstadt oder Ehrlich w\u00e4hrt am l\u00e4ngsten. Posse in drei Aufz\u00fcgen. Zweiter Aufzug, Siebenter Auftritt."
-      },
-      {
-        "entity_id": "nestroy_place_id__58",
-        "play_id": "",
-        "lemma": "Graz",
-        "text_snipped": "Schmeichlerin! Da\u00df ich dir also weiter erz\u00e4hl' \u00fcber mein Schicksal. Die Zur\u00fccksto\u00dfung meines Herrn Vetters war nicht das einzige Bittere, was ich hab' dulden m\u00fcssen; ich hab' in dem Heiligtum der Lieb' mein Gl\u00fcck suchen wollen, aber die <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Graz</span>ien haben mich f\u00fcr geschmackswidrig erkl\u00e4rt; ich hab' in den Tempel der Freundschaft geguckt, aber die Freund' sind alle so witzig, da hat's Bonmots g'regnet auf mein'n Kopf, bis ich ihn auf ewige Zeiten zur\u00fcckgezogen hab'. So ist mir ohne Geld, ohne Lieb', ohne Freundschaft meine Umgebung unertr\u00e4glich word'n; da hab' ich alle Verh\u00e4ltnisse abg'streift, wie man einen wattierten Kaput auszieht in der Hitz', und jetzt steh' ich in den Hemd\u00e4rmeln der Freiheit da.",
-        "play_title": "Der Talisman",
-        "play_subtitle": "Posse mit Gesang in drei Aufz\u00fcgen",
-        "act": [
-          "Erster Aufzug"
-        ],
-        "scene": [
-          "Achter Auftritt"
-        ],
-        "bibl": "Der Talisman. Posse mit Gesang in drei Aufz\u00fcgen. Erster Aufzug, Achter Auftritt."
       }
     ],
     "index_name": "Graz"
@@ -3755,6 +3755,19 @@
         "entity_id": "nestroy_term_id_62",
         "play_id": "",
         "lemma": "Europa",
+        "text_snipped": "Glanz nur e m p f a n g e n wird von diesem Haupt <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Europa</span>s erste Krone, nicht ihm g e b e n. Nehmt mein F\u00fcrstenwort, es b\u00fcrge Euch f\u00fcr Theodors und f\u00fcr der Korsen freudigen Empfang, und sprach die sch\u00f6ne Wallung, die mich erst beseligt, wahr, so d\u00fcrfen diese Rosenlippen nicht den Verlobungsku\u00df verschm\u00e4h\u2019n, mit dem der Erbe des Kors\u2019schen Throns auf ewig sich der holden Braut verbindet.",
+        "play_title": "PRINZ FRIEDRICH",
+        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
+        "act": [
+          "ZWEITER AKT"
+        ],
+        "scene": [],
+        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. ZWEITER AKT."
+      },
+      {
+        "entity_id": "nestroy_term_id_62",
+        "play_id": "",
+        "lemma": "Europa",
         "text_snipped": "So einen Eigensinn, wie die hat, den find't man nicht in alle f\u00fcnf Weltteil', nicht in <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Europa</span>, Amerika, Asina, Afrika und Paprika.",
         "play_title": "Eulenspiegel oder Schabernack \u00fcber Schabernack",
         "play_subtitle": "Posse mit Gesang in vier Akten",
@@ -3770,16 +3783,16 @@
         "entity_id": "nestroy_term_id_62",
         "play_id": "",
         "lemma": "Europa",
-        "text_snipped": "\u2026 er \u2013 DIE FRAUEN. Himmel, wie wird das werden? FRAU PEMPERL. Wann meinem Mann was g'schieht, so kehr' ich ganz <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Europa</span> um. Die Musik wird st\u00e4rker und geht in folgenden Chor \u00fcber. \u2026",
-        "play_title": "Freiheit in Kr\u00e4hwinkel",
-        "play_subtitle": "Posse mit Gesang in zwei Abteilungen und drei Aufz\u00fcgen",
+        "text_snipped": "\u2026 netrunken und stolz sich mit einer Hand am Tische st\u00fctzend. Associ\u00e9! \u2013 Hast du's geh\u00f6rt, Gremium von <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Europa</span>! ich bin Associ\u00e9! CHRISTOPH. Unser Herr heirat, Sie wer'n Kompagnon, nachher  \u2026",
+        "play_title": "Einen Jux will er sich machen",
+        "play_subtitle": "Posse mit Gesang in vier Aufz\u00fcgen",
         "act": [
-          "Zweiter Aufzug"
+          "Erster Aufzug"
         ],
         "scene": [
-          "Zw\u00f6lfter Auftritt"
+          "Dreizehnter Auftritt"
         ],
-        "bibl": "Freiheit in Kr\u00e4hwinkel. Posse mit Gesang in zwei Abteilungen und drei Aufz\u00fcgen. Zweiter Aufzug, Zw\u00f6lfter Auftritt."
+        "bibl": "Einen Jux will er sich machen. Posse mit Gesang in vier Aufz\u00fcgen. Erster Aufzug, Dreizehnter Auftritt."
       },
       {
         "entity_id": "nestroy_term_id_62",
@@ -3793,6 +3806,21 @@
           "5te Scene"
         ],
         "bibl": "DIE SCHLIMMEN BUBEN IN DER SCHULE. Burleske mit Gesang in 1 Acte. 5te Scene."
+      },
+      {
+        "entity_id": "nestroy_term_id_62",
+        "play_id": "",
+        "lemma": "Europa",
+        "text_snipped": "\u2026 er \u2013 DIE FRAUEN. Himmel, wie wird das werden? FRAU PEMPERL. Wann meinem Mann was g'schieht, so kehr' ich ganz <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Europa</span> um. Die Musik wird st\u00e4rker und geht in folgenden Chor \u00fcber. \u2026",
+        "play_title": "Freiheit in Kr\u00e4hwinkel",
+        "play_subtitle": "Posse mit Gesang in zwei Abteilungen und drei Aufz\u00fcgen",
+        "act": [
+          "Zweiter Aufzug"
+        ],
+        "scene": [
+          "Zw\u00f6lfter Auftritt"
+        ],
+        "bibl": "Freiheit in Kr\u00e4hwinkel. Posse mit Gesang in zwei Abteilungen und drei Aufz\u00fcgen. Zweiter Aufzug, Zw\u00f6lfter Auftritt."
       },
       {
         "entity_id": "nestroy_term_id_62",
@@ -3838,34 +3866,6 @@
           "27ste Scene"
         ],
         "bibl": "ZWEY EWIGE JUDEN UND KEINER. Burleske in 2 Acten. I. ACT, 27ste Scene."
-      },
-      {
-        "entity_id": "nestroy_term_id_62",
-        "play_id": "",
-        "lemma": "Europa",
-        "text_snipped": "Glanz nur e m p f a n g e n wird von diesem Haupt <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Europa</span>s erste Krone, nicht ihm g e b e n. Nehmt mein F\u00fcrstenwort, es b\u00fcrge Euch f\u00fcr Theodors und f\u00fcr der Korsen freudigen Empfang, und sprach die sch\u00f6ne Wallung, die mich erst beseligt, wahr, so d\u00fcrfen diese Rosenlippen nicht den Verlobungsku\u00df verschm\u00e4h\u2019n, mit dem der Erbe des Kors\u2019schen Throns auf ewig sich der holden Braut verbindet.",
-        "play_title": "PRINZ FRIEDRICH",
-        "play_subtitle": "Historisch-romantisches Drama in f\u00fcnf Akten",
-        "act": [
-          "ZWEITER AKT"
-        ],
-        "scene": [],
-        "bibl": "PRINZ FRIEDRICH. Historisch-romantisches Drama in f\u00fcnf Akten. ZWEITER AKT."
-      },
-      {
-        "entity_id": "nestroy_term_id_62",
-        "play_id": "",
-        "lemma": "Europa",
-        "text_snipped": "\u2026 netrunken und stolz sich mit einer Hand am Tische st\u00fctzend. Associ\u00e9! \u2013 Hast du's geh\u00f6rt, Gremium von <span class=\"bg-gray-300 px-2 py-1 rounded-lg\">Europa</span>! ich bin Associ\u00e9! CHRISTOPH. Unser Herr heirat, Sie wer'n Kompagnon, nachher  \u2026",
-        "play_title": "Einen Jux will er sich machen",
-        "play_subtitle": "Posse mit Gesang in vier Aufz\u00fcgen",
-        "act": [
-          "Erster Aufzug"
-        ],
-        "scene": [
-          "Dreizehnter Auftritt"
-        ],
-        "bibl": "Einen Jux will er sich machen. Posse mit Gesang in vier Aufz\u00fcgen. Erster Aufzug, Dreizehnter Auftritt."
       }
     ],
     "index_name": "Europa"
