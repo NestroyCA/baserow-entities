@@ -17,9 +17,11 @@ jobs:
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v3
-      - name: Install Python Packages
+      - name: allow pip to go crazy
         run:
           python -m pip config set global.break-system-packages true
+      - name: Install Python Packages
+        run:
           pip install -r requirements.txt
       - name: fetch lemmas in context
         run: |
