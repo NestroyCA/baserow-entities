@@ -18,7 +18,9 @@ jobs:
       - name: Perfom Checkout
         uses: actions/checkout@v3
       - name: Install Python Packages
-        run: pip install -r requirements.txt
+        run:
+          python -m pip config set global.break-system-packages true
+          pip install -r requirements.txt
       - name: fetch lemmas in context
         run: |
           ./fetch_lemmas.sh $GITHUB_USER_TOKEN
